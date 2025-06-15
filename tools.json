@@ -5,7 +5,7 @@
         "name_cn": "Phaser引擎測試區",
         "icon": "fas fa-tools",
         "description": "測試最新功能的區域。",
-        "link": "/phaser-test-ground"
+        "link": "phaser-test-ground"
     },
     {
         "id": 2,
@@ -13,6 +13,6 @@
         "name_cn": "二維碼生成器",
         "icon": "fas fa-qrcode",
         "description": "支援生成特大二維碼。",
-        "link": "/qr"
+        "link": "qr"
     }
 ]
