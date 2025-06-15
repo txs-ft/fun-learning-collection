@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name_en": "Pronunciation Master",
+        "name_cn": "发音大师",
+        "icon": "fas fa-microphone-alt",
+        "description": "通过AI语音识别技术，实时分析并纠正您的英语发音，提供专业反馈和改进建议。",
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "name_en": "Vocab Builder",
+        "name_cn": "词汇构建器",
+        "icon": "fas fa-book-open",
+        "description": "基于记忆曲线的智能词汇学习系统，个性化定制您的词汇学习计划，高效扩展词汇量。",
+        "link": "#"
+    },
+    {
+        "id": 3,
+        "name_en": "Dialogue Simulator",
+        "name_cn": "对话模拟器",
+        "icon": "fas fa-comments",
+        "description": "沉浸式英语对话练习，多种真实场景选择，AI对话伙伴随时陪练，提升口语流利度。",
+        "link": "#"
+    },
+    {
+        "id": 4,
+        "name_en": "Grammar Quest",
+        "name_cn": "语法探索",
+        "icon": "fas fa-gamepad",
+        "description": "游戏化语法学习平台，通过趣味挑战和关卡设计，轻松掌握复杂英语语法规则。",
+        "link": "#"
+    },
+    {
+        "id": 5,
+        "name_en": "Listening Lab",
+        "name_cn": "听力实验室",
+        "icon": "fas fa-headphones",
+        "description": "自适应听力训练系统，根据您的水平调整语速和难度，提供实时字幕和词汇解释。",
+        "link": "#"
+    },
+    {
+        "id": 6,
+        "name_en": "Writing Assistant",
+        "name_cn": "写作助手",
+        "icon": "fas fa-pen-fancy",
+        "description": "智能英语写作辅导工具，提供语法检查、句式优化建议和高级词汇替换功能。",
+        "link": "#"
+    }
+]
