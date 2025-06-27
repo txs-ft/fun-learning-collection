@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>字塊遊樂場 | Text Block Playground</title>
+  <script type="module" crossorigin src="./assets/index-gI4eLGrF.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-B6javOzu.css">
+</head>
+<body>
+    <div class="grid-lines"></div>
+    <div class="scan-line"></div>
+    <div class="glow-particles"></div>
+    <div class="center-glow"></div>
+    <div id="game-container" class="game-container">
+        <!--canvas會在此處出現-->
+    </div>
+    <div id="game-ui" class="game-ui">
+        <button id="btnCreate">+</button>
+        <button id="btnReset">↺</button>
+        <button id="btnCopy">✨</button>
+        <div id="divCreate" class="hidden">
+            <h3>請將字塊零件黏貼於此，零件之間以「|」相隔。</h3>
+            <textarea id="divCreate_textAreaNew">The quick brown fox | jumps | over | the lazy dog | .</textarea>
+            <div id="divButtons">
+                <button id="divCreate_btnCreate">✔</button>
+                <button id="divCreate_btnClear">🗑️</button>
+                <button id="divCreate_btnPaste">📋</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script>
+    <script>
+    // VConsole will be exported to `window.VConsole` by default.
+    var vConsole = new window.VConsole();
+    </script>
+</body>
+</html>

@@ -9,10 +9,19 @@
     },
     {
         "id": 2,
+        "name_en": "Text Block Playground",
+        "name_cn": "字塊遊樂場",
+        "icon": "fa fa-th-large",
+        "description": "拖曳字塊助你組成句子。",
+        "link": "draft-ground?parts=This%7cis%7ca%7csentence%7c."
+    },
+    {
+        "id": 3,
         "name_en": "QR Code Generator",
         "name_cn": "二維碼生成器",
         "icon": "fas fa-qrcode",
         "description": "支援生成特大二維碼。",
         "link": "qr"
     }
+    
 ]

@@ -1,0 +1,26 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <button id="btn_play">Play!</button>
+    <script>
+      // 文本转语音函数
+      function speak(text, lang = 'en-US') {
+        if ('speechSynthesis' in window) {
+          const utterance = new SpeechSynthesisUtterance(text);
+          utterance.lang = lang; // 设置语言（英文）
+          utterance.rate = 1.0; // 语速 (0.1~10)
+          utterance.pitch = 1.0; // 音调 (0~2)
+          window.speechSynthesis.speak(utterance);
+        } else {
+          console.error("Browser doesn't support Text-to-Speech");
+        }
+      }
+
+      document.getElementById("btn_play").addEventListener("click", ()=> {
+        speak("Hello world!");
+      });
+
+    </script>
+  </body>
+</html>
