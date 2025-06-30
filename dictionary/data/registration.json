@@ -1,0 +1,62 @@
+{
+  "title": "registration",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌredʒ.ɪˈstreɪ.ʃən/",
+        "us": "/ˌredʒ.əˈstreɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌredʒ.ɪˈstreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukreg/ukregen020.mp3"
+        },
+        "us": {
+          "ipa": "/ˌredʒ.əˈstreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/reg/regis/registration.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LIST",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the act of recording a name or information on an official list",
+                "cn": "登记;注册;挂号"
+              },
+              "examples": [
+                {
+                  "en": "voter registration",
+                  "cn": "选民登记"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAR",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the official set of numbers and letters shown on the front and back of a road vehicle",
+                "cn": "（机动车辆的）牌照号码，登记号码"
+              },
+              "examples": [
+                {
+                  "en": "Police are looking for a small blue car with the registration number B34-ACS.",
+                  "cn": "警方正在查找一辆小型蓝色轿车，车牌号为 B34-ACS。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

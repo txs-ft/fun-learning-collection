@@ -1,0 +1,48 @@
+{
+  "title": "multiply",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈmʌl.tɪ.plaɪ/",
+        "us": "/ˈmʌl.tə.plaɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmʌl.tɪ.plaɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmul/ukmulli015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmʌl.tə.plaɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73129.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to increase, or to increase something, very much in number",
+                "cn": "大幅增加；乘，使相乘"
+              },
+              "examples": [
+                {
+                  "en": "Alzheimer's Disease affects more than 4 million Americans today, and the number is expected to multiply rapidly as the population ages.",
+                  "cn": ""
+                },
+                {
+                  "en": "Major publishers are multiplying the number of titles offered in digital form.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

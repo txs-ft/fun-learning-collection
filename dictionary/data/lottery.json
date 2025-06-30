@@ -1,0 +1,52 @@
+{
+  "title": "lottery",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈlɒt.ər.i/",
+        "us": "/ˈlɑː.t̬ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlɒt.ər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukloo/ukloose024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlɑː.t̬ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lot/lotte/lottery.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a game, often organized by the state or a charity in order to make money, in which tickets with numbers are sold to people who then have a chance of winning a prize if their number is chosen",
+                "cn": "抽彩，抽奖"
+              },
+              "examples": []
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "something that depends only on luck and is not fair",
+                "cn": "运气，碰运气的事"
+              },
+              "examples": [
+                {
+                  "en": "Education in England is something of a lottery.",
+                  "cn": "在英格兰接受教育有点儿像碰运气。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

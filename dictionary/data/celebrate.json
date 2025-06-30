@@ -1,0 +1,84 @@
+{
+  "title": "celebrate",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈsel.ə.breɪt/",
+        "us": "/ˈsel.ə.breɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsel.ə.breɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcel/ukceleb001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsel.ə.breɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cel/celeb/celebrate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ENJOY AN OCCASION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to take part in special enjoyable activities in order to show that a particular occasion is important",
+                "cn": "庆祝，庆贺;祝贺"
+              },
+              "examples": [
+                {
+                  "en": "We always celebrate our wedding anniversary by going out to dinner.",
+                  "cn": "每年的结婚纪念日我们都出去吃饭庆祝。"
+                },
+                {
+                  "en": "If this plan works, we'll celebrate in style (= in a special way).",
+                  "cn": "要是这个计划奏效，我们就隆重地庆贺一下。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRAISE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to express admiration and approval for something or someone",
+                "cn": "赞扬，赞美;歌颂"
+              },
+              "examples": [
+                {
+                  "en": "His work celebrates the energy and enthusiasm of the young.",
+                  "cn": "他的作品赞颂年轻人的活力和热情。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LEAD A CEREMONY",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to lead a religious ceremony",
+                "cn": "主持（宗教仪式）"
+              },
+              "examples": [
+                {
+                  "en": "to celebrate Mass",
+                  "cn": "主持弥撒"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

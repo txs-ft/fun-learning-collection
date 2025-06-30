@@ -1,0 +1,64 @@
+{
+  "title": "quantity",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkwɒn.tə.ti/",
+        "us": "/ˈkwɑːn.t̬ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkwɒn.tə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukq/ukqua/ukquali019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkwɑːn.t̬ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73803.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the amount or number of something, especially that can be measured",
+                "cn": "（尤指可测量或确定的）量，数量，分量"
+              },
+              "examples": [
+                {
+                  "en": "Police found a large/small quantity of drugs in his possession.",
+                  "cn": "警方发现他携带大／少量毒品。"
+                },
+                {
+                  "en": "We consumed vast quantities of food and drink that night.",
+                  "cn": "那天晚上我们大吃大喝了一通。"
+                },
+                {
+                  "en": "The (sheer) quantity (= large amount) of equipment needed for the trip is staggering.",
+                  "cn": "这次旅行所需的装备之多令人惊愕。"
+                },
+                {
+                  "en": "They are now developing ways to produce the vaccine in large quantities and cheaply.",
+                  "cn": "目前他们正在研究大批量廉价生产这种疫苗的方法。"
+                },
+                {
+                  "en": "This recipe is only for four, so I usually double the quantity if I'm cooking for my family.",
+                  "cn": "这一菜谱的量只够4个人吃，所以我在为全家人烧菜时通常会做双倍的量。"
+                },
+                {
+                  "en": "It's quality not quantity that really counts.",
+                  "cn": "真正重要的是质量而非数量。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

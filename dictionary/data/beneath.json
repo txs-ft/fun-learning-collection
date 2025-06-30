@@ -1,0 +1,113 @@
+{
+  "title": "beneath",
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "pron": {
+        "uk": "/bɪˈniːθ/",
+        "us": "/bɪˈniːθ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbel/ukbelly021.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70505.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BELOW",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in or to a lower position than someone or something, under someone or something",
+                "cn": "在（或往）…下面；在（或往）…下方"
+              },
+              "examples": [
+                {
+                  "en": "Jaime hid the letter beneath a pile of papers.",
+                  "cn": "海梅把信藏在一叠文件下面。"
+                },
+                {
+                  "en": "We huddled together for warmth beneath the blankets.",
+                  "cn": "我们裹着毛毯挤在一起取暖。"
+                },
+                {
+                  "en": "After weeks at sea, it was wonderful to feel firm ground beneath our feet once more.",
+                  "cn": "在海上呆了几星期之后，脚下再次接触坚实土地的感觉真棒。"
+                },
+                {
+                  "en": "Emma was so tired and hungry that her legs were beginning to give way beneath her (= she was about to fall over).",
+                  "cn": "埃玛又累又饿，双腿已经开始发软了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT GOOD ENOUGH",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to not be good enough for someone:",
+                "cn": "他觉得做任何办公室的工作都有失他的身份。"
+              },
+              "examples": [
+                {
+                  "en": "Office work of any description he felt was beneath him.",
+                  "cn": "他觉得做任何办公室的工作都有失他的身份。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adverb",
+      "pron": {
+        "uk": "/bɪˈniːθ/",
+        "us": "/bɪˈniːθ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbel/ukbelly021.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70505.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "below",
+                "cn": "在下面"
+              },
+              "examples": [
+                {
+                  "en": "She looked out of the window at the children playing beneath.",
+                  "cn": "她透过窗户看着孩子们在下面玩耍。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

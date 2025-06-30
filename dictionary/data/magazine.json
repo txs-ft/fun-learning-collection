@@ -1,0 +1,77 @@
+{
+  "title": "magazine",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌmæɡ.əˈziːn/",
+        "us": "/ˌmæɡ.əˈziːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌmæɡ.əˈziːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmad/ukmade_009.mp3"
+        },
+        "us": {
+          "ipa": "/ˌmæɡ.əˈziːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mag/magaz/magazine.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BOOK",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a type of thin book with large pages and a paper cover that contains articles and photographs and is published every week or month",
+                "cn": "杂志，期刊"
+              },
+              "examples": [
+                {
+                  "en": "She has written articles for several women's magazines.",
+                  "cn": "她为几家女性杂志撰稿。"
+                },
+                {
+                  "en": "a glossy magazine",
+                  "cn": "用有光纸印刷的杂志"
+                },
+                {
+                  "en": "men's mags",
+                  "cn": "男性杂志"
+                },
+                {
+                  "en": "a magazine rack",
+                  "cn": "期刊架"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GUNS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a part of a gun in which cartridges are stored",
+                "cn": "（枪的）弹仓，弹盒"
+              },
+              "examples": []
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a building in which explosives, weapons, and supplies are kept",
+                "cn": "军火库，军械库"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

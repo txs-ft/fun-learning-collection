@@ -1,0 +1,83 @@
+{
+  "title": "jealous",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈdʒel.əs/",
+        "us": "/ˈdʒel.əs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒel.əs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjau/ukjaund021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʒel.əs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jea/jealo/jealous.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "UNHAPPY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "upset and angry because someone that you love seems interested in another person",
+                "cn": "妒忌的；好妒忌的；吃醋的"
+              },
+              "examples": [
+                {
+                  "en": "a jealous husband/wife",
+                  "cn": "吃醋的丈夫／妻子"
+                },
+                {
+                  "en": "Anna says she feels jealous every time another woman looks at her boyfriend.",
+                  "cn": "安娜说每次别的女人看她的男朋友她都会感到妒忌。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "unhappy and angry because someone has something that you want",
+                "cn": "嫉妒的"
+              },
+              "examples": [
+                {
+                  "en": "He had always been very jealous of his brother's good looks.",
+                  "cn": "他兄弟的外貌总是让他嫉妒。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAREFUL",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "extremely careful in protecting someone or something",
+                "cn": "小心守护的，唯恐失去的"
+              },
+              "examples": [
+                {
+                  "en": "She is very jealous of her independence, and doesn't want to get married.",
+                  "cn": "她很珍惜自己的自由，不想结婚。"
+                },
+                {
+                  "en": "Her parents used to keep a jealous watch over her when she was young.",
+                  "cn": "她小时候父母一直小心呵护她。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

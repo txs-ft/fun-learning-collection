@@ -1,0 +1,79 @@
+{
+  "title": "organization",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/",
+        "us": "/ˌɔːr.ɡən.əˈzeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukord/ukordin009.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɔːr.ɡən.əˈzeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75291.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a group of people who work together in an organized way for a shared purpose",
+                "cn": "组织，机构"
+              },
+              "examples": [
+                {
+                  "en": "the World Health Organization",
+                  "cn": "世界卫生组织"
+                },
+                {
+                  "en": "The article was about international aid organizations.",
+                  "cn": "这篇文章是关于国际援助组织的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ARRANGEMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the planning of an activity or event",
+                "cn": "组织，筹划（活动等）"
+              },
+              "examples": [
+                {
+                  "en": "He didn't want to be involved in the organization of/for the conference, although he was willing to attend and speak.",
+                  "cn": "他不想参与大会的组织筹备工作，不过他愿意出席会议并发言。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SYSTEM",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "the way in which something is done or arranged",
+                "cn": "安排，配置"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 3
+    }
+  ]
+}

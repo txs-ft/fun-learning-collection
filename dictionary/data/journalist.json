@@ -1,0 +1,44 @@
+{
+  "title": "journalist",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈdʒɜː.nə.lɪst/",
+        "us": "/ˈdʒɝː.nə.lɪst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒɜː.nə.lɪst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjol/ukjolli019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʒɝː.nə.lɪst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jou/journ/journalist.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person who writes news stories or articles for a newspaper or magazine or broadcasts them on radio or television",
+                "cn": "新闻记者;报纸撰稿人;广播员"
+              },
+              "examples": [
+                {
+                  "en": "a freelance political journalist",
+                  "cn": "政论文章自由撰稿人"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "fortunate",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈfɔː.tʃən.ət/",
+        "us": "/ˈfɔːr.tʃən.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfɔː.tʃən.ət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfor/ukfortn006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfɔːr.tʃən.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/for/fortu/fortunate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "lucky",
+                "cn": "幸运的"
+              },
+              "examples": [
+                {
+                  "en": "You're very fortunate to have found such a nice house.",
+                  "cn": "你能找到这么一栋漂亮的房子真是非常幸运。"
+                },
+                {
+                  "en": "He was fortunate in his choice of assistant.",
+                  "cn": "他很幸运，选择了一位好助手。"
+                },
+                {
+                  "en": "It was fortunate that they had set out early because the traffic was terrible.",
+                  "cn": "幸运的是他们出发得很早，因为交通状况实在太糟了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

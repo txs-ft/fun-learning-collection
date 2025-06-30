@@ -1,0 +1,56 @@
+{
+  "title": "explanation",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌek.spləˈneɪ.ʃən/",
+        "us": "/ˌek.spləˈneɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌek.spləˈneɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukexp/ukexper017.mp3"
+        },
+        "us": {
+          "ipa": "/ˌek.spləˈneɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/exp/expla/explanation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the details or reasons that someone gives to make something clear or easy to understand",
+                "cn": "解释；说明；给出的原因"
+              },
+              "examples": [
+                {
+                  "en": "Could you give me a quick explanation of how it works?",
+                  "cn": "你能给我简要说明一下它的工作原理吗？"
+                },
+                {
+                  "en": "What was her explanation for why she was late?",
+                  "cn": "她是如何解释她迟到的原因的？"
+                },
+                {
+                  "en": "The judge didn't believe his explanation that he had stolen the money in order to give it to charity.",
+                  "cn": "他辩解说偷钱是为了捐给慈善机构，但是法官并不相信。"
+                },
+                {
+                  "en": "He said, by way of explanation, that he hadn't seen the traffic light change to red.",
+                  "cn": "他解释说他没有看到红灯亮了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

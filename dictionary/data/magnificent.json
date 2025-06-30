@@ -1,0 +1,52 @@
+{
+  "title": "magnificent",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/mæɡˈnɪf.ɪ.sənt/",
+        "us": "/mæɡˈnɪf.ə.sənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/mæɡˈnɪf.ɪ.sənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmad/ukmade_029.mp3"
+        },
+        "us": {
+          "ipa": "/mæɡˈnɪf.ə.sənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mag/magni/magnificent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very good, beautiful, or deserving to be admired",
+                "cn": "极好的;壮丽的;令人羡慕的"
+              },
+              "examples": [
+                {
+                  "en": "a magnificent view",
+                  "cn": "壮丽的景色"
+                },
+                {
+                  "en": "a magnificent piece of writing",
+                  "cn": "文笔出众的杰作"
+                },
+                {
+                  "en": "They live in a magnificent Tudor house.",
+                  "cn": "他们住在一座都铎时代的豪宅内。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

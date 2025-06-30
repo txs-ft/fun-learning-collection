@@ -1,0 +1,92 @@
+{
+  "title": "literature",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈlɪt.rə.tʃər/",
+        "us": "/ˈlɪt̬.ɚ.ə.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlɪt.rə.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklis/uklisp_021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlɪt̬.ɚ.ə.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72803.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WRITING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "written artistic works, especially those with a high and lasting artistic value",
+                "cn": "文学；（尤指有传世价值的）文学作品"
+              },
+              "examples": [
+                {
+                  "en": "classical/modern literature",
+                  "cn": "古典／现代文学"
+                },
+                {
+                  "en": "\"Wuthering Heights\" is a classic of English literature.",
+                  "cn": "《呼啸山庄》是一部经典的英国文学作品。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPECIALIST TEXTS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "all the information relating to a subject, especially information written by experts",
+                "cn": "文献，文献资料"
+              },
+              "examples": [
+                {
+                  "en": "It's important to keep up-to-date with the literature in your field.",
+                  "cn": "跟踪阅读自己专业的最新文献非常重要。"
+                },
+                {
+                  "en": "There is very little literature on the disease.",
+                  "cn": "关于这种疾病的文献资料很少。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INFORMATION",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "printed material published by a company that is intended to encourage people to buy that company's products or services; material that an organization publishes in order to persuade people to agree with its opinions",
+                "cn": "（公司的）宣传资料，产品简介，服务项目介绍"
+              },
+              "examples": [
+                {
+                  "en": "Could you send me your literature on/about car insurance policies, please?",
+                  "cn": "请给我寄一份贵公司汽车保险方面的资料好吗？"
+                },
+                {
+                  "en": "The Republicans were quick to highlight the Democrats' proposed tax increases in their campaign literature.",
+                  "cn": "共和党不失时机地在其竞选宣传材料中强调了民主党提议增税的情况。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

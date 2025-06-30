@@ -1,0 +1,74 @@
+{
+  "title": "incredible",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ɪnˈkred.ə.bəl/",
+        "us": "/ɪnˈkred.ə.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˈkred.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukinc/ukincor014.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˈkred.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/inc/incre/incredible.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DIFFICULT TO BELIEVE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "impossible, or very difficult, to believe",
+                "cn": "难以置信的"
+              },
+              "examples": [
+                {
+                  "en": "an incredible story",
+                  "cn": "令人难以置信的故事"
+                },
+                {
+                  "en": "The latest missiles can be fired with incredible accuracy.",
+                  "cn": "最新型导弹的准确率高得令人难以置信。"
+                },
+                {
+                  "en": "It seems incredible that no one foresaw the crisis.",
+                  "cn": "令人难以置信的是没有人预见到危机会发生。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXTREME",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely good",
+                "cn": "极好的"
+              },
+              "examples": [
+                {
+                  "en": "Yeah, it was an incredible performance.",
+                  "cn": "对，这是一场非常出色的表演。"
+                },
+                {
+                  "en": "What an incredible motorbike!",
+                  "cn": "多棒的摩托车啊！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

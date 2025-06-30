@@ -1,0 +1,86 @@
+{
+  "title": "reality",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/riˈæl.ə.ti/",
+        "us": "/riˈæl.ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/riˈæl.ə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrea/ukreadi018.mp3"
+        },
+        "us": {
+          "ipa": "/riˈæl.ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73852.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the state of things as they are, rather than as they are imagined to be",
+                "cn": "现实；实际情况"
+              },
+              "examples": [
+                {
+                  "en": "The reality of the situation is that unless we find some new funding soon, the youth centre will have to close.",
+                  "cn": "现实情况是，如果我们不能马上再筹到一些资金，青少年中心就得关门。"
+                },
+                {
+                  "en": "He escaped from reality by going to the cinema every afternoon.",
+                  "cn": "他每天下午都去电影院看电影，借此来逃避现实。"
+                },
+                {
+                  "en": "He seemed very young, but he was in reality (= in fact) older than all of us.",
+                  "cn": "他看上去很年轻，可实际上他比我们所有人年龄都大。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a fact",
+                "cn": "事实；真实"
+              },
+              "examples": [
+                {
+                  "en": "The book confronts the harsh social and political realities of the world today.",
+                  "cn": "这本书直面当今世界残酷的社会和政治现实。"
+                },
+                {
+                  "en": "Her childhood ambition became a reality (= happened in fact) when she was made a judge.",
+                  "cn": "她被任命为法官，儿时的抱负终于成为了现实。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "television programmes about ordinary people who are filmed in real situations, rather than actors",
+                "cn": "真人秀"
+              },
+              "examples": [
+                {
+                  "en": "There's too much reality on TV.",
+                  "cn": "电视上的真人秀节目太多了。"
+                },
+                {
+                  "en": "She's famous as a reality star.",
+                  "cn": "她是从真人秀里出名的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

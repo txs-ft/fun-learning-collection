@@ -1,0 +1,114 @@
+{
+  "title": "development",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/dɪˈvel.əp.mənt/",
+        "us": "/dɪˈvel.əp.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈvel.əp.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdet/ukdetou024.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈvel.əp.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dev/devel/development.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GROWTH",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the process in which someone or something grows or changes and becomes more advanced",
+                "cn": "成长，发育；发展"
+              },
+              "examples": [
+                {
+                  "en": "healthy growth and development",
+                  "cn": "健康的成长发育"
+                },
+                {
+                  "en": "The documentary traced the development of popular music through the ages.",
+                  "cn": "这部纪录片回顾了各个年代流行音乐的发展历程。"
+                },
+                {
+                  "en": "The region suffers from under-/over-development (= having too little/much industry).",
+                  "cn": "该地区苦于发展不足／过度。"
+                },
+                {
+                  "en": "a development project (= one to help improve industry) in Pakistan",
+                  "cn": "旨在促进巴基斯坦工业发展的开发项目"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THING THAT HAPPENS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a recent event that is the latest in a series of related events",
+                "cn": "动态，进展"
+              },
+              "examples": [
+                {
+                  "en": "an important development in the fuel crisis",
+                  "cn": "燃料危机中的一个重要进展"
+                },
+                {
+                  "en": "Call me if there are any new developments.",
+                  "cn": "如果有什么新动态就给我打电话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "START",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the process of developing something new",
+                "cn": "开发，研制"
+              },
+              "examples": [
+                {
+                  "en": "Mr Berkowitz is in charge of product development.",
+                  "cn": "伯克维茨先生负责产品开发。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUILDINGS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an area on which new buildings are built in order to make a profit",
+                "cn": "开发的房地产"
+              },
+              "examples": [
+                {
+                  "en": "a housing development",
+                  "cn": "新建住宅区"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

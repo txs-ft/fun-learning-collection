@@ -1,0 +1,44 @@
+{
+  "title": "rainforest",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈreɪn.fɒr.ɪst/",
+        "us": "/ˈreɪn.fɔːr.ɪst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈreɪn.fɒr.ɪst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcld/ukcld01165.mp3"
+        },
+        "us": {
+          "ipa": "/ˈreɪn.fɔːr.ɪst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usc/uscld/uscld01165.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a forest in a tropical area that receives a lot of rain",
+                "cn": "热带雨林"
+              },
+              "examples": [
+                {
+                  "en": "a tropical rainforest",
+                  "cn": "一片热带雨林"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

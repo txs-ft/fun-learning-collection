@@ -1,0 +1,52 @@
+{
+  "title": "terrified",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈter.ə.faɪd/",
+        "us": "/ˈter.ə.faɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈter.ə.faɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukter/uktermi020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈter.ə.faɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/ter/terri/terrified.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very frightened",
+                "cn": "非常害怕的，极度恐惧的"
+              },
+              "examples": [
+                {
+                  "en": "He huddled in the corner like a terrified child.",
+                  "cn": "他像个受惊过度的小孩一样蜷缩在角落里。"
+                },
+                {
+                  "en": "I'm terrified of the dark.",
+                  "cn": "我很怕黑。"
+                },
+                {
+                  "en": "She's terrified (that) her mother might find out her secret.",
+                  "cn": "她很怕母亲发现她的秘密。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

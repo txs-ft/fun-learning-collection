@@ -1,0 +1,248 @@
+{
+  "title": "style",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/staɪl/",
+        "us": "/staɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/staɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksti/ukstick017.mp3"
+        },
+        "us": {
+          "ipa": "/staɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sty/style/style.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WAY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a way of doing something, especially one that is typical of a person, group of people, place, or period",
+                "cn": "做事方式；（尤指）风格，作风"
+              },
+              "examples": [
+                {
+                  "en": "Jones favours a dynamic, hands-on style of management.",
+                  "cn": "琼斯喜欢那种充满活力、事事亲历亲为的管理风格。"
+                },
+                {
+                  "en": "His office is very utilitarian in style, with no decoration.",
+                  "cn": "他的办公室在风格上讲究实用，没有任何装饰。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be the type of thing that you would do",
+                "cn": "是（某人）的做法；是（某人）的作风"
+              },
+              "examples": [
+                {
+                  "en": "He wouldn't try to mislead you - it's not his style.",
+                  "cn": "他不会有意误导你的——他不是那种人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FASHION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "fashion, especially in clothing",
+                "cn": "（尤指服装上的）风尚，潮流，流行式样"
+              },
+              "examples": [
+                {
+                  "en": "a style consultant",
+                  "cn": "时装顾问"
+                },
+                {
+                  "en": "I read the fashion pages in the newspapers to keep up with the latest styles.",
+                  "cn": "我常看报纸的时尚版，以跟上最新的潮流。"
+                },
+                {
+                  "en": "The classic black dress is always in style.",
+                  "cn": "典雅的黑色连衣裙永远都不会过时。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DESIGN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a particular shape or design, especially of a person's hair, clothes, or a piece of furniture",
+                "cn": "设计；造型"
+              },
+              "examples": [
+                {
+                  "en": "a formal style of hat",
+                  "cn": "式样正式的帽子"
+                },
+                {
+                  "en": "Her hair was cut in a really nice style.",
+                  "cn": "她的头发剪了个非常漂亮的发式。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HIGH QUALITY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "high quality in appearance, design, or behaviour",
+                "cn": "气派;优雅格调"
+              },
+              "examples": [
+                {
+                  "en": "That car's got real style, which is no surprise considering how much it cost.",
+                  "cn": "那辆车非常有气派，但考虑到其造价也就不足为奇了。"
+                },
+                {
+                  "en": "When she decides to do something, she always does it in/with great style.",
+                  "cn": "她一旦决定要做什么，总是会做得很气派。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FLOWER PART",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the middle part of the carpel (= female part) of a flower, connecting the ovary to the stigma",
+                "cn": "花柱"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/staɪl/",
+        "us": "/staɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/staɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksti/ukstick017.mp3"
+        },
+        "us": {
+          "ipa": "/staɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sty/style/style.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DESIGN",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to shape or design something such as a person's hair or an object like a piece of clothing or furniture or a book, especially so that it looks attractive",
+                "cn": "设计;给…造型;（尤指）把…设计得吸引人"
+              },
+              "examples": [
+                {
+                  "en": "You've had your hair styled - it really suits you.",
+                  "cn": "你做了头发——这个发型真适合你。"
+                },
+                {
+                  "en": "This range of jackets is styled to look good whatever the occasion.",
+                  "cn": "这个系列的夹克衫设计巧妙，适合各种场合穿着。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TITLE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to give a title to a person or group",
+                "cn": "称呼;给…命名"
+              },
+              "examples": [
+                {
+                  "en": "She styles herself \"Doctor\" but she doesn't have a degree.",
+                  "cn": "她自称“博士”，但实际上她根本没有学位。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "pron": {
+        "uk": "/ -staɪl/",
+        "us": "/ -staɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -staɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksti/ukstick017.mp3"
+        },
+        "us": {
+          "ipa": "/ -staɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sty/style/style.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "in the style mentioned",
+                "cn": "…风格的，…式的"
+              },
+              "examples": [
+                {
+                  "en": "Japanese-style management",
+                  "cn": "日本式的管理风格"
+                },
+                {
+                  "en": "antique-style furniture",
+                  "cn": "古典风格的家具"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

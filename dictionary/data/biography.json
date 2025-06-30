@@ -1,0 +1,44 @@
+{
+  "title": "biography",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/baɪˈɒɡ.rə.fi/",
+        "us": "/baɪˈɑː.ɡrə.fi/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/baɪˈɒɡ.rə.fi/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbin/ukbingo014.mp3"
+        },
+        "us": {
+          "ipa": "/baɪˈɑː.ɡrə.fi/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bio/biogr/biography.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the life story of a person written by someone else",
+                "cn": "传记"
+              },
+              "examples": [
+                {
+                  "en": "He wrote a biography of Winston Churchill.",
+                  "cn": "他撰写了温斯顿‧丘吉尔的传记。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "unforgettable",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌʌn.fəˈɡet.ə.bəl/",
+        "us": "/ˌʌn.fɚˈɡet̬.ə.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌʌn.fəˈɡet.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukunf/ukunfit007.mp3"
+        },
+        "us": {
+          "ipa": "/ˌʌn.fɚˈɡet̬.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/unf/unfor/unforgettable.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "An unforgettable experience has such a strong effect or influence on you that you cannot forget it.",
+                "cn": "难忘的;无法忘记的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

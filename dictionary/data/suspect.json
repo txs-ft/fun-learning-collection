@@ -1,0 +1,190 @@
+{
+  "title": "suspect",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/səˈspekt/",
+        "us": "/səˈspekt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈspekt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksur/uksurro022.mp3"
+        },
+        "us": {
+          "ipa": "/səˈspekt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sus/suspe/suspect_01_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "THINK LIKELY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to think or believe something to be true or probable",
+                "cn": "怀疑，猜想，认为（某事有可能）"
+              },
+              "examples": [
+                {
+                  "en": "So far, the police do not suspect foul play.",
+                  "cn": "目前，警察没有怀疑是谋杀。"
+                },
+                {
+                  "en": "We had no reason to suspect (that) he might try to kill himself.",
+                  "cn": "我们没有理由认为他会自杀。"
+                },
+                {
+                  "en": "\"Do you think she'll have told them?\" \"I suspect not/so.\"",
+                  "cn": "“你认为她会不会已经告诉他们了？”“我想不会／会的。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THINK GUILTY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to think that someone has committed a crime or done something wrong",
+                "cn": "怀疑…有罪，认为…有嫌疑"
+              },
+              "examples": [
+                {
+                  "en": "No one knows who killed her, but the police suspect her husband.",
+                  "cn": "没有人知道谁杀了她，但是警方认为她丈夫有嫌疑。"
+                },
+                {
+                  "en": "The police suspect him of carrying out two bomb attacks.",
+                  "cn": "警方怀疑他制造了两起爆炸案。"
+                },
+                {
+                  "en": "Three suspected terrorists have been arrested.",
+                  "cn": "3名嫌疑恐怖分子已经被捕了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DOUBT",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to not trust; to doubt",
+                "cn": "不信任;怀疑"
+              },
+              "examples": [
+                {
+                  "en": "I have no reason to suspect her honesty/loyalty.",
+                  "cn": "我没有理由怀疑她的诚实／忠诚。"
+                },
+                {
+                  "en": "We suspected his motives in making his offer.",
+                  "cn": "我们对他提出这个建议的动机表示怀疑。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈsʌs.pekt/",
+        "us": "/ˈsʌs.pekt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsʌs.pekt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksur/uksurro021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsʌs.pekt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sus/suspe/suspect_02_01.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a person believed to have committed a crime or done something wrong, or something believed to have caused something bad",
+                "cn": "嫌疑犯，可疑分子"
+              },
+              "examples": [
+                {
+                  "en": "Police have issued a photograph of the suspect.",
+                  "cn": "警方已经发布了疑犯的照片。"
+                },
+                {
+                  "en": "The prime suspect in the case committed suicide.",
+                  "cn": "这起案件的主要嫌疑人自杀了。"
+                },
+                {
+                  "en": "No one knows what caused the outbreak of food poisoning, but shellfish is the main suspect (= is thought to have caused it).",
+                  "cn": "没有人知道造成这起食物中毒事件的原因，但怀疑很可能是吃贝类食品造成的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈsʌs.pekt/",
+        "us": "/ˈsʌs.pekt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsʌs.pekt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksur/uksurro021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsʌs.pekt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sus/suspe/suspect_02_01.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "possibly false or dangerous",
+                "cn": "不可靠的，不可信的，可疑的；危险的"
+              },
+              "examples": [
+                {
+                  "en": "The study was carried out with such a small sample that its results are suspect.",
+                  "cn": "这项研究选取的样本如此之少，因此结果并不可靠。"
+                },
+                {
+                  "en": "A suspect parcel was found at the station.",
+                  "cn": "在车站发现了一个可疑包裹。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

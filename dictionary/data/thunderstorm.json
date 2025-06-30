@@ -1,0 +1,39 @@
+{
+  "title": "thunderstorm",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈθʌn.də.stɔːm/",
+        "us": "/ˈθʌn.dɚ.stɔːrm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈθʌn.də.stɔːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthu/ukthund004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈθʌn.dɚ.stɔːrm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/ust/usthu/usthund001.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a storm with thunder and lightning and usually heavy rain",
+                "cn": "雷雨，雷暴"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

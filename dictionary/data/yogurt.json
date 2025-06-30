@@ -1,0 +1,64 @@
+{
+  "title": "yogurt",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈjɒɡ.ət/",
+        "us": "/ˈjoʊ.ɡɚt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈjɒɡ.ət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uky/ukyie/ukyield014.mp3"
+        },
+        "us": {
+          "ipa": "/ˈjoʊ.ɡɚt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/y/yog/yogur/yogurt.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a slightly sour, thick liquid made from milk with bacteria added to it, sometimes eaten plain and sometimes with sugar, fruit, etc. added",
+                "cn": "酸乳，酸奶"
+              },
+              "examples": [
+                {
+                  "en": "natural/plain yogurt",
+                  "cn": "天然／纯酸奶"
+                },
+                {
+                  "en": "strawberry yogurt",
+                  "cn": "草莓酸奶"
+                },
+                {
+                  "en": "low-fat yogurt",
+                  "cn": "低脂酸奶"
+                },
+                {
+                  "en": "I only had a yogurt (= a container of this) for lunch.",
+                  "cn": "我午餐只喝了一罐酸奶。"
+                },
+                {
+                  "en": "I settled for orange juice, yoghurt, and black coffee for breakfast.",
+                  "cn": ""
+                },
+                {
+                  "en": "They eat no animal products at all – no milk, cheese, eggs, yoghourt, etc.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "technology",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/tekˈnɒl.ə.dʒi/",
+        "us": "/tekˈnɑː.lə.dʒi/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tekˈnɒl.ə.dʒi/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktec/uktechn001.mp3"
+        },
+        "us": {
+          "ipa": "/tekˈnɑː.lə.dʒi/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tec/techn/technology.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(the study and knowledge of) the practical, especially industrial, use of scientific discoveries",
+                "cn": "技术（学）;应用技术;（尤指）工业技术"
+              },
+              "examples": [
+                {
+                  "en": "computer technology",
+                  "cn": "计算机技术"
+                },
+                {
+                  "en": "Modern technology is amazing, isn't it?",
+                  "cn": "现代技术很奇妙，是不是？"
+                },
+                {
+                  "en": "What this country needs is a long-term policy for investment in science and technology.",
+                  "cn": "这个国家所需要的是科技投入方面的长期政策。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

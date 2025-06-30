@@ -1,0 +1,52 @@
+{
+  "title": "furniture",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈfɜː.nɪ.tʃər/",
+        "us": "/ˈfɝː.nɪ.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfɜː.nɪ.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfun/ukfunk_016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfɝː.nɪ.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fur/furni/furniture.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "things such as chairs, tables, beds, cupboards, etc. that are put into a house or other building to make it suitable and comfortable for living or working in",
+                "cn": "家具"
+              },
+              "examples": [
+                {
+                  "en": "They have a lot of antique furniture.",
+                  "cn": "他们有很多古董家具。"
+                },
+                {
+                  "en": "The only piece/item of furniture he has in his bedroom is a bed.",
+                  "cn": "他卧室里唯一的家具就是一张床。"
+                },
+                {
+                  "en": "We've just bought some new outdoor furniture.",
+                  "cn": "我们刚刚买了些花园里用的新家具。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

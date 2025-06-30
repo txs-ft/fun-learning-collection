@@ -1,0 +1,52 @@
+{
+  "title": "laboratory",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ləˈbɒr.ə.tər.i/",
+        "us": "/ˈlæb.rə.tɔːr.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ləˈbɒr.ə.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklab/uklabia003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlæb.rə.tɔːr.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lab/labor/laboratory.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a room or building with scientific equipment for doing scientific tests or for teaching science, or a place where chemicals or medicines are produced",
+                "cn": "实验室;实验大楼"
+              },
+              "examples": [
+                {
+                  "en": "research laboratories",
+                  "cn": "研究实验室"
+                },
+                {
+                  "en": "a computer laboratory",
+                  "cn": "计算机实验室"
+                },
+                {
+                  "en": "Laboratory tests suggest that the new drug may be used to treat cancer.",
+                  "cn": "实验室测试表明这种新药可用于治疗癌症。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 1
+    }
+  ]
+}

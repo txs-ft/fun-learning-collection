@@ -1,0 +1,48 @@
+{
+  "title": "bracelet",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈbreɪ.slət/",
+        "us": "/ˈbreɪ.slət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbreɪ.slət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukboy/ukboyfr011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbreɪ.slət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75501.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a piece of jewellery that is worn around the wrist or arm",
+                "cn": "手镯;臂镯;手链"
+              },
+              "examples": [
+                {
+                  "en": "a gold/silver/diamond bracelet",
+                  "cn": "金／银／钻石手镯"
+                },
+                {
+                  "en": "a chain bracelet",
+                  "cn": "手链"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

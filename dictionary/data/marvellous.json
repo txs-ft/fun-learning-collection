@@ -1,0 +1,60 @@
+{
+  "title": "marvellous",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈmɑː.vəl.əs/",
+        "us": "/ˈmɑːr.vəl.əs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɑː.vəl.əs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmar/ukmarmo030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɑːr.vəl.əs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mar/marve/marvelous.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely good",
+                "cn": "绝妙的；好极了的"
+              },
+              "examples": [
+                {
+                  "en": "He's done a marvellous job of the decorating.",
+                  "cn": "他所做的装饰真是棒极了。"
+                },
+                {
+                  "en": "It took me ages to get it right, but it was a marvellous feeling when I did.",
+                  "cn": "我花了好长时间才弄好，但弄好后真有种说不出的快乐。"
+                },
+                {
+                  "en": "It's marvellous how everyone's tried to help.",
+                  "cn": "每个人都尽力帮忙，真是太好了。"
+                },
+                {
+                  "en": "He was a truly marvellous storyteller.",
+                  "cn": "他真是个了不起的讲故事的高手。"
+                },
+                {
+                  "en": "We've achieved some marvellous results with this new drug.",
+                  "cn": "我们已用这种新药取得了极好的疗效。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

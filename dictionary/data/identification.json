@@ -1,0 +1,57 @@
+{
+  "title": "identification",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
+        "us": "/aɪˌden.t̬ə.fəˈkeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukico/ukicono021.mp3"
+        },
+        "us": {
+          "ipa": "/aɪˌden.t̬ə.fəˈkeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ide/ident/identification.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the act of recognizing and naming someone or something",
+                "cn": "识别，辨认"
+              },
+              "examples": [
+                {
+                  "en": "Most of the bodies were badly burned, making identification almost impossible.",
+                  "cn": "大多数尸体都严重烧伤，几乎无法辨认。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an official document that shows or proves who you are",
+                "cn": "身份证（明）"
+              },
+              "examples": [
+                {
+                  "en": "We were asked to show some identification before the security guards would let us in.",
+                  "cn": "保安要我们出示身份证明才让我们进去。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 3
+    }
+  ]
+}

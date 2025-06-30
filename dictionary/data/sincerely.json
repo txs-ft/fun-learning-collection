@@ -1,0 +1,52 @@
+{
+  "title": "sincerely",
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "pron": {
+        "uk": "/sɪnˈsɪə.li/",
+        "us": "/sɪnˈsɪr.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɪnˈsɪə.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksim/uksimil028.mp3"
+        },
+        "us": {
+          "ipa": "/sɪnˈsɪr.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sin/since/sincerely.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "honestly and without pretending or lying",
+                "cn": "真诚地，诚实地"
+              },
+              "examples": [
+                {
+                  "en": "I'm sincerely grateful.",
+                  "cn": "我衷心地感谢。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "used to end a formal letter that is sent to a particular person",
+                "cn": "谨启（用于信的结尾）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

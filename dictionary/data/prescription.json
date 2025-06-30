@@ -1,0 +1,78 @@
+{
+  "title": "prescription",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/prɪˈskrɪp.ʃən/",
+        "us": "/prɪˈskrɪp.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/prɪˈskrɪp.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpre/ukprepo017.mp3"
+        },
+        "us": {
+          "ipa": "/prɪˈskrɪp.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pre/presc/prescription.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MEDICINE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a piece of paper on which a doctor writes the details of the medicine or drugs that someone needs",
+                "cn": "处方，药方;处方上开的药"
+              },
+              "examples": [
+                {
+                  "en": "a doctor's prescription",
+                  "cn": "医生的处方"
+                },
+                {
+                  "en": "a prescription for sedatives",
+                  "cn": "镇静剂的处方"
+                },
+                {
+                  "en": "The doctor should give you a repeat prescription (= another piece of paper allowing more of the same medicine to be given, often without the person seeing the doctor again).",
+                  "cn": "医生应该给你开个重复处方。"
+                },
+                {
+                  "en": "These drugs are only available on prescription (= with a prescription from a doctor).",
+                  "cn": "这些药只能凭处方购买。"
+                },
+                {
+                  "en": "Prescription charges (= the standard amount of money you pay for any medicine prescribed by a doctor) are rising in June.",
+                  "cn": "处方药费将在6月份上涨。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RULE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of telling someone else what they must have or do",
+                "cn": "建议;秘诀"
+              },
+              "examples": [
+                {
+                  "en": "So what is his prescription for success?",
+                  "cn": "那么他认为成功的诀窍是什么？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

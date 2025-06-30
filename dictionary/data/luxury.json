@@ -1,0 +1,82 @@
+{
+  "title": "luxury",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈlʌk.ʃər.i/",
+        "us": "/ˈlʌk.ʃɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlʌk.ʃər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklus/uklusci029.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlʌk.ʃɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lux/luxur/luxury.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "great comfort, especially as provided by expensive and beautiful things",
+                "cn": "奢华，奢侈，豪华"
+              },
+              "examples": [
+                {
+                  "en": "to live in luxury",
+                  "cn": "生活奢华"
+                },
+                {
+                  "en": "a luxury cruise",
+                  "cn": "豪华巡游"
+                },
+                {
+                  "en": "a luxury hotel",
+                  "cn": "豪华的酒店"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "something expensive that is pleasant to have but is not necessary",
+                "cn": "奢侈品，名贵品"
+              },
+              "examples": [
+                {
+                  "en": "luxuries, such as champagne and chocolate",
+                  "cn": "香槟酒和巧克力之类的奢侈品"
+                },
+                {
+                  "en": "I like to buy myself little luxuries from time to time.",
+                  "cn": "我喜欢时不时地给自己买些小小的奢侈品。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "something that gives you a lot of pleasure but cannot be done often",
+                "cn": "奢侈，奢望"
+              },
+              "examples": [
+                {
+                  "en": "A day off work is such a luxury.",
+                  "cn": "休息一天不用上班简直是一种奢侈。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "intelligent",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ɪnˈtel.ɪ.dʒənt/",
+        "us": "/ɪnˈtel.ə.dʒənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˈtel.ɪ.dʒənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukins/ukinsur025.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˈtel.ə.dʒənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/int/intel/intelligent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "showing intelligence, or able to learn and understand things easily",
+                "cn": "有才智的;聪颖的，理解力强的"
+              },
+              "examples": [
+                {
+                  "en": "He is a highly intelligent person who can think outside the box.",
+                  "cn": ""
+                },
+                {
+                  "en": "She would like a partner with whom she can have an intelligent conversation.",
+                  "cn": ""
+                },
+                {
+                  "en": "Helen had a few intelligent things to say on the subject.",
+                  "cn": "对于这个主题，海伦有一些颇有见地的想法要说。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

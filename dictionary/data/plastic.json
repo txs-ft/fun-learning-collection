@@ -1,0 +1,158 @@
+{
+  "title": "plastic",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈplæs.tɪk/",
+        "us": "/ˈplæs.tɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈplæs.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplain028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈplæs.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pla/plast/plastic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SUBSTANCE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an artificial substance that can be shaped when soft into many different forms and has many different uses",
+                "cn": "塑料"
+              },
+              "examples": [
+                {
+                  "en": "He put a sheet of plastic over the broken window.",
+                  "cn": "他在打碎的窗户上蒙了块塑料布。"
+                },
+                {
+                  "en": "Those flowers aren't real - they're made of plastic.",
+                  "cn": "那些花不是真的——是塑料做的。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the process or business of producing plastic:",
+                "cn": "公司已转而进入塑料制造业。"
+              },
+              "examples": [
+                {
+                  "en": "The company has moved into plastics.",
+                  "cn": "公司已转而进入塑料制造业。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "credit cards or debit cards, rather than money in the form of notes, coins, or cheques",
+                "cn": "信用卡；赊购卡"
+              },
+              "examples": [
+                {
+                  "en": "I'd prefer a restaurant where they take plastic.",
+                  "cn": "我更喜欢去一家接受信用卡付款的饭馆。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈplæs.tɪk/",
+        "us": "/ˈplæs.tɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈplæs.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplain028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈplæs.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pla/plast/plastic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SUBSTANCE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "made of plastic",
+                "cn": "塑料（制）的"
+              },
+              "examples": [
+                {
+                  "en": "a plastic bag/box/cup",
+                  "cn": "塑料袋／盒／杯"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FALSE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "artificial or false",
+                "cn": "不真实的，不自然的，做作的"
+              },
+              "examples": [
+                {
+                  "en": "I hate the hostesses' false cheerfulness and plastic smiles.",
+                  "cn": "我讨厌女主人的假开心和做作的微笑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SOFT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "soft enough to be changed into a new shape",
+                "cn": "可塑的，塑性的"
+              },
+              "examples": [
+                {
+                  "en": "Clay is a very plastic material.",
+                  "cn": "黏土是一种可塑性极强的材料。"
+                },
+                {
+                  "en": "This metal is plastic at high temperatures.",
+                  "cn": "这种金属在高温下具有可塑性。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

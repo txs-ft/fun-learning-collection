@@ -1,0 +1,103 @@
+{
+  "title": "journey",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈdʒɜː.ni/",
+        "us": "/ˈdʒɝː.ni/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒɜː.ni/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjol/ukjolli021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʒɝː.ni/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jou/journ/journey.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TRIP",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the act of travelling from one place to another, especially in a vehicle",
+                "cn": "（尤指乘交通工具的）旅行，行程"
+              },
+              "examples": [
+                {
+                  "en": "I love going on long journeys.",
+                  "cn": "我喜欢长途旅行。"
+                },
+                {
+                  "en": "We broke our journey (= stopped for a short time) in Jacksonville before travelling on to Miami the next day.",
+                  "cn": "我们在杰克逊维尔稍作停留，第二天继续踏上旅途去迈阿密。"
+                },
+                {
+                  "en": "Have a safe journey!",
+                  "cn": "祝一路平安！"
+                },
+                {
+                  "en": "He views his life as a spiritual journey towards a greater understanding of his faith.",
+                  "cn": "他将生活视作一种加深其对信仰理解的精神旅程。"
+                },
+                {
+                  "en": "Did you have a good journey?",
+                  "cn": "你旅途愉快吗？"
+                },
+                {
+                  "en": "It's a two-hour train journey from York to London.",
+                  "cn": "从约克到伦敦乘火车需要两小时。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈdʒɜː.ni/",
+        "us": "/ˈdʒɝː.ni/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒɜː.ni/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjol/ukjolli021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʒɝː.ni/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jou/journ/journey.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to travel somewhere",
+                "cn": "旅行"
+              },
+              "examples": [
+                {
+                  "en": "As we journeyed south, the landscape became drier and rockier.",
+                  "cn": "我们向南旅行时，土地越来越干燥，岩石越来越多。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

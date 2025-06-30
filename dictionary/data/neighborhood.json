@@ -1,0 +1,52 @@
+{
+  "title": "neighbourhood",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈneɪ.bə.hʊd/",
+        "us": "/ˈneɪ.bɚ.hʊd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈneɪ.bə.hʊd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/ukneg/uknegot009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈneɪ.bɚ.hʊd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/nei/neigh/neighborhood.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the area of a town that surrounds someone's home, or the people who live in this area",
+                "cn": "邻近地区；住宅区，街区；街坊，四邻"
+              },
+              "examples": [
+                {
+                  "en": "There were lots of kids in my neighbourhood when I was growing up.",
+                  "cn": "我是在有很多孩子的街区里长大的。"
+                },
+                {
+                  "en": "They live in a wealthy/poor/friendly neighbourhood.",
+                  "cn": "他们生活在富裕／贫穷／和睦的街区。"
+                },
+                {
+                  "en": "I wouldn't like to live in the neighbourhood of (= in the area around) an airport.",
+                  "cn": "我不会喜欢住在机场附近。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

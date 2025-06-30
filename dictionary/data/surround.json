@@ -1,0 +1,112 @@
+{
+  "title": "surround",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/səˈraʊnd/",
+        "us": "/səˈraʊnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksur/uksurro002.mp3"
+        },
+        "us": {
+          "ipa": "/səˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sur/surro/surround.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to be everywhere around something",
+                "cn": "环绕，围绕，包围"
+              },
+              "examples": [
+                {
+                  "en": "Snow-capped mountains surround the city.",
+                  "cn": "山顶为积雪覆盖的群山环绕着这座城市。"
+                },
+                {
+                  "en": "Gwen sat at her desk, surrounded by books and papers.",
+                  "cn": "格温坐在桌前，周围堆满了书和报纸。"
+                },
+                {
+                  "en": "Mystery still surrounds the exact circumstances of Stalin's death.",
+                  "cn": "斯大林去世的确切情况仍是迷雾重重。"
+                },
+                {
+                  "en": "She said that she wanted to die surrounded by the people she loves (= with them all present).",
+                  "cn": "她说她希望在她死的时候，她所爱的人会陪伴在自己身边。"
+                },
+                {
+                  "en": "Early this morning, armed police surrounded (= moved into a position so that they were everywhere around) a house which they thought contained an escaped prisoner.",
+                  "cn": "今天一大早，武装警察就包围了他们认为藏有一名逃犯的房子。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/səˈraʊnd/",
+        "us": "/səˈraʊnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksur/uksurro002.mp3"
+        },
+        "us": {
+          "ipa": "/səˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sur/surro/surround.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the area or border around something",
+                "cn": "周围地带;围绕物;缘饰"
+              },
+              "examples": [
+                {
+                  "en": "Our bathtub has a tiled surround.",
+                  "cn": "我们的浴缸周围铺了瓷砖。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the area that is near and around a place",
+                "cn": "周边，附近"
+              },
+              "examples": [
+                {
+                  "en": "The house is set in lush surrounds and has views of the ocean.",
+                  "cn": "小楼绿树环绕，可以看见大海。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

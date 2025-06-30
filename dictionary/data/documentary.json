@@ -1,0 +1,100 @@
+{
+  "title": "documentary",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌdɒk.jəˈmen.tər.i/",
+        "us": "/ˌdɑː.kjəˈmen.t̬ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌdɒk.jəˈmen.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdoc/ukdocud003.mp3"
+        },
+        "us": {
+          "ipa": "/ˌdɑː.kjəˈmen.t̬ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71353.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a film or television or radio programme that gives facts and information about a subject",
+                "cn": "（电影或电视）纪录片；纪实性广播节目"
+              },
+              "examples": [
+                {
+                  "en": "The documentary took a fresh look at the life of Darwin.",
+                  "cn": "这部纪录片从一个崭新的角度介绍了达尔文的一生。"
+                },
+                {
+                  "en": "They showed a documentary on animal communication.",
+                  "cn": "他们放映了一部关于动物之间交流沟通的纪录片。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌdɒk.jəˈmen.tər.i/",
+        "us": "/ˌdɑː.kjəˈmen.t̬ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌdɒk.jəˈmen.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdoc/ukdocud003.mp3"
+        },
+        "us": {
+          "ipa": "/ˌdɑː.kjəˈmen.t̬ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71353.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "in the form of documents",
+                "cn": "文件的；文书的"
+              },
+              "examples": [
+                {
+                  "en": "Human rights campaigners have discovered documentary evidence of torture.",
+                  "cn": "人权活动家们已经发现了刑讯逼供的书面证据。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "giving facts and information about a subject in the form of a film or television or radio programme",
+                "cn": "（电影、电视、广播节目等的）纪实的，记录的"
+              },
+              "examples": [
+                {
+                  "en": "Most of her movies have a documentary style.",
+                  "cn": "她的电影大多是纪实风格的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

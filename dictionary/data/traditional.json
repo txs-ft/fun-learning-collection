@@ -1,0 +1,56 @@
+{
+  "title": "traditional",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/trəˈdɪʃ.ən.əl/",
+        "us": "/trəˈdɪʃ.ən.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/trəˈdɪʃ.ən.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktract011.mp3"
+        },
+        "us": {
+          "ipa": "/trəˈdɪʃ.ən.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/tradi/traditional.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "following or belonging to the customs or ways of behaving that have continued in a group of people or society for a long time without changing",
+                "cn": "传统的"
+              },
+              "examples": [
+                {
+                  "en": "The villagers retain a strong attachment to their traditional values/customs/beliefs.",
+                  "cn": "村民们依然固守着传统的价值观／习俗／信仰。"
+                },
+                {
+                  "en": "The school uses a combination of modern and traditional methods for teaching reading.",
+                  "cn": "该校采用传统与现代方式相结合的方法教授阅读。"
+                },
+                {
+                  "en": "The dancers were wearing traditional Hungarian dress/costume.",
+                  "cn": "舞蹈者身着传统匈牙利服装。"
+                },
+                {
+                  "en": "She's very traditional (in her ideas and opinions).",
+                  "cn": "她这人（在思想观念上）非常传统。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

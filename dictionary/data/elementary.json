@@ -1,0 +1,65 @@
+{
+  "title": "elementary",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌel.ɪˈmen.tər.i/",
+        "us": "/ˌel.əˈmen.t̬ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌel.ɪˈmen.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukele/ukelect014.mp3"
+        },
+        "us": {
+          "ipa": "/ˌel.əˈmen.t̬ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71483.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "basic",
+                "cn": "基本的"
+              },
+              "examples": [
+                {
+                  "en": "I have an elementary knowledge of physics.",
+                  "cn": "我懂一些基本的物理知识。"
+                },
+                {
+                  "en": "They made some elementary mistakes.",
+                  "cn": "他们犯了一些很基础的错误。"
+                },
+                {
+                  "en": "Millions of travellers fail to take even the most elementary of precautions.",
+                  "cn": "上百万的旅行者甚至没有采取最基本的预防措施。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to the early stages of studying a subject",
+                "cn": "初级的；基础的"
+              },
+              "examples": [
+                {
+                  "en": "This book contains a series of elementary exercises for learners.",
+                  "cn": "本书含有为学习者设计的一系列基础练习。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

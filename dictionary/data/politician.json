@@ -1,0 +1,44 @@
+{
+  "title": "politician",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌpɒl.ɪˈtɪʃ.ən/",
+        "us": "/ˌpɑː.ləˈtɪʃ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌpɒl.ɪˈtɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpol/ukpolar027.mp3"
+        },
+        "us": {
+          "ipa": "/ˌpɑː.ləˈtɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pol/polit/politician.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a member of a government or law-making organization",
+                "cn": "从政者，政治家，政客"
+              },
+              "examples": [
+                {
+                  "en": "a distinguished/disgraced politician",
+                  "cn": "著名／失势的政治家"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

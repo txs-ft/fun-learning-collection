@@ -1,0 +1,142 @@
+{
+  "title": "routine",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ruːˈtiːn/",
+        "us": "/ruːˈtiːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ruːˈtiːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrou/ukrough019.mp3"
+        },
+        "us": {
+          "ipa": "/ruːˈtiːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rou/routi/routine.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a usual or fixed way of doing things",
+                "cn": "惯例，常规；例行公事"
+              },
+              "examples": [
+                {
+                  "en": "There's no set/fixed routine at work - every day is different.",
+                  "cn": "工作内容不固定——每天都不同。"
+                },
+                {
+                  "en": "Most companies insure property and equipment against damage or theft as a matter of routine.",
+                  "cn": "作为常规，大多数公司都为其财产和设备购买损坏或盗窃保险。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a regular series of movements, jokes, or similar things used in a performance",
+                "cn": "（表演中）一套固定的动作，固定的一套噱头，固定的表演节目"
+              },
+              "examples": [
+                {
+                  "en": "an exercise/dance routine",
+                  "cn": "一套固定的练习／舞蹈动作"
+                },
+                {
+                  "en": "He went into his usual \"I'm the head of the family\" routine (= usual way of speaking).",
+                  "cn": "他又故态复萌，重弹“我是一家之主”的老调子。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a part of a computer program that does a particular operation",
+                "cn": "（计算机的）例行程序"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ruːˈtiːn/",
+        "us": "/ruːˈtiːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ruːˈtiːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrou/ukrough019.mp3"
+        },
+        "us": {
+          "ipa": "/ruːˈtiːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rou/routi/routine.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "done as part of what usually happens, and not for any special reason",
+                "cn": "常规的"
+              },
+              "examples": [
+                {
+                  "en": "a routine inspection/medical check-up",
+                  "cn": "常规检查／体检"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "ordinary and not special or unusual",
+                "cn": "例行公事的；习惯性的"
+              },
+              "examples": [
+                {
+                  "en": "a routine case of appendicitis",
+                  "cn": "普通阑尾炎病例"
+                },
+                {
+                  "en": "He died during a routine operation which went wrong.",
+                  "cn": "他因一次常规手术出错而死亡。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "ordinary and boring",
+                "cn": "平淡的;乏味的"
+              },
+              "examples": [
+                {
+                  "en": "My job is so routine and boring - I hate it.",
+                  "cn": "我的工作一成不变，枯燥乏味——我厌烦透了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

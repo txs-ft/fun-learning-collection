@@ -1,0 +1,52 @@
+{
+  "title": "leisure",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈleʒ.ər/",
+        "us": "/ˈliː.ʒɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈleʒ.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukleg/uklegal030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈliː.ʒɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lei/leisu/leisure.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the time when you are not working or doing other duties",
+                "cn": "空闲，闲暇，休闲"
+              },
+              "examples": [
+                {
+                  "en": "leisure activities",
+                  "cn": "休闲活动"
+                },
+                {
+                  "en": "Most people only have a limited amount of leisure time.",
+                  "cn": "大多数人只有有限的空闲时间。"
+                },
+                {
+                  "en": "The town lacks leisure facilities such as a swimming pool or squash courts.",
+                  "cn": "这个城镇缺少游泳池、壁球场等休闲设施。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "knowledge",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈnɒl.ɪdʒ/",
+        "us": "/ˈnɑː.lɪdʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnɒl.ɪdʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkno/ukknock012.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnɑː.lɪdʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kno/knowl/knowledge.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "understanding of or information about a subject that you get by experience or study, either known by one person or by people generally",
+                "cn": "知识;学问;学识;了解;理解"
+              },
+              "examples": [
+                {
+                  "en": "Her knowledge of English grammar is very extensive.",
+                  "cn": "她的英语语法知识很广博。"
+                },
+                {
+                  "en": "He has a limited knowledge of French.",
+                  "cn": "他对法语所知有限。"
+                },
+                {
+                  "en": "The details of the scandal are now common knowledge (= familiar to most people).",
+                  "cn": "丑闻的详情现在众所周知。"
+                },
+                {
+                  "en": "She started to photograph the documents, safe in the knowledge that (= knowing that) she wouldn't be disturbed for at least an hour.",
+                  "cn": "她开始对文件拍照，确信至少一小时内不会有人打扰。"
+                },
+                {
+                  "en": "In this town there are only a couple of restaurants that to my knowledge (= judging from my personal experience and information) serve good food.",
+                  "cn": "据我所知，这个镇上只有几家餐馆菜品不错。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the state of knowing about or being familiar with something",
+                "cn": "知道;熟悉（某事）"
+              },
+              "examples": [
+                {
+                  "en": "They both deny all knowledge of the affair.",
+                  "cn": "他们俩完全否认知道此事。"
+                },
+                {
+                  "en": "It has come/been brought to our knowledge (= we have discovered) that several computers have gone missing.",
+                  "cn": "我们发现有几台电脑不见了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

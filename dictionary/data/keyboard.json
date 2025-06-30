@@ -1,0 +1,99 @@
+{
+  "title": "keyboard",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkiː.bɔːd/",
+        "us": "/ˈkiː.bɔːrd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkiː.bɔːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukker/ukkero_009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkiː.bɔːrd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usk/uskee/uskeepn014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the set of keys on a computer or typewriter that you press in order to make it work",
+                "cn": "（计算机、打字机等的）键盘"
+              },
+              "examples": [
+                {
+                  "en": "Switch off the computer and unplug the keyboard.",
+                  "cn": ""
+                },
+                {
+                  "en": "The computer comes with a wireless mouse and keyboard.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an electronic musical instrument similar to a piano",
+                "cn": "（电子）键盘乐器"
+              },
+              "examples": [
+                {
+                  "en": "In front of him is an electronic keyboard.",
+                  "cn": ""
+                },
+                {
+                  "en": "He briefly played keyboards with rock-and-roller John Mellencamp.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈkiː.bɔːd/",
+        "us": "/ˈkiː.bɔːrd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkiː.bɔːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukker/ukkero_009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkiː.bɔːrd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usk/uskee/uskeepn014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to put information into a computer using a keyboard",
+                "cn": "操作键盘输入（信息）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

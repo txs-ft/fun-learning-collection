@@ -1,0 +1,56 @@
+{
+  "title": "adventure",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ədˈven.tʃər/",
+        "us": "/ədˈven.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ədˈven.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukadu/ukadult017.mp3"
+        },
+        "us": {
+          "ipa": "/ədˈven.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70096.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an unusual, exciting, and possibly dangerous activity, such as a trip or experience, or the excitement produced by such an activity",
+                "cn": "冒险，历险;奇遇;刺激"
+              },
+              "examples": [
+                {
+                  "en": "They went on an adventure hunting for treasure in the western hills.",
+                  "cn": ""
+                },
+                {
+                  "en": "She had some exciting adventures in Egypt.",
+                  "cn": "她在埃及经历了一些很刺激的奇遇。"
+                },
+                {
+                  "en": "Sam won't come - he's got no sense of adventure (= he does not enjoy dangerous or exciting situations).",
+                  "cn": "萨姆不会来的，他不喜欢冒险。"
+                },
+                {
+                  "en": "We got lost on the Metro - it was quite an adventure.",
+                  "cn": "我们在地铁里迷了路，还真是挺惊险的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

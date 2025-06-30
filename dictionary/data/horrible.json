@@ -1,0 +1,65 @@
+{
+  "title": "horrible",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈhɒr.ə.bəl/",
+        "us": "/ˈhɔːr.ə.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhɒr.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhoo/ukhoove028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhɔːr.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hor/horri/horrible.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "very unpleasant or bad",
+                "cn": "极糟的；令人不快的"
+              },
+              "examples": [
+                {
+                  "en": "He's got a horrible cold.",
+                  "cn": "他得了重感冒。"
+                },
+                {
+                  "en": "What's that horrible smell?",
+                  "cn": "是什么气味这么难闻？"
+                },
+                {
+                  "en": "That was a horrible thing to say!",
+                  "cn": "说那种话真是可恶！"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "very shocking and frightening",
+                "cn": "可怕的，令人震惊的"
+              },
+              "examples": [
+                {
+                  "en": "a horrible crime",
+                  "cn": "骇人的罪行"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "preparation",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌprep.ərˈeɪ.ʃən/",
+        "us": "/ˌprep.əˈreɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌprep.ərˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpre/ukpremi018.mp3"
+        },
+        "us": {
+          "ipa": "/ˌprep.əˈreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pre/prepa/preparation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GETTING READY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the things that you do or the time that you spend preparing for something",
+                "cn": "准备工作;准备，预备"
+              },
+              "examples": [
+                {
+                  "en": "The teacher didn't seem to have done much preparation for the class.",
+                  "cn": "看来这位教师这堂课准备得不是太充分。"
+                },
+                {
+                  "en": "The team blamed injuries and lack of preparation for their loss.",
+                  "cn": ""
+                },
+                {
+                  "en": "Yasmin assisted in the preparation of this article.",
+                  "cn": "亚斯明协助为这篇文章做了一些准备工作。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "plans or arrangements that you make to prepare for something:",
+                "cn": "我们正在着手准备通过飞机将古多尔先生送往最近的一家医院。"
+              },
+              "examples": [
+                {
+                  "en": "We are making preparations to fly Mr Goodall to the nearest hospital.",
+                  "cn": "我们正在着手准备通过飞机将古多尔先生送往最近的一家医院。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MIXTURE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a mixture of substances, often for use as a medicine",
+                "cn": "配制品;（常指医药）制剂"
+              },
+              "examples": [
+                {
+                  "en": "a preparation for nappy rash",
+                  "cn": "治疗尿布疹的药剂"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

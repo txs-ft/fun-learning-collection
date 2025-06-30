@@ -1,0 +1,70 @@
+{
+  "title": "urgent",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈɜː.dʒənt/",
+        "us": "/ˈɝː.dʒənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɜː.dʒənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukups/ukupstr028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɝː.dʒənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/urg/urgen/urgent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "IMPORTANT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very important and needing attention immediately",
+                "cn": "紧急的，急迫的"
+              },
+              "examples": [
+                {
+                  "en": "He's got to sign that paper - will you tell him it's urgent?",
+                  "cn": "他务必要签署那份文件——请你告诉他这很紧急，好吗?"
+                },
+                {
+                  "en": "The most urgent thing in a fire is to make sure everyone is out of the building.",
+                  "cn": "失火时最紧要的事是确保所有人都撤离大楼。"
+                },
+                {
+                  "en": "Many people are in urgent need of food and water.",
+                  "cn": "很多人亟需食物和水。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "REPEATED",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "(especially of a person's actions) repeated and determined in trying to get or do something",
+                "cn": "（尤指某人的行动）执着的，坚定的"
+              },
+              "examples": [
+                {
+                  "en": "His urgent pleas of innocence made no difference to the judge's decision.",
+                  "cn": "他一再申辩自己无罪，却无法改变法官的判决。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

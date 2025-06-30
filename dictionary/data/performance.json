@@ -1,0 +1,116 @@
+{
+  "title": "performance",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/pəˈfɔː.məns/",
+        "us": "/pɚˈfɔːr.məns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pəˈfɔː.məns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukper/ukperch029.mp3"
+        },
+        "us": {
+          "ipa": "/pɚˈfɔːr.məns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73498.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACTIVITY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "how well a person, machine, etc. does a piece of work or an activity",
+                "cn": "工作情况；业绩；表现；工作性能"
+              },
+              "examples": [
+                {
+                  "en": "He was an experienced player who was always seeking to improve his performance.",
+                  "cn": "他是一名有经验的选手，不断寻求提高自己的技能。"
+                },
+                {
+                  "en": "High-performance cars (= those that are fast, powerful, and easy to control) are the most expensive.",
+                  "cn": "性能卓越的车价格最高。"
+                },
+                {
+                  "en": "This was a very impressive performance by the young player, who scored 14 points within the first ten minutes.",
+                  "cn": "那位年轻球员的表现十分出色，在开场10分钟内就得了14分。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ENTERTAINMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the action of entertaining other people by dancing, singing, acting, or playing music",
+                "cn": "表演，演出"
+              },
+              "examples": [
+                {
+                  "en": "a performance of Arthur Miller's play \"The Crucible\"",
+                  "cn": "上演的阿瑟•米勒的戏剧《炼狱》"
+                },
+                {
+                  "en": "She gave a superb performance as Lady Macbeth.",
+                  "cn": "她出色地扮演了麦克白夫人。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "an action or type of behaviour that involves a lot of attention to detail or to small matters that are not important",
+                "cn": "麻烦，苦差"
+              },
+              "examples": [
+                {
+                  "en": "Cleaning the oven is such a performance.",
+                  "cn": "清理烤箱真是一件苦差。"
+                },
+                {
+                  "en": "What a performance! Please stop shouting!",
+                  "cn": "像什么样子！请别再大喊大叫了！"
+                },
+                {
+                  "en": "The fish pie is a bit of a performance to make.",
+                  "cn": ""
+                },
+                {
+                  "en": "We managed to assemble the bookshelves eventually, but it was a real performance.",
+                  "cn": ""
+                },
+                {
+                  "en": "We had such a performance getting the new sofa into the house.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "an occasion when an event or a situation happens again:",
+                "cn": "警察希望避免去年庆典变成暴乱的事件再次发生。"
+              },
+              "examples": [
+                {
+                  "en": "The police hope to avoid a repeat performance of last year, when the festivities turned into rioting.",
+                  "cn": "警察希望避免去年庆典变成暴乱的事件再次发生。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

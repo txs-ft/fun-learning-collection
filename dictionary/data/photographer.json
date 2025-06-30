@@ -1,0 +1,44 @@
+{
+  "title": "photographer",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/fəˈtɒɡ.rə.fər/",
+        "us": "/fəˈtɑː.ɡrə.fɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/fəˈtɒɡ.rə.fər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpho/ukphone027.mp3"
+        },
+        "us": {
+          "ipa": "/fəˈtɑː.ɡrə.fɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pho/photo/photographer.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a person who takes photographs, either as a job or hobby",
+                "cn": "摄影者;摄影师"
+              },
+              "examples": [
+                {
+                  "en": "a fashion/press/amateur photographer",
+                  "cn": "时装／新闻／业余摄影师"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

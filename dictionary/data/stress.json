@@ -1,0 +1,197 @@
+{
+  "title": "stress",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/stres/",
+        "us": "/stres/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stres/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukstr/ukstrep003.mp3"
+        },
+        "us": {
+          "ipa": "/stres/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/str/stres/stress.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WORRY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "great worry caused by a difficult situation, or something that causes this condition",
+                "cn": "紧张，压力；造成紧张的因素"
+              },
+              "examples": [
+                {
+                  "en": "People under a lot of stress may experience headaches, minor pains, and sleeping difficulties.",
+                  "cn": "压力大的人可能会出现头痛、轻微疼痛和睡眠障碍。"
+                },
+                {
+                  "en": "Yoga is a very effective technique for combating stress.",
+                  "cn": "练瑜伽是舒缓压力的非常有效的方法。"
+                },
+                {
+                  "en": "the stresses and strains of the job",
+                  "cn": "工作的紧张和压力"
+                },
+                {
+                  "en": "stress-related illness",
+                  "cn": "压力引起的疾病"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRONUNCIATION",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the way that a word or syllable is pronounced with greater force than other words in the same sentence or other syllables in the same word",
+                "cn": "重读，用重音读"
+              },
+              "examples": [
+                {
+                  "en": "The meaning of a sentence often depends on stress and intonation.",
+                  "cn": "句子的意思常常取决于重音和语调。"
+                },
+                {
+                  "en": "When \"insert\" is a verb, the stress is on the second syllable, but when it is a noun, the stress is on the first syllable.",
+                  "cn": "Insert（插入）用作动词时重音在第二个音节上，但用作名词时重音在第一个音节上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FORCE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a force that acts in a way that often changes the shape of an object",
+                "cn": "压力;应力"
+              },
+              "examples": [
+                {
+                  "en": "Computers work out the stresses that such a craft will encounter in flight.",
+                  "cn": "计算机计算出诸如此类的飞行器在飞行中承受的压力。"
+                },
+                {
+                  "en": "Jogging puts a lot of stress on your knee joints.",
+                  "cn": "慢跑使膝关节承受很大的压力。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EMPHASIS",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "emphasis",
+                "cn": "强调"
+              },
+              "examples": [
+                {
+                  "en": "During his speech, he laid particular stress on the freedom of the press.",
+                  "cn": "他在讲话中特别强调了新闻自由。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/stres/",
+        "us": "/stres/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stres/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukstr/ukstrep003.mp3"
+        },
+        "us": {
+          "ipa": "/stres/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/str/stres/stress.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "EMPHASIZE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to give emphasis or special importance to something",
+                "cn": "强调，着重"
+              },
+              "examples": [
+                {
+                  "en": "He is careful to stress (that) the laboratory's safety standards are the best in the country.",
+                  "cn": "他谨慎地强调实验室的安全标准是全国最高的。"
+                },
+                {
+                  "en": "I'd just like to stress the importance of neatness and politeness in this job.",
+                  "cn": "我只想强调一下整洁和礼貌在这份工作中的重要性。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRONOUNCE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to pronounce a word or syllable with greater force than other words in the same sentence or other syllables in the same word, or to play a musical note with greater force than others in a group",
+                "cn": "重读，用重音读"
+              },
+              "examples": [
+                {
+                  "en": "In the word \"engine\" you should stress the first syllable.",
+                  "cn": "在 engine 这个词中，应该重读第一个音节。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WORRY",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to feel worried and nervous",
+                "cn": "紧张，焦虑，担心"
+              },
+              "examples": [
+                {
+                  "en": "Don't stress over it - we'll soon get it sorted out.",
+                  "cn": "不用担心——我们很快会解决的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

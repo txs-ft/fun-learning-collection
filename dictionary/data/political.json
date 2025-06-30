@@ -1,0 +1,52 @@
+{
+  "title": "political",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/pəˈlɪt.ɪ.kəl/",
+        "us": "/pəˈlɪt̬.ə.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pəˈlɪt.ɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpol/ukpolar025.mp3"
+        },
+        "us": {
+          "ipa": "/pəˈlɪt̬.ə.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pol/polit/political.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to politics",
+                "cn": "政治的"
+              },
+              "examples": [
+                {
+                  "en": "political leaders",
+                  "cn": "政治领袖"
+                },
+                {
+                  "en": "There are two major political parties in the US - the Democratic Party and the Republican Party.",
+                  "cn": "美国有两个主要政党——民主党和共和党。"
+                },
+                {
+                  "en": "Education is back at the top of the political agenda (= the matters that the government is considering).",
+                  "cn": "教育问题又回到了政府议事日程的首位。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "ceremony",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈser.ɪ.mə.ni/",
+        "us": "/ˈser.ə.mə.ni/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈser.ɪ.mə.ni/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcer/ukcereb009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈser.ə.mə.ni/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75507.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FORMAL ACTS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(a set of) formal acts, often fixed and traditional, performed on important social or religious occasions",
+                "cn": "典礼;仪式"
+              },
+              "examples": [
+                {
+                  "en": "a wedding/graduation ceremony",
+                  "cn": "结婚／毕业典礼"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FORMAL BEHAVIOUR",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "very formal and polite behaviour",
+                "cn": "礼节;礼仪;客套"
+              },
+              "examples": [
+                {
+                  "en": "She arrived at the airport without the pomp and ceremony that usually accompanies important politicians.",
+                  "cn": "她抵达了机场，没有通常与重要政界人士相伴的盛况和礼仪。"
+                },
+                {
+                  "en": "I handed her my letter of resignation without ceremony (= in an informal way).",
+                  "cn": "我毫不客气地向她递交了辞职书。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

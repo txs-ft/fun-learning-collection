@@ -1,0 +1,78 @@
+{
+  "title": "wardrobe",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈwɔː.drəʊb/",
+        "us": "/ˈwɔːr.droʊb/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈwɔː.drəʊb/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwan/ukwant_013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈwɔːr.droʊb/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/war/wardr/wardrobe.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a tall cupboard in which you hang your clothes",
+                "cn": "衣橱，衣柜"
+              },
+              "examples": [
+                {
+                  "en": "He hung his suit in the wardrobe.",
+                  "cn": "他把西装挂进衣柜里。"
+                },
+                {
+                  "en": "She was showing me her new built-in/fitted wardrobes.",
+                  "cn": "她正在带我看她新做的嵌入式衣柜。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "all of the clothes that a person owns",
+                "cn": "（某人的）全部衣服"
+              },
+              "examples": [
+                {
+                  "en": "I need a new summer wardrobe (= new clothes for summer).",
+                  "cn": "我需要一批夏天的新衣服。"
+                },
+                {
+                  "en": "Jeans are an indispensable part of most people's wardrobe.",
+                  "cn": "牛仔裤是大多数人必不可少的衣物。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a department in a theatre, film company, etc. that is in charge of the clothes that the actors wear on stage, making certain that they are clean, repairing them and sometimes making them",
+                "cn": "（剧院等的）服装保管部，戏装部"
+              },
+              "examples": [
+                {
+                  "en": "He's in charge of wardrobe at the local amateur theatre.",
+                  "cn": "他是当地业余剧院戏装部的负责人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

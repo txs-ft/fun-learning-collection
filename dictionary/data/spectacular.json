@@ -1,0 +1,99 @@
+{
+  "title": "spectacular",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/spekˈtæk.jə.lər/",
+        "us": "/spekˈtæk.jə.lɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spekˈtæk.jə.lər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspe/ukspeci024.mp3"
+        },
+        "us": {
+          "ipa": "/spekˈtæk.jə.lɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spe/spect/spectacular.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very exciting to look at",
+                "cn": "壮观的，壮丽的;令人惊叹的"
+              },
+              "examples": [
+                {
+                  "en": "a spectacular view",
+                  "cn": "蔚为壮观的景象"
+                },
+                {
+                  "en": "He scored a spectacular goal in the second half.",
+                  "cn": "他在下半场攻进了漂亮的一球。"
+                },
+                {
+                  "en": "There was a spectacular sunset last night.",
+                  "cn": "昨天的日落非常壮观。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "especially great",
+                "cn": "非常大的，巨大的;惊人的"
+              },
+              "examples": [
+                {
+                  "en": "We've had spectacular success with the product.",
+                  "cn": "我们的产品取得了惊人的成功。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/spekˈtæk.jə.lər/",
+        "us": "/spekˈtæk.jə.lɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spekˈtæk.jə.lər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspe/ukspeci024.mp3"
+        },
+        "us": {
+          "ipa": "/spekˈtæk.jə.lɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spe/spect/spectacular.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an event or performance that is very exciting to watch and involves a lot of people",
+                "cn": "壮观场面;盛大演出"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

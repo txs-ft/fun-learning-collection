@@ -1,0 +1,111 @@
+{
+  "title": "stomach",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈstʌm.ək/",
+        "us": "/ˈstʌm.ək/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈstʌm.ək/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksto/ukstoma001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈstʌm.ək/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sto/stoma/stomach.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an organ in the body where food is digested, or the soft front part of your body just below the chest",
+                "cn": "胃;肚子，腹部"
+              },
+              "examples": [
+                {
+                  "en": "He was punched in the stomach.",
+                  "cn": "他肚子上挨了一拳。"
+                },
+                {
+                  "en": "The doctor asked him to lie down on his stomach.",
+                  "cn": "医生让他俯卧。"
+                },
+                {
+                  "en": "The sight of blood always churns/turns my stomach (= makes me feel as if I am going to vomit).",
+                  "cn": "看见血总会让我反胃。"
+                },
+                {
+                  "en": "She has a very delicate stomach and doesn't eat spicy food.",
+                  "cn": "她肠胃不好，不能吃辛辣食物。"
+                },
+                {
+                  "en": "I was hungry and my stomach had started growling/rumbling (= making noises).",
+                  "cn": "我饿了，肚子开始咕咕叫了。"
+                },
+                {
+                  "en": "He felt a knot of nervousness in the pit (= bottom) of his stomach.",
+                  "cn": "他感到心里一阵紧张。"
+                },
+                {
+                  "en": "I suggested that some weak tea might settle (= calm) her stomach.",
+                  "cn": "我建议她喝杯茶，也许可以缓解她胃部的不适。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈstʌm.ək/",
+        "us": "/ˈstʌm.ək/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈstʌm.ək/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksto/ukstoma001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈstʌm.ək/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sto/stoma/stomach.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be able to accept an unpleasant idea or watch something unpleasant",
+                "cn": "能够容忍，承受得住（令人不快的想法或景象）"
+              },
+              "examples": [
+                {
+                  "en": "He can't stomach the idea that Peter might be the next chairman.",
+                  "cn": "他一想到彼得可能会出任下届主席就很不舒服。"
+                },
+                {
+                  "en": "She found the violence in the film hard to stomach.",
+                  "cn": "她觉得这部电影中的暴力场面令人难以忍受。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

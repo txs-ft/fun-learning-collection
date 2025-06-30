@@ -1,0 +1,124 @@
+{
+  "title": "advantage",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ədˈvɑːn.tɪdʒ/",
+        "us": "/ədˈvæn.t̬ɪdʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ədˈvɑːn.tɪdʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukadu/ukadult010.mp3"
+        },
+        "us": {
+          "ipa": "/ədˈvæn.t̬ɪdʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70095.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a condition giving a greater chance of success",
+                "cn": "有利条件，有利因素；优势；好处"
+              },
+              "examples": [
+                {
+                  "en": "The advantage of booking tickets in advance is that you get better seats.",
+                  "cn": "提前订票的好处就是可以得到比较好的座位。"
+                },
+                {
+                  "en": "Despite the twin advantages of wealth and beauty, she did not have a happy life.",
+                  "cn": "尽管拥有财富和美貌的双重优势，她的生活并不幸福。"
+                },
+                {
+                  "en": "It would be to your advantage (= it would improve the situation for you) to agree to his demands.",
+                  "cn": "答应他的要求对你有利。"
+                },
+                {
+                  "en": "Her background as a financial officer gives her an advantage in dealing with public budgets.",
+                  "cn": ""
+                },
+                {
+                  "en": "His height and reach give him a big advantage over (= make him better than) other boxers.",
+                  "cn": "他身高臂长，这使他在和其他拳击手较量时占有很大优势。"
+                },
+                {
+                  "en": "He has the advantage of being able to walk to work because he lives so close by.",
+                  "cn": ""
+                },
+                {
+                  "en": "\"Do you know how old I am?\" \"I'm afraid you have the advantage of me there (= you know the answer but I do not).\"",
+                  "cn": "“你知道我多大了吗？”“恐怕我不知道。”"
+                },
+                {
+                  "en": "For a goalkeeper, it's a great advantage to have big hands.",
+                  "cn": "对守门员来说，长一双大手是很大的优势。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to use the good things in a situation:",
+                "cn": "我想趁我在这儿期间，要好好利用一下这里的体育设施。"
+              },
+              "examples": [
+                {
+                  "en": "I thought I'd take advantage of the sports facilities while I'm here.",
+                  "cn": "我想趁我在这儿期间，要好好利用一下这里的体育设施。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to treat someone badly in order to get something good from them:",
+                "cn": "我认为她利用他善良的本性占他的便宜。"
+              },
+              "examples": [
+                {
+                  "en": "I think she takes advantage of his good nature.",
+                  "cn": "我认为她利用他善良的本性占他的便宜。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the word used in tennis when a player has won the point after deuce",
+                "cn": "（网球中的）局末平分后占先，优势分"
+              },
+              "examples": [
+                {
+                  "en": "Advantage Miss Williams!",
+                  "cn": "威廉姆斯小姐占先！"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "In games such as football, if a referee plays advantage, they do not stop the game when there is a foul because allowing play to continue gives an advantage to the team that has been fouled:",
+                "cn": "裁判当时应该根据对被犯规方有利的原则允许比赛继续进行，因为鲁尼本来有可能进球的。"
+              },
+              "examples": [
+                {
+                  "en": "The ref should have played advantage because Rooney would have been through on goal.",
+                  "cn": "裁判当时应该根据对被犯规方有利的原则允许比赛继续进行，因为鲁尼本来有可能进球的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

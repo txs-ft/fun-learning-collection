@@ -1,0 +1,70 @@
+{
+  "title": "candidate",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkæn.dɪ.dət/",
+        "us": "/ˈkæn.dɪ.dət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæn.dɪ.dət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcam/ukcamsh022.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæn.dɪ.dət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70677.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a person who is competing to get a job or elected position",
+                "cn": "申请人;候选人"
+              },
+              "examples": [
+                {
+                  "en": "There are three candidates standing in the election.",
+                  "cn": "有3位候选人参加竞选。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a person or thing considered likely to receive or experience something",
+                "cn": "可能有…结局者，被认定会经历…者"
+              },
+              "examples": [
+                {
+                  "en": "The English Department is a likely candidate for staff cuts.",
+                  "cn": "英语系很有可能要裁员。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "someone who is taking an exam",
+                "cn": "考生;应试者，投考者"
+              },
+              "examples": [
+                {
+                  "en": "Candidates must write their names on the top page of the exam paper.",
+                  "cn": "考生必须将自己的名字写在试卷首页。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

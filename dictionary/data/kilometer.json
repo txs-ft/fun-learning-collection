@@ -1,0 +1,39 @@
+{
+  "title": "kilometre",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkɪl.əˌmiː.tər/",
+        "us": "/kɪˈlɑː.mə.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɪl.əˌmiː.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkic/ukkicko019.mp3"
+        },
+        "us": {
+          "ipa": "/kɪˈlɑː.mə.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usk/uskkk/uskkk__006.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a unit of measurement equal to 1,000 metres",
+                "cn": "千米，公里"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

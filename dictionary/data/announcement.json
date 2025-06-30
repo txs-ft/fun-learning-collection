@@ -1,0 +1,57 @@
+{
+  "title": "announcement",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/əˈnaʊns.mənt/",
+        "us": "/əˈnaʊns.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈnaʊns.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukani/ukanima030.mp3"
+        },
+        "us": {
+          "ipa": "/əˈnaʊns.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ann/annou/announcement.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something that someone says officially, giving information about something",
+                "cn": "公告，布告;通告;声明"
+              },
+              "examples": [
+                {
+                  "en": "The president made an unexpected announcement this morning.",
+                  "cn": "今天上午总统发表了一项出人意料的声明。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of announcing something",
+                "cn": "公告，布告;通告;声明"
+              },
+              "examples": [
+                {
+                  "en": "The announcement of the changes has been delayed.",
+                  "cn": "变革内容公布的时间推后了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

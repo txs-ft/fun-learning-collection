@@ -1,0 +1,48 @@
+{
+  "title": "calculator",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkæl.kjə.leɪ.tər/",
+        "us": "/ˈkæl.kjə.leɪ.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæl.kjə.leɪ.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcaj/ukcajun016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæl.kjə.leɪ.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/calcu/calculator.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a small electronic device that is used for doing calculations",
+                "cn": "计算器"
+              },
+              "examples": [
+                {
+                  "en": "You may bring a calculator into the exam.",
+                  "cn": ""
+                },
+                {
+                  "en": "a pocket/hand-held/desktop calculator",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "title": "challenge",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈtʃæl.ɪndʒ/",
+        "us": "/ˈtʃæl.ɪndʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃæl.ɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcey/ukceylo024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃæl.ɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75508.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DIFFICULT JOB",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(the situation of being faced with) something that needs great mental or physical effort in order to be done successfully and therefore tests a person's ability",
+                "cn": "挑战；难题；考验"
+              },
+              "examples": [
+                {
+                  "en": "Finding a solution to this problem is one of the greatest challenges faced by scientists today.",
+                  "cn": "寻找这个难题的解决办法是当今科学家们所面临的最大挑战之一。"
+                },
+                {
+                  "en": "You know me - I like a challenge.",
+                  "cn": "你了解我——我喜欢挑战。"
+                },
+                {
+                  "en": "It's going to be a difficult job but I'm sure she'll rise to the challenge.",
+                  "cn": "这份工作会很有难度，不过我相信她会知难而上的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INVITATION",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an invitation to compete or take part, especially in a game or argument",
+                "cn": "（尤指比赛或辩论）挑战（书），邀请"
+              },
+              "examples": [
+                {
+                  "en": "\"I bet you can't eat all that food on your plate.\" \"Is that a challenge?\"",
+                  "cn": "“我敢打赌你吃不完自己盘里的食物?”“这是在叫板吗？”"
+                },
+                {
+                  "en": "She issued a challenge to her rival candidates to take part in a public debate.",
+                  "cn": "她向与她竞争的候选人发出挑战，邀请他们参加一次公开辩论。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "an invitation to do something difficult, funny, or embarrassing, especially on social media, often as a way of raising money for a good cause",
+                "cn": "（尤指社交网络上的，常为慈善性质）挑战书;参赛邀请"
+              },
+              "examples": [
+                {
+                  "en": "The Ice Bucket Challenge, in which people filmed themselves being doused with icy water, raised awareness and over $100 million for the ALS Association.",
+                  "cn": "“冰桶挑战”的参与者拍摄了自己被冰水浇灌的画面，提高了人们ALS协会的认识并筹集了超过1亿美元的善款。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "QUESTION",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "asking if something is true or legal",
+                "cn": "质疑，怀疑"
+              },
+              "examples": [
+                {
+                  "en": "The result of the vote poses a serious challenge to the government's credibility.",
+                  "cn": "投票结果使人们对政府的可信度提出了严重质疑。"
+                },
+                {
+                  "en": "Because of the way this research was conducted, its findings are open to challenge.",
+                  "cn": "因为研究方法的问题，该项研究的结果颇让人怀疑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INSTRUCTION",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an instruction given by a soldier or guard at a border or gate, telling someone to stand still and say their name and reasons for being there",
+                "cn": "（哨兵或警卫）喝停盘查"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "REFUSAL",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of refusing to accept someone as a member of a jury",
+                "cn": "（对某人出庭担任陪审员表示的）反对，拒绝"
+              },
+              "examples": [
+                {
+                  "en": "A challenge to a member of the jury should be made before the trial begins.",
+                  "cn": "反对某人为陪审团成员的申明应在开审之前宣布。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈtʃæl.ɪndʒ/",
+        "us": "/ˈtʃæl.ɪndʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃæl.ɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcey/ukceylo024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃæl.ɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75508.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INVITE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to invite someone to compete or take part, especially in a game or argument",
+                "cn": "（尤指比赛或辩论）挑战，邀请"
+              },
+              "examples": [
+                {
+                  "en": "Tina has challenged me to a game of poker",
+                  "cn": "蒂娜向我挑战，要我和她玩扑克牌一决高低。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DOUBT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to question if something is true or legal",
+                "cn": "质疑，怀疑"
+              },
+              "examples": [
+                {
+                  "en": "Children challenge their parents' authority far more nowadays than they did in the past.",
+                  "cn": "如今子女对父母权威的质疑远远多于过去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TEST",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to test someone's ability or determination",
+                "cn": "考验…的能力（或决心）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "STOP",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to tell someone at a border or gate to stand still and say their name and reasons for being there",
+                "cn": "（在大门，边境等地）盘问，查问"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "REFUSE TO ACCEPT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to refuse to accept someone as a member of a jury",
+                "cn": "（对某人出庭担任陪审员）表示反对，拒绝"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

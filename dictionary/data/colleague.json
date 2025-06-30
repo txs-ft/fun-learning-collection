@@ -1,0 +1,44 @@
+{
+  "title": "colleague",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkɒl.iːɡ/",
+        "us": "/ˈkɑː.liːɡ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɒl.iːɡ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcoley021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɑː.liːɡ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/colle/colleague.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "one of a group of people who work together",
+                "cn": "同事;同僚"
+              },
+              "examples": [
+                {
+                  "en": "We're entertaining some colleagues of Carol's tonight.",
+                  "cn": "今晚我们要招待卡罗尔的几位同事。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

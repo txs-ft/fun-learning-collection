@@ -1,0 +1,99 @@
+{
+  "title": "vanilla",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/vəˈnɪl.ə/",
+        "us": "/vəˈnɪl.ə/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/vəˈnɪl.ə/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvam/ukvamp_009.mp3"
+        },
+        "us": {
+          "ipa": "/vəˈnɪl.ə/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/van/vanil/vanilla.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a substance made from the seeds of a tropical plant, used to give flavour to sweet foods",
+                "cn": "（用于给食物调味的）香子兰精，香草精"
+              },
+              "examples": [
+                {
+                  "en": "vanilla essence/extract",
+                  "cn": "香子兰精"
+                },
+                {
+                  "en": "vanilla ice cream/yogurt",
+                  "cn": "香草冰激凌／酸奶"
+                },
+                {
+                  "en": "a vanilla milkshake",
+                  "cn": "香草奶昔"
+                },
+                {
+                  "en": "Add two teaspoons of vanilla and stir.",
+                  "cn": "加两茶匙香草精并搅拌一下。"
+                },
+                {
+                  "en": "a vanilla pod (= seed container)",
+                  "cn": "香子兰荚"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/vəˈnɪl.ə/",
+        "us": "/vəˈnɪl.ə/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/vəˈnɪl.ə/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvam/ukvamp_009.mp3"
+        },
+        "us": {
+          "ipa": "/vəˈnɪl.ə/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/van/vanil/vanilla.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "used to describe a product or service that is basic and has no special features",
+                "cn": "（产品或服务）普通的；基本的"
+              },
+              "examples": [
+                {
+                  "en": "I just want a vanilla bank account with low charges.",
+                  "cn": "我只是需要一个普通的低收费的银行帐号。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "title": "politics",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈpɒl.ə.tɪks/",
+        "us": "/ˈpɑː.lə.tɪks/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɒl.ə.tɪks/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpol/ukpolar030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɑː.lə.tɪks/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pol/polit/politics.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the activities of the government, members of law-making organizations, or people who try to influence the way a country is governed",
+                "cn": "政治;政治活动"
+              },
+              "examples": [
+                {
+                  "en": "Joe is very active in left-wing politics.",
+                  "cn": "乔在左翼政治中很活跃。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the job of holding a position of power in the government",
+                "cn": "政治职业，政治事业"
+              },
+              "examples": [
+                {
+                  "en": "The group is campaigning to get more women into politics.",
+                  "cn": "该组织正发起运动以使更多的女性有机会从政。"
+                },
+                {
+                  "en": "He is planning to retire from politics next year.",
+                  "cn": "他打算明年退出政坛。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the study of the ways in which a country is governed",
+                "cn": "政治，政治学"
+              },
+              "examples": [
+                {
+                  "en": "She studied politics at Leicester University.",
+                  "cn": "她曾在莱斯特大学攻读政治学。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "someone's opinions about how a country should be governed",
+                "cn": "（某人的）政治见解，（某人的）政治观点"
+              },
+              "examples": [
+                {
+                  "en": "Her politics have become more liberal over the past few years.",
+                  "cn": "在过去的几年中，她在政治上变得更加倾向于自由主义。"
+                },
+                {
+                  "en": "He moved to Los Angeles, a place more in tune with his politics than Texas.",
+                  "cn": ""
+                },
+                {
+                  "en": "He was accused of twisting the facts to suit his politics.",
+                  "cn": ""
+                },
+                {
+                  "en": "Whatever your politics, you should be happy about these reforms.",
+                  "cn": ""
+                },
+                {
+                  "en": "These people really live their politics, organizing, fundraising, and demonstrating constantly.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the relationships within a group or organization that allow particular people to have power over others",
+                "cn": "（团体或组织内的）争权活动，权术，勾心斗角"
+              },
+              "examples": [
+                {
+                  "en": "I don't like to get involved in office politics.",
+                  "cn": "我不想卷入办公室的争权夺利中去。"
+                },
+                {
+                  "en": "They know how to get on with people and they understand the politics of a social group.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

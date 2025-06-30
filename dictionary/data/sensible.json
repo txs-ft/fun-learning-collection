@@ -1,0 +1,87 @@
+{
+  "title": "sensible",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈsen.sə.bəl/",
+        "us": "/ˈsen.sə.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsen.sə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksen/uksen__025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsen.sə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sen/sensi/sensible.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GOOD JUDGMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "based on or acting on good judgment and practical ideas or understanding",
+                "cn": "理智的;明智的"
+              },
+              "examples": [
+                {
+                  "en": "a sensible answer/approach/compromise/option",
+                  "cn": "明智的回答／方法／妥协／选择"
+                },
+                {
+                  "en": "a sensible person",
+                  "cn": "理智的人"
+                },
+                {
+                  "en": "I think the sensible thing to do is call and ask for directions.",
+                  "cn": "我觉得明智之举是打个电话问好路。"
+                },
+                {
+                  "en": "It would be sensible to take an umbrella.",
+                  "cn": "带把伞是明智的。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "Sensible clothes or shoes are practical and suitable for the purpose they are needed for, rather than being attractive or fashionable",
+                "cn": "（衣服或鞋）合适的，实用的"
+              },
+              "examples": [
+                {
+                  "en": "It could be cold and wet so pack some sensible clothes.",
+                  "cn": "天可能会又冷又潮，带上些合适的衣服。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AWARE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "having an understanding of a situation",
+                "cn": "意识到的;知道的;觉察到的"
+              },
+              "examples": [
+                {
+                  "en": "He did not appear to be sensible of the difficulties that lay ahead.",
+                  "cn": "他看上去并没有意识到前面的困难。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

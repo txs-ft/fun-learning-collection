@@ -1,0 +1,92 @@
+{
+  "title": "terrible",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈter.ə.bəl/",
+        "us": "/ˈter.ə.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈter.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukter/uktermi015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈter.ə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/ter/terri/terrible.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "UNPLEASANT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "very unpleasant or serious or of low quality",
+                "cn": "糟糕的;可怕的;严重的;低劣的"
+              },
+              "examples": [
+                {
+                  "en": "The weather was terrible.",
+                  "cn": "天气糟透了。"
+                },
+                {
+                  "en": "We have just received some terrible news.",
+                  "cn": "我们刚刚收到一些可怕的消息。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BAD AT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "very bad at doing something",
+                "cn": "糟透的，蹩脚的"
+              },
+              "examples": [
+                {
+                  "en": "You're a terrible liar.",
+                  "cn": "你真不擅长说谎。"
+                },
+                {
+                  "en": "I'm a terrible skier/swimmer/dancer.",
+                  "cn": "我不擅长滑雪／游泳／跳舞。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VERY GREAT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "used to emphasize the great degree of something",
+                "cn": "极度的;厉害的;剧烈的;非常严重的"
+              },
+              "examples": [
+                {
+                  "en": "This project is a terrible waste of money.",
+                  "cn": "这个项目完全是在浪费钱财。"
+                },
+                {
+                  "en": "She's a terrible nuisance.",
+                  "cn": "她是个极讨厌的人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "title": "quarter",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkwɔː.tər/",
+        "us": "/ˈkwɔːr.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkwɔː.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo11/cdo1121ukquar3592.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkwɔːr.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/q/qua/quart/quarter.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FOURTH PART",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "one of four equal or almost equal parts of something; ¼",
+                "cn": "四分之一"
+              },
+              "examples": [
+                {
+                  "en": "He cut the orange into quarters.",
+                  "cn": "他把橙子切成了4块。"
+                },
+                {
+                  "en": "Under a quarter of people questioned said that they were happily married.",
+                  "cn": "不到1/4的受访者称他们的婚姻很幸福。"
+                },
+                {
+                  "en": "My house is situated a mile and three-quarters from here.",
+                  "cn": "我的房子距此1.75英里。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "15 minutes:",
+                "cn": "我等了一刻钟然后就回家了。"
+              },
+              "examples": [
+                {
+                  "en": "I waited a quarter of an hour and then went home.",
+                  "cn": "我等了一刻钟然后就回家了。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "15 minutes before two, three, etc.:",
+                "cn": "我离开时差一刻到六点。"
+              },
+              "examples": [
+                {
+                  "en": "It was a quarter to six when I left.",
+                  "cn": "我离开时差一刻到六点。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "15 minutes after two, three, etc.:",
+                "cn": "我们五点一刻见。"
+              },
+              "examples": [
+                {
+                  "en": "I'll meet you at a quarter past five.",
+                  "cn": "我们五点一刻见。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "one of four periods of time into which a year is divided for financial calculations, such as for profits or taxes",
+                "cn": "季度"
+              },
+              "examples": [
+                {
+                  "en": "There was a fall in unemployment in the second quarter of the year.",
+                  "cn": "今年第二季度的失业率有所下降。"
+                },
+                {
+                  "en": "I get an electricity bill every quarter.",
+                  "cn": "我每个季度收到一份电费账单。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "one of four periods in a game of American football and other ball sports",
+                "cn": "（橄榄球赛或其他球赛的）一节，一局"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "COIN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in the US and Canada, a coin worth 25 cents",
+                "cn": "（美国和加拿大的）25分硬币"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "AREA",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "an area of a town where a particular group of people live or work or where a particular activity happens",
+                "cn": "（城镇的）区"
+              },
+              "examples": [
+                {
+                  "en": "This is the bustling commercial quarter of the city.",
+                  "cn": "这里是该城繁华的商业区。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PEOPLE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "one or more people who provide help, information, or a particular reaction to something but who are not usually named",
+                "cn": "（提供帮助、信息或作出反应的）个人，群体"
+              },
+              "examples": [
+                {
+                  "en": "Help came from an unexpected quarter.",
+                  "cn": "帮忙的是个没想到的人。"
+                },
+                {
+                  "en": "There is a feeling in certain/some quarters (= some people consider) that a change is needed.",
+                  "cn": "有些人认为需要进行一次变革。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PLACE TO LIVE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a room or house that has been provided, especially for servants or soldiers and their families, to live in:",
+                "cn": "已婚军人的营房就在城外不远的地方。"
+              },
+              "examples": [
+                {
+                  "en": "The army's married quarters are just outside the town.",
+                  "cn": "已婚军人的营房就在城外不远的地方。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a house or other place to live that has been provided by a company for an employee",
+                "cn": "由公司为雇员提供的房屋（或其他居住场所）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "FORGIVENESS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the fact of being kind towards or forgiving an enemy or opponent",
+                "cn": "（对败者的）宽恕，仁慈，（尤指）饶命"
+              },
+              "examples": [
+                {
+                  "en": "We can expect no quarter from our enemies.",
+                  "cn": "我们不能指望敌人会放过我们。"
+                },
+                {
+                  "en": "He gave no quarter to anyone that disappointed him.",
+                  "cn": "他对任何让他失望的人毫不留情。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈkwɔː.tər/",
+        "us": "/ˈkwɔːr.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkwɔː.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo11/cdo1121ukquar3592.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkwɔːr.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/q/qua/quart/quarter.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CUT INTO FOUR",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to cut something into four parts",
+                "cn": "把…切成四部分"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "SOLDIER",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to send someone, especially soldiers, to live in a place",
+                "cn": "使（尤指部队）驻扎"
+              },
+              "examples": [
+                {
+                  "en": "The soldiers were quartered with (= they lived with) local people during the war.",
+                  "cn": "在战争期间，士兵们住在当地村民家里。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

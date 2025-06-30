@@ -1,0 +1,61 @@
+{
+  "title": "neighbour",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈneɪ.bər/",
+        "us": "/ˈneɪ.bɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈneɪ.bər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/ukneg/uknegot008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈneɪ.bɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/nei/neigh/neighbor.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "someone who lives very close to you",
+                "cn": "邻居"
+              },
+              "examples": [
+                {
+                  "en": "Some of the neighbours have complained about the noise from our party.",
+                  "cn": "有些邻居已经抱怨过我们的聚会太喧闹。"
+                },
+                {
+                  "en": "Have you met Pat, my next-door neighbour?",
+                  "cn": "你见过我隔壁的邻居帕特了吗？"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a country that is next to another country",
+                "cn": "邻邦，邻国"
+              },
+              "examples": [
+                {
+                  "en": "The relationship between Scotland and its southern neighbour (= England) has not always been peaceful.",
+                  "cn": "苏格兰和南方邻邦的关系并非一直很和睦。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

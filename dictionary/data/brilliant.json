@@ -1,0 +1,104 @@
+{
+  "title": "brilliant",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈbrɪl.jənt/",
+        "us": "/ˈbrɪl.jənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbrɪl.jənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbri/ukbriga012.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbrɪl.jənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bri/brill/brilliant.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INTELLIGENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely intelligent or skilled",
+                "cn": "颇有才气的，聪颖的;技艺高超的"
+              },
+              "examples": [
+                {
+                  "en": "Her mother was a brilliant scientist.",
+                  "cn": "她母亲是一位才华横溢的科学家。"
+                },
+                {
+                  "en": "He gave a brilliant performance.",
+                  "cn": "他的表演非常出色。"
+                },
+                {
+                  "en": "The idea was quite brilliant.",
+                  "cn": "这个想法太高明了。"
+                },
+                {
+                  "en": "She seemed to have a brilliant career ahead of her (= was likely to be extremely successful).",
+                  "cn": "她似乎前途灿烂。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHINING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "full of light, shining, or bright in colour",
+                "cn": "光明的，明亮的;（颜色）鲜艳的"
+              },
+              "examples": [
+                {
+                  "en": "The sky was a brilliant, cloudless blue.",
+                  "cn": "天空晴朗无云，一片蔚蓝。"
+                },
+                {
+                  "en": "I was dazzled by a brilliant light.",
+                  "cn": "明亮的灯光晃花了我的眼睛。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VERY GOOD",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "very good",
+                "cn": "非常好的，出色的"
+              },
+              "examples": [
+                {
+                  "en": "\"Did you like the film?\" \"I thought it was brilliant.\"",
+                  "cn": "“你喜欢这部电影吗?”“我觉得它非常棒。”"
+                },
+                {
+                  "en": "She's got a brilliant sense of humour.",
+                  "cn": "她极富幽默感。"
+                },
+                {
+                  "en": "Oh, brilliant! My parcel's arrived.",
+                  "cn": "噢，太棒了！我的包裹到了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

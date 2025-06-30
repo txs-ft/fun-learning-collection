@@ -1,0 +1,65 @@
+{
+  "title": "advertisement",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ədˈvɜː.tɪs.mənt/",
+        "us": "/ˌæd.vɚˈtaɪz.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ədˈvɜː.tɪs.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukadu/ukadult030.mp3"
+        },
+        "us": {
+          "ipa": "/ˌæd.vɚˈtaɪz.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/adv/adver/advertisement.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a picture, short film, song, etc. that tries to persuade people to buy a product or service",
+                "cn": "广告;启事"
+              },
+              "examples": [
+                {
+                  "en": "I saw an advertisement for the new restaurant that opened in town.",
+                  "cn": ""
+                },
+                {
+                  "en": "Many companies run advertisements in the magazine.",
+                  "cn": ""
+                },
+                {
+                  "en": "The impression given in the advertisement is misleading.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "If someone or something is an advertisement for something, they show its good effects:",
+                "cn": "恐怕我不是这套减肥饮食计划的活广告，因为我的体重实际上是增加了！"
+              },
+              "examples": [
+                {
+                  "en": "I'm afraid I'm not a very good advertisement for the diet since I've actually put on weight!",
+                  "cn": "恐怕我不是这套减肥饮食计划的活广告，因为我的体重实际上是增加了！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

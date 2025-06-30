@@ -1,0 +1,66 @@
+{
+  "title": "terrific",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/təˈrɪf.ɪk/",
+        "us": "/təˈrɪf.ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/təˈrɪf.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukter/uktermi018.mp3"
+        },
+        "us": {
+          "ipa": "/təˈrɪf.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/ter/terri/terrific.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VERY GOOD",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very good",
+                "cn": "极好的"
+              },
+              "examples": [
+                {
+                  "en": "a terrific opportunity",
+                  "cn": "极好的机会"
+                },
+                {
+                  "en": "You look terrific!",
+                  "cn": "你看起来棒极了！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VERY GREAT",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "used to emphasize the great amount or degree of something",
+                "cn": "（用于强调数量或程度）极大的，异乎寻常的"
+              },
+              "examples": [
+                {
+                  "en": "The police car drove past at a terrific speed.",
+                  "cn": "警车疾驶而过。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

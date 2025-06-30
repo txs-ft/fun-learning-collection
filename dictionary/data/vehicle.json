@@ -1,0 +1,91 @@
+{
+  "title": "vehicle",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈvɪə.kəl/",
+        "us": "/ˈviː.ə.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈvɪə.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvec/ukvecto021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈviː.ə.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/veh/vehic/vehicle.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MACHINE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a machine, usually with wheels and an engine, used for transporting people or goods, especially on land",
+                "cn": "（陆上）交通工具；车辆；机动车"
+              },
+              "examples": [
+                {
+                  "en": "A truck driver died last night when his vehicle overturned.",
+                  "cn": "昨晚一辆卡车翻了车，司机死亡。"
+                },
+                {
+                  "en": "Road vehicles include cars, buses, and trucks.",
+                  "cn": "道路交通工具包括汽车、公共汽车和卡车。"
+                },
+                {
+                  "en": "Tractors are farm vehicles.",
+                  "cn": "拖拉机是农用车辆。"
+                },
+                {
+                  "en": "The number of thefts of motor vehicles rose by a third last year.",
+                  "cn": "去年机动车失窃案数量上升了1/3。"
+                },
+                {
+                  "en": "In a racing video game the player takes part in a racing competition with land, air, or sea vehicles.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "METHOD",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a way of achieving, producing, or expressing something",
+                "cn": "（实现、产生或表达…的）方法，手段，媒介"
+              },
+              "examples": [
+                {
+                  "en": "The conference was seen as an ideal vehicle for increased cooperation between the member states.",
+                  "cn": "那次会议被视为增进成员国之间合作的理想途径。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a show, film, exhibition, etc. that is used to show the special skills or qualities of one particular performer or artist",
+                "cn": "（为某个表演者或艺术家）特意制作的电影（或演出节目、展览等）"
+              },
+              "examples": [
+                {
+                  "en": "The play seems to be little more than a vehicle for its director and star.",
+                  "cn": "那部戏看起来不过是为其导演兼主演量身打造的而已。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

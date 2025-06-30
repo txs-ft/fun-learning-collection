@@ -1,0 +1,133 @@
+{
+  "title": "remember",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/rɪˈmem.bər/",
+        "us": "/rɪˈmem.bɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈmem.bər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrem/ukremak008.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈmem.bɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rem/remem/remember.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to be able to bring back a piece of information into your mind, or to keep a piece of information in your memory",
+                "cn": "记得，记起，回想起;记住，牢记"
+              },
+              "examples": [
+                {
+                  "en": "\"Where did you park the car?\" \"I can't remember.\"",
+                  "cn": "“你把车停在哪儿了？”“我不记得了。”"
+                },
+                {
+                  "en": "I can remember people's faces, but not their names.",
+                  "cn": "我可以记住人的长相，但记不住人的名字。"
+                },
+                {
+                  "en": "She suddenly remembered (that) her keys were in her other bag.",
+                  "cn": "她忽然想起她的钥匙放在另一个包里了。"
+                },
+                {
+                  "en": "I don't remember signing a contract.",
+                  "cn": "我不记得曾签过一份合同。"
+                },
+                {
+                  "en": "Can you remember what her phone number is?",
+                  "cn": "你记得她的电话号码是多少吗？"
+                },
+                {
+                  "en": "I remember him as (= I thought he was) a rather annoying man.",
+                  "cn": "在我记忆中，他是个很令人讨厌的人。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to not forget to do something:",
+                "cn": "你记得去商店买东西了吗？"
+              },
+              "examples": [
+                {
+                  "en": "Did you remember to do the shopping?",
+                  "cn": "你记得去商店买东西了吗？"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be kept in people's memories because of a particular action or quality:",
+                "cn": "她将因其勇敢而被人们铭记。"
+              },
+              "examples": [
+                {
+                  "en": "She will be remembered for her courage.",
+                  "cn": "她将因其勇敢而被人们铭记。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "said when you are talking to someone about something that they used to know but might have forgotten:",
+                "cn": "我们去了一家小咖啡馆喝茶——你没有忘吧，书店旁边的那家咖啡馆。"
+              },
+              "examples": [
+                {
+                  "en": "We went and had tea in that little café - you remember, the one next to the bookshop.",
+                  "cn": "我们去了一家小咖啡馆喝茶——你没有忘吧，书店旁边的那家咖啡馆。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to hold a special ceremony to honour a past event or someone who has died",
+                "cn": "纪念;怀念;缅怀"
+              },
+              "examples": [
+                {
+                  "en": "On 11 November, the British remember those who died in the two World Wars.",
+                  "cn": "英国人在每年的11月11日纪念两次世界大战中的死难者。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to give a present or money to someone you love or who has provided good service to you",
+                "cn": "给…送礼品（或钱）;给…谢礼"
+              },
+              "examples": [
+                {
+                  "en": "My Granny always remembers me (= sends me a present) on my birthday.",
+                  "cn": "我过生日时我奶奶总是送我礼物。"
+                },
+                {
+                  "en": "My cousin remembered me in her will.",
+                  "cn": "我表姐在遗嘱中给我留下一笔钱。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

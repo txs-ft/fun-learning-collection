@@ -1,0 +1,56 @@
+{
+  "title": "hospital",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈhɒs.pɪ.təl/",
+        "us": "/ˈhɑː.spɪ.t̬əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhɒs.pɪ.təl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhor/ukhorsi013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhɑː.spɪ.t̬əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72257.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a place where people who are ill or injured are treated and taken care of by doctors and nurses",
+                "cn": "医院"
+              },
+              "examples": [
+                {
+                  "en": "a general/children's/maternity hospital",
+                  "cn": "综合／儿童／妇产医院"
+                },
+                {
+                  "en": "hospital patients/staff",
+                  "cn": "医院的病人／工作人员"
+                },
+                {
+                  "en": "I've got to go (in)to hospital (US to the hospital) to have an operation.",
+                  "cn": "我不得不接受手术。"
+                },
+                {
+                  "en": "She spent a week in hospital (US in the hospital) last year.",
+                  "cn": "去年她住了一个星期的院。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

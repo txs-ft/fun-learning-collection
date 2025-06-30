@@ -1,0 +1,122 @@
+{
+  "title": "realize",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈrɪə.laɪz/",
+        "us": "/ˈriː.ə.laɪz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈrɪə.laɪz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrea/ukreadi021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈriː.ə.laɪz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rea/reali/realize.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BECOME AWARE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to understand a situation, sometimes suddenly",
+                "cn": "明白;认识到;意识到"
+              },
+              "examples": [
+                {
+                  "en": "They didn't realize the danger they were in.",
+                  "cn": "他们没有意识到自己身处危险之中。"
+                },
+                {
+                  "en": "\"Do you realize (that) this is the third time you've forgotten?\" she said angrily.",
+                  "cn": "“你知不知道这已经是你第三次忘记这件事了？”她生气地说。"
+                },
+                {
+                  "en": "I realize how difficult it's going to be, but we must try.",
+                  "cn": "我知道这有多困难，但我们必须试一试。"
+                },
+                {
+                  "en": "As he watched the TV show, he suddenly realized (that) he'd seen it before.",
+                  "cn": "他在看那部电视剧的时候，忽然意识到以前曾看过。"
+                },
+                {
+                  "en": "\"You're standing on my foot.\" \"Sorry, I didn't realize.\"",
+                  "cn": "“你踩我脚了。”“对不起，我没注意。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACHIEVE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to achieve something you were hoping for",
+                "cn": "实现；使变为事实；使发生"
+              },
+              "examples": [
+                {
+                  "en": "Lots of money, a luxury house, a fast car - Danny had realized all his ambitions by the age of 25.",
+                  "cn": "巨款、豪宅、跑车——丹尼所有的愿望都在25岁前实现了。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "used for saying that something that someone was worrying about really happened:",
+                "cn": "10年后，她最害怕的事情发生了。"
+              },
+              "examples": [
+                {
+                  "en": "Ten years later her worst fears were realized.",
+                  "cn": "10年后，她最害怕的事情发生了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be sold for a particular amount of money",
+                "cn": "变卖资产;变现"
+              },
+              "examples": [
+                {
+                  "en": "The paintings are expected to realize $500,000 each.",
+                  "cn": "预期这些画每幅值价50万美元。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to sell property in order to get some money:",
+                "cn": "他不得不变卖所有的资产来还债。"
+              },
+              "examples": [
+                {
+                  "en": "He had to realize all his assets to pay off his debts.",
+                  "cn": "他不得不变卖所有的资产来还债。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

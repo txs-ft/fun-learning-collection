@@ -1,0 +1,139 @@
+{
+  "title": "particular",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/pəˈtɪk.jə.lər/",
+        "us": "/pɚˈtɪk.jə.lɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pəˈtɪk.jə.lər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpar/ukparsi023.mp3"
+        },
+        "us": {
+          "ipa": "/pɚˈtɪk.jə.lɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/par/parti/particular.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SPECIAL",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "special, or this and not any other",
+                "cn": "特定的，具体的"
+              },
+              "examples": [
+                {
+                  "en": "She wanted a particular type of cactus.",
+                  "cn": "她要某一特定品种的仙人掌。"
+                },
+                {
+                  "en": "He wouldn't take just any book - he had to have this particular one!",
+                  "cn": "他不会随便买本书——他得买这本！"
+                },
+                {
+                  "en": "\"Why did you ask?\" \"Oh, no particular reason, just making conversation.\"",
+                  "cn": "“你为什么问呢？”“哦，没什么特别的原因，就是没话找话。”"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "especially:",
+                "cn": "我们最后看的那套公寓你特别喜欢它哪一点？"
+              },
+              "examples": [
+                {
+                  "en": "What in particular did you like about the last apartment that we saw?",
+                  "cn": "我们最后看的那套公寓你特别喜欢它哪一点？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT EASILY SATISFIED",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "not easily satisfied and demanding that close attention should be given to every detail",
+                "cn": "讲究的；苛求的，挑剔的"
+              },
+              "examples": [
+                {
+                  "en": "He's very particular about the kitchen - everything has to be perfectly clean and in its place.",
+                  "cn": "他对厨房非常挑剔——每样东西都得一尘不染，物归原位。"
+                },
+                {
+                  "en": "She's very particular about what she eats.",
+                  "cn": "她对吃的非常挑剔。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/pəˈtɪk.jə.lər/",
+        "us": "/pɚˈtɪk.jə.lɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pəˈtɪk.jə.lər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpar/ukparsi023.mp3"
+        },
+        "us": {
+          "ipa": "/pɚˈtɪk.jə.lɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/par/parti/particular.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "details or information about a person or an event, especially when officially recorded:",
+                "cn": "这里有一份表格，请在上面填写你所有的个人资料。"
+              },
+              "examples": [
+                {
+                  "en": "There's a form for you to note down all your particulars.",
+                  "cn": "这里有一份表格，请在上面填写你所有的个人资料。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "If you are considering the particular, you are considering single examples rather than general matters or ideas.",
+                "cn": "具体情况，详情，细节"
+              },
+              "examples": [
+                {
+                  "en": "The report focuses on the particular rather than the general and so doesn't draw any overall conclusions.",
+                  "cn": "这份报道着重详细情况，而非整体概貌，所以没有作出总的结论。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

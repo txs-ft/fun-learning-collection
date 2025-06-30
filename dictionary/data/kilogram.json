@@ -1,0 +1,39 @@
+{
+  "title": "kilogram",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkɪl.ə.ɡræm/",
+        "us": "/ˈkɪl.ə.ɡræm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɪl.ə.ɡræm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkic/ukkicko016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɪl.ə.ɡræm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kil/kilog/kilogram.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a unit of mass equal to 1,000 grams",
+                "cn": "千克，公斤"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

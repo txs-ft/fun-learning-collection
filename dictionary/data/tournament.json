@@ -1,0 +1,48 @@
+{
+  "title": "tournament",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈtʊə.nə.mənt/",
+        "us": "/ˈtɝː.nə.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʊə.nə.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktou/uktouch018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtɝː.nə.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tou/tourn/tournament.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a competition for teams or single players in which a series of games is played, and the winners of each game play against each other until only one winner is left",
+                "cn": "锦标赛"
+              },
+              "examples": [
+                {
+                  "en": "a tennis/chess/golf tournament",
+                  "cn": "网球／国际象棋／高尔夫球锦标赛"
+                },
+                {
+                  "en": "They were defeated in the first round of the tournament.",
+                  "cn": "他们在锦标赛的第一轮就被打败了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

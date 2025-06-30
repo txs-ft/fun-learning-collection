@@ -1,0 +1,56 @@
+{
+  "title": "enormous",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ɪˈnɔː.məs/",
+        "us": "/əˈnɔːr.məs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪˈnɔː.məs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukenl/ukenliv008.mp3"
+        },
+        "us": {
+          "ipa": "/əˈnɔːr.məs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eno/enorm/enormous.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely large",
+                "cn": "极大的；巨大的；庞大的"
+              },
+              "examples": [
+                {
+                  "en": "an enormous car/house",
+                  "cn": "大轿车／大房子"
+                },
+                {
+                  "en": "He earns an enormous salary.",
+                  "cn": "他工资极高。"
+                },
+                {
+                  "en": "I was absolutely enormous when I was pregnant.",
+                  "cn": "我怀孕的时候，身体十分臃肿。"
+                },
+                {
+                  "en": "You've been an enormous help.",
+                  "cn": "你真是帮了大忙。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

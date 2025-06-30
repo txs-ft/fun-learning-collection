@@ -1,0 +1,69 @@
+{
+  "title": "typical",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈtɪp.ɪ.kəl/",
+        "us": "/ˈtɪp.ɪ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtɪp.ɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktyp/uktypho003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtɪp.ɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/typ/typic/typical.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "showing all the characteristics that you would usually expect from a particular group of things",
+                "cn": "典型的，有代表性的"
+              },
+              "examples": [
+                {
+                  "en": "I must look like the typical tourist with my shorts and my camera.",
+                  "cn": "穿着短裤，带着相机，我看上去一定像个典型的游客。"
+                },
+                {
+                  "en": "This kind of hot and spicy food is very typical of the food in the south of the country.",
+                  "cn": "这种辛辣食品是该国南部具代表性的食物。"
+                },
+                {
+                  "en": "Typical symptoms would include severe headaches, vomiting and dizziness.",
+                  "cn": "典型的症状包括剧烈的头疼、呕吐和眩晕。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "showing all the bad characteristics that you expect from someone or something, often in a way that is annoying",
+                "cn": "（不良品质等）特有的，一向如此的，不出所料的"
+              },
+              "examples": [
+                {
+                  "en": "It's just typical of Dan to spend all that money on the equipment and then lose interest two months later.",
+                  "cn": "丹就是这种人，先把所有的钱花在买装备上，两个月以后又失去了兴趣。"
+                },
+                {
+                  "en": "\"He called at the last minute to say he wasn't coming.\" \"Typical!\"",
+                  "cn": "“他在最后时刻打电话说不来了。”“他老是这样！”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

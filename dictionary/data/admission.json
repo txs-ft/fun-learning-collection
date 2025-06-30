@@ -1,0 +1,104 @@
+{
+  "title": "admission",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ədˈmɪʃ.ən/",
+        "us": "/ədˈmɪʃ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ədˈmɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukadj/ukadjus023.mp3"
+        },
+        "us": {
+          "ipa": "/ədˈmɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/adm/admis/admission.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACCEPTING",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of agreeing that something is true, especially unwillingly",
+                "cn": "（尤指不情愿的）承认;供认;招认"
+              },
+              "examples": [
+                {
+                  "en": "Her silence was taken as an admission of guilt.",
+                  "cn": ""
+                },
+                {
+                  "en": "By his own admission (= as he has said), he has achieved little since he took over the company.",
+                  "cn": "据他自己说，自从接手公司以来，他几乎一事无成。"
+                },
+                {
+                  "en": "I felt he would see my giving up now as an admission that I was wrong.",
+                  "cn": "我觉得，如果这时候我放弃，在他眼里这将意味着我承认自己错了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALLOWING IN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the money that you pay to enter a place",
+                "cn": "入场费，门票费"
+              },
+              "examples": [
+                {
+                  "en": "How much do they charge for admission?",
+                  "cn": "他们入场费要收多少钱？"
+                },
+                {
+                  "en": "The admission charge/fee is €5.",
+                  "cn": "门票是五欧元。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "permission to enter a place",
+                "cn": "准许进入"
+              },
+              "examples": [
+                {
+                  "en": "Admission to the exhibition will be by invitation only.",
+                  "cn": "只有持请帖者才可进入展览会场。"
+                },
+                {
+                  "en": "There's a notice outside the building that says \"No admission before twelve noon\".",
+                  "cn": "楼外有张告示，写着“中午12点以前禁止入内”。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the process of accepting people into a university, school, etc. as students, or the part of a university, school, etc. that deals with this:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "en": "We want to encourage greater age diversity in university admissions.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "title": "previous",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈpriː.vi.əs/",
+        "us": "/ˈpriː.vi.əs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpriː.vi.əs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpre/ukprete026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpriː.vi.əs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pre/previ/previous.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "happening or existing before something or someone else",
+                "cn": "以前的，先前的"
+              },
+              "examples": [
+                {
+                  "en": "The previous owner of the house had built an extension on the back.",
+                  "cn": "这所房子以前的主人对房子后部进行了扩建。"
+                },
+                {
+                  "en": "Training is provided, so no previous experience is required for the job.",
+                  "cn": "这项工作提供培训，因此不要求以前有相关经验。"
+                },
+                {
+                  "en": "He has two daughters from a previous marriage.",
+                  "cn": "他在前次婚姻中育有两个女儿。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈpriː.vi.əs/",
+        "us": "/ˈpriː.vi.əs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpriː.vi.əs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpre/ukprete026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpriː.vi.əs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pre/previ/previous.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "If someone has previous, they have been found guilty of one or more crimes in the past. Previous is short for \"previous convictions\".",
+                "cn": "犯罪前科（previous convictions的缩写）"
+              },
+              "examples": [
+                {
+                  "en": "He's got previous for stealing from his employer.",
+                  "cn": "他有从雇主那里偷东西的犯罪前科。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

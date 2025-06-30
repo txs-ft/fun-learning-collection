@@ -1,0 +1,65 @@
+{
+  "title": "typically",
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "pron": {
+        "uk": "/ˈtɪp.ɪ.kəl.i/",
+        "us": "/ˈtɪp.ɪ.kəl.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtɪp.ɪ.kəl.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktyp/uktypho004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtɪp.ɪ.kəl.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/typ/typic/typically.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in a way that shows all the characteristics that you would expect from the stated person, thing, or group",
+                "cn": "典型地；有代表性地"
+              },
+              "examples": [
+                {
+                  "en": "She has that reserve and slight coldness of manner which is typically English.",
+                  "cn": "她像典型的英国人那样态度矜持，略显冷淡。"
+                },
+                {
+                  "en": "Paul, in his typically blunt manner, told him he wasn't interested.",
+                  "cn": "保罗以惯有的生硬口气说他不感兴趣。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used when you are giving an average or usual example of a particular thing",
+                "cn": "一般地；通常"
+              },
+              "examples": [
+                {
+                  "en": "Typically, a doctor will see about 30 patients a day.",
+                  "cn": "医生通常每天要看约30位病人。"
+                },
+                {
+                  "en": "Tickets for these events will typically cost around thirty dollars.",
+                  "cn": "这种活动的票价通常在30美元左右。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

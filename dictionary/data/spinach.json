@@ -1,0 +1,83 @@
+{
+  "title": "spinach",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈspɪn.ɪtʃ/",
+        "us": "/ˈspɪn.ɪtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspɪn.ɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspi/ukspide019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspɪn.ɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spi/spina/spinach.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a vegetable with wide, dark green leaves that are eaten cooked or uncooked",
+                "cn": "菠菜"
+              },
+              "examples": [
+                {
+                  "en": "spinach lasagne/salad",
+                  "cn": "菠菜千层面／色拉"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈspɪn.ɪtʃ/",
+        "us": "/ˈspɪn.ɪtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspɪn.ɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspi/ukspide019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspɪn.ɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spi/spina/spinach.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "not very enjoyable but good for you",
+                "cn": "未必很有趣但有益的"
+              },
+              "examples": [
+                {
+                  "en": "spinach cinema",
+                  "cn": "发人深思的电影"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "medicine",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈmed.ɪ.sən/",
+        "us": "/ˈmed.ɪ.sən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmed.ɪ.sən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmed/ukmeddl019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmed.ɪ.sən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72958.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TREATMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "treatment for illness or injury, or the study of this",
+                "cn": "医术;医学"
+              },
+              "examples": [
+                {
+                  "en": "paediatric/preventative medicine",
+                  "cn": "儿科／预防医学"
+                },
+                {
+                  "en": "orthodox/Western medicine",
+                  "cn": "正统／西方医学"
+                },
+                {
+                  "en": "a career in medicine",
+                  "cn": "从医生涯"
+                },
+                {
+                  "en": "She is a doctor, but is unable to practise medicine (= work as a doctor) in her own country.",
+                  "cn": "她是位医生，却不能在自己的国家行医。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUBSTANCE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a substance, especially in the form of a liquid or a pill, that is a treatment for illness or injury",
+                "cn": "药，药物，药剂"
+              },
+              "examples": [
+                {
+                  "en": "cough medicine",
+                  "cn": "止咳药"
+                },
+                {
+                  "en": "Take two spoonfuls of medicine at mealtimes.",
+                  "cn": "进餐时服两勺药。"
+                },
+                {
+                  "en": "She knows a lot about herbal medicines.",
+                  "cn": "她懂得许多关于草药的知识。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

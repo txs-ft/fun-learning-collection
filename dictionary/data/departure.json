@@ -1,0 +1,87 @@
+{
+  "title": "departure",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/dɪˈpɑː.tʃər/",
+        "us": "/dɪˈpɑːr.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈpɑː.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukden/ukdensi019.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈpɑːr.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75582.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LEAVING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the fact of a person or vehicle, etc. leaving somewhere",
+                "cn": "（人、交通工具等）离开;启程，出发"
+              },
+              "examples": [
+                {
+                  "en": "There are several departures (= buses, trains, or aircraft leaving) for Paris every day.",
+                  "cn": "每天都有好几个班次去巴黎。"
+                },
+                {
+                  "en": "Our departure was delayed because of bad weather.",
+                  "cn": "由于天气不好，我们的出发时间推迟了。"
+                },
+                {
+                  "en": "departure time",
+                  "cn": "出发时间"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of leaving a job",
+                "cn": "离职，辞职"
+              },
+              "examples": [
+                {
+                  "en": "Everyone in the office was surprised by Graham's sudden departure.",
+                  "cn": "格雷厄姆的突然离职让办公室里的每个人都感到非常意外。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHANGE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a change from what is expected, or from what has happened before",
+                "cn": "偏离，背离，脱离"
+              },
+              "examples": [
+                {
+                  "en": "There can be no departure from the rules.",
+                  "cn": "不得违反规则。"
+                },
+                {
+                  "en": "Selling men's clothing is a new departure for the store.",
+                  "cn": "经营男装是该店的一项新业务。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

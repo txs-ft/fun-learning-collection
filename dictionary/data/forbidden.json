@@ -1,0 +1,44 @@
+{
+  "title": "forbidden",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/fəˈbɪd.ən/",
+        "us": "/fɚˈbɪd.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/fəˈbɪd.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfor/ukforbe006.mp3"
+        },
+        "us": {
+          "ipa": "/fɚˈbɪd.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/for/forbi/forbidden_forbid.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not allowed, especially by law",
+                "cn": "（尤指法律）禁止的，不准的"
+              },
+              "examples": [
+                {
+                  "en": "Smoking is forbidden in the cinema.",
+                  "cn": "电影院里禁止吸烟。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

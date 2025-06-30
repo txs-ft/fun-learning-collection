@@ -1,0 +1,48 @@
+{
+  "title": "refreshment",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rɪˈfreʃ.mənt/",
+        "us": "/rɪˈfreʃ.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈfreʃ.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukref/ukrefre002.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈfreʃ.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/ref/refre/refreshment.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(small amounts of) food and drink",
+                "cn": "茶点;点心和饮料"
+              },
+              "examples": [
+                {
+                  "en": "He stopped at a bar for a little refreshment.",
+                  "cn": "他在一家小吃店前停下买些点心饮料。"
+                },
+                {
+                  "en": "Light refreshments will be available at the back of the hall.",
+                  "cn": "会堂后面将会供应简单的茶点。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

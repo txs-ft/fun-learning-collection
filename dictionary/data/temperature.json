@@ -1,0 +1,78 @@
+{
+  "title": "temperature",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈtem.prə.tʃər/",
+        "us": "/ˈtem.pɚ.ə.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtem.prə.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktel/uktelex017.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtem.pɚ.ə.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tem/tempe/temperature.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "HEAT LEVEL",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the measured amount of heat in a place or in the body",
+                "cn": "温度;体温"
+              },
+              "examples": [
+                {
+                  "en": "Preheat the oven to a temperature of 200 degrees Celsius.",
+                  "cn": "把炉子预热到200摄氏度。"
+                },
+                {
+                  "en": "Temperatures have risen over the past few days (= the weather has become warmer).",
+                  "cn": "最近几天气温突然上升了。"
+                },
+                {
+                  "en": "The doctor examined him and took his temperature (= measured it).",
+                  "cn": "医生给他做了检查，并量了他的体温。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to have a higher body temperature than normal and to be ill",
+                "cn": "发烧"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "OF A SITUATION",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "If you say that the temperature in a particular situation is rising, you mean that it is likely to become violent because people have become angry.",
+                "cn": "紧张程度，激烈程度"
+              },
+              "examples": [
+                {
+                  "en": "The temperature of the discussion started to rise as each side added its own arguments.",
+                  "cn": "由于讨论双方各执一词，气氛开始变得紧张起来。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

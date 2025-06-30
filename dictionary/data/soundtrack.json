@@ -1,0 +1,44 @@
+{
+  "title": "soundtrack",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈsaʊnd.træk/",
+        "us": "/ˈsaʊnd.træk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsaʊnd.træk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksou/uksound006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsaʊnd.træk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/uss/ussor/ussoreh026.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the sounds, especially the music, of a film, or a separate recording of this",
+                "cn": "电影声迹;（尤指）电影配乐;电影原声音带"
+              },
+              "examples": [
+                {
+                  "en": "The best thing about the movie is its soundtrack.",
+                  "cn": "这部电影最成功的地方就是它的配乐。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

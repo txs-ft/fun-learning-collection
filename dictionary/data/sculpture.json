@@ -1,0 +1,48 @@
+{
+  "title": "sculpture",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈskʌlp.tʃər/",
+        "us": "/ˈskʌlp.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈskʌlp.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukscr/ukscrum020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈskʌlp.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/scu/sculp/sculpture.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the art of forming solid objects that represent a thing, person, idea, etc. out of a material such as wood, clay, metal, or stone, or an object made in this way",
+                "cn": "雕塑，雕刻;塑像，雕塑品，雕刻品"
+              },
+              "examples": [
+                {
+                  "en": "Tom teaches sculpture at the local art school.",
+                  "cn": "汤姆在当地艺校教雕塑。"
+                },
+                {
+                  "en": "The museum has several life-sized sculptures of people and animals.",
+                  "cn": "博物馆里陈列着几个实物大小的人和动物雕塑。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

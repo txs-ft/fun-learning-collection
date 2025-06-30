@@ -1,0 +1,183 @@
+{
+  "title": "independent",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌɪn.dɪˈpen.dənt/",
+        "us": "/ˌɪn.dɪˈpen.dənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɪn.dɪˈpen.dənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukind/ukindel009.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɪn.dɪˈpen.dənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ind/indep/independent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT INFLUENCED",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "not influenced or controlled in any way by other people, events, or things",
+                "cn": "独立的"
+              },
+              "examples": [
+                {
+                  "en": "an independent enquiry/organization",
+                  "cn": "独立调查／机构"
+                },
+                {
+                  "en": "They all made the same comment, quite independent of each other (= without deciding together to do so).",
+                  "cn": "他们都不约而同作出了相同的评论。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "An independent politician does not agree or vote with any particular political party.",
+                "cn": "（从政者）无党派的"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "NOT RULED",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "An independent country is not governed or ruled by another country.",
+                "cn": "（国家）独立的"
+              },
+              "examples": [
+                {
+                  "en": "Belize became fully independent from Britain in 1981.",
+                  "cn": "伯利兹于1981年脱离英国完全独立。"
+                },
+                {
+                  "en": "The 2014 referendum in Scotland focused on a simple \"yes\" or \"no\" question: Should Scotland be an independent country?",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT HELPED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not taking help or money from other people",
+                "cn": "自立的，独立的"
+              },
+              "examples": [
+                {
+                  "en": "Grandma's very independent and does all her own shopping and cooking.",
+                  "cn": "祖母非常独立，购物做饭全是自己干。"
+                },
+                {
+                  "en": "I've always been financially independent.",
+                  "cn": "在经济上我一直自食其力。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GRAMMAR",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "An independent grammatical clause forms part of a sentence but can also form a separate sentence.",
+                "cn": "（分句）独立的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌɪn.dɪˈpen.dənt/",
+        "us": "/ˌɪn.dɪˈpen.dənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɪn.dɪˈpen.dənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukind/ukindel009.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɪn.dɪˈpen.dənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ind/indep/independent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "POLITICS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a politician who does not represent a political party",
+                "cn": "（不代表任何党派的）独立政客"
+              },
+              "examples": [
+                {
+                  "en": "He left the Conservatives and stood as an independent.",
+                  "cn": "他离开了保守党，以独立候选人身份参选。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a voter who does not belong to a political party",
+                "cn": "不属于任何党派的投票人"
+              },
+              "examples": [
+                {
+                  "en": "She is gaining support among independents who have no political preference or who lean Democratic.",
+                  "cn": "她正在获得那些没有政治倾向或倾向民主党的独立投票人的支持。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUSINESS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a shop, small business, etc. that is not part of a large company",
+                "cn": "（不属于大企业的）独立经营店铺，独立小企业"
+              },
+              "examples": [
+                {
+                  "en": "The band would rather sign to an independent than a major record label.",
+                  "cn": "这支乐队宁愿跟独立唱片公司签约，而不是跟大公司。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

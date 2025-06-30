@@ -1,0 +1,57 @@
+{
+  "title": "architecture",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈɑː.kɪ.tek.tʃər/",
+        "us": "/ˈɑːr.kə.tek.tʃɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑː.kɪ.tek.tʃər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarc/ukarcha028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɑːr.kə.tek.tʃɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/arc/archi/architecture.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the art and practice of designing and making buildings",
+                "cn": "建筑学;建筑术"
+              },
+              "examples": [
+                {
+                  "en": "to study architecture",
+                  "cn": "学习建筑学"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the style in which buildings are made",
+                "cn": "建筑风格"
+              },
+              "examples": [
+                {
+                  "en": "Roman architecture",
+                  "cn": "罗马式建筑风格"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

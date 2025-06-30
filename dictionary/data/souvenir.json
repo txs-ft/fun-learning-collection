@@ -1,0 +1,48 @@
+{
+  "title": "souvenir",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌsuː.vənˈɪər/",
+        "us": "/ˌsuː.vəˈnɪr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌsuː.vənˈɪər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksou/uksouth007.mp3"
+        },
+        "us": {
+          "ipa": "/ˌsuː.vəˈnɪr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sou/souve/souvenir.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something you buy or keep to help you remember a holiday or special event",
+                "cn": "纪念品;纪念物"
+              },
+              "examples": [
+                {
+                  "en": "He bought a model of a red London bus as a souvenir of his trip to London.",
+                  "cn": "他买了一个红色的伦敦公共汽车模型，作为他伦敦之行的纪念。"
+                },
+                {
+                  "en": "We brought back a few souvenirs from our holiday in Mexico.",
+                  "cn": "我们从墨西哥度假回来时买了一些纪念品。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

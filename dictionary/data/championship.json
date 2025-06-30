@@ -1,0 +1,78 @@
+{
+  "title": "championship",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈtʃæm.pi.ən.ʃɪp/",
+        "us": "/ˈtʃæm.pi.ən.ʃɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃæm.pi.ən.ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchamo007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃæm.pi.ən.ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/champ/championship.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COMPETITION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a high-level competition to decide who is the best, especially in a sport",
+                "cn": "（尤指体育比赛的）冠军赛，锦标赛"
+              },
+              "examples": [
+                {
+                  "en": "the British Diving Championship",
+                  "cn": "英国跳水锦标赛"
+                },
+                {
+                  "en": "The world championships will be held in Scotland next year.",
+                  "cn": "世界锦标赛将于明年在苏格兰举行。"
+                },
+                {
+                  "en": "He has been playing championship tennis for three years now.",
+                  "cn": "他参加网球锦标赛至今已有3年了。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the position of being a champion",
+                "cn": "冠军地位;冠军称号"
+              },
+              "examples": [
+                {
+                  "en": "She has held the championship for the past three years.",
+                  "cn": "在过去3年里她一直保持着冠军称号。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUPPORT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the support someone gives to a person, belief, right, or principle",
+                "cn": "拥护者;卫士，捍卫者;斗士"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

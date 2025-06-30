@@ -1,0 +1,75 @@
+{
+  "title": "relaxation",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌriː.lækˈseɪ.ʃən/",
+        "us": "/ˌriː.lækˈseɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌriː.lækˈseɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrej/ukrejec023.mp3"
+        },
+        "us": {
+          "ipa": "/ˌriː.lækˈseɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rel/relax/relaxation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FEELING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the feeling of being relaxed",
+                "cn": "放松;松弛"
+              },
+              "examples": [
+                {
+                  "en": "I go fishing for relaxation.",
+                  "cn": "我钓鱼是为了消遣放松。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a pleasant activity that makes you become calm and less worried",
+                "cn": "消遣；娱乐；休闲活动"
+              },
+              "examples": [
+                {
+                  "en": "Yoga is one of my favourite relaxations.",
+                  "cn": "练瑜伽是我最喜欢的娱乐方式之一。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RULE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of making rules or the control of something less severe",
+                "cn": "放宽;放松;削弱"
+              },
+              "examples": [
+                {
+                  "en": "I cannot allow any relaxation in/of the rules.",
+                  "cn": "我不能允许任何放宽规定的做法。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

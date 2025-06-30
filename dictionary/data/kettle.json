@@ -1,0 +1,99 @@
+{
+  "title": "kettle",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈket.əl/",
+        "us": "/ˈket̬.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈket.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukker/ukkero_005.mp3"
+        },
+        "us": {
+          "ipa": "/ˈket̬.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72674.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "EQUIPMENT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a container for boiling water, that has a lid, handle, and spout and is made from plastic or metal",
+                "cn": "水壶，烧水壶"
+              },
+              "examples": []
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to start to boil water in a kettle:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "en": "She came home from work and put the kettle on for tea.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POLICE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an occasion when police form lines around a crowd of people and prevent them from leaving a particular area",
+                "cn": "（警察控制大批街头人群的战术）把人群困在一定区域，不让离开"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈket.əl/",
+        "us": "/ˈket̬.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈket.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukker/ukkero_005.mp3"
+        },
+        "us": {
+          "ipa": "/ˈket̬.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72674.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "If the police kettle a crowd of people, they form lines around them and prevent them from leaving a particular area.",
+                "cn": "（警察)把人群困在一定区域，不让离开"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

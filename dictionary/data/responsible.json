@@ -1,0 +1,143 @@
+{
+  "title": "responsible",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/rɪˈspɒn.sə.bəl/",
+        "us": "/rɪˈspɑːn.sə.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈspɒn.sə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukres/ukrespo001.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈspɑːn.sə.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/res/respo/responsible.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DUTY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to have control and authority over something or someone and the duty of taking care of it, him, or her",
+                "cn": "负责…；掌管…"
+              },
+              "examples": [
+                {
+                  "en": "Paul is directly responsible for the efficient running of the office.",
+                  "cn": "保罗直接负责办事处的高效运作。"
+                },
+                {
+                  "en": "Her department is responsible for overseeing the councils.",
+                  "cn": "她的部门负责监督各市政会的工作。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be controlled by someone or something",
+                "cn": "向…负责"
+              },
+              "examples": [
+                {
+                  "en": "In Australia, the prime minister and the Cabinet are responsible to the House of Representatives.",
+                  "cn": "在澳大利亚，总理和内阁对众议院负责。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BLAME",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to be the person who caused something to happen, especially something bad",
+                "cn": "对（尤指坏事）负责任；应对…承担责任"
+              },
+              "examples": [
+                {
+                  "en": "Who is responsible for this terrible mess?",
+                  "cn": "谁把这儿搞得乱七八糟的？"
+                },
+                {
+                  "en": "Last month's bad weather was responsible for the crop failure.",
+                  "cn": "庄稼歉收是因为上月天气恶劣。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to blame someone or something",
+                "cn": "怪罪…;归咎于…"
+              },
+              "examples": [
+                {
+                  "en": "He held me personally responsible whenever anything went wrong in the project.",
+                  "cn": "任何时候只要项目出现问题，他都归咎到我个人身上。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be in control of yourself so that you can fairly be blamed for your bad actions",
+                "cn": "对行为负责;有行为能力"
+              },
+              "examples": [
+                {
+                  "en": "The defendant was depressed and therefore not fully responsible for her own actions.",
+                  "cn": "被告患有抑郁症，因此不能完全为她自己的行为负责。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GOOD JUDGMENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "having good judgment and the ability to act correctly and make decisions on your own",
+                "cn": "有鉴别能力的;能明辨是非的;负责可靠的"
+              },
+              "examples": [
+                {
+                  "en": "a hard-working and responsible employee",
+                  "cn": "勤恳负责的雇员"
+                },
+                {
+                  "en": "Let's stay calm and try to behave like responsible adults.",
+                  "cn": "让我们冷静下来，行事尽量拿出成年人应有的明辨是非的能力。"
+                },
+                {
+                  "en": "Many big companies are now becoming more responsible about the way they operate.",
+                  "cn": "许多大公司现在在经营方式上变得越来越有责任感。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "A responsible job or position involves making important decisions or doing important things.",
+                "cn": "（工作）责任重大的，重要的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

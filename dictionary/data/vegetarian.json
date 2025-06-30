@@ -1,0 +1,95 @@
+{
+  "title": "vegetarian",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌvedʒ.ɪˈteə.ri.ən/",
+        "us": "/ˌvedʒ.əˈter.i.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌvedʒ.ɪˈteə.ri.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvec/ukvecto011.mp3"
+        },
+        "us": {
+          "ipa": "/ˌvedʒ.əˈter.i.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/veg/veget/vegetarian.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person who does not eat meat for health or religious reasons or because they want to avoid being cruel to animals",
+                "cn": "素食者，素食主义者"
+              },
+              "examples": [
+                {
+                  "en": "Of the four million people who have become vegetarians in this country, nearly two thirds are women.",
+                  "cn": "在英国已有的400万素食主义者中，将近2/3是女性。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌvedʒ.ɪˈteə.ri.ən/",
+        "us": "/ˌvedʒ.əˈter.i.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌvedʒ.ɪˈteə.ri.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvec/ukvecto011.mp3"
+        },
+        "us": {
+          "ipa": "/ˌvedʒ.əˈter.i.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/veg/veget/vegetarian.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not eating or including meat",
+                "cn": "素食的;素的;不包括肉的"
+              },
+              "examples": [
+                {
+                  "en": "vegetarian cooking/food",
+                  "cn": "素食烹饪／食品"
+                },
+                {
+                  "en": "a vegetarian dish/meal",
+                  "cn": "素菜／素餐"
+                },
+                {
+                  "en": "a vegetarian restaurant",
+                  "cn": "素食餐馆"
+                },
+                {
+                  "en": "She's recently gone/become vegetarian.",
+                  "cn": "她最近成了素食主义者。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

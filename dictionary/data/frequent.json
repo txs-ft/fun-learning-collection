@@ -1,0 +1,95 @@
+{
+  "title": "frequent",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈfriː.kwənt/",
+        "us": "/ˈfriː.kwənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfriː.kwənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfre/ukfrene006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfriː.kwənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fre/frequ/frequent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "happening often",
+                "cn": "频繁发生的;常见的"
+              },
+              "examples": [
+                {
+                  "en": "a frequent visitor to the US",
+                  "cn": "经常去美国的人"
+                },
+                {
+                  "en": "A frequent criticism of the proposal has been its high cost.",
+                  "cn": "人们频繁指责这项提案的成本过高。"
+                },
+                {
+                  "en": "The most frequent cause of death is heart disease.",
+                  "cn": "最常见的死因是心脏病发作。"
+                },
+                {
+                  "en": "The attacks were increasingly frequent and serious.",
+                  "cn": "攻击变得越来越频繁，越来越猛烈。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/frɪˈkwent/",
+        "us": "/friːˈkwent/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/frɪˈkwent/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfre/ukfrene007.mp3"
+        },
+        "us": {
+          "ipa": "/friːˈkwent/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fre/frequ/frequent.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to be in or visit a particular place often",
+                "cn": "常去，常到"
+              },
+              "examples": [
+                {
+                  "en": "a bar frequented by criminals",
+                  "cn": "犯罪分子经常光顾的酒吧"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "chemistry",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkem.ɪ.stri/",
+        "us": "/ˈkem.ə.stri/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkem.ɪ.stri/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukche/ukcheer019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkem.ə.stri/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/che/chemi/chemistry.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SCIENCE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the scientific study of the basic characteristics of substances and the ways in which they react or combine",
+                "cn": "化学"
+              },
+              "examples": [
+                {
+                  "en": "She studied chemistry and physics at college.",
+                  "cn": "她在大学学的是化学和物理。"
+                },
+                {
+                  "en": "a chemistry department/laboratory",
+                  "cn": "化学系／实验室"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the basic characteristics of a substance and the ways in which it reacts or combines with other substances",
+                "cn": "化学性质，化学特性"
+              },
+              "examples": [
+                {
+                  "en": "A team of scientists has been studying the chemistry of the ozone layer.",
+                  "cn": "一组科学家一直在研究臭氧层的化学性质。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RELATIONSHIP",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a quality that exists when two people understand and are attracted to each other",
+                "cn": "（两人间的）理解和吸引;相互吸引"
+              },
+              "examples": [
+                {
+                  "en": "The sexual chemistry between them was obvious.",
+                  "cn": "很明显，他们俩之间很来电。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

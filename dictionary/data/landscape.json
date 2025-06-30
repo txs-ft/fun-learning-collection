@@ -1,0 +1,146 @@
+{
+  "title": "landscape",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈlænd.skeɪp/",
+        "us": "/ˈlænd.skeɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlænd.skeɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklam/uklampl028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlænd.skeɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lan/lands/landscape.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LAND",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a large area of land, especially in relation to its appearance",
+                "cn": "乡间，野外;（尤指乡村的）风景，景色"
+              },
+              "examples": [
+                {
+                  "en": "a rural/barren landscape",
+                  "cn": "乡村／荒原"
+                },
+                {
+                  "en": "Demolition firms and builders are busy changing urban landscapes.",
+                  "cn": ""
+                },
+                {
+                  "en": "The landscape is dotted with the tents of campers and hikers.",
+                  "cn": "乡间散布着宿营者和远足者搭起的帐篷。"
+                },
+                {
+                  "en": "The cathedral dominates the landscape for miles around.",
+                  "cn": "大教堂在方圆数英里的乡间高高耸立着。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a view or picture of the countryside, or the art of making such pictures",
+                "cn": "乡村风景;乡村风景画;乡村风景绘画"
+              },
+              "examples": [
+                {
+                  "en": "a watercolour landscape",
+                  "cn": "水彩风景画"
+                },
+                {
+                  "en": "J.M.W. Turner is one of the best-known British landscape painters.",
+                  "cn": "J.M.W.特纳是英国最著名的风景画画家之一。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈlænd.skeɪp/",
+        "us": "/ˈlænd.skeɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlænd.skeɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklam/uklampl028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlænd.skeɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lan/lands/landscape.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to make a garden, park, or other area of land more attractive by adding different features, plants, etc.",
+                "cn": "给（建筑物周边）做园林美化;对（道路周边）做景观美化"
+              },
+              "examples": [
+                {
+                  "en": "They have done a fantastic job landscaping the garden with fountains, bird feeders, and ponds.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈlænd.skeɪp/",
+        "us": "/ˈlænd.skeɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlænd.skeɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklam/uklampl028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlænd.skeɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lan/lands/landscape.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "A landscape document is to be printed with the longer side of the paper at the top and bottom.",
+                "cn": "横向打印的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

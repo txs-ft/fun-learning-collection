@@ -1,0 +1,60 @@
+{
+  "title": "unemployment",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌʌn.ɪmˈplɔɪ.mənt/",
+        "us": "/ˌʌn.ɪmˈplɔɪ.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌʌn.ɪmˈplɔɪ.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukune/ukunear012.mp3"
+        },
+        "us": {
+          "ipa": "/ˌʌn.ɪmˈplɔɪ.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/une/unemp/unemployment.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the number of people who do not have a job that provides money",
+                "cn": "失业人数;失业率"
+              },
+              "examples": [
+                {
+                  "en": "Unemployment has fallen/risen again for the third consecutive month.",
+                  "cn": "失业人数连续第3个月上升／下降。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the state of being unemployed",
+                "cn": "失业（状态）"
+              },
+              "examples": []
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "→ \nunemployment benefit",
+                "cn": "失业救济金，失业津贴（同 unemployment benefit）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

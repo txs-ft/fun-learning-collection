@@ -1,0 +1,44 @@
+{
+  "title": "unfortunately",
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "pron": {
+        "uk": "/ʌnˈfɔː.tʃən.ət.li/",
+        "us": "/ʌnˈfɔːr.tʃən.ət.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʌnˈfɔː.tʃən.ət.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukunf/ukunfit010.mp3"
+        },
+        "us": {
+          "ipa": "/ʌnˈfɔːr.tʃən.ət.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/unf/unfor/unfortunately.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to say that something is sad, disappointing, or has a bad effect",
+                "cn": "不幸地；倒霉地"
+              },
+              "examples": [
+                {
+                  "en": "Unfortunately, I didn't have my credit card with me, or else I would have bought it.",
+                  "cn": "很不凑巧，我没带信用卡，否则我肯定早买了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 1
+    }
+  ]
+}

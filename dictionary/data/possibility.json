@@ -1,0 +1,73 @@
+{
+  "title": "possibility",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌpɒs.əˈbɪl.ə.ti/",
+        "us": "/ˌpɑː.səˈbɪl.ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌpɒs.əˈbɪl.ə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/e/epd/epd32/epd32708.mp3"
+        },
+        "us": {
+          "ipa": "/ˌpɑː.səˈbɪl.ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pos/possi/possibility.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a chance that something may happen or be true",
+                "cn": "可能（性）"
+              },
+              "examples": [
+                {
+                  "en": "It's not likely to happen but I wouldn't rule out the possibility.",
+                  "cn": "这件事不太可能发生，但我不会排除有这种可能性。"
+                },
+                {
+                  "en": "The forecast said that there's a possibility of snow tonight.",
+                  "cn": "天气预报说今晚可能会下雪。"
+                },
+                {
+                  "en": "There's a distinct possibility (that) I'll be asked to give a speech.",
+                  "cn": "我很有可能被邀请去作演讲。"
+                },
+                {
+                  "en": "Is there any possibility (that) you could pick me up from the station?",
+                  "cn": "你有可能去车站接我吗？"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "something that you can choose to do in a particular situation",
+                "cn": "可选择的方法;可能的情况"
+              },
+              "examples": [
+                {
+                  "en": "We could take on extra staff - that's one possibility.",
+                  "cn": "我们可以再招一些人——这是一种选择。"
+                },
+                {
+                  "en": "\"Have you decided what to do?\" \"No, I'm still considering the various possibilities.\"",
+                  "cn": "“你决定怎么做了吗？”“没有，我还在考虑各种可能的情况。”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

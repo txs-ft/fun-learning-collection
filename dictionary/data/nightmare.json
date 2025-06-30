@@ -1,0 +1,65 @@
+{
+  "title": "nightmare",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈnaɪt.meər/",
+        "us": "/ˈnaɪt.mer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnaɪt.meər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknig/uknight001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnaɪt.mer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73214.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a very upsetting or frightening dream",
+                "cn": "梦魇，噩梦"
+              },
+              "examples": [
+                {
+                  "en": "a terrifying nightmare",
+                  "cn": "可怕的噩梦"
+                },
+                {
+                  "en": "I shouldn't have watched that movie - it'll give me nightmares.",
+                  "cn": "我真不该看那部电影——它会让我做噩梦的。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an extremely unpleasant event or experience or possible event or experience",
+                "cn": "极不愉快的事情，可怕的经历；可能发生的坏事"
+              },
+              "examples": [
+                {
+                  "en": "The whole journey was a nightmare - we lost our luggage and both flights were delayed.",
+                  "cn": "整个旅程就像一场噩梦——我们弄丢了行李，而且两个航班都晚点了。"
+                },
+                {
+                  "en": "Being trapped underwater is my worst nightmare.",
+                  "cn": "被困水下是我最害怕的事情。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "scientific",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌsaɪənˈtɪf.ɪk/",
+        "us": "/ˌsaɪənˈtɪf.ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌsaɪənˈtɪf.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksch/ukschol022.mp3"
+        },
+        "us": {
+          "ipa": "/ˌsaɪənˈtɪf.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sci/scien/scientific.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to science, or using the organized methods of science",
+                "cn": "科学的;应用科学方法的"
+              },
+              "examples": [
+                {
+                  "en": "a scientific discovery/experiment/theory",
+                  "cn": "科学发现／实验／理论"
+                },
+                {
+                  "en": "scientific data/evidence/research",
+                  "cn": "科学数据／证据／研究"
+                },
+                {
+                  "en": "The project has attracted considerable criticism from the scientific community (= from scientists).",
+                  "cn": "这个项目招致了科学界广泛的批评。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "careful and using a system or method",
+                "cn": "审慎而系统的"
+              },
+              "examples": [
+                {
+                  "en": "We will have to adopt a more scientific approach in the future.",
+                  "cn": "我们将来得采用更审慎系统的方法。"
+                },
+                {
+                  "en": "I try to arrange things in some kind of a system, but I'm not very scientific about it.",
+                  "cn": "我尽量把事情安排得规矩些，但不是非常精确。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

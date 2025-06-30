@@ -1,0 +1,230 @@
+{
+  "title": "shoulder",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈʃəʊl.dər/",
+        "us": "/ˈʃoʊl.dɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʃəʊl.dər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshorn025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃoʊl.dɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/shoul/shoulder.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BODY PART",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "one of the two parts of the body at each side of the neck that join the arms to the rest of the body",
+                "cn": "肩，肩膀，肩部"
+              },
+              "examples": [
+                {
+                  "en": "I rested my head on her shoulder.",
+                  "cn": "我把头靠在她的肩上。"
+                },
+                {
+                  "en": "Then she put her arm around my shoulder and gave me a kiss.",
+                  "cn": "接着她用胳膊搂住我的肩，给了我一个吻。"
+                },
+                {
+                  "en": "She glanced nervously over her shoulder to make sure no one else was listening.",
+                  "cn": "她不安地回头扫了一眼，以确认没有人在听。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the top part of a person's back",
+                "cn": "双肩;上背部"
+              },
+              "examples": [
+                {
+                  "en": "He was about six feet tall with broad shoulders.",
+                  "cn": "他大约6英尺高，双肩宽阔。"
+                },
+                {
+                  "en": "\"I don't know what to do about it,\" said Martha, shrugging her shoulders.",
+                  "cn": "“我不知道该如何处理这件事，”玛莎耸耸肩说道。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the parts of a piece of clothing that cover the wearer's shoulders",
+                "cn": "（衣服的）肩部"
+              },
+              "examples": [
+                {
+                  "en": "The shoulders look a little tight. Do you want to try a larger size?",
+                  "cn": "肩部看上去有点儿紧。你想试试尺寸大些的吗？"
+                },
+                {
+                  "en": "a jacket with padded shoulders",
+                  "cn": "有垫肩的夹克"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the part of a bottle that curves out below its opening",
+                "cn": "瓶肩（瓶颈下面扩大的部分）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "RESPONSIBILITY",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "used to refer to the responsibility that someone has or feels for something",
+                "cn": "（责任在）…的肩上，…承担"
+              },
+              "examples": [
+                {
+                  "en": "A huge burden was lifted from my shoulders (= I became much less worried) when I told my parents about my problem.",
+                  "cn": "我把自己的问题告诉父母后，感到如释重负。"
+                },
+                {
+                  "en": "Responsibility for the dispute rests squarely on the shoulders of the president.",
+                  "cn": "调解争端的责任完全落在了总统的肩上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEAT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a piece of meat that includes the upper part of an animal's front leg",
+                "cn": "（动物身上包括前腿上半部的）肩肘肉，前腿肉"
+              },
+              "examples": [
+                {
+                  "en": "I've bought a shoulder of lamb for Sunday lunch.",
+                  "cn": "我买了块羊肩肘肉，用来做星期天的午餐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ROAD SIDE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an area along the side of a main road where cars can stop",
+                "cn": "路肩，（大路两侧的）紧急停车道"
+              },
+              "examples": [
+                {
+                  "en": "There were tire tracks left in the soft shoulder (= area of dirt or grass by the road).",
+                  "cn": "在软路肩上有轮胎印子。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈʃəʊl.dər/",
+        "us": "/ˈʃoʊl.dɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʃəʊl.dər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshorn025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃoʊl.dɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/shoul/shoulder.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACCEPT RESPONSIBILITY",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to accept that you are responsible for something bad or difficult",
+                "cn": "承受谴责／承受重负／承担职责／承担费用（等等）"
+              },
+              "examples": [
+                {
+                  "en": "It is women who mainly shoulder responsibility for the care of elderly and disabled relatives.",
+                  "cn": "承担照顾老人和残疾亲属责任的主要都是女人。"
+                },
+                {
+                  "en": "Teachers cannot be expected to shoulder all the blame for poor exam results.",
+                  "cn": "考试成绩不理想，责任不能全部归到老师身上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BODY PART",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to put something on your shoulders to carry it",
+                "cn": "用肩扛"
+              },
+              "examples": [
+                {
+                  "en": "Shouldering her pack, she strode off up the road.",
+                  "cn": "她背起背包，大步上路。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to push something with one of your shoulders",
+                "cn": "用肩推，用肩顶"
+              },
+              "examples": [
+                {
+                  "en": "She was carrying two suitcases and had to shoulder the door open.",
+                  "cn": "她手提着两个箱子，不得不用肩把门顶开。"
+                },
+                {
+                  "en": "He shouldered his way (= formed a way through by pushing with his shoulders) to the front of the crowd to get a better look.",
+                  "cn": "他用肩膀开路挤到人群前面，以便看得更清楚。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

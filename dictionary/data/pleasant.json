@@ -1,0 +1,56 @@
+{
+  "title": "pleasant",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈplez.ənt/",
+        "us": "/ˈplez.ənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈplez.ənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplayg018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈplez.ənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/ple/pleas/pleasant.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "enjoyable, attractive, friendly, or easy to like",
+                "cn": "令人愉快的;宜人的;亲切友好的"
+              },
+              "examples": [
+                {
+                  "en": "a pleasant climate/smile/person",
+                  "cn": "宜人的气候／亲切的笑容／和气可爱的人"
+                },
+                {
+                  "en": "a pleasant day/surprise",
+                  "cn": "令人愉快的日子／惊喜"
+                },
+                {
+                  "en": "Harold did his best to be pleasant to the old man.",
+                  "cn": "哈罗德竭力和颜悦色地对待那位老人。"
+                },
+                {
+                  "en": "It was pleasant to sit down after standing for hours.",
+                  "cn": "站了好几个小时后，能坐下来真让人感到舒坦。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

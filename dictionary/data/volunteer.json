@@ -1,0 +1,120 @@
+{
+  "title": "volunteer",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌvɒl.ənˈtɪər/",
+        "us": "/ˌvɑː.lənˈtɪr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌvɒl.ənˈtɪər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvoi/ukvoila022.mp3"
+        },
+        "us": {
+          "ipa": "/ˌvɑː.lənˈtɪr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/vol/volun/volunteer.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a person who does something, especially helping other people, willingly and without being forced or paid to do it",
+                "cn": "自愿参加者，（尤指帮助别人的）志愿者"
+              },
+              "examples": [
+                {
+                  "en": "The health clinic is relying on volunteers to run the office and answer the phones.",
+                  "cn": "这家健康门诊依靠志愿者来负责办公室的日常工作和接听电话。"
+                },
+                {
+                  "en": "Since it would be a highly dangerous mission, the Lieutenant asked for volunteers.",
+                  "cn": "由于那项任务非常危险，所以中尉请大家自告奋勇。"
+                },
+                {
+                  "en": "It's a volunteer army with no paid professionals.",
+                  "cn": "这是一支志愿军，没有领军饷的职业军人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˌvɒl.ənˈtɪər/",
+        "us": "/ˌvɑː.lənˈtɪr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌvɒl.ənˈtɪər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvoi/ukvoila022.mp3"
+        },
+        "us": {
+          "ipa": "/ˌvɑː.lənˈtɪr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/vol/volun/volunteer.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment",
+                "cn": "自愿做;无偿做;作志愿者;主动提出做"
+              },
+              "examples": [
+                {
+                  "en": "During the emergency many staff volunteered to work through the weekend.",
+                  "cn": "紧急时刻，很多员工都自愿周末加班。"
+                },
+                {
+                  "en": "He volunteered for the army (= he joined even though he did not have to).",
+                  "cn": "他自愿参军。"
+                },
+                {
+                  "en": "I volunteered myself for the position of Health and Safety Representative.",
+                  "cn": "我自告奋勇担任卫生与安全代表一职。"
+                },
+                {
+                  "en": "My friends volunteered me to do the talking.",
+                  "cn": "我的朋友们推举我去讲话。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to give information without being asked",
+                "cn": "主动提供（信息）"
+              },
+              "examples": [
+                {
+                  "en": "If I were you, I wouldn't volunteer any details of what happened.",
+                  "cn": "要是我的话，我不会主动说出所发生事情的任何细节。"
+                },
+                {
+                  "en": "\"I saw her going out of the main entrance half an hour ago,\" he volunteered.",
+                  "cn": "“我见她在大约半个小时之前从主出入口走了出来。”他主动说道。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

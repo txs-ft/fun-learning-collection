@@ -1,0 +1,52 @@
+{
+  "title": "destination",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌdes.tɪˈneɪ.ʃən/",
+        "us": "/ˌdes.təˈneɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdes/ukdespo014.mp3"
+        },
+        "us": {
+          "ipa": "/ˌdes.təˈneɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/des/desti/destination.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the place where someone is going or where something is being sent or taken",
+                "cn": "目的地;终点"
+              },
+              "examples": [
+                {
+                  "en": "We arrived at our destination tired and hungry.",
+                  "cn": "我们到达目的地时又累又饿。"
+                },
+                {
+                  "en": "His letter never reached its destination.",
+                  "cn": "他的信没有被送到收信人处。"
+                },
+                {
+                  "en": "The Caribbean is a popular holiday destination.",
+                  "cn": "加勒比海是人们喜爱的度假胜地。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

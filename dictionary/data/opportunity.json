@@ -1,0 +1,93 @@
+{
+  "title": "opportunity",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌɒp.əˈtʃuː.nə.ti/",
+        "us": "/ˌɑː.pɚˈtuː.nə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɒp.əˈtʃuː.nə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukope/ukopera021.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɑː.pɚˈtuː.nə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75244.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an occasion or situation that makes it possible to do something that you want to do or have to do, or the possibility of doing something",
+                "cn": "机遇，时机，机会；可能性"
+              },
+              "examples": [
+                {
+                  "en": "Everyone will have an opportunity to comment.",
+                  "cn": "每个人都有机会发表意见。"
+                },
+                {
+                  "en": "I was never given the opportunity of going to college.",
+                  "cn": "我从没有得到过上大学的机会。"
+                },
+                {
+                  "en": "The exhibition is a unique opportunity to see her later work.",
+                  "cn": "这次展览是欣赏她后期作品的难得的机会。"
+                },
+                {
+                  "en": "An ankle injury meant she missed the opportunity to run in the qualifying heat.",
+                  "cn": "脚踝受伤意味着她失去了参加资格赛的机会。"
+                },
+                {
+                  "en": "Please contact us at the earliest opportunity (= as soon as possible).",
+                  "cn": "请尽快和我们联系。"
+                },
+                {
+                  "en": "He goes fishing at every opportunity (= as often as possible).",
+                  "cn": "他一有机会就去钓鱼。"
+                },
+                {
+                  "en": "I used to love going out dancing, but I don't get much opportunity now.",
+                  "cn": "我过去喜欢去剧院，但现在我没有什么机会去。"
+                },
+                {
+                  "en": "He had a golden (= an extremely good) opportunity to score in the first half but squandered it.",
+                  "cn": "他在上半场时有一个绝佳的射门得分机会，可是给浪费掉了。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the chance to get a job",
+                "cn": "就业机会"
+              },
+              "examples": [
+                {
+                  "en": "employment/job opportunities",
+                  "cn": "就业机会"
+                },
+                {
+                  "en": "opportunities for young graduates",
+                  "cn": "年轻大学毕业生的就业机会"
+                },
+                {
+                  "en": "There are some great opportunities now for engineers trained in computer-aided design.",
+                  "cn": "对受过电脑辅助设计训练的工程师来说，现在有一些很好的就业机会。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

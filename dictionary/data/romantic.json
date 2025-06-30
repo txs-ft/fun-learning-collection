@@ -1,0 +1,203 @@
+{
+  "title": "romantic",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/rəʊˈmæn.tɪk/",
+        "us": "/roʊˈmæn.t̬ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæn.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrol/ukrolli012.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæn.t̬ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to love or a close loving relationship",
+                "cn": "爱情的，情爱的"
+              },
+              "examples": [
+                {
+                  "en": "a romantic novel/comedy",
+                  "cn": "言情小说／爱情喜剧"
+                },
+                {
+                  "en": "You used to be so romantic, but now you never tell me that you love me.",
+                  "cn": "你以前是那么多情，可现在你从来就不对我说你爱我。"
+                },
+                {
+                  "en": "I suppose he is quite romantic - he sends me flowers on my birthday and tells me I'm looking beautiful and so on.",
+                  "cn": "我猜他是很浪漫的－－他在我的生日给我送花，说我看起来很漂亮等等。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "exciting and mysterious and having a strong effect on your emotions",
+                "cn": "富于浪漫色彩的;充满传奇色彩的;惊险的"
+              },
+              "examples": [
+                {
+                  "en": "We thought that Egypt was an incredibly romantic country.",
+                  "cn": "我们以前认为埃及是个充满传奇色彩的国家。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "not practical and having a lot of ideas that are not related to real life",
+                "cn": "不切实际的；空想的；幻想的"
+              },
+              "examples": [
+                {
+                  "en": "She has a romantic idea of what it's like to be a struggling young artist.",
+                  "cn": "她不切实际地想象着做一个挣扎求生的年轻艺术家是如何浪漫。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rəʊˈmæn.tɪk/",
+        "us": "/roʊˈmæn.t̬ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæn.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrol/ukrolli012.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæn.t̬ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "someone who is not practical and has ideas that are not related to real life",
+                "cn": "耽于幻想的人；满脑子浪漫想法的人；浪漫主义者"
+              },
+              "examples": [
+                {
+                  "en": "You're a hopeless/incurable romantic.",
+                  "cn": "你是个不可救药的幻想家。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/rəʊˈmæn.tɪk/",
+        "us": "/roʊˈmæn.t̬ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæn.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrol/ukrolli012.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæn.t̬ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "relating to a style of art, music, and literature, popular in Europe in the late 18th and early 19th centuries, that deals with the beauty of nature and human emotions",
+                "cn": "（艺术、音乐、文学等）浪漫主义的，浪漫派的"
+              },
+              "examples": [
+                {
+                  "en": "Beethoven, Schumann, and Chopin were leading Romantic composers.",
+                  "cn": "贝多芬、舒曼和肖邦是浪漫主义作曲家的代表人物。"
+                },
+                {
+                  "en": "Romantic poets such as Shelley and Coleridge",
+                  "cn": "浪漫主义诗人，如雪莱和柯尔律治"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rəʊˈmæn.tɪk/",
+        "us": "/roʊˈmæn.t̬ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæn.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo03/cdo0319ukroma1350.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæn.t̬ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "someone who follows the late 18th and early 19th century ideas of Romanticism, or who creates art, music, or literature in the Romantic style",
+                "cn": "（艺术、音乐、文学等领域的）浪漫主义者，浪漫派"
+              },
+              "examples": [
+                {
+                  "en": "The German Romantics emphasized the uniqueness of each intimate experience.",
+                  "cn": "德国浪漫派强调每一种亲密体验的独特性。"
+                },
+                {
+                  "en": "He traces art history through the Romantics and Daumier and Degas and then onto Picasso.",
+                  "cn": "他通过浪漫主义、杜米埃和德加追溯艺术史，然后追溯到毕加索。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "improvement",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ɪmˈpruːv.mənt/",
+        "us": "/ɪmˈpruːv.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪmˈpruːv.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimp/ukimpro001.mp3"
+        },
+        "us": {
+          "ipa": "/ɪmˈpruːv.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/imp/impro/improvement.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an occasion when something gets better or when you make it better",
+                "cn": "改进，改善"
+              },
+              "examples": [
+                {
+                  "en": "a slight improvement in the economy",
+                  "cn": "经济上稍有起色"
+                },
+                {
+                  "en": "home improvements",
+                  "cn": "家居修缮"
+                },
+                {
+                  "en": "These white walls are a big improvement on that disgusting old wallpaper.",
+                  "cn": "这些白墙比起那些令人生厌的旧墙纸来说是个大的改观。"
+                },
+                {
+                  "en": "He's been having treatment for two months now without any improvement.",
+                  "cn": "他接受治疗已有两个月了，但毫无起色。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

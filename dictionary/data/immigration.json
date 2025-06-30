@@ -1,0 +1,65 @@
+{
+  "title": "immigration",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌɪm.ɪˈɡreɪ.ʃən/",
+        "us": "/ˌɪm.əˈɡreɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɪm.ɪˈɡreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimm/ukimmac021.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɪm.əˈɡreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75794.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the act of someone coming to live in a different country",
+                "cn": "移民（入境）"
+              },
+              "examples": [
+                {
+                  "en": "There are strict limits on immigration (into the country).",
+                  "cn": "（该国）对入境移民有着严格的限制。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the process of examining your passport and other documents to make certain that you can be allowed to enter the country, or the place where this is done",
+                "cn": "移民局入境检查；移民局入境检查处"
+              },
+              "examples": [
+                {
+                  "en": "After you've been through immigration (control), you can go and get your luggage.",
+                  "cn": "通过移民局入境检查之后，你便可以去取行李了。"
+                },
+                {
+                  "en": "immigration policy",
+                  "cn": "移民政策"
+                },
+                {
+                  "en": "immigration officers",
+                  "cn": "移民局官员"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

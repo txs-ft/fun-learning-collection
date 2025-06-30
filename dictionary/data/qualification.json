@@ -1,0 +1,101 @@
+{
+  "title": "qualification",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+        "us": "/ˌkwɑː.lə.fəˈkeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukq/ukqua/ukquali001.mp3"
+        },
+        "us": {
+          "ipa": "/ˌkwɑː.lə.fəˈkeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/q/qua/quali/qualification.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TRAINING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an official record showing that you have finished a training course or have the necessary skills, etc.",
+                "cn": "合格证明，资格证书"
+              },
+              "examples": [
+                {
+                  "en": "You'll never get a good job if you don't have any qualifications.",
+                  "cn": "你要是没有任何资格证书就永远得不到一份好工作。"
+                },
+                {
+                  "en": "Do you have any teaching/legal/medical/secretarial/academic qualifications?",
+                  "cn": "你有没有教师/法律/医学/秘书/学术的资格证书？"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an ability, characteristic, or experience that makes you suitable for a particular job or activity",
+                "cn": "资历，资格;条件;合格性"
+              },
+              "examples": [
+                {
+                  "en": "Some nursing experience is a necessary qualification for this job.",
+                  "cn": "具备一定的护理经验是得到这份工作的必要条件。"
+                },
+                {
+                  "en": "One of the qualifications you need to work here is a sense of humour!",
+                  "cn": "在这里工作你需要具备的条件之一是幽默感！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPETITION",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "success in getting into a competition",
+                "cn": "（取得）比赛资格"
+              },
+              "examples": [
+                {
+                  "en": "The win earned them qualification for the World Cup finals.",
+                  "cn": "这场胜利让他们获得了参加世界杯决赛的资格。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LIMIT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an extra piece of information that limits the effect of something that you say or write",
+                "cn": "（附加的）限制条件"
+              },
+              "examples": [
+                {
+                  "en": "The doctor said I can leave hospital today, but with the qualification that I have to come back every day to get the dressing changed.",
+                  "cn": "医生说今天我可以出院了，不过条件是我得每天回来换绷带。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 3
+    }
+  ]
+}

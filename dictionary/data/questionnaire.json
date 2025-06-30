@@ -1,0 +1,44 @@
+{
+  "title": "questionnaire",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌkwes.tʃəˈneər/",
+        "us": "/ˌkwes.tʃəˈner/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌkwes.tʃəˈneər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukq/ukqua/ukquart028.mp3"
+        },
+        "us": {
+          "ipa": "/ˌkwes.tʃəˈner/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/q/que/quest/questionnaire.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a list of questions that several people are asked so that information can be collected about something",
+                "cn": "问卷；情况调查表"
+              },
+              "examples": [
+                {
+                  "en": "Visitors to the country have been asked to fill in a detailed questionnaire.",
+                  "cn": "去该国的游客被要求填写一份详细的调查表。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

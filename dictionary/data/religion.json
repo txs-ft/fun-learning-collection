@@ -1,0 +1,57 @@
+{
+  "title": "religion",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rɪˈlɪdʒ.ən/",
+        "us": "/rɪˈlɪdʒ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈlɪdʒ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrel/ukrelen016.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈlɪdʒ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rel/relig/religion.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the belief in and worship of a god or gods, or any such system of belief and worship",
+                "cn": "宗教信仰;宗教"
+              },
+              "examples": [
+                {
+                  "en": "the Christian religion",
+                  "cn": "基督教"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "an activity that someone is extremely enthusiastic about and does regularly",
+                "cn": "痴迷的活动;极爱好的活动"
+              },
+              "examples": [
+                {
+                  "en": "Football is a religion for these people.",
+                  "cn": "这些人对足球入了迷。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

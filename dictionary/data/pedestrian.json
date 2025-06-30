@@ -1,0 +1,91 @@
+{
+  "title": "pedestrian",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/pəˈdes.tri.ən/",
+        "us": "/pəˈdes.tri.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pəˈdes.tri.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukped/ukpedal011.mp3"
+        },
+        "us": {
+          "ipa": "/pəˈdes.tri.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/ped/pedes/pedestrian.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person who is walking, especially in an area where vehicles go",
+                "cn": "行人，步行者"
+              },
+              "examples": [
+                {
+                  "en": "A few pedestrians sheltered from the rain in doorways.",
+                  "cn": "几个行人站在门口躲雨。"
+                },
+                {
+                  "en": "The death rate for pedestrians hit by cars is unacceptably high.",
+                  "cn": "遭遇车祸的行人死亡率之高令人无法接受。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/pəˈdes.tri.ən/",
+        "us": "/pəˈdes.tri.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pəˈdes.tri.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukped/ukpedal011.mp3"
+        },
+        "us": {
+          "ipa": "/pəˈdes.tri.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/ped/pedes/pedestrian.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "not interesting; showing very little imagination",
+                "cn": "乏味的，单调的;缺乏想象力的"
+              },
+              "examples": [
+                {
+                  "en": "Her books, with few exceptions, are workmanlike but pedestrian.",
+                  "cn": "除了极少几本以外，她的书写得精确细腻但缺乏想象力。"
+                },
+                {
+                  "en": "His speech was long and pedestrian.",
+                  "cn": "他的讲话冗长乏味。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

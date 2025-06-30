@@ -1,0 +1,64 @@
+{
+  "title": "recommend",
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˌrek.əˈmend/",
+        "us": "/ˌrek.əˈmend/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌrek.əˈmend/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrec/ukrecli013.mp3"
+        },
+        "us": {
+          "ipa": "/ˌrek.əˈmend/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rec/recom/recommend.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to suggest that someone or something would be good or suitable for a particular job or purpose, or to suggest that a particular action should be done",
+                "cn": "推荐，介绍;建议"
+              },
+              "examples": [
+                {
+                  "en": "I can recommend the chicken in mushroom sauce - it's delicious.",
+                  "cn": "我可以向您推荐蘑菇汁鸡肉——这道菜非常可口。"
+                },
+                {
+                  "en": "She has been recommended for promotion.",
+                  "cn": "已经有人推荐给她升职。"
+                },
+                {
+                  "en": "The headmistress agreed to recommend the teachers' proposals to the school governors.",
+                  "cn": "女校长同意把这位老师的建议提请学校董事们考虑。"
+                },
+                {
+                  "en": "The doctor recommended (that) I get more exercise.",
+                  "cn": "医生建议我多做运动。"
+                },
+                {
+                  "en": "I recommend writing your feelings down on paper.",
+                  "cn": "我建议你把自己的感受写下来。"
+                },
+                {
+                  "en": "The city has much/little to recommend it (= it has many/few pleasant qualities).",
+                  "cn": "这座城市可圈可点的地方很多／几乎没有。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

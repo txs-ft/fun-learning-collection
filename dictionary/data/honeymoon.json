@@ -1,0 +1,91 @@
+{
+  "title": "honeymoon",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈhʌn.i.muːn/",
+        "us": "/ˈhʌn.i.muːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhʌn.i.muːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhom/ukhomon022.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhʌn.i.muːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hon/honey/honeymoon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a holiday taken by a couple immediately after their marriage",
+                "cn": "蜜月"
+              },
+              "examples": [
+                {
+                  "en": "Where are you going on your honeymoon?",
+                  "cn": "你们要去哪里度蜜月？"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a short period at the beginning of a new job, government, etc. when there is no criticism from anyone",
+                "cn": "（开始时的）蜜月期，和谐期"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈhʌn.i.muːn/",
+        "us": "/ˈhʌn.i.muːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhʌn.i.muːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhom/ukhomon022.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhʌn.i.muːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hon/honey/honeymoon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to go on a honeymoon",
+                "cn": "度蜜月"
+              },
+              "examples": [
+                {
+                  "en": "They are honeymooning in the Bahamas.",
+                  "cn": "他们正在巴哈马群岛度蜜月。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "jungle",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈdʒʌŋ.ɡəl/",
+        "us": "/ˈdʒʌŋ.ɡəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒʌŋ.ɡəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjun/ukjun__006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʒʌŋ.ɡəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jun/jungl/jungle.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FOREST",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a tropical forest in which trees and plants grow very closely together",
+                "cn": "热带丛林"
+              },
+              "examples": [
+                {
+                  "en": "The Yanomami people live in the South American jungle.",
+                  "cn": "雅诺马密人生活在南美丛林中。"
+                },
+                {
+                  "en": "Either side of the river is dense, impenetrable jungle.",
+                  "cn": "河的两岸是茂密而难以穿行的丛林。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "UNTIDY PLACE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an uncontrolled or confusing mass of things",
+                "cn": "乱七八糟的一丛，杂乱的一堆"
+              },
+              "examples": [
+                {
+                  "en": "Our garden is a real jungle.",
+                  "cn": "我们的花园真是乱七八糟。"
+                },
+                {
+                  "en": "a jungle of electronic equipment",
+                  "cn": "林林总总的电子设备"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SITUATION",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a situation in which it is difficult to succeed because a lot of people are competing against each other",
+                "cn": "弱肉强食的地方，生存竞争激烈残酷之处"
+              },
+              "examples": [
+                {
+                  "en": "You've got to be determined in this life - it's a jungle out there, kid.",
+                  "cn": "孩子，你必须意志坚定——生活就像弱肉强食的丛林一样。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MUSIC",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a type of popular dance music with an extremely fast rhythm and a low range of musical notes",
+                "cn": "丛林音乐（一种节奏极快、曲调低的流行舞曲）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

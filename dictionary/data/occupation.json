@@ -1,0 +1,92 @@
+{
+  "title": "occupation",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌɒk.jəˈpeɪ.ʃən/",
+        "us": "/ˌɑː.kjəˈpeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɒk.jəˈpeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukobs/ukobsti030.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɑː.kjəˈpeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75140.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "JOB",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a person's job",
+                "cn": "职业;工作"
+              },
+              "examples": [
+                {
+                  "en": "In the space marked \"occupation\" she wrote \"police officer\".",
+                  "cn": "在“职业”一栏里她写了“警察”。"
+                },
+                {
+                  "en": "Occupations experiencing shortages will need an average of 47% more graduates to meet demand.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACTIVITY",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a regular activity or hobby",
+                "cn": "日常活动;消遣"
+              },
+              "examples": [
+                {
+                  "en": "It seems to me his favourite occupation is eating.",
+                  "cn": "在我看来，他最喜爱的消遣就是吃。"
+                },
+                {
+                  "en": "Running a house is a full-time occupation.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTROL",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a situation in which an army or group of people moves into and takes control of a place",
+                "cn": "（军队或一伙人）占领，占据"
+              },
+              "examples": [
+                {
+                  "en": "the Italian occupation of Ethiopia",
+                  "cn": "意大利对埃塞俄比亚的侵占"
+                },
+                {
+                  "en": "The US had planned to continue the occupation for another year.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

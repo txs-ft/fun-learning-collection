@@ -1,0 +1,136 @@
+{
+  "title": "reception",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rɪˈsep.ʃən/",
+        "us": "/rɪˈsep.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈsep.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukreb/ukrebui026.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈsep.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rec/recep/reception.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WELCOME",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a formal party at which important people are welcomed",
+                "cn": "欢迎会;招待会"
+              },
+              "examples": [
+                {
+                  "en": "The president gave a reception for the visiting heads of state.",
+                  "cn": "总统举行招待会款待来访的外国元首。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "the way in which people react to something or someone",
+                "cn": "感受；反应；回应"
+              },
+              "examples": [
+                {
+                  "en": "Her first book got a wonderful/warm/frosty reception from the critics.",
+                  "cn": "评论家对她的第一本书反应很好／热烈／冷淡。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the act of welcoming someone or something",
+                "cn": "接待；迎接；欢迎"
+              },
+              "examples": [
+                {
+                  "en": "The new hospital was ready for the reception of its first patients.",
+                  "cn": "新医院已经可以用了，准备收治第一批病人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WELCOME",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the place in a hotel or office building where people go when they first arrive",
+                "cn": "（旅馆或办公楼的）接待处，服务台，前台"
+              },
+              "examples": [
+                {
+                  "en": "Ask for me at reception.",
+                  "cn": "要找我的话，到前台问询。"
+                },
+                {
+                  "en": "I signed in at the reception desk.",
+                  "cn": "我在接待处登了记。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SIGNALS",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the degree to which mobile phone, radio, or television signals are strong and clear",
+                "cn": "（收音机或电视信号）接收效果，接收质量"
+              },
+              "examples": [
+                {
+                  "en": "The phone reception is really bad out here in the woods.",
+                  "cn": "电话信号在这儿的树林里特别差。"
+                },
+                {
+                  "en": "We live on top of a hill and so we get excellent radio reception.",
+                  "cn": "我们住在小山顶上，所以收音机的收听效果特别好。"
+                },
+                {
+                  "en": "A new digital antenna might improve your reception.",
+                  "cn": "安装一个新的数码天线可能会改善接受效果。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SCHOOL",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the first year of infant school",
+                "cn": "学前班"
+              },
+              "examples": [
+                {
+                  "en": "a reception class/teacher",
+                  "cn": "学前班／学前班老师"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

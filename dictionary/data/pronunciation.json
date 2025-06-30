@@ -1,0 +1,48 @@
+{
+  "title": "pronunciation",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/prəˌnʌn.siˈeɪ.ʃən/",
+        "us": "/prəˌnʌn.siˈeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/prəˌnʌn.siˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpro/ukpromi029.mp3"
+        },
+        "us": {
+          "ipa": "/prəˌnʌn.siˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pro/pronu/pronunciation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "how words are pronounced",
+                "cn": "发音"
+              },
+              "examples": [
+                {
+                  "en": "English pronunciation is notoriously difficult.",
+                  "cn": "英语的发音出了名的难。"
+                },
+                {
+                  "en": "There are two different pronunciations of this word.",
+                  "cn": "这个词有两种读音。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

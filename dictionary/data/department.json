@@ -1,0 +1,52 @@
+{
+  "title": "department",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/dɪˈpɑːt.mənt/",
+        "us": "/dɪˈpɑːrt.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈpɑːt.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukden/ukdensi017.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈpɑːrt.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75581.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a part of an organization such as a school, business, or government that deals with a particular area of study or work",
+                "cn": "（组织或机构中的）部，系，处，科，室"
+              },
+              "examples": [
+                {
+                  "en": "the chemistry department/the department of chemistry",
+                  "cn": "化学系"
+                },
+                {
+                  "en": "The sales department is/are having a Christmas party this week.",
+                  "cn": "本周销售部将举办圣诞晚会。"
+                },
+                {
+                  "en": "the Department of Health and Social Security",
+                  "cn": "健康与社会保障部"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

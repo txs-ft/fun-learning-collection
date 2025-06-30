@@ -1,0 +1,44 @@
+{
+  "title": "curriculum",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/kəˈrɪk.jə.ləm/",
+        "us": "/kəˈrɪk.jə.ləm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈrɪk.jə.ləm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcur/ukcurio018.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈrɪk.jə.ləm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cur/curri/curriculum.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the subjects studied in a school, college, etc. and what each subject includes",
+                "cn": "课程"
+              },
+              "examples": [
+                {
+                  "en": "the school curriculum",
+                  "cn": "学校课程"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

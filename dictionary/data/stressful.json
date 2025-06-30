@@ -1,0 +1,52 @@
+{
+  "title": "stressful",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈstres.fəl/",
+        "us": "/ˈstres.fəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈstres.fəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukstr/ukstrep005.mp3"
+        },
+        "us": {
+          "ipa": "/ˈstres.fəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/str/stres/stressful.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "making you feel worried and nervous",
+                "cn": "紧张，焦虑，担心"
+              },
+              "examples": [
+                {
+                  "en": "a stressful day/job",
+                  "cn": "紧张的一天／工作"
+                },
+                {
+                  "en": "Police work is physically demanding and stressful.",
+                  "cn": "警察的工作很辛苦，压力很大。"
+                },
+                {
+                  "en": "She's very good at coping in stressful situations.",
+                  "cn": "她很善于应对紧张的局面。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

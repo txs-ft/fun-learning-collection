@@ -1,0 +1,90 @@
+{
+  "title": "imagination",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ɪˌmædʒ.ɪˈneɪ.ʃən/",
+        "us": "/ɪˌmædʒ.əˈneɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪˌmædʒ.ɪˈneɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukill/ukillus012.mp3"
+        },
+        "us": {
+          "ipa": "/ɪˌmædʒ.əˈneɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ima/imagi/imagination.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the ability to form pictures in the mind",
+                "cn": "想象力"
+              },
+              "examples": [
+                {
+                  "en": "My younger son has a very vivid (= active) imagination.",
+                  "cn": "我的小儿子想象力很丰富。"
+                },
+                {
+                  "en": "I can never make up stories - I have absolutely no imagination.",
+                  "cn": "我从来都不会编故事——我根本没什么想象力。"
+                },
+                {
+                  "en": "For some reason the story captured/caught the imagination of the public (= made them very interested).",
+                  "cn": "由于某种原因，这件事引起了公众的关注。"
+                },
+                {
+                  "en": "It couldn't by any stretch of the imagination be described as a (= it is certainly not a) beautiful city.",
+                  "cn": "这座城市再怎么说也称不上漂亮。"
+                },
+                {
+                  "en": "There's a sex scene in the film which apparently leaves nothing to the imagination (= shows sexual parts of the body very clearly).",
+                  "cn": "这部电影中有一个十分露骨的性爱场面，没有留下任何想象的余地。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "something that you think exists or is true, although in fact it is not real or true",
+                "cn": "幻觉;幻想;空想"
+              },
+              "examples": [
+                {
+                  "en": "Was she paying him a lot of attention or was it just my imagination?",
+                  "cn": "她是特别注意他呢，还是这一切只是我的臆想？"
+                },
+                {
+                  "en": "Is it my imagination or is David behaving strangely at the moment?",
+                  "cn": "是我的错觉呢，还是戴维现在真的是行为古怪？"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the ability to think of new ideas",
+                "cn": "创造力"
+              },
+              "examples": [
+                {
+                  "en": "It's a job that needs someone with a bit of imagination.",
+                  "cn": "做这项工作需要有一点儿创造力。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

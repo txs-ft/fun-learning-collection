@@ -1,0 +1,65 @@
+{
+  "title": "disappointment",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌdɪs.əˈpɔɪnt.mənt/",
+        "us": "/ˌdɪs.əˈpɔɪnt.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌdɪs.əˈpɔɪnt.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdir/ukdirnd027.mp3"
+        },
+        "us": {
+          "ipa": "/ˌdɪs.əˈpɔɪnt.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71295.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the feeling of being disappointed",
+                "cn": "失望，沮丧"
+              },
+              "examples": [
+                {
+                  "en": "Get tickets early to avoid disappointment.",
+                  "cn": "早点预订以免扑空。"
+                },
+                {
+                  "en": "To my (great) disappointment (= sadness), he decided to leave.",
+                  "cn": "令我（非常）沮丧的是，他决定离开。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something or someone that is not what you were hoping it would be",
+                "cn": "令人失望的人（或事物）"
+              },
+              "examples": [
+                {
+                  "en": "The party turned out to be a huge disappointment.",
+                  "cn": "聚会办得令人大失所望。"
+                },
+                {
+                  "en": "I always felt I was a disappointment to my parents.",
+                  "cn": "我总是觉得自己是一个让父母失望的孩子。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

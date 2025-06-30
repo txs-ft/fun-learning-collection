@@ -1,0 +1,48 @@
+{
+  "title": "temporary",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈtem.pər.ər.i/",
+        "us": "/ˈtem.pə.rer.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtem.pər.ər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktel/uktelex027.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtem.pə.rer.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tem/tempo/temporary.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not lasting or needed for very long",
+                "cn": "短暂的;暂时的，临时的"
+              },
+              "examples": [
+                {
+                  "en": "The ceasefire will only provide a temporary solution to the crisis.",
+                  "cn": "停火只能暂时解决危机。"
+                },
+                {
+                  "en": "temporary staff",
+                  "cn": "临时工作人员"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

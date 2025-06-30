@@ -1,0 +1,108 @@
+{
+  "title": "shampoo",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ʃæmˈpuː/",
+        "us": "/ʃæmˈpuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃæmˈpuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksha/ukshame006.mp3"
+        },
+        "us": {
+          "ipa": "/ʃæmˈpuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sha/shamp/shampoo.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a liquid used for washing hair, or for washing particular objects or materials",
+                "cn": "香波;洗发剂;洗涤剂"
+              },
+              "examples": [
+                {
+                  "en": "an anti-dandruff shampoo",
+                  "cn": "去头屑洗发剂"
+                },
+                {
+                  "en": "a carpet shampoo",
+                  "cn": "地毯清洗剂"
+                },
+                {
+                  "en": "Directions: wet hair, apply shampoo, and massage into a rich lather.",
+                  "cn": "使用说明：润湿头发，涂上香波并轻揉头发至产生丰富的泡沫。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "an act of washing something, especially your hair, with shampoo",
+                "cn": "（用香波或洗涤剂）洗;（尤指）洗发"
+              },
+              "examples": [
+                {
+                  "en": "My hair/The rug/The dog needs a shampoo.",
+                  "cn": "我的头发／地毯／这只狗需要洗一洗。"
+                },
+                {
+                  "en": "She went to the hairdressers for a shampoo and set.",
+                  "cn": "她去理发店洗头并做头发。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ʃæmˈpuː/",
+        "us": "/ʃæmˈpuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃæmˈpuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksha/ukshame006.mp3"
+        },
+        "us": {
+          "ipa": "/ʃæmˈpuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sha/shamp/shampoo.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to wash something with shampoo",
+                "cn": "用香波洗;用洗涤剂洗"
+              },
+              "examples": [
+                {
+                  "en": "Duncan shampooed my hair and then Tracy cut it.",
+                  "cn": "邓肯给我洗了头，然后特蕾西给我剪了头发。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

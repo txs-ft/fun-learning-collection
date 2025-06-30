@@ -1,0 +1,70 @@
+{
+  "title": "unbelievable",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌʌn.bɪˈliː.və.bəl/",
+        "us": "/ˌʌn.bɪˈliː.və.bəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌʌn.bɪˈliː.və.bəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukuna/ukunapp027.mp3"
+        },
+        "us": {
+          "ipa": "/ˌʌn.bɪˈliː.və.bəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/unb/unbel/unbelievable.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SURPRISING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely surprising",
+                "cn": "令人震惊的，难以置信的"
+              },
+              "examples": [
+                {
+                  "en": "She eats an unbelievable amount of food.",
+                  "cn": "她的食量惊人。"
+                },
+                {
+                  "en": "You've had such bad luck it's unbelievable.",
+                  "cn": "你的运气这么差，真是令人难以置信。"
+                },
+                {
+                  "en": "You should see her wardrobe - it's unbelievable - she's got about 50 pairs of shoes.",
+                  "cn": "你该看看她的衣柜——真是不可思议——她有大约50双鞋。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "UNLIKELY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "unable to be believed because unlikely",
+                "cn": "不能相信的；离谱的"
+              },
+              "examples": [
+                {
+                  "en": "I thought most of the characters in the play were totally unbelievable.",
+                  "cn": "我发现该剧中的大多数角色都完全不可信。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

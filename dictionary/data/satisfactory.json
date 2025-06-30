@@ -1,0 +1,52 @@
+{
+  "title": "satisfactory",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌsæt.ɪsˈfæk.tər.i/",
+        "us": "/ˌsæt̬.ɪsˈfæk.tɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌsæt.ɪsˈfæk.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksat/uksatan016.mp3"
+        },
+        "us": {
+          "ipa": "/ˌsæt̬.ɪsˈfæk.tɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sat/satis/satisfactory.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "good or good enough for a particular need or purpose",
+                "cn": "令人满意的;使人满足的;够好的"
+              },
+              "examples": [
+                {
+                  "en": "The teachers seem to think his work is satisfactory.",
+                  "cn": "老师们似乎认为他的作品挺不错。"
+                },
+                {
+                  "en": "We hope very much to find a satisfactory solution to the problem.",
+                  "cn": "我们非常希望找到圆满解决这个问题的方案。"
+                },
+                {
+                  "en": "The outcome of the discussion was highly satisfactory (= very pleasing).",
+                  "cn": "讨论结果令人非常满意。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

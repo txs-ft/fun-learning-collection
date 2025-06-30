@@ -1,0 +1,99 @@
+{
+  "title": "underneath",
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "pron": {
+        "uk": "/ˌʌn.dəˈniːθ/",
+        "us": "/ˌʌn.dɚˈniːθ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌʌn.dəˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukund/ukunder020.mp3"
+        },
+        "us": {
+          "ipa": "/ˌʌn.dɚˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/und/under/underneath.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "under or below",
+                "cn": "在…底下；在…下面"
+              },
+              "examples": [
+                {
+                  "en": "The tunnel goes right underneath the city.",
+                  "cn": "隧道正好位于城下。"
+                },
+                {
+                  "en": "They found a bomb underneath the car.",
+                  "cn": "他们在车底下发现了一枚炸弹。"
+                },
+                {
+                  "en": "Underneath that shy exterior, she's actually a very warm person.",
+                  "cn": "在羞涩的外表下，她其实是个非常热心的女孩。"
+                },
+                {
+                  "en": "He was wearing a garish T-shirt underneath his shirt.",
+                  "cn": "他在衬衫里面穿了件花哨的T恤衫。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌʌn.dəˈniːθ/",
+        "us": "/ˌʌn.dɚˈniːθ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌʌn.dəˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukund/ukunder020.mp3"
+        },
+        "us": {
+          "ipa": "/ˌʌn.dɚˈniːθ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/und/under/underneath.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the lower part or the bottom surface of something",
+                "cn": "底部；下部；下表面"
+              },
+              "examples": [
+                {
+                  "en": "Bake for half an hour - the top should be crisp, and the underneath moist and succulent.",
+                  "cn": "烘烤半个钟头——就会外焦里嫩，松软多汁。"
+                },
+                {
+                  "en": "She found the key taped to the underneath of the table, as always.",
+                  "cn": "她发现钥匙跟往常一样就粘在桌子下面。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

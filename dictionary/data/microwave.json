@@ -1,0 +1,52 @@
+{
+  "title": "microwave",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈmaɪ.krə.weɪv/",
+        "us": "/ˈmaɪ.kroʊ.weɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmaɪ.krə.weɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukz/ukzzz/ukzzzze060.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmaɪ.kroʊ.weɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usz/uszzz/uszzzzd060.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "an electric oven that uses waves of energy to cook or heat food quickly",
+                "cn": "微波炉"
+              },
+              "examples": [
+                {
+                  "en": "Put the fish in the microwave and it'll only take five minutes.",
+                  "cn": "把鱼放到微波炉里，只需5分钟就可以了。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a very short electromagnetic wave used for cooking food or for sending information by radio or radar",
+                "cn": "微波"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

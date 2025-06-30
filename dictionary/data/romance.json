@@ -1,0 +1,189 @@
+{
+  "title": "romance",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rəʊˈmæns/",
+        "us": "/roʊˈmæns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrol/ukrolli008.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74013.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a close, usually short relationship of love between two people",
+                "cn": "（通常短暂的）恋爱关系，罗曼史，风流韵事"
+              },
+              "examples": [
+                {
+                  "en": "They got married last year after a whirlwind (= very short and unexpected) romance.",
+                  "cn": "一段闪电式恋爱后，他们去年就结了婚。"
+                },
+                {
+                  "en": "It was just a holiday romance.",
+                  "cn": "那只是假期中的一场浪漫恋情而已。"
+                },
+                {
+                  "en": "Office romances are usually a bad idea.",
+                  "cn": "一般说来，和办公室的同事搞风流韵事可不怎么好。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the feelings and behaviour of two people who are in a loving and sexual relationship with each other",
+                "cn": "爱意;爱情;浪漫"
+              },
+              "examples": [
+                {
+                  "en": "I felt as though all the romance had gone out of my marriage.",
+                  "cn": "我觉得好像我的婚姻中已经没有了浪漫。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the feeling of excitement or mystery that you have from a particular experience or event",
+                "cn": "传奇色彩；浪漫氛围"
+              },
+              "examples": [
+                {
+                  "en": "He loves the romance of travelling on a steam train.",
+                  "cn": "他喜欢乘蒸汽火车旅行的那种浪漫感觉。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a story about love",
+                "cn": "爱情故事"
+              },
+              "examples": [
+                {
+                  "en": "a historical romance",
+                  "cn": "历史爱情故事"
+                },
+                {
+                  "en": "She loves reading romances.",
+                  "cn": "她喜欢读爱情故事。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a story of exciting events, especially one written or set in the past",
+                "cn": "（尤指旧时创作或以古代为背景的）传奇故事"
+              },
+              "examples": [
+                {
+                  "en": "medieval romances",
+                  "cn": "中世纪传奇故事"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/rəʊˈmæns/",
+        "us": "/roʊˈmæns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrol/ukrolli008.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74013.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to tell stories that are not true, or to describe an event in a way that makes it sound better than it was",
+                "cn": "虚构;夸大"
+              },
+              "examples": []
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "to try to persuade someone to love you",
+                "cn": "向…求爱，追求"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/rəʊˈmæns/",
+        "us": "/roʊˈmæns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈmæns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrol/ukrolli008.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈmæns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74013.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "(of a language) developed from Latin",
+                "cn": "（语言）罗曼语的"
+              },
+              "examples": [
+                {
+                  "en": "French, Italian, and Spanish are all Romance languages.",
+                  "cn": "法语、意大利语和西班牙语都是罗曼语。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

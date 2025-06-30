@@ -1,0 +1,48 @@
+{
+  "title": "helicopter",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈhel.ɪˌkɒp.tər/",
+        "us": "/ˈhel.əˌkɑːp.tɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhel.ɪˌkɒp.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhef/ukheft_017.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhel.əˌkɑːp.tɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hel/helic/helicopter.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a type of aircraft without wings, that has one or two sets of large blades that go round very fast on top. It can land and take off vertically and can stay in one place in the air",
+                "cn": "直升机"
+              },
+              "examples": [
+                {
+                  "en": "The injured were ferried to hospital by helicopter.",
+                  "cn": "伤者被用直升机送往了医院。"
+                },
+                {
+                  "en": "a helicopter pilot",
+                  "cn": "直升机驾驶员"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

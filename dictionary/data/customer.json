@@ -1,0 +1,48 @@
+{
+  "title": "customer",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkʌs.tə.mər/",
+        "us": "/ˈkʌs.tə.mɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʌs.tə.mər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcur/ukcurta027.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʌs.tə.mɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cus/custo/customer.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a person who buys goods or a service",
+                "cn": "顾客，主顾，客户"
+              },
+              "examples": [
+                {
+                  "en": "a satisfied customer",
+                  "cn": "满意的顾客"
+                },
+                {
+                  "en": "Mrs Wilson is one of our regular customers.",
+                  "cn": "威尔逊太太是我们的一位老主顾。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

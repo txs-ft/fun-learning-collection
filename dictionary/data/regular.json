@@ -1,0 +1,252 @@
+{
+  "title": "regular",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈreɡ.jə.lər/",
+        "us": "/ˈreɡ.jə.lɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈreɡ.jə.lər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukreg/ukregen030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈreɡ.jə.lɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/reg/regul/regular.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "OFTEN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "happening or doing something often",
+                "cn": "频繁的;经常发生的;经常做的"
+              },
+              "examples": [
+                {
+                  "en": "a regular customer/churchgoer/reader/user",
+                  "cn": "老顾客／经常去教堂做礼拜的人／固定读者／老用户"
+                },
+                {
+                  "en": "Professional athletes make regular appearances on TV.",
+                  "cn": "职业足球运动员经常在电视上亮相。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EVEN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "existing or happening repeatedly in a fixed pattern, with equal or similar amounts of space or time between one and the next; even",
+                "cn": "定时的；固定的；有规律的；规则的；均匀的"
+              },
+              "examples": [
+                {
+                  "en": "Her heartbeat was regular.",
+                  "cn": "她的心跳很正常。"
+                },
+                {
+                  "en": "The gardeners planted the trees at regular intervals.",
+                  "cn": "园丁按照固定的间隔种树。"
+                },
+                {
+                  "en": "I suggest that we have regular meetings/meet on a regular basis.",
+                  "cn": "我建议我们定期会面。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "Someone who is regular empties their bowels often enough, and a woman who is regular always has her period at approximately the same time.",
+                "cn": "（人）大便正常的;（女性）月经正常的"
+              },
+              "examples": [
+                {
+                  "en": "The doctor asked if I was regular/if my bowel movements were regular.",
+                  "cn": "医生问我大便是否正常。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "USUAL",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "usual or ordinary",
+                "cn": "普通的；一般的；寻常的"
+              },
+              "examples": [
+                {
+                  "en": "Her regular secretary was off sick for a week.",
+                  "cn": "她平时的秘书生病了，休假一周。"
+                },
+                {
+                  "en": "I couldn't see my regular dentist.",
+                  "cn": "我不能去找平时给我看病的那个牙医了。"
+                },
+                {
+                  "en": "You can use low-fat or regular cream cheese.",
+                  "cn": "你可以用低脂或普通的奶油奶酪。"
+                },
+                {
+                  "en": "Do you want large fries or regular fries with that?",
+                  "cn": "你想配大包还是普通薯条？"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "A regular verb, noun, or adjective follows the usual rules in the structure of its various forms.",
+                "cn": "（动词、名词或形容词）规则的，按规则变化的"
+              },
+              "examples": [
+                {
+                  "en": "\"Talk\" is a regular verb but \"be\" is not.",
+                  "cn": "动词 talk 是个规则动词，而 be 就不是。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a normal man who is liked and trusted:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "en": "He just seemed like a regular guy - like one of us.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "an army that exists all the time, or a soldier in such an army:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "en": "The following year she enlisted in the regular army.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SIMILAR",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "the same on both or all sides",
+                "cn": "均匀的；端正的；整齐的"
+              },
+              "examples": [
+                {
+                  "en": "He's very handsome, with regular features and deep brown eyes.",
+                  "cn": "他相貌英俊，五官端正，长着一双深褐色的眼睛。"
+                },
+                {
+                  "en": "A square is a regular quadrilateral.",
+                  "cn": "广场是个正四边形。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPLETE",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "real; complete",
+                "cn": "完全的；彻底的；十足的"
+              },
+              "examples": [
+                {
+                  "en": "The situation here now is becoming a regular disaster.",
+                  "cn": "这里的局势现在正在演变成一场惨重的灾难。"
+                },
+                {
+                  "en": "That child is a regular charmer/little nuisance.",
+                  "cn": "那个小孩真是个地地道道的迷人精／讨厌鬼。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈreɡ.jə.lər/",
+        "us": "/ˈreɡ.jə.lɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈreɡ.jə.lər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukreg/ukregen030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈreɡ.jə.lɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/reg/regul/regular.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CUSTOMER",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "someone who often goes to a particular event or place, such as a shop or restaurant",
+                "cn": "常客，老顾客，老主顾"
+              },
+              "examples": [
+                {
+                  "en": "He's one of the regulars at the pub.",
+                  "cn": "他是酒馆的常客之一。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SOLDIER",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a soldier whose permanent job is being a soldier",
+                "cn": "职业军人，正规军人"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

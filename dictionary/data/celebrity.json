@@ -1,0 +1,47 @@
+{
+  "title": "celebrity",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/səˈleb.rə.ti/",
+        "us": "/səˈleb.rə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈleb.rə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcel/ukceleb005.mp3"
+        },
+        "us": {
+          "ipa": "/səˈleb.rə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70741.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "someone who is famous, especially in the entertainment business",
+                "cn": "（尤指娱乐行业的）名人，明星；名流"
+              },
+              "examples": []
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "the state of being famous",
+                "cn": "名声，名气，名望"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

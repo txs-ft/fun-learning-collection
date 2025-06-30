@@ -1,0 +1,52 @@
+{
+  "title": "gymnastics",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/dʒɪmˈnæs.tɪks/",
+        "us": "/dʒɪmˈnæs.tɪks/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dʒɪmˈnæs.tɪks/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgut/ukgutsy020.mp3"
+        },
+        "us": {
+          "ipa": "/dʒɪmˈnæs.tɪks/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gym/gymna/gymnastics.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "physical exercises and activities performed inside, often using equipment such as bars and ropes, intended to increase the body's strength and the ability to move and bend easily",
+                "cn": "体操，体操训练；（智力、艺术等）训练"
+              },
+              "examples": [
+                {
+                  "en": "I do gymnastics after school on Fridays.",
+                  "cn": ""
+                },
+                {
+                  "en": "She won several medals in the gymnastics.",
+                  "cn": ""
+                },
+                {
+                  "en": "the US women's gymnastics team",
+                  "cn": "美国女子体操队"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

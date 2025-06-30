@@ -1,0 +1,44 @@
+{
+  "title": "scientist",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈsaɪən.tɪst/",
+        "us": "/ˈsaɪən.tɪst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsaɪən.tɪst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksch/ukschol024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsaɪən.tɪst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74100.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an expert who studies or works in one of the sciences",
+                "cn": "科学家"
+              },
+              "examples": [
+                {
+                  "en": "a research/nuclear scientist",
+                  "cn": "研究型／核科学家"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "influence",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈɪn.flu.əns/",
+        "us": "/ˈɪn.flu.əns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɪn.flu.əns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukinf/ukinfir019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɪn.flu.əns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/inf/influ/influence.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the power to have an effect on people or things, or a person or thing that is able to do this",
+                "cn": "影响，作用；有影响的人（或物）"
+              },
+              "examples": [
+                {
+                  "en": "Helen's a bad/good influence on him.",
+                  "cn": "海伦对他有不良／好的影响。"
+                },
+                {
+                  "en": "He has a huge amount of influence over the city council.",
+                  "cn": "他对市政委员会有着巨大的影响。"
+                },
+                {
+                  "en": "Christopher hoped to exert his influence to make them change their minds.",
+                  "cn": "克里斯托弗希望利用自己的影响迫使他们改变主意。"
+                },
+                {
+                  "en": "At the time she was under the influence of her father.",
+                  "cn": "她当时受到父亲的影响。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/ˈɪn.flu.əns/",
+        "us": "/ˈɪn.flu.əns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɪn.flu.əns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukinf/ukinfir019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɪn.flu.əns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/inf/influ/influence.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to affect or change how someone or something develops, behaves, or thinks",
+                "cn": "影响"
+              },
+              "examples": [
+                {
+                  "en": "She's very good at making friends and influencing people.",
+                  "cn": "她很擅长交友并对他人施加影响。"
+                },
+                {
+                  "en": "What influenced you to choose a career in nursing?",
+                  "cn": "什么使你选择了护士这个职业？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

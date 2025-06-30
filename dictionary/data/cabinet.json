@@ -1,0 +1,82 @@
+{
+  "title": "cabinet",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈkæb.ɪ.nət/",
+        "us": "/ˈkæb.ən.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæb.ɪ.nət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbys/ukbysta017.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæb.ən.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cab/cabin/cabinet.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GOVERNMENT",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a small group of the most important people in government, who advise the President or Prime Minister and make important decisions",
+                "cn": "内阁"
+              },
+              "examples": [
+                {
+                  "en": "The Cabinet meet/meets every Thursday.",
+                  "cn": "内阁成员每周四开会。"
+                },
+                {
+                  "en": "The President is completing the selection of his new Cabinet.",
+                  "cn": "首相已宣布新内阁名单。"
+                },
+                {
+                  "en": "a cabinet post",
+                  "cn": "内阁大臣"
+                },
+                {
+                  "en": "a cabinet reshuffle (= changes in the Cabinet).",
+                  "cn": "内阁改组"
+                },
+                {
+                  "en": "a cabinet minister",
+                  "cn": "内阁部长"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FURNITURE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a piece of furniture with shelves, cupboards, or drawers, used for storing or showing things",
+                "cn": "贮藏柜;陈列柜;橱柜"
+              },
+              "examples": [
+                {
+                  "en": "Valuable pieces of china were on display in a glass-fronted cabinet.",
+                  "cn": "贵重瓷器陈列在正面是玻璃的柜子里。"
+                },
+                {
+                  "en": "a bathroom/filing cabinet",
+                  "cn": "浴室／文件柜"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

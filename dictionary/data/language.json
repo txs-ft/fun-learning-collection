@@ -1,0 +1,48 @@
+{
+  "title": "language",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈlæŋ.ɡwɪdʒ/",
+        "us": "/ˈlæŋ.ɡwɪdʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlæŋ.ɡwɪdʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklan/uklangu001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlæŋ.ɡwɪdʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lan/langu/language.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a system of communication consisting of sounds, words, and grammar",
+                "cn": "语言"
+              },
+              "examples": [
+                {
+                  "en": "She does research into how children acquire language.",
+                  "cn": "她研究儿童是如何习得语言的。"
+                },
+                {
+                  "en": "This type of parent-child interaction is associated with language learning in infancy.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

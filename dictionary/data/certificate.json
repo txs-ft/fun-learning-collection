@@ -1,0 +1,104 @@
+{
+  "title": "certificate",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/səˈtɪf.ɪ.kət/",
+        "us": "/sɚˈtɪf.ə.kət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈtɪf.ɪ.kət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcer/ukcereb016.mp3"
+        },
+        "us": {
+          "ipa": "/sɚˈtɪf.ə.kət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318uscert0849.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an official document that states that the information on it is true",
+                "cn": "证书;证明"
+              },
+              "examples": [
+                {
+                  "en": "a birth/marriage/death certificate",
+                  "cn": "出生／结婚／死亡证明"
+                },
+                {
+                  "en": "a doctor's/medical certificate",
+                  "cn": "医生／医疗证明"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the qualification that you receive when you are successful in an exam",
+                "cn": "成绩合格证书;毕业证书"
+              },
+              "examples": [
+                {
+                  "en": "She has a Certificate in Drama Education.",
+                  "cn": "她有戏剧教育资格证书。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    },
+    {
+      "pos": "verb",
+      "pron": {
+        "uk": "/səˈtɪf.ɪ.keɪt/",
+        "us": "/sɚˈtɪf.ə.kət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈtɪf.ɪ.keɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo03/cdo0317certuk0684.mp3"
+        },
+        "us": {
+          "ipa": "/sɚˈtɪf.ə.kət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318uscert0849.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "to provide an official document as proof that something has happened or been done",
+                "cn": "证书;证明"
+              },
+              "examples": [
+                {
+                  "en": "She has proposed a series of reforms to the system of reporting and certificating deaths.",
+                  "cn": "她提出了一系列对死亡报告和证明制度的改革。"
+                },
+                {
+                  "en": "A welder who has been certificated to work at a certain level must be brought in to do the repairs.",
+                  "cn": "必须请个有一定级别证书的焊工来进行维修。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

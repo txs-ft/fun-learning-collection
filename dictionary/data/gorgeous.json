@@ -1,0 +1,52 @@
+{
+  "title": "gorgeous",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈɡɔː.dʒəs/",
+        "us": "/ˈɡɔːr.dʒəs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡɔː.dʒəs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgoo/ukgoose009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡɔːr.dʒəs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gor/gorge/gorgeous.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very beautiful or pleasant",
+                "cn": "极其漂亮的，美丽动人的;令人愉快的"
+              },
+              "examples": [
+                {
+                  "en": "What a gorgeous room/dress/colour!",
+                  "cn": "多漂亮的房间／连衣裙／颜色啊！"
+                },
+                {
+                  "en": "The bride looked gorgeous.",
+                  "cn": "新娘看上去美极了。"
+                },
+                {
+                  "en": "The weather was so gorgeous.",
+                  "cn": "天气非常宜人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

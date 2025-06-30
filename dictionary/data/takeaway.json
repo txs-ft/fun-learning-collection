@@ -1,0 +1,70 @@
+{
+  "title": "takeaway",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈteɪk.ə.weɪ/",
+        "us": "/ˈteɪk.ə.weɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈteɪk.ə.weɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktaj/uktajik003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈteɪk.ə.weɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/ust/ustab/ustable030.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INFORMATION",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "a main message or piece of information that you learn from something you hear or read",
+                "cn": "从…中了解到的主要信息"
+              },
+              "examples": [
+                {
+                  "en": "The takeaway from the conference was how competitive the tourism industry has become.",
+                  "cn": "这场会议的主要信息是旅游业的竞争已变得非常激烈。"
+                },
+                {
+                  "en": "At the end of the class, the teacher gives us the takeaway points.",
+                  "cn": "快下课的时候，老师为我们总结了这堂课的要点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOOD",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a meal cooked and bought at a shop or restaurant but taken somewhere else, often home, to be eaten, or the shop or restaurant itself",
+                "cn": "外卖的饭食;外卖餐馆"
+              },
+              "examples": [
+                {
+                  "en": "a Chinese takeaway",
+                  "cn": "外卖中餐馆"
+                },
+                {
+                  "en": "We were too tired to cook so we ordered takeaway.",
+                  "cn": "我们累得连饭都做不动了，于是叫了外卖。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

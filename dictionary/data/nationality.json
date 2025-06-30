@@ -1,0 +1,61 @@
+{
+  "title": "nationality",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˌnæʃ.ənˈæl.ə.ti/",
+        "us": "/ˌnæʃ.ənˈæl.ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌnæʃ.ənˈæl.ə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknar/uknark_025.mp3"
+        },
+        "us": {
+          "ipa": "/ˌnæʃ.ənˈæl.ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/nat/natio/nationality.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the official right to belong to a particular country",
+                "cn": "国籍"
+              },
+              "examples": [
+                {
+                  "en": "She has British nationality.",
+                  "cn": "她拥有英国国籍。"
+                },
+                {
+                  "en": "What nationality are you?",
+                  "cn": "你是哪国人？"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "a group of people of the same race, religion, traditions, etc.",
+                "cn": "民族"
+              },
+              "examples": [
+                {
+                  "en": "At the International School they have pupils of 46 different nationalities.",
+                  "cn": "这所国际学校里有来自46个不同民族的学生。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

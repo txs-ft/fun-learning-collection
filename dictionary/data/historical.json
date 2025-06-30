@@ -1,0 +1,61 @@
+{
+  "title": "historical",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/hɪˈstɒr.ɪ.kəl/",
+        "us": "/hɪˈstɔːr.ɪ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/hɪˈstɒr.ɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhir/ukhire_014.mp3"
+        },
+        "us": {
+          "ipa": "/hɪˈstɔːr.ɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/his/histo/historical.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "connected with studying or representing things from the past",
+                "cn": "历史的；有关历史的"
+              },
+              "examples": [
+                {
+                  "en": "Many important historical documents were destroyed when the library was bombed.",
+                  "cn": "图书馆遭轰炸时很多重要的历史文献都毁于一旦。"
+                },
+                {
+                  "en": "She specializes in historical novels set in 18th-century England.",
+                  "cn": "她专门创作以18世纪英格兰为背景的历史小说。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "used to describe prices, values, etc. in the past",
+                "cn": "历史上的（价格、价值等）"
+              },
+              "examples": [
+                {
+                  "en": "The table compares historical exchange rates for five different currencies.",
+                  "cn": "这张表比较五种货币在历史上的兑换率。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

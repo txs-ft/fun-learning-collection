@@ -1,0 +1,39 @@
+{
+  "title": "broccoli",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈbrɒk.əl.i/",
+        "us": "/ˈbrɑː.kəl.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbrɒk.əl.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbri/ukbrit_024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbrɑː.kəl.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bro/brocc/broccoli.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a vegetable with a green stem or stems and a mass or several masses of flower buds at the top. There are several kinds of broccoli.",
+                "cn": "西兰花，花椰菜;球茎甘蓝"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

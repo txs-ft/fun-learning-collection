@@ -1,0 +1,125 @@
+{
+  "title": "climate",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈklaɪ.mət/",
+        "us": "/ˈklaɪ.mət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈklaɪ.mət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcli/ukclima002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈklaɪ.mət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cli/clima/climate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WEATHER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the general weather conditions usually found in a particular place",
+                "cn": "气候"
+              },
+              "examples": [
+                {
+                  "en": "a hot/dry/harsh climate",
+                  "cn": "炎热／干燥／恶劣的气候"
+                },
+                {
+                  "en": "The Mediterranean climate is good for growing citrus fruits and grapes.",
+                  "cn": "地中海气候适宜柑橘属水果和葡萄的生长。"
+                },
+                {
+                  "en": "When we retire, we're going to move to a warmer climate.",
+                  "cn": "我们打算退休后搬到气候比较暖和的地方去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SITUATION",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the general development of a situation, or the situation, feelings, and opinions that exist at a particular time",
+                "cn": "形势，趋势；（某一时期的）风尚，风气，思潮"
+              },
+              "examples": [
+                {
+                  "en": "the political/social climate",
+                  "cn": "政治／社会气候"
+                },
+                {
+                  "en": "I don't think we should expand our business in the current economic climate.",
+                  "cn": "我认为在当前的经济形势下，我们不应该扩展业务。"
+                },
+                {
+                  "en": "Terrorism creates a climate of fear.",
+                  "cn": "恐怖主义制造了一种恐惧气氛。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˈklaɪ.mət/",
+        "us": "/ˈklaɪ.mət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈklaɪ.mət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcli/ukclima002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈklaɪ.mət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cli/clima/climate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": null,
+              "longDef": {
+                "en": "relating to climate change",
+                "cn": "与气候有关的"
+              },
+              "examples": [
+                {
+                  "en": "The world's premier climate scientists report that global warming is already occurring.",
+                  "cn": "世界权威气候科学家报告说，全球已在变暖了。"
+                },
+                {
+                  "en": "He is an outspoken climate sceptic.",
+                  "cn": "他是个直言不讳的气候变化怀疑论者。"
+                },
+                {
+                  "en": "a climate summit",
+                  "cn": "气候峰会"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

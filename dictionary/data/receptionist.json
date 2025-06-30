@@ -1,0 +1,39 @@
+{
+  "title": "receptionist",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/rɪˈsep.ʃən.ɪst/",
+        "us": "/rɪˈsep.ʃən.ɪst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈsep.ʃən.ɪst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukreb/ukrebui027.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈsep.ʃən.ɪst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rec/recep/receptionist.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a person who works in a place such as a hotel, office, or hospital, who welcomes and helps visitors and answers the phone",
+                "cn": "接待员;招待员"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "uninterested",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ʌnˈɪn.tres.tɪd/",
+        "us": "/ʌnˈɪn.trɪ.stɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʌnˈɪn.tres.tɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukuni/ukunins006.mp3"
+        },
+        "us": {
+          "ipa": "/ʌnˈɪn.trɪ.stɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74735.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not interested",
+                "cn": "不感兴趣的;冷漠的;不关心的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

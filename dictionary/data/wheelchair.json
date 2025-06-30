@@ -1,0 +1,48 @@
+{
+  "title": "wheelchair",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/ˈwiːl.tʃeər/",
+        "us": "/ˈwiːl.tʃer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈwiːl.tʃeər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈwiːl.tʃer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whe/wheel/wheelchair.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a chair on wheels that people who are unable to walk use for moving around",
+                "cn": "轮椅"
+              },
+              "examples": [
+                {
+                  "en": "He spent the last ten years of his life in a wheelchair after a fall that left him paralysed from the waist down.",
+                  "cn": "一次摔倒后他腰部以下便瘫痪了，从此他在轮椅上度过了人生的最后10年。"
+                },
+                {
+                  "en": "The building isn't designed very well from the point of view of wheelchair access.",
+                  "cn": "在轮椅通道方面，这幢大楼设计得并不是太好。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "identity",
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "pron": {
+        "uk": "/aɪˈden.tə.ti/",
+        "us": "/aɪˈden.t̬ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪˈden.tə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukico/ukicono024.mp3"
+        },
+        "us": {
+          "ipa": "/aɪˈden.t̬ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72306.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WHO YOU ARE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a person's name and other facts about who they are",
+                "cn": "身份；本身；特性"
+              },
+              "examples": [
+                {
+                  "en": "The man's identity was being kept secret while he was helping police with their enquiries.",
+                  "cn": "这个男子在协助警方调查时，他的身份是保密的。"
+                },
+                {
+                  "en": "I cannot reveal the identity of my source.",
+                  "cn": "我不能透露我的消息来源。"
+                },
+                {
+                  "en": "The informant was given a new identity (= a different name and new official documents) for protection.",
+                  "cn": "给了线人一个新身份以作保护。"
+                },
+                {
+                  "en": "The newspaper photo apparently showed him in Rome but it was a case of mistaken identity (= it was the wrong person).",
+                  "cn": "报纸上的照片似乎显示他在罗马，但其实那个人不是他。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

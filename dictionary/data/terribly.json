@@ -1,0 +1,66 @@
+{
+  "title": "terribly",
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "pron": {
+        "uk": "/ˈter.ə.bli/",
+        "us": "/ˈter.ə.bli/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈter.ə.bli/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukter/uktermi016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈter.ə.bli/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/ter/terri/terribly.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VERY BADLY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "very badly",
+                "cn": "很糟；很不好"
+              },
+              "examples": [
+                {
+                  "en": "I slept terribly last night.",
+                  "cn": "我昨晚睡得很不好。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VERY MUCH",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "very",
+                "cn": "很，非常"
+              },
+              "examples": [
+                {
+                  "en": "I'm terribly pleased to hear that you've got a job.",
+                  "cn": "听说你找到了工作，我高兴坏了。"
+                },
+                {
+                  "en": "I was terribly sorry to hear about the death of your mother.",
+                  "cn": "听到你母亲去世的消息，我非常难过。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

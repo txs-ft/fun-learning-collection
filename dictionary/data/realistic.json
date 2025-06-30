@@ -1,0 +1,61 @@
+{
+  "title": "realistic",
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "pron": {
+        "uk": "/ˌrɪəˈlɪs.tɪk/",
+        "us": "/ˌriː.əˈlɪs.tɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌrɪəˈlɪs.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrea/ukreadi016.mp3"
+        },
+        "us": {
+          "ipa": "/ˌriː.əˈlɪs.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rea/reali/realistic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "accepting things as they are in fact and not making decisions based on unlikely hopes for the future",
+                "cn": "现实的;实事求是的;务实的"
+              },
+              "examples": [
+                {
+                  "en": "Let's be realistic (about this) - I just can't afford to pay that much money.",
+                  "cn": "（在这一点上）我们还是现实一点吧——我根本就付不起那么一大笔钱。"
+                },
+                {
+                  "en": "It isn't realistic to expect people to work for so little money.",
+                  "cn": "给那么点报酬还指望人们干这个工作，这是不现实的。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "seeming to exist or be happening in fact",
+                "cn": "逼真的；栩栩如生的"
+              },
+              "examples": [
+                {
+                  "en": "The special effects were so realistic.",
+                  "cn": "那些特技镜头太逼真了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}
