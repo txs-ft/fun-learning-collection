@@ -1,8 +1,11 @@
 {
+  "time": 1751350291009,
   "title": "urgent",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈɜː.dʒənt/",
         "us": "/ˈɝː.dʒənt/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's got to sign that paper - will you tell him it's urgent?",
                   "cn": "他务必要签署那份文件——请你告诉他这很紧急，好吗?"
                 },
                 {
+                  "gram": null,
                   "en": "The most urgent thing in a fire is to make sure everyone is out of the building.",
                   "cn": "失火时最紧要的事是确保所有人都撤离大楼。"
                 },
                 {
+                  "gram": null,
                   "en": "Many people are in urgent need of food and water.",
                   "cn": "很多人亟需食物和水。"
                 }
@@ -55,6 +61,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "His urgent pleas of innocence made no difference to the judge's decision.",
                   "cn": "他一再申辩自己无罪，却无法改变法官的判决。"
                 }

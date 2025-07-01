@@ -1,8 +1,11 @@
 {
+  "time": 1751350135477,
   "title": "prohibit",
+  "generalBitmask": 2,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/prəˈhɪb.ɪt/",
         "us": "/prəˈhɪb.ɪt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Motor vehicles are prohibited from driving in the town centre.",
                   "cn": "机动车辆禁止在市中心行驶。"
                 },
                 {
+                  "gram": null,
                   "en": "The government introduced a law prohibiting tobacco advertisements on TV.",
                   "cn": "政府颁布了一项法律： 禁止在电视上播放烟草广告。"
                 },
                 {
+                  "gram": null,
                   "en": "Parking is strictly prohibited between these gates.",
                   "cn": "这些大门之间严禁停车。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The loudness of the music prohibits serious conversation in most nightclubs.",
                   "cn": "大多数夜总会里音乐声嘈杂，根本没法进行严肃的谈话。"
                 }

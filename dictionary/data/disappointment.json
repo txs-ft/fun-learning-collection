@@ -1,8 +1,11 @@
 {
+  "time": 1751349957159,
   "title": "disappointment",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌdɪs.əˈpɔɪnt.mənt/",
         "us": "/ˌdɪs.əˈpɔɪnt.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Get tickets early to avoid disappointment.",
                   "cn": "早点预订以免扑空。"
                 },
                 {
+                  "gram": null,
                   "en": "To my (great) disappointment (= sadness), he decided to leave.",
                   "cn": "令我（非常）沮丧的是，他决定离开。"
                 }
@@ -46,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The party turned out to be a huge disappointment.",
                   "cn": "聚会办得令人大失所望。"
                 },
                 {
+                  "gram": null,
                   "en": "I always felt I was a disappointment to my parents.",
                   "cn": "我总是觉得自己是一个让父母失望的孩子。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350086310,
   "title": "neighbour",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈneɪ.bər/",
         "us": "/ˈneɪ.bɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Some of the neighbours have complained about the noise from our party.",
                   "cn": "有些邻居已经抱怨过我们的聚会太喧闹。"
                 },
                 {
+                  "gram": null,
                   "en": "Have you met Pat, my next-door neighbour?",
                   "cn": "你见过我隔壁的邻居帕特了吗？"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The relationship between Scotland and its southern neighbour (= England) has not always been peaceful.",
                   "cn": "苏格兰和南方邻邦的关系并非一直很和睦。"
                 }

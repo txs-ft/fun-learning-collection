@@ -1,8 +1,11 @@
 {
+  "time": 1751349947934,
   "title": "department",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/dɪˈpɑːt.mənt/",
         "us": "/dɪˈpɑːrt.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the chemistry department/the department of chemistry",
                   "cn": "化学系"
                 },
                 {
+                  "gram": null,
                   "en": "The sales department is/are having a Christmas party this week.",
                   "cn": "本周销售部将举办圣诞晚会。"
                 },
                 {
+                  "gram": null,
                   "en": "the Department of Health and Social Security",
                   "cn": "健康与社会保障部"
                 }

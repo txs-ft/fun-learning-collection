@@ -1,8 +1,11 @@
 {
+  "time": 1751350009824,
   "title": "incredible",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ɪnˈkred.ə.bəl/",
         "us": "/ɪnˈkred.ə.bəl/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "an incredible story",
                   "cn": "令人难以置信的故事"
                 },
                 {
+                  "gram": null,
                   "en": "The latest missiles can be fired with incredible accuracy.",
                   "cn": "最新型导弹的准确率高得令人难以置信。"
                 },
                 {
+                  "gram": null,
                   "en": "It seems incredible that no one foresaw the crisis.",
                   "cn": "令人难以置信的是没有人预见到危机会发生。"
                 }
@@ -55,10 +61,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Yeah, it was an incredible performance.",
                   "cn": "对，这是一场非常出色的表演。"
                 },
                 {
+                  "gram": null,
                   "en": "What an incredible motorbike!",
                   "cn": "多棒的摩托车啊！"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350279537,
   "title": "underneath",
+  "generalBitmask": 25,
   "allDefinitions": [
     {
-      "pos": "preposition",
+      "pos": "preposition, adverb",
+      "defBitmask": 24,
       "pron": {
         "uk": "/ˌʌn.dəˈniːθ/",
         "us": "/ˌʌn.dɚˈniːθ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The tunnel goes right underneath the city.",
                   "cn": "隧道正好位于城下。"
                 },
                 {
+                  "gram": null,
                   "en": "They found a bomb underneath the car.",
                   "cn": "他们在车底下发现了一枚炸弹。"
                 },
                 {
+                  "gram": null,
                   "en": "Underneath that shy exterior, she's actually a very warm person.",
                   "cn": "在羞涩的外表下，她其实是个非常热心的女孩。"
                 },
                 {
+                  "gram": null,
                   "en": "He was wearing a garish T-shirt underneath his shirt.",
                   "cn": "他在衬衫里面穿了件花哨的T恤衫。"
                 }
@@ -54,6 +61,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌʌn.dəˈniːθ/",
         "us": "/ˌʌn.dɚˈniːθ/"
@@ -70,7 +78,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -80,10 +88,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Bake for half an hour - the top should be crisp, and the underneath moist and succulent.",
                   "cn": "烘烤半个钟头——就会外焦里嫩，松软多汁。"
                 },
                 {
+                  "gram": null,
                   "en": "She found the key taped to the underneath of the table, as always.",
                   "cn": "她发现钥匙跟往常一样就粘在桌子下面。"
                 }

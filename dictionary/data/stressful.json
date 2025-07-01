@@ -1,8 +1,11 @@
 {
+  "time": 1751350230117,
   "title": "stressful",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈstres.fəl/",
         "us": "/ˈstres.fəl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a stressful day/job",
                   "cn": "紧张的一天／工作"
                 },
                 {
+                  "gram": null,
                   "en": "Police work is physically demanding and stressful.",
                   "cn": "警察的工作很辛苦，压力很大。"
                 },
                 {
+                  "gram": null,
                   "en": "She's very good at coping in stressful situations.",
                   "cn": "她很善于应对紧张的局面。"
                 }

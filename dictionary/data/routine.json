@@ -1,8 +1,11 @@
 {
+  "time": 1751350195727,
   "title": "routine",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ruːˈtiːn/",
         "us": "/ruːˈtiːn/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There's no set/fixed routine at work - every day is different.",
                   "cn": "工作内容不固定——每天都不同。"
                 },
                 {
+                  "gram": null,
                   "en": "Most companies insure property and equipment against damage or theft as a matter of routine.",
                   "cn": "作为常规，大多数公司都为其财产和设备购买损坏或盗窃保险。"
                 }
@@ -46,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "an exercise/dance routine",
                   "cn": "一套固定的练习／舞蹈动作"
                 },
                 {
+                  "gram": null,
                   "en": "He went into his usual \"I'm the head of the family\" routine (= usual way of speaking).",
                   "cn": "他又故态复萌，重弹“我是一家之主”的老调子。"
                 }
@@ -71,6 +78,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ruːˈtiːn/",
         "us": "/ruːˈtiːn/"
@@ -87,7 +95,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -97,6 +105,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a routine inspection/medical check-up",
                   "cn": "常规检查／体检"
                 }
@@ -110,10 +119,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a routine case of appendicitis",
                   "cn": "普通阑尾炎病例"
                 },
                 {
+                  "gram": null,
                   "en": "He died during a routine operation which went wrong.",
                   "cn": "他因一次常规手术出错而死亡。"
                 }
@@ -127,6 +138,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "My job is so routine and boring - I hate it.",
                   "cn": "我的工作一成不变，枯燥乏味——我厌烦透了。"
                 }

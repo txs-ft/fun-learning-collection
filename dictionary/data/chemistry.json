@@ -1,8 +1,11 @@
 {
+  "time": 1751349894375,
   "title": "chemistry",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkem.ɪ.stri/",
         "us": "/ˈkem.ə.stri/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She studied chemistry and physics at college.",
                   "cn": "她在大学学的是化学和物理。"
                 },
                 {
+                  "gram": null,
                   "en": "a chemistry department/laboratory",
                   "cn": "化学系／实验室"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "A team of scientists has been studying the chemistry of the ozone layer.",
                   "cn": "一组科学家一直在研究臭氧层的化学性质。"
                 }
@@ -64,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The sexual chemistry between them was obvious.",
                   "cn": "很明显，他们俩之间很来电。"
                 }

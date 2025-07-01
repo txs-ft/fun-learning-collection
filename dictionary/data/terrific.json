@@ -1,8 +1,11 @@
 {
+  "time": 1751350258797,
   "title": "terrific",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/təˈrɪf.ɪk/",
         "us": "/təˈrɪf.ɪk/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a terrific opportunity",
                   "cn": "极好的机会"
                 },
                 {
+                  "gram": null,
                   "en": "You look terrific!",
                   "cn": "你看起来棒极了！"
                 }
@@ -51,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The police car drove past at a terrific speed.",
                   "cn": "警车疾驶而过。"
                 }

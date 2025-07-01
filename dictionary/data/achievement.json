@@ -1,8 +1,11 @@
 {
+  "time": 1751349834458,
   "title": "achievement",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/əˈtʃiːv.mənt/",
         "us": "/əˈtʃiːv.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It gives you a sense of achievement if you actually make it to the end of a very long book.",
                   "cn": "如果你能真正读完一本厚书，就会有一种成就感。"
                 },
                 {
+                  "gram": null,
                   "en": "An Olympic silver medal is a remarkable achievement for one so young.",
                   "cn": "对于如此年轻的选手而言，夺得奥运会银牌是个了不起的成就。"
                 },
                 {
+                  "gram": null,
                   "en": "The Tale of Genji has been described as the greatest achievement of Japanese literature.",
                   "cn": "《源氏物语》一直被称作是日本文学最伟大的成就。"
                 }

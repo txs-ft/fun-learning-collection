@@ -1,8 +1,11 @@
 {
+  "time": 1751350037427,
   "title": "kettle",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈket.əl/",
         "us": "/ˈket̬.əl/"
@@ -37,8 +40,9 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She came home from work and put the kettle on for tea.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -63,6 +67,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈket.əl/",
         "us": "/ˈket̬.əl/"
@@ -79,7 +84,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,

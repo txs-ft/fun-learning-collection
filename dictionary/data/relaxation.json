@@ -1,8 +1,11 @@
 {
+  "time": 1751350182027,
   "title": "relaxation",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌriː.lækˈseɪ.ʃən/",
         "us": "/ˌriː.lækˈseɪ.ʃən/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I go fishing for relaxation.",
                   "cn": "我钓鱼是为了消遣放松。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Yoga is one of my favourite relaxations.",
                   "cn": "练瑜伽是我最喜欢的娱乐方式之一。"
                 }
@@ -60,6 +65,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I cannot allow any relaxation in/of the rules.",
                   "cn": "我不能允许任何放宽规定的做法。"
                 }

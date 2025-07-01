@@ -1,8 +1,11 @@
 {
+  "time": 1751350202534,
   "title": "scientist",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈsaɪən.tɪst/",
         "us": "/ˈsaɪən.tɪst/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a research/nuclear scientist",
                   "cn": "研究型／核科学家"
                 }

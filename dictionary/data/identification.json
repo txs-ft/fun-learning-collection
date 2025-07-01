@@ -1,8 +1,11 @@
 {
+  "time": 1751349998231,
   "title": "identification",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
         "us": "/aɪˌden.t̬ə.fəˈkeɪ.ʃən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Most of the bodies were badly burned, making identification almost impossible.",
                   "cn": "大多数尸体都严重烧伤，几乎无法辨认。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We were asked to show some identification before the security guards would let us in.",
                   "cn": "保安要我们出示身份证明才让我们进去。"
                 }

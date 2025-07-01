@@ -1,8 +1,11 @@
 {
+  "time": 1751349977533,
   "title": "frequent",
+  "generalBitmask": 6,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈfriː.kwənt/",
         "us": "/ˈfriː.kwənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a frequent visitor to the US",
                   "cn": "经常去美国的人"
                 },
                 {
+                  "gram": null,
                   "en": "A frequent criticism of the proposal has been its high cost.",
                   "cn": "人们频繁指责这项提案的成本过高。"
                 },
                 {
+                  "gram": null,
                   "en": "The most frequent cause of death is heart disease.",
                   "cn": "最常见的死因是心脏病发作。"
                 },
                 {
+                  "gram": null,
                   "en": "The attacks were increasingly frequent and serious.",
                   "cn": "攻击变得越来越频繁，越来越猛烈。"
                 }
@@ -54,6 +61,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/frɪˈkwent/",
         "us": "/friːˈkwent/"
@@ -70,7 +78,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -80,6 +88,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a bar frequented by criminals",
                   "cn": "犯罪分子经常光顾的酒吧"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350251097,
   "title": "terrible",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈter.ə.bəl/",
         "us": "/ˈter.ə.bəl/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The weather was terrible.",
                   "cn": "天气糟透了。"
                 },
                 {
+                  "gram": null,
                   "en": "We have just received some terrible news.",
                   "cn": "我们刚刚收到一些可怕的消息。"
                 }
@@ -51,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "You're a terrible liar.",
                   "cn": "你真不擅长说谎。"
                 },
                 {
+                  "gram": null,
                   "en": "I'm a terrible skier/swimmer/dancer.",
                   "cn": "我不擅长滑雪／游泳／跳舞。"
                 }
@@ -73,10 +80,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "This project is a terrible waste of money.",
                   "cn": "这个项目完全是在浪费钱财。"
                 },
                 {
+                  "gram": null,
                   "en": "She's a terrible nuisance.",
                   "cn": "她是个极讨厌的人。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349852202,
   "title": "announcement",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/əˈnaʊns.mənt/",
         "us": "/əˈnaʊns.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The president made an unexpected announcement this morning.",
                   "cn": "今天上午总统发表了一项出人意料的声明。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The announcement of the changes has been delayed.",
                   "cn": "变革内容公布的时间推后了。"
                 }

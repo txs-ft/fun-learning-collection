@@ -1,8 +1,11 @@
 {
+  "time": 1751349950353,
   "title": "departure",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/dɪˈpɑː.tʃər/",
         "us": "/dɪˈpɑːr.tʃɚ/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There are several departures (= buses, trains, or aircraft leaving) for Paris every day.",
                   "cn": "每天都有好几个班次去巴黎。"
                 },
                 {
+                  "gram": null,
                   "en": "Our departure was delayed because of bad weather.",
                   "cn": "由于天气不好，我们的出发时间推迟了。"
                 },
                 {
+                  "gram": null,
                   "en": "departure time",
                   "cn": "出发时间"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Everyone in the office was surprised by Graham's sudden departure.",
                   "cn": "格雷厄姆的突然离职让办公室里的每个人都感到非常意外。"
                 }
@@ -68,10 +75,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There can be no departure from the rules.",
                   "cn": "不得违反规则。"
                 },
                 {
+                  "gram": null,
                   "en": "Selling men's clothing is a new departure for the store.",
                   "cn": "经营男装是该店的一项新业务。"
                 }

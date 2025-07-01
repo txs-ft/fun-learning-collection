@@ -1,8 +1,11 @@
 {
+  "time": 1751350083502,
   "title": "necessary",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈnes.ə.ser.i/",
         "us": "/ˈnes.ə.ser.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,26 +32,32 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He lacks the necessary skills for the job.",
                   "cn": "他不具备做这项工作所需的技能。"
                 },
                 {
+                  "gram": null,
                   "en": "I don't have much time so I won't be staying any longer than necessary.",
                   "cn": "我时间不多，所以若非必要我不会逗留。"
                 },
                 {
+                  "gram": null,
                   "en": "Just do what's necessary and then leave.",
                   "cn": "做完必要的事情就走吧。"
                 },
                 {
+                  "gram": null,
                   "en": "If necessary, we can always change the dates of our trip.",
                   "cn": "必要的话，我们随时可以改变旅行的日期。"
                 },
                 {
+                  "gram": null,
                   "en": "Is it necessary for all of us to be present at the meeting this afternoon?",
                   "cn": "我们必须全体出席今天下午的会议吗？"
                 },
                 {
+                  "gram": null,
                   "en": "We don't want to take any more luggage with us than is strictly necessary.",
                   "cn": "除了必不可少的行李以外，我们不想带多余的东西。"
                 }
@@ -62,10 +71,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I don't think that kind of language is necessary in a show that kids could be watching.",
                   "cn": "我真的认为在电视上使用那种语言是不可取的。"
                 },
                 {
+                  "gram": null,
                   "en": "Was it really necessary for you to say that?",
                   "cn": "你非得那样说吗？"
                 }

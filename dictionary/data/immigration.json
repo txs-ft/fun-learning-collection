@@ -1,8 +1,11 @@
 {
+  "time": 1751350005209,
   "title": "immigration",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌɪm.ɪˈɡreɪ.ʃən/",
         "us": "/ˌɪm.əˈɡreɪ.ʃən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There are strict limits on immigration (into the country).",
                   "cn": "（该国）对入境移民有着严格的限制。"
                 }
@@ -42,14 +46,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "After you've been through immigration (control), you can go and get your luggage.",
                   "cn": "通过移民局入境检查之后，你便可以去取行李了。"
                 },
                 {
+                  "gram": null,
                   "en": "immigration policy",
                   "cn": "移民政策"
                 },
                 {
+                  "gram": null,
                   "en": "immigration officers",
                   "cn": "移民局官员"
                 }

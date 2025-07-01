@@ -1,8 +1,11 @@
 {
+  "time": 1751350149240,
   "title": "quarter",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkwɔː.tər/",
         "us": "/ˈkwɔːr.t̬ɚ/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He cut the orange into quarters.",
                   "cn": "他把橙子切成了4块。"
                 },
                 {
+                  "gram": null,
                   "en": "Under a quarter of people questioned said that they were happily married.",
                   "cn": "不到1/4的受访者称他们的婚姻很幸福。"
                 },
                 {
+                  "gram": null,
                   "en": "My house is situated a mile and three-quarters from here.",
                   "cn": "我的房子距此1.75英里。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I waited a quarter of an hour and then went home.",
                   "cn": "我等了一刻钟然后就回家了。"
                 }
@@ -63,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It was a quarter to six when I left.",
                   "cn": "我离开时差一刻到六点。"
                 }
@@ -76,6 +84,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I'll meet you at a quarter past five.",
                   "cn": "我们五点一刻见。"
                 }
@@ -89,10 +98,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There was a fall in unemployment in the second quarter of the year.",
                   "cn": "今年第二季度的失业率有所下降。"
                 },
                 {
+                  "gram": null,
                   "en": "I get an electricity bill every quarter.",
                   "cn": "我每个季度收到一份电费账单。"
                 }
@@ -132,6 +143,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "This is the bustling commercial quarter of the city.",
                   "cn": "这里是该城繁华的商业区。"
                 }
@@ -150,10 +162,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Help came from an unexpected quarter.",
                   "cn": "帮忙的是个没想到的人。"
                 },
                 {
+                  "gram": null,
                   "en": "There is a feeling in certain/some quarters (= some people consider) that a change is needed.",
                   "cn": "有些人认为需要进行一次变革。"
                 }
@@ -172,6 +186,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The army's married quarters are just outside the town.",
                   "cn": "已婚军人的营房就在城外不远的地方。"
                 }
@@ -198,10 +213,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We can expect no quarter from our enemies.",
                   "cn": "我们不能指望敌人会放过我们。"
                 },
                 {
+                  "gram": null,
                   "en": "He gave no quarter to anyone that disappointed him.",
                   "cn": "他对任何让他失望的人毫不留情。"
                 }
@@ -215,6 +232,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈkwɔː.tər/",
         "us": "/ˈkwɔːr.t̬ɚ/"
@@ -254,6 +272,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The soldiers were quartered with (= they lived with) local people during the war.",
                   "cn": "在战争期间，士兵们住在当地村民家里。"
                 }

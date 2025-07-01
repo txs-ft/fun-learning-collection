@@ -1,8 +1,11 @@
 {
+  "time": 1751350030483,
   "title": "knowledge",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈnɒl.ɪdʒ/",
         "us": "/ˈnɑː.lɪdʒ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Her knowledge of English grammar is very extensive.",
                   "cn": "她的英语语法知识很广博。"
                 },
                 {
+                  "gram": null,
                   "en": "He has a limited knowledge of French.",
                   "cn": "他对法语所知有限。"
                 },
                 {
+                  "gram": null,
                   "en": "The details of the scandal are now common knowledge (= familiar to most people).",
                   "cn": "丑闻的详情现在众所周知。"
                 },
                 {
+                  "gram": null,
                   "en": "She started to photograph the documents, safe in the knowledge that (= knowing that) she wouldn't be disturbed for at least an hour.",
                   "cn": "她开始对文件拍照，确信至少一小时内不会有人打扰。"
                 },
                 {
+                  "gram": null,
                   "en": "In this town there are only a couple of restaurants that to my knowledge (= judging from my personal experience and information) serve good food.",
                   "cn": "据我所知，这个镇上只有几家餐馆菜品不错。"
                 }
@@ -58,10 +66,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "They both deny all knowledge of the affair.",
                   "cn": "他们俩完全否认知道此事。"
                 },
                 {
+                  "gram": null,
                   "en": "It has come/been brought to our knowledge (= we have discovered) that several computers have gone missing.",
                   "cn": "我们发现有几台电脑不见了。"
                 }

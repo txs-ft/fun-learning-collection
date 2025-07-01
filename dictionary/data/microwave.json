@@ -1,8 +1,11 @@
 {
+  "time": 1751350074337,
   "title": "microwave",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈmaɪ.krə.weɪv/",
         "us": "/ˈmaɪ.kroʊ.weɪv/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Put the fish in the microwave and it'll only take five minutes.",
                   "cn": "把鱼放到微波炉里，只需5分钟就可以了。"
                 }

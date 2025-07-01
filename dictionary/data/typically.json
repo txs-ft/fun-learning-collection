@@ -1,8 +1,11 @@
 {
+  "time": 1751350274969,
   "title": "typically",
+  "generalBitmask": 8,
   "allDefinitions": [
     {
       "pos": "adverb",
+      "defBitmask": 8,
       "pron": {
         "uk": "/ˈtɪp.ɪ.kəl.i/",
         "us": "/ˈtɪp.ɪ.kəl.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has that reserve and slight coldness of manner which is typically English.",
                   "cn": "她像典型的英国人那样态度矜持，略显冷淡。"
                 },
                 {
+                  "gram": null,
                   "en": "Paul, in his typically blunt manner, told him he wasn't interested.",
                   "cn": "保罗以惯有的生硬口气说他不感兴趣。"
                 }
@@ -46,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Typically, a doctor will see about 30 patients a day.",
                   "cn": "医生通常每天要看约30位病人。"
                 },
                 {
+                  "gram": null,
                   "en": "Tickets for these events will typically cost around thirty dollars.",
                   "cn": "这种活动的票价通常在30美元左右。"
                 }

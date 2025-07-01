@@ -1,8 +1,11 @@
 {
+  "time": 1751350039817,
   "title": "keyboard",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkiː.bɔːd/",
         "us": "/ˈkiː.bɔːrd/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,12 +32,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Switch off the computer and unplug the keyboard.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "The computer comes with a wireless mouse and keyboard.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             },
@@ -46,12 +51,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "In front of him is an electronic keyboard.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "He briefly played keyboards with rock-and-roller John Mellencamp.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -63,6 +70,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈkiː.bɔːd/",
         "us": "/ˈkiː.bɔːrd/"
@@ -79,7 +87,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,

@@ -1,8 +1,11 @@
 {
+  "time": 1751349943180,
   "title": "curriculum",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/kəˈrɪk.jə.ləm/",
         "us": "/kəˈrɪk.jə.ləm/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the school curriculum",
                   "cn": "学校课程"
                 }

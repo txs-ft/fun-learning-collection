@@ -1,8 +1,11 @@
 {
+  "time": 1751350130859,
   "title": "prescription",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/prɪˈskrɪp.ʃən/",
         "us": "/prɪˈskrɪp.ʃən/"
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a doctor's prescription",
                   "cn": "医生的处方"
                 },
                 {
+                  "gram": null,
                   "en": "a prescription for sedatives",
                   "cn": "镇静剂的处方"
                 },
                 {
+                  "gram": null,
                   "en": "The doctor should give you a repeat prescription (= another piece of paper allowing more of the same medicine to be given, often without the person seeing the doctor again).",
                   "cn": "医生应该给你开个重复处方。"
                 },
                 {
+                  "gram": null,
                   "en": "These drugs are only available on prescription (= with a prescription from a doctor).",
                   "cn": "这些药只能凭处方购买。"
                 },
                 {
+                  "gram": null,
                   "en": "Prescription charges (= the standard amount of money you pay for any medicine prescribed by a doctor) are rising in June.",
                   "cn": "处方药费将在6月份上涨。"
                 }
@@ -63,6 +71,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "So what is his prescription for success?",
                   "cn": "那么他认为成功的诀窍是什么？"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350427026,
   "title": "remember",
+  "generalBitmask": 2,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/rɪˈmem.bər/",
         "us": "/rɪˈmem.bɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A1",
@@ -29,26 +32,32 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "\"Where did you park the car?\" \"I can't remember.\"",
                   "cn": "“你把车停在哪儿了？”“我不记得了。”"
                 },
                 {
+                  "gram": null,
                   "en": "I can remember people's faces, but not their names.",
                   "cn": "我可以记住人的长相，但记不住人的名字。"
                 },
                 {
+                  "gram": "[ + (that) ]",
                   "en": "She suddenly remembered (that) her keys were in her other bag.",
                   "cn": "她忽然想起她的钥匙放在另一个包里了。"
                 },
                 {
+                  "gram": "[ + -ing verb ]",
                   "en": "I don't remember signing a contract.",
                   "cn": "我不记得曾签过一份合同。"
                 },
                 {
+                  "gram": "[ + question word ]",
                   "en": "Can you remember what her phone number is?",
                   "cn": "你记得她的电话号码是多少吗？"
                 },
                 {
+                  "gram": null,
                   "en": "I remember him as (= I thought he was) a rather annoying man.",
                   "cn": "在我记忆中，他是个很令人讨厌的人。"
                 }
@@ -62,6 +71,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Did you remember to do the shopping?",
                   "cn": "你记得去商店买东西了吗？"
                 }
@@ -75,6 +85,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She will be remembered for her courage.",
                   "cn": "她将因其勇敢而被人们铭记。"
                 }
@@ -88,6 +99,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We went and had tea in that little café - you remember, the one next to the bookshop.",
                   "cn": "我们去了一家小咖啡馆喝茶——你没有忘吧，书店旁边的那家咖啡馆。"
                 }
@@ -101,6 +113,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "On 11 November, the British remember those who died in the two World Wars.",
                   "cn": "英国人在每年的11月11日纪念两次世界大战中的死难者。"
                 }
@@ -114,10 +127,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "My Granny always remembers me (= sends me a present) on my birthday.",
                   "cn": "我过生日时我奶奶总是送我礼物。"
                 },
                 {
+                  "gram": null,
                   "en": "My cousin remembered me in her will.",
                   "cn": "我表姐在遗嘱中给我留下一笔钱。"
                 }

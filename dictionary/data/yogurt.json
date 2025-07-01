@@ -1,8 +1,11 @@
 {
+  "time": 1751350306996,
   "title": "yogurt",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈjɒɡ.ət/",
         "us": "/ˈjoʊ.ɡɚt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,28 +32,34 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "natural/plain yogurt",
                   "cn": "天然／纯酸奶"
                 },
                 {
+                  "gram": null,
                   "en": "strawberry yogurt",
                   "cn": "草莓酸奶"
                 },
                 {
+                  "gram": null,
                   "en": "low-fat yogurt",
                   "cn": "低脂酸奶"
                 },
                 {
+                  "gram": null,
                   "en": "I only had a yogurt (= a container of this) for lunch.",
                   "cn": "我午餐只喝了一罐酸奶。"
                 },
                 {
+                  "gram": null,
                   "en": "I settled for orange juice, yoghurt, and black coffee for breakfast.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "They eat no animal products at all – no milk, cheese, eggs, yoghourt, etc.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }

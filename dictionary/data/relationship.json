@@ -1,8 +1,11 @@
 {
+  "time": 1751350179720,
   "title": "relationship",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rɪˈleɪ.ʃən.ʃɪp/",
         "us": "/rɪˈleɪ.ʃən.ʃɪp/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Scientists have established the relationship between lung cancer and smoking.",
                   "cn": "科学家们已经证明了肺癌和吸烟之间的联系。"
                 }
@@ -47,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He has a very good relationship with his uncle.",
                   "cn": "他和他叔叔的感情很深。"
                 }
@@ -60,6 +65,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Have you had any serious relationships in the past year?",
                   "cn": "过去一年中你有没有正经八百地同谁谈过恋爱？"
                 }
@@ -86,6 +92,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The judge asked the witness what the relationship was between her and the victim.",
                   "cn": "法官问证人她跟受害者有什么亲戚关系。"
                 }

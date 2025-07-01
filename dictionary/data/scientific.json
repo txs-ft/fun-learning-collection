@@ -1,8 +1,11 @@
 {
+  "time": 1751350200319,
   "title": "scientific",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌsaɪənˈtɪf.ɪk/",
         "us": "/ˌsaɪənˈtɪf.ɪk/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a scientific discovery/experiment/theory",
                   "cn": "科学发现／实验／理论"
                 },
                 {
+                  "gram": null,
                   "en": "scientific data/evidence/research",
                   "cn": "科学数据／证据／研究"
                 },
                 {
+                  "gram": null,
                   "en": "The project has attracted considerable criticism from the scientific community (= from scientists).",
                   "cn": "这个项目招致了科学界广泛的批评。"
                 }
@@ -50,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We will have to adopt a more scientific approach in the future.",
                   "cn": "我们将来得采用更审慎系统的方法。"
                 },
                 {
+                  "gram": null,
                   "en": "I try to arrange things in some kind of a system, but I'm not very scientific about it.",
                   "cn": "我尽量把事情安排得规矩些，但不是非常精确。"
                 }

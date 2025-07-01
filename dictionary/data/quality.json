@@ -1,8 +1,11 @@
 {
+  "time": 1751350144607,
   "title": "quality",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkwɒl.ə.ti/",
         "us": "/ˈkwɑː.lə.t̬i/"
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a shop advertising top quality electrical goods",
                   "cn": "推销高质量电器的商店"
                 },
                 {
+                  "gram": null,
                   "en": "The food was of such poor/low quality.",
                   "cn": "这种食品质量很差。"
                 },
                 {
+                  "gram": null,
                   "en": "Their products are of very high quality.",
                   "cn": "他们的产品质量很高。"
                 },
                 {
+                  "gram": null,
                   "en": "I only buy good-quality wine.",
                   "cn": "我只买好酒。"
                 },
                 {
+                  "gram": null,
                   "en": "The quality of the picture on our television isn't very good.",
                   "cn": "我们的电视图像质量不高。"
                 }
@@ -58,6 +66,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's not interested in quality. All he cares about is making money.",
                   "cn": "他对高质量毫不在意，一心只想赚钱。"
                 }
@@ -71,6 +80,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "My quality of life has improved tremendously since I moved to the country.",
                   "cn": "移居乡村以来，我的生活质量大大提高。"
                 }
@@ -89,18 +99,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "leadership qualities",
                   "cn": "领导者的素质"
                 },
                 {
+                  "gram": null,
                   "en": "He has a lot of good qualities but being organized isn't one of them.",
                   "cn": "他有许多优秀品质，可就是缺乏条理性。"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "I don't think he has the right qualities to be a teacher.",
                   "cn": "我认为他不具备做老师的素质。"
                 },
                 {
+                  "gram": null,
                   "en": "This cheese has a rather rubbery quality to it (= it is like rubber).",
                   "cn": "这种奶酪非常有弹性。"
                 }
@@ -114,6 +128,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈkwɒl.ə.ti/",
         "us": "/ˈkwɑː.lə.t̬i/"
@@ -130,7 +145,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -140,10 +155,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "This is a quality product.",
                   "cn": "这是优质产品。"
                 },
                 {
+                  "gram": null,
                   "en": "The story received little coverage in the quality papers (= more serious newspapers).",
                   "cn": "内容严肃的报纸几乎没有报道这条新闻。"
                 }
@@ -157,6 +174,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "That gig was quality.",
                   "cn": "那个演奏会很精彩。"
                 }

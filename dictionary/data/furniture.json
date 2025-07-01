@@ -1,8 +1,11 @@
 {
+  "time": 1751349979819,
   "title": "furniture",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈfɜː.nɪ.tʃər/",
         "us": "/ˈfɝː.nɪ.tʃɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "They have a lot of antique furniture.",
                   "cn": "他们有很多古董家具。"
                 },
                 {
+                  "gram": null,
                   "en": "The only piece/item of furniture he has in his bedroom is a bed.",
                   "cn": "他卧室里唯一的家具就是一张床。"
                 },
                 {
+                  "gram": null,
                   "en": "We've just bought some new outdoor furniture.",
                   "cn": "我们刚刚买了些花园里用的新家具。"
                 }

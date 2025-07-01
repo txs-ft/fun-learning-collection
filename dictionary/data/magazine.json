@@ -1,8 +1,11 @@
 {
+  "time": 1751350060411,
   "title": "magazine",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌmæɡ.əˈziːn/",
         "us": "/ˌmæɡ.əˈziːn/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has written articles for several women's magazines.",
                   "cn": "她为几家女性杂志撰稿。"
                 },
                 {
+                  "gram": null,
                   "en": "a glossy magazine",
                   "cn": "用有光纸印刷的杂志"
                 },
                 {
+                  "gram": null,
                   "en": "men's mags",
                   "cn": "男性杂志"
                 },
                 {
+                  "gram": null,
                   "en": "a magazine rack",
                   "cn": "期刊架"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350227879,
   "title": "stress",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/stres/",
         "us": "/stres/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "People under a lot of stress may experience headaches, minor pains, and sleeping difficulties.",
                   "cn": "压力大的人可能会出现头痛、轻微疼痛和睡眠障碍。"
                 },
                 {
+                  "gram": null,
                   "en": "Yoga is a very effective technique for combating stress.",
                   "cn": "练瑜伽是舒缓压力的非常有效的方法。"
                 },
                 {
+                  "gram": null,
                   "en": "the stresses and strains of the job",
                   "cn": "工作的紧张和压力"
                 },
                 {
+                  "gram": null,
                   "en": "stress-related illness",
                   "cn": "压力引起的疾病"
                 }
@@ -59,10 +66,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The meaning of a sentence often depends on stress and intonation.",
                   "cn": "句子的意思常常取决于重音和语调。"
                 },
                 {
+                  "gram": null,
                   "en": "When \"insert\" is a verb, the stress is on the second syllable, but when it is a noun, the stress is on the first syllable.",
                   "cn": "Insert（插入）用作动词时重音在第二个音节上，但用作名词时重音在第一个音节上。"
                 }
@@ -81,10 +90,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Computers work out the stresses that such a craft will encounter in flight.",
                   "cn": "计算机计算出诸如此类的飞行器在飞行中承受的压力。"
                 },
                 {
+                  "gram": null,
                   "en": "Jogging puts a lot of stress on your knee joints.",
                   "cn": "慢跑使膝关节承受很大的压力。"
                 }
@@ -103,6 +114,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "During his speech, he laid particular stress on the freedom of the press.",
                   "cn": "他在讲话中特别强调了新闻自由。"
                 }
@@ -116,6 +128,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/stres/",
         "us": "/stres/"
@@ -142,10 +155,12 @@
               },
               "examples": [
                 {
+                  "gram": "[ + (that) ]",
                   "en": "He is careful to stress (that) the laboratory's safety standards are the best in the country.",
                   "cn": "他谨慎地强调实验室的安全标准是全国最高的。"
                 },
                 {
+                  "gram": null,
                   "en": "I'd just like to stress the importance of neatness and politeness in this job.",
                   "cn": "我只想强调一下整洁和礼貌在这份工作中的重要性。"
                 }
@@ -164,6 +179,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "In the word \"engine\" you should stress the first syllable.",
                   "cn": "在 engine 这个词中，应该重读第一个音节。"
                 }
@@ -182,6 +198,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Don't stress over it - we'll soon get it sorted out.",
                   "cn": "不用担心——我们很快会解决的。"
                 }

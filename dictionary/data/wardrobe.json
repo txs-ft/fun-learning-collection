@@ -1,8 +1,11 @@
 {
+  "time": 1751350302584,
   "title": "wardrobe",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈwɔː.drəʊb/",
         "us": "/ˈwɔːr.droʊb/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He hung his suit in the wardrobe.",
                   "cn": "他把西装挂进衣柜里。"
                 },
                 {
+                  "gram": null,
                   "en": "She was showing me her new built-in/fitted wardrobes.",
                   "cn": "她正在带我看她新做的嵌入式衣柜。"
                 }
@@ -46,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I need a new summer wardrobe (= new clothes for summer).",
                   "cn": "我需要一批夏天的新衣服。"
                 },
                 {
+                  "gram": null,
                   "en": "Jeans are an indispensable part of most people's wardrobe.",
                   "cn": "牛仔裤是大多数人必不可少的衣物。"
                 }
@@ -63,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's in charge of wardrobe at the local amateur theatre.",
                   "cn": "他是当地业余剧院戏装部的负责人。"
                 }

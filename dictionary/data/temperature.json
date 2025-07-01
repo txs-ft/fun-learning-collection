@@ -1,8 +1,11 @@
 {
+  "time": 1751350246189,
   "title": "temperature",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈtem.prə.tʃər/",
         "us": "/ˈtem.pɚ.ə.tʃɚ/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Preheat the oven to a temperature of 200 degrees Celsius.",
                   "cn": "把炉子预热到200摄氏度。"
                 },
                 {
+                  "gram": null,
                   "en": "Temperatures have risen over the past few days (= the weather has become warmer).",
                   "cn": "最近几天气温突然上升了。"
                 },
                 {
+                  "gram": null,
                   "en": "The doctor examined him and took his temperature (= measured it).",
                   "cn": "医生给他做了检查，并量了他的体温。"
                 }
@@ -63,6 +69,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The temperature of the discussion started to rise as each side added its own arguments.",
                   "cn": "由于讨论双方各执一词，气氛开始变得紧张起来。"
                 }

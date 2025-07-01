@@ -1,8 +1,11 @@
 {
+  "time": 1751350142310,
   "title": "qualified",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈkwɒl.ɪ.faɪd/",
         "us": "/ˈkwɑː.lə.faɪd/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Tim is now a qualified architect.",
                   "cn": "蒂姆现在是一个合格的建筑师了。"
                 },
                 {
+                  "gram": null,
                   "en": "What makes you think that you are qualified for this job?",
                   "cn": "什么使你觉得自己有资格从事这份工作？"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "I'm not qualified to give advice on such matters.",
                   "cn": "在这样的事情上我没有资格提建议。"
                 }
@@ -55,6 +61,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There seems to be qualified support for the idea.",
                   "cn": "对这个观点的支持似乎有所保留。"
                 }

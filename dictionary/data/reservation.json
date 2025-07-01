@@ -1,8 +1,11 @@
 {
+  "time": 1751350186590,
   "title": "reservation",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌrez.əˈveɪ.ʃən/",
         "us": "/ˌrez.ɚˈveɪ.ʃən/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I'd like to make a table reservation for two people for nine o'clock.",
                   "cn": "我要预订9点两人用餐的桌位。"
                 },
                 {
+                  "gram": null,
                   "en": "Please confirm your reservation in writing by Friday.",
                   "cn": "请在星期五前对您的预订予以书面确认。"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The family lives on a Native American reservation.",
                   "cn": "这家人住在一个美洲土著居民居留地上。"
                 }
@@ -59,6 +65,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's the chief warden of a big-game reservation.",
                   "cn": "他是一个大型动物保护区的管理主任。"
                 }
@@ -77,10 +84,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Workers and employees shared deep reservations about the wisdom of the government's plans for the industry.",
                   "cn": "对于政府针对这一产业作出的规划是否明智，工人和雇主都非常怀疑。"
                 },
                 {
+                  "gram": null,
                   "en": "He accepted my advice without reservation.",
                   "cn": "他毫无保留地接受了我的建议。"
                 }

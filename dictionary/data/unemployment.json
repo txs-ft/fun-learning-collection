@@ -1,8 +1,11 @@
 {
+  "time": 1751350281954,
   "title": "unemployment",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌʌn.ɪmˈplɔɪ.mənt/",
         "us": "/ˌʌn.ɪmˈplɔɪ.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Unemployment has fallen/risen again for the third consecutive month.",
                   "cn": "失业人数连续第3个月上升／下降。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349970865,
   "title": "explanation",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌek.spləˈneɪ.ʃən/",
         "us": "/ˌek.spləˈneɪ.ʃən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Could you give me a quick explanation of how it works?",
                   "cn": "你能给我简要说明一下它的工作原理吗？"
                 },
                 {
+                  "gram": null,
                   "en": "What was her explanation for why she was late?",
                   "cn": "她是如何解释她迟到的原因的？"
                 },
                 {
+                  "gram": "[ + that ]",
                   "en": "The judge didn't believe his explanation that he had stolen the money in order to give it to charity.",
                   "cn": "他辩解说偷钱是为了捐给慈善机构，但是法官并不相信。"
                 },
                 {
+                  "gram": null,
                   "en": "He said, by way of explanation, that he hadn't seen the traffic light change to red.",
                   "cn": "他解释说他没有看到红灯亮了。"
                 }

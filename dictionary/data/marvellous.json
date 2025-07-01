@@ -1,8 +1,11 @@
 {
+  "time": 1751350064902,
   "title": "marvellous",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈmɑː.vəl.əs/",
         "us": "/ˈmɑːr.vəl.əs/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's done a marvellous job of the decorating.",
                   "cn": "他所做的装饰真是棒极了。"
                 },
                 {
+                  "gram": null,
                   "en": "It took me ages to get it right, but it was a marvellous feeling when I did.",
                   "cn": "我花了好长时间才弄好，但弄好后真有种说不出的快乐。"
                 },
                 {
+                  "gram": null,
                   "en": "It's marvellous how everyone's tried to help.",
                   "cn": "每个人都尽力帮忙，真是太好了。"
                 },
                 {
+                  "gram": null,
                   "en": "He was a truly marvellous storyteller.",
                   "cn": "他真是个了不起的讲故事的高手。"
                 },
                 {
+                  "gram": null,
                   "en": "We've achieved some marvellous results with this new drug.",
                   "cn": "我们已用这种新药取得了极好的疗效。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349959423,
   "title": "documentary",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌdɒk.jəˈmen.tər.i/",
         "us": "/ˌdɑː.kjəˈmen.t̬ɚ.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The documentary took a fresh look at the life of Darwin.",
                   "cn": "这部纪录片从一个崭新的角度介绍了达尔文的一生。"
                 },
                 {
+                  "gram": null,
                   "en": "They showed a documentary on animal communication.",
                   "cn": "他们放映了一部关于动物之间交流沟通的纪录片。"
                 }
@@ -46,6 +51,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌdɒk.jəˈmen.tər.i/",
         "us": "/ˌdɑː.kjəˈmen.t̬ɚ.i/"
@@ -62,7 +68,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -72,6 +78,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Human rights campaigners have discovered documentary evidence of torture.",
                   "cn": "人权活动家们已经发现了刑讯逼供的书面证据。"
                 }
@@ -85,6 +92,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Most of her movies have a documentary style.",
                   "cn": "她的电影大多是纪实风格的。"
                 }

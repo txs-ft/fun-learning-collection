@@ -1,8 +1,11 @@
 {
+  "time": 1751350172854,
   "title": "refreshment",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rɪˈfreʃ.mənt/",
         "us": "/rɪˈfreʃ.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He stopped at a bar for a little refreshment.",
                   "cn": "他在一家小吃店前停下买些点心饮料。"
                 },
                 {
+                  "gram": null,
                   "en": "Light refreshments will be available at the back of the hall.",
                   "cn": "会堂后面将会供应简单的茶点。"
                 }

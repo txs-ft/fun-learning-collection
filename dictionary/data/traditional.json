@@ -1,8 +1,11 @@
 {
+  "time": 1751350267955,
   "title": "traditional",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/trəˈdɪʃ.ən.əl/",
         "us": "/trəˈdɪʃ.ən.əl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The villagers retain a strong attachment to their traditional values/customs/beliefs.",
                   "cn": "村民们依然固守着传统的价值观／习俗／信仰。"
                 },
                 {
+                  "gram": null,
                   "en": "The school uses a combination of modern and traditional methods for teaching reading.",
                   "cn": "该校采用传统与现代方式相结合的方法教授阅读。"
                 },
                 {
+                  "gram": null,
                   "en": "The dancers were wearing traditional Hungarian dress/costume.",
                   "cn": "舞蹈者身着传统匈牙利服装。"
                 },
                 {
+                  "gram": null,
                   "en": "She's very traditional (in her ideas and opinions).",
                   "cn": "她这人（在思想观念上）非常传统。"
                 }

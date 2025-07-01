@@ -1,8 +1,11 @@
 {
+  "time": 1751349975318,
   "title": "fortunate",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈfɔː.tʃən.ət/",
         "us": "/ˈfɔːr.tʃən.ət/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "You're very fortunate to have found such a nice house.",
                   "cn": "你能找到这么一栋漂亮的房子真是非常幸运。"
                 },
                 {
+                  "gram": null,
                   "en": "He was fortunate in his choice of assistant.",
                   "cn": "他很幸运，选择了一位好助手。"
                 },
                 {
+                  "gram": "[ + that ]",
                   "en": "It was fortunate that they had set out early because the traffic was terrible.",
                   "cn": "幸运的是他们出发得很早，因为交通状况实在太糟了。"
                 }

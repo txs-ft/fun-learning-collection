@@ -1,8 +1,11 @@
 {
+  "time": 1751349844778,
   "title": "advantage",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ədˈvɑːn.tɪdʒ/",
         "us": "/ədˈvæn.t̬ɪdʒ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,34 +32,42 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The advantage of booking tickets in advance is that you get better seats.",
                   "cn": "提前订票的好处就是可以得到比较好的座位。"
                 },
                 {
+                  "gram": null,
                   "en": "Despite the twin advantages of wealth and beauty, she did not have a happy life.",
                   "cn": "尽管拥有财富和美貌的双重优势，她的生活并不幸福。"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "It would be to your advantage (= it would improve the situation for you) to agree to his demands.",
                   "cn": "答应他的要求对你有利。"
                 },
                 {
+                  "gram": null,
                   "en": "Her background as a financial officer gives her an advantage in dealing with public budgets.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "His height and reach give him a big advantage over (= make him better than) other boxers.",
                   "cn": "他身高臂长，这使他在和其他拳击手较量时占有很大优势。"
                 },
                 {
+                  "gram": null,
                   "en": "He has the advantage of being able to walk to work because he lives so close by.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "\"Do you know how old I am?\" \"I'm afraid you have the advantage of me there (= you know the answer but I do not).\"",
                   "cn": "“你知道我多大了吗？”“恐怕我不知道。”"
                 },
                 {
+                  "gram": null,
                   "en": "For a goalkeeper, it's a great advantage to have big hands.",
                   "cn": "对守门员来说，长一双大手是很大的优势。"
                 }
@@ -70,6 +81,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I thought I'd take advantage of the sports facilities while I'm here.",
                   "cn": "我想趁我在这儿期间，要好好利用一下这里的体育设施。"
                 }
@@ -83,6 +95,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I think she takes advantage of his good nature.",
                   "cn": "我认为她利用他善良的本性占他的便宜。"
                 }
@@ -96,6 +109,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Advantage Miss Williams!",
                   "cn": "威廉姆斯小姐占先！"
                 }
@@ -109,6 +123,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The ref should have played advantage because Rooney would have been through on goal.",
                   "cn": "裁判当时应该根据对被犯规方有利的原则允许比赛继续进行，因为鲁尼本来有可能进球的。"
                 }

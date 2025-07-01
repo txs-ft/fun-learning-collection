@@ -1,8 +1,11 @@
 {
+  "time": 1751350121591,
   "title": "politics",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈpɒl.ə.tɪks/",
         "us": "/ˈpɑː.lə.tɪks/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Joe is very active in left-wing politics.",
                   "cn": "乔在左翼政治中很活跃。"
                 }
@@ -42,10 +46,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The group is campaigning to get more women into politics.",
                   "cn": "该组织正发起运动以使更多的女性有机会从政。"
                 },
                 {
+                  "gram": null,
                   "en": "He is planning to retire from politics next year.",
                   "cn": "他打算明年退出政坛。"
                 }
@@ -59,6 +65,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She studied politics at Leicester University.",
                   "cn": "她曾在莱斯特大学攻读政治学。"
                 }
@@ -72,24 +79,29 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Her politics have become more liberal over the past few years.",
                   "cn": "在过去的几年中，她在政治上变得更加倾向于自由主义。"
                 },
                 {
+                  "gram": null,
                   "en": "He moved to Los Angeles, a place more in tune with his politics than Texas.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "He was accused of twisting the facts to suit his politics.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "Whatever your politics, you should be happy about these reforms.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "These people really live their politics, organizing, fundraising, and demonstrating constantly.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             },
@@ -101,12 +113,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I don't like to get involved in office politics.",
                   "cn": "我不想卷入办公室的争权夺利中去。"
                 },
                 {
+                  "gram": null,
                   "en": "They know how to get on with people and they understand the politics of a social group.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }

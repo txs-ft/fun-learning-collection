@@ -1,8 +1,11 @@
 {
+  "time": 1751350100835,
   "title": "opportunity",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌɒp.əˈtʃuː.nə.ti/",
         "us": "/ˌɑː.pɚˈtuː.nə.t̬i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,34 +32,42 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Everyone will have an opportunity to comment.",
                   "cn": "每个人都有机会发表意见。"
                 },
                 {
+                  "gram": null,
                   "en": "I was never given the opportunity of going to college.",
                   "cn": "我从没有得到过上大学的机会。"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "The exhibition is a unique opportunity to see her later work.",
                   "cn": "这次展览是欣赏她后期作品的难得的机会。"
                 },
                 {
+                  "gram": null,
                   "en": "An ankle injury meant she missed the opportunity to run in the qualifying heat.",
                   "cn": "脚踝受伤意味着她失去了参加资格赛的机会。"
                 },
                 {
+                  "gram": null,
                   "en": "Please contact us at the earliest opportunity (= as soon as possible).",
                   "cn": "请尽快和我们联系。"
                 },
                 {
+                  "gram": null,
                   "en": "He goes fishing at every opportunity (= as often as possible).",
                   "cn": "他一有机会就去钓鱼。"
                 },
                 {
+                  "gram": null,
                   "en": "I used to love going out dancing, but I don't get much opportunity now.",
                   "cn": "我过去喜欢去剧院，但现在我没有什么机会去。"
                 },
                 {
+                  "gram": null,
                   "en": "He had a golden (= an extremely good) opportunity to score in the first half but squandered it.",
                   "cn": "他在上半场时有一个绝佳的射门得分机会，可是给浪费掉了。"
                 }
@@ -70,14 +81,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "employment/job opportunities",
                   "cn": "就业机会"
                 },
                 {
+                  "gram": null,
                   "en": "opportunities for young graduates",
                   "cn": "年轻大学毕业生的就业机会"
                 },
                 {
+                  "gram": null,
                   "en": "There are some great opportunities now for engineers trained in computer-aided design.",
                   "cn": "对受过电脑辅助设计训练的工程师来说，现在有一些很好的就业机会。"
                 }

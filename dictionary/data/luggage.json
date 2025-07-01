@@ -1,8 +1,11 @@
 {
+  "time": 1751350055933,
   "title": "luggage",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈlʌɡ.ɪdʒ/",
         "us": "/ˈlʌɡ.ɪdʒ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We bought some new luggage for our trip.",
                   "cn": "我们为旅行买了一些新行李箱。"
                 },
                 {
+                  "gram": null,
                   "en": "Never leave your luggage unattended.",
                   "cn": "决不要把行李放在没人看管的地方。"
                 },
                 {
+                  "gram": null,
                   "en": "hand luggage (= small bags that you take with you onto the plane)",
                   "cn": "（可随身带上飞机的）手提行李"
                 }

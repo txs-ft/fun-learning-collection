@@ -1,8 +1,11 @@
 {
+  "time": 1751349889753,
   "title": "challenge",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈtʃæl.ɪndʒ/",
         "us": "/ˈtʃæl.ɪndʒ/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Finding a solution to this problem is one of the greatest challenges faced by scientists today.",
                   "cn": "寻找这个难题的解决办法是当今科学家们所面临的最大挑战之一。"
                 },
                 {
+                  "gram": null,
                   "en": "You know me - I like a challenge.",
                   "cn": "你了解我——我喜欢挑战。"
                 },
                 {
+                  "gram": null,
                   "en": "It's going to be a difficult job but I'm sure she'll rise to the challenge.",
                   "cn": "这份工作会很有难度，不过我相信她会知难而上的。"
                 }
@@ -55,10 +61,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "\"I bet you can't eat all that food on your plate.\" \"Is that a challenge?\"",
                   "cn": "“我敢打赌你吃不完自己盘里的食物?”“这是在叫板吗？”"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "She issued a challenge to her rival candidates to take part in a public debate.",
                   "cn": "她向与她竞争的候选人发出挑战，邀请他们参加一次公开辩论。"
                 }
@@ -72,6 +80,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The Ice Bucket Challenge, in which people filmed themselves being doused with icy water, raised awareness and over $100 million for the ALS Association.",
                   "cn": "“冰桶挑战”的参与者拍摄了自己被冰水浇灌的画面，提高了人们ALS协会的认识并筹集了超过1亿美元的善款。"
                 }
@@ -90,10 +99,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The result of the vote poses a serious challenge to the government's credibility.",
                   "cn": "投票结果使人们对政府的可信度提出了严重质疑。"
                 },
                 {
+                  "gram": null,
                   "en": "Because of the way this research was conducted, its findings are open to challenge.",
                   "cn": "因为研究方法的问题，该项研究的结果颇让人怀疑。"
                 }
@@ -125,6 +136,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "A challenge to a member of the jury should be made before the trial begins.",
                   "cn": "反对某人为陪审团成员的申明应在开审之前宣布。"
                 }
@@ -138,6 +150,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈtʃæl.ɪndʒ/",
         "us": "/ˈtʃæl.ɪndʒ/"
@@ -164,6 +177,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Tina has challenged me to a game of poker",
                   "cn": "蒂娜向我挑战，要我和她玩扑克牌一决高低。"
                 }
@@ -182,6 +196,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Children challenge their parents' authority far more nowadays than they did in the past.",
                   "cn": "如今子女对父母权威的质疑远远多于过去。"
                 }

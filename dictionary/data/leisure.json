@@ -1,8 +1,11 @@
 {
+  "time": 1751350049172,
   "title": "leisure",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈleʒ.ər/",
         "us": "/ˈliː.ʒɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "leisure activities",
                   "cn": "休闲活动"
                 },
                 {
+                  "gram": null,
                   "en": "Most people only have a limited amount of leisure time.",
                   "cn": "大多数人只有有限的空闲时间。"
                 },
                 {
+                  "gram": null,
                   "en": "The town lacks leisure facilities such as a swimming pool or squash courts.",
                   "cn": "这个城镇缺少游泳池、壁球场等休闲设施。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350295578,
   "title": "vegetarian",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌvedʒ.ɪˈteə.ri.ən/",
         "us": "/ˌvedʒ.əˈter.i.ən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Of the four million people who have become vegetarians in this country, nearly two thirds are women.",
                   "cn": "在英国已有的400万素食主义者中，将近2/3是女性。"
                 }
@@ -42,6 +46,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌvedʒ.ɪˈteə.ri.ən/",
         "us": "/ˌvedʒ.əˈter.i.ən/"
@@ -58,7 +63,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -68,18 +73,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "vegetarian cooking/food",
                   "cn": "素食烹饪／食品"
                 },
                 {
+                  "gram": null,
                   "en": "a vegetarian dish/meal",
                   "cn": "素菜／素餐"
                 },
                 {
+                  "gram": null,
                   "en": "a vegetarian restaurant",
                   "cn": "素食餐馆"
                 },
                 {
+                  "gram": null,
                   "en": "She's recently gone/become vegetarian.",
                   "cn": "她最近成了素食主义者。"
                 }

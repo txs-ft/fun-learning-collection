@@ -1,8 +1,11 @@
 {
+  "time": 1751349865999,
   "title": "bracelet",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈbreɪ.slət/",
         "us": "/ˈbreɪ.slət/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a gold/silver/diamond bracelet",
                   "cn": "金／银／钻石手镯"
                 },
                 {
+                  "gram": null,
                   "en": "a chain bracelet",
                   "cn": "手链"
                 }

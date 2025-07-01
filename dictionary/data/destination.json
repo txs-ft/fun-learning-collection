@@ -1,8 +1,11 @@
 {
+  "time": 1751349952604,
   "title": "destination",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌdes.tɪˈneɪ.ʃən/",
         "us": "/ˌdes.təˈneɪ.ʃən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We arrived at our destination tired and hungry.",
                   "cn": "我们到达目的地时又累又饿。"
                 },
                 {
+                  "gram": null,
                   "en": "His letter never reached its destination.",
                   "cn": "他的信没有被送到收信人处。"
                 },
                 {
+                  "gram": null,
                   "en": "The Caribbean is a popular holiday destination.",
                   "cn": "加勒比海是人们喜爱的度假胜地。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349872840,
   "title": "cabinet",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkæb.ɪ.nət/",
         "us": "/ˈkæb.ən.ət/"
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The Cabinet meet/meets every Thursday.",
                   "cn": "内阁成员每周四开会。"
                 },
                 {
+                  "gram": null,
                   "en": "The President is completing the selection of his new Cabinet.",
                   "cn": "首相已宣布新内阁名单。"
                 },
                 {
+                  "gram": null,
                   "en": "a cabinet post",
                   "cn": "内阁大臣"
                 },
                 {
+                  "gram": null,
                   "en": "a cabinet reshuffle (= changes in the Cabinet).",
                   "cn": "内阁改组"
                 },
                 {
+                  "gram": null,
                   "en": "a cabinet minister",
                   "cn": "内阁部长"
                 }
@@ -63,10 +71,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Valuable pieces of china were on display in a glass-fronted cabinet.",
                   "cn": "贵重瓷器陈列在正面是玻璃的柜子里。"
                 },
                 {
+                  "gram": null,
                   "en": "a bathroom/filing cabinet",
                   "cn": "浴室／文件柜"
                 }

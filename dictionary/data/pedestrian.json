@@ -1,8 +1,11 @@
 {
+  "time": 1751350107849,
   "title": "pedestrian",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/pəˈdes.tri.ən/",
         "us": "/pəˈdes.tri.ən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "A few pedestrians sheltered from the rain in doorways.",
                   "cn": "几个行人站在门口躲雨。"
                 },
                 {
+                  "gram": null,
                   "en": "The death rate for pedestrians hit by cars is unacceptably high.",
                   "cn": "遭遇车祸的行人死亡率之高令人无法接受。"
                 }
@@ -46,6 +51,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/pəˈdes.tri.ən/",
         "us": "/pəˈdes.tri.ən/"
@@ -62,7 +68,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -72,10 +78,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Her books, with few exceptions, are workmanlike but pedestrian.",
                   "cn": "除了极少几本以外，她的书写得精确细腻但缺乏想象力。"
                 },
                 {
+                  "gram": null,
                   "en": "His speech was long and pedestrian.",
                   "cn": "他的讲话冗长乏味。"
                 }

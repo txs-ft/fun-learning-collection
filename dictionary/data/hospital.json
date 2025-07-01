@@ -1,8 +1,11 @@
 {
+  "time": 1751349995969,
   "title": "hospital",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈhɒs.pɪ.təl/",
         "us": "/ˈhɑː.spɪ.t̬əl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a general/children's/maternity hospital",
                   "cn": "综合／儿童／妇产医院"
                 },
                 {
+                  "gram": null,
                   "en": "hospital patients/staff",
                   "cn": "医院的病人／工作人员"
                 },
                 {
+                  "gram": null,
                   "en": "I've got to go (in)to hospital (US to the hospital) to have an operation.",
                   "cn": "我不得不接受手术。"
                 },
                 {
+                  "gram": null,
                   "en": "She spent a week in hospital (US in the hospital) last year.",
                   "cn": "去年她住了一个星期的院。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349989095,
   "title": "historical",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/hɪˈstɒr.ɪ.kəl/",
         "us": "/hɪˈstɔːr.ɪ.kəl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Many important historical documents were destroyed when the library was bombed.",
                   "cn": "图书馆遭轰炸时很多重要的历史文献都毁于一旦。"
                 },
                 {
+                  "gram": null,
                   "en": "She specializes in historical novels set in 18th-century England.",
                   "cn": "她专门创作以18世纪英格兰为背景的历史小说。"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The table compares historical exchange rates for five different currencies.",
                   "cn": "这张表比较五种货币在历史上的兑换率。"
                 }

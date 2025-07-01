@@ -1,8 +1,11 @@
 {
+  "time": 1751350021419,
   "title": "jealous",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈdʒel.əs/",
         "us": "/ˈdʒel.əs/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a jealous husband/wife",
                   "cn": "吃醋的丈夫／妻子"
                 },
                 {
+                  "gram": null,
                   "en": "Anna says she feels jealous every time another woman looks at her boyfriend.",
                   "cn": "安娜说每次别的女人看她的男朋友她都会感到妒忌。"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He had always been very jealous of his brother's good looks.",
                   "cn": "他兄弟的外貌总是让他嫉妒。"
                 }
@@ -64,10 +70,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She is very jealous of her independence, and doesn't want to get married.",
                   "cn": "她很珍惜自己的自由，不想结婚。"
                 },
                 {
+                  "gram": null,
                   "en": "Her parents used to keep a jealous watch over her when she was young.",
                   "cn": "她小时候父母一直小心呵护她。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349963908,
   "title": "enormous",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ɪˈnɔː.məs/",
         "us": "/əˈnɔːr.məs/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "an enormous car/house",
                   "cn": "大轿车／大房子"
                 },
                 {
+                  "gram": null,
                   "en": "He earns an enormous salary.",
                   "cn": "他工资极高。"
                 },
                 {
+                  "gram": null,
                   "en": "I was absolutely enormous when I was pregnant.",
                   "cn": "我怀孕的时候，身体十分臃肿。"
                 },
                 {
+                  "gram": null,
                   "en": "You've been an enormous help.",
                   "cn": "你真是帮了大忙。"
                 }

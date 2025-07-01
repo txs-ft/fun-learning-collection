@@ -1,8 +1,11 @@
 {
+  "time": 1751350053691,
   "title": "lottery",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈlɒt.ər.i/",
         "us": "/ˈlɑː.t̬ɚ.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -37,6 +40,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Education in England is something of a lottery.",
                   "cn": "在英格兰接受教育有点儿像碰运气。"
                 }

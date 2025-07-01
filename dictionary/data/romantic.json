@@ -1,8 +1,11 @@
 {
+  "time": 1751350193421,
   "title": "romantic",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/rəʊˈmæn.tɪk/",
         "us": "/roʊˈmæn.t̬ɪk/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a romantic novel/comedy",
                   "cn": "言情小说／爱情喜剧"
                 },
                 {
+                  "gram": null,
                   "en": "You used to be so romantic, but now you never tell me that you love me.",
                   "cn": "你以前是那么多情，可现在你从来就不对我说你爱我。"
                 },
                 {
+                  "gram": null,
                   "en": "I suppose he is quite romantic - he sends me flowers on my birthday and tells me I'm looking beautiful and so on.",
                   "cn": "我猜他是很浪漫的－－他在我的生日给我送花，说我看起来很漂亮等等。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We thought that Egypt was an incredibly romantic country.",
                   "cn": "我们以前认为埃及是个充满传奇色彩的国家。"
                 }
@@ -63,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has a romantic idea of what it's like to be a struggling young artist.",
                   "cn": "她不切实际地想象着做一个挣扎求生的年轻艺术家是如何浪漫。"
                 }
@@ -76,6 +84,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rəʊˈmæn.tɪk/",
         "us": "/roʊˈmæn.t̬ɪk/"
@@ -92,7 +101,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -102,6 +111,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "You're a hopeless/incurable romantic.",
                   "cn": "你是个不可救药的幻想家。"
                 }
@@ -115,6 +125,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/rəʊˈmæn.tɪk/",
         "us": "/roʊˈmæn.t̬ɪk/"
@@ -131,7 +142,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -141,10 +152,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Beethoven, Schumann, and Chopin were leading Romantic composers.",
                   "cn": "贝多芬、舒曼和肖邦是浪漫主义作曲家的代表人物。"
                 },
                 {
+                  "gram": null,
                   "en": "Romantic poets such as Shelley and Coleridge",
                   "cn": "浪漫主义诗人，如雪莱和柯尔律治"
                 }
@@ -158,6 +171,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rəʊˈmæn.tɪk/",
         "us": "/roʊˈmæn.t̬ɪk/"
@@ -174,7 +188,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -184,10 +198,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The German Romantics emphasized the uniqueness of each intimate experience.",
                   "cn": "德国浪漫派强调每一种亲密体验的独特性。"
                 },
                 {
+                  "gram": null,
                   "en": "He traces art history through the Romantics and Daumier and Degas and then onto Picasso.",
                   "cn": "他通过浪漫主义、杜米埃和德加追溯艺术史，然后追溯到毕加索。"
                 }

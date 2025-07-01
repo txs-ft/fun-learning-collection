@@ -1,8 +1,11 @@
 {
+  "time": 1751350220995,
   "title": "spectacular",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/spekˈtæk.jə.lər/",
         "us": "/spekˈtæk.jə.lɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a spectacular view",
                   "cn": "蔚为壮观的景象"
                 },
                 {
+                  "gram": null,
                   "en": "He scored a spectacular goal in the second half.",
                   "cn": "他在下半场攻进了漂亮的一球。"
                 },
                 {
+                  "gram": null,
                   "en": "There was a spectacular sunset last night.",
                   "cn": "昨天的日落非常壮观。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We've had spectacular success with the product.",
                   "cn": "我们的产品取得了惊人的成功。"
                 }
@@ -63,6 +70,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/spekˈtæk.jə.lər/",
         "us": "/spekˈtæk.jə.lɚ/"
@@ -79,7 +87,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,

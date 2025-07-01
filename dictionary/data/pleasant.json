@@ -1,8 +1,11 @@
 {
+  "time": 1751350116922,
   "title": "pleasant",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈplez.ənt/",
         "us": "/ˈplez.ənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a pleasant climate/smile/person",
                   "cn": "宜人的气候／亲切的笑容／和气可爱的人"
                 },
                 {
+                  "gram": null,
                   "en": "a pleasant day/surprise",
                   "cn": "令人愉快的日子／惊喜"
                 },
                 {
+                  "gram": null,
                   "en": "Harold did his best to be pleasant to the old man.",
                   "cn": "哈罗德竭力和颜悦色地对待那位老人。"
                 },
                 {
+                  "gram": null,
                   "en": "It was pleasant to sit down after standing for hours.",
                   "cn": "站了好几个小时后，能坐下来真让人感到舒坦。"
                 }

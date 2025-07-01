@@ -1,8 +1,11 @@
 {
+  "time": 1751350119264,
   "title": "political",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/pəˈlɪt.ɪ.kəl/",
         "us": "/pəˈlɪt̬.ə.kəl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "political leaders",
                   "cn": "政治领袖"
                 },
                 {
+                  "gram": null,
                   "en": "There are two major political parties in the US - the Democratic Party and the Republican Party.",
                   "cn": "美国有两个主要政党——民主党和共和党。"
                 },
                 {
+                  "gram": null,
                   "en": "Education is back at the top of the political agenda (= the matters that the government is considering).",
                   "cn": "教育问题又回到了政府议事日程的首位。"
                 }

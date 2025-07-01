@@ -1,8 +1,11 @@
 {
+  "time": 1751350272664,
   "title": "typical",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈtɪp.ɪ.kəl/",
         "us": "/ˈtɪp.ɪ.kəl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I must look like the typical tourist with my shorts and my camera.",
                   "cn": "穿着短裤，带着相机，我看上去一定像个典型的游客。"
                 },
                 {
+                  "gram": null,
                   "en": "This kind of hot and spicy food is very typical of the food in the south of the country.",
                   "cn": "这种辛辣食品是该国南部具代表性的食物。"
                 },
                 {
+                  "gram": null,
                   "en": "Typical symptoms would include severe headaches, vomiting and dizziness.",
                   "cn": "典型的症状包括剧烈的头疼、呕吐和眩晕。"
                 }
@@ -50,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It's just typical of Dan to spend all that money on the equipment and then lose interest two months later.",
                   "cn": "丹就是这种人，先把所有的钱花在买装备上，两个月以后又失去了兴趣。"
                 },
                 {
+                  "gram": null,
                   "en": "\"He called at the last minute to say he wasn't coming.\" \"Typical!\"",
                   "cn": "“他在最后时刻打电话说不来了。”“他老是这样！”"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350140083,
   "title": "qualification",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
         "us": "/ˌkwɑː.lə.fəˈkeɪ.ʃən/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "You'll never get a good job if you don't have any qualifications.",
                   "cn": "你要是没有任何资格证书就永远得不到一份好工作。"
                 },
                 {
+                  "gram": null,
                   "en": "Do you have any teaching/legal/medical/secretarial/academic qualifications?",
                   "cn": "你有没有教师/法律/医学/秘书/学术的资格证书？"
                 }
@@ -46,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Some nursing experience is a necessary qualification for this job.",
                   "cn": "具备一定的护理经验是得到这份工作的必要条件。"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "One of the qualifications you need to work here is a sense of humour!",
                   "cn": "在这里工作你需要具备的条件之一是幽默感！"
                 }
@@ -68,6 +75,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The win earned them qualification for the World Cup finals.",
                   "cn": "这场胜利让他们获得了参加世界杯决赛的资格。"
                 }
@@ -86,6 +94,7 @@
               },
               "examples": [
                 {
+                  "gram": "[ + that ]",
                   "en": "The doctor said I can leave hospital today, but with the qualification that I have to come back every day to get the dressing changed.",
                   "cn": "医生说今天我可以出院了，不过条件是我得每天回来换绷带。"
                 }

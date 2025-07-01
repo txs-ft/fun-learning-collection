@@ -1,8 +1,11 @@
 {
+  "time": 1751350105588,
   "title": "particular",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/pəˈtɪk.jə.lər/",
         "us": "/pɚˈtɪk.jə.lɚ/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She wanted a particular type of cactus.",
                   "cn": "她要某一特定品种的仙人掌。"
                 },
                 {
+                  "gram": null,
                   "en": "He wouldn't take just any book - he had to have this particular one!",
                   "cn": "他不会随便买本书——他得买这本！"
                 },
                 {
+                  "gram": null,
                   "en": "\"Why did you ask?\" \"Oh, no particular reason, just making conversation.\"",
                   "cn": "“你为什么问呢？”“哦，没什么特别的原因，就是没话找话。”"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "What in particular did you like about the last apartment that we saw?",
                   "cn": "我们最后看的那套公寓你特别喜欢它哪一点？"
                 }
@@ -68,10 +75,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's very particular about the kitchen - everything has to be perfectly clean and in its place.",
                   "cn": "他对厨房非常挑剔——每样东西都得一尘不染，物归原位。"
                 },
                 {
+                  "gram": null,
                   "en": "She's very particular about what she eats.",
                   "cn": "她对吃的非常挑剔。"
                 }
@@ -85,6 +94,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/pəˈtɪk.jə.lər/",
         "us": "/pɚˈtɪk.jə.lɚ/"
@@ -101,7 +111,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -111,6 +121,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There's a form for you to note down all your particulars.",
                   "cn": "这里有一份表格，请在上面填写你所有的个人资料。"
                 }
@@ -124,6 +135,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The report focuses on the particular rather than the general and so doesn't draw any overall conclusions.",
                   "cn": "这份报道着重详细情况，而非整体概貌，所以没有作出总的结论。"
                 }

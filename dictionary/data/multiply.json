@@ -1,8 +1,11 @@
 {
+  "time": 1751350076594,
   "title": "multiply",
+  "generalBitmask": 2,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈmʌl.tɪ.plaɪ/",
         "us": "/ˈmʌl.tə.plaɪ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -29,12 +32,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Alzheimer's Disease affects more than 4 million Americans today, and the number is expected to multiply rapidly as the population ages.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "Major publishers are multiplying the number of titles offered in digital form.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }

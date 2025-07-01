@@ -1,8 +1,11 @@
 {
+  "time": 1751349945555,
   "title": "customer",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkʌs.tə.mər/",
         "us": "/ˈkʌs.tə.mɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a satisfied customer",
                   "cn": "满意的顾客"
                 },
                 {
+                  "gram": null,
                   "en": "Mrs Wilson is one of our regular customers.",
                   "cn": "威尔逊太太是我们的一位老主顾。"
                 }

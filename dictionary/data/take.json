@@ -1,8 +1,10 @@
 {
   "title": "take",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/teɪk/",
         "us": "/teɪk/"
@@ -29,14 +31,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Has anything been taken (= stolen)?",
                   "cn": "丢了什么东西吗？"
                 },
                 {
+                  "gram": null,
                   "en": "Here's your pen - I took it by mistake.",
                   "cn": "你的笔在这里，我拿错了。"
                 },
                 {
+                  "gram": null,
                   "en": "All her possessions had been taken from her.",
                   "cn": "她所有的财产都被剥夺了。"
                 }
@@ -50,6 +55,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "If you take 4 (away) from 12 you get 8.",
                   "cn": "12减4得8。"
                 }
@@ -68,18 +74,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The weather forecast said rain, so take your umbrella (with you) when you go out.",
                   "cn": "天气预报说有雨，所以外出时记得带伞。"
                 },
                 {
+                  "gram": null,
                   "en": "The suitcases were taken to San Antonio by mistake.",
                   "cn": "由于疏忽，手提箱被带到了马德里。"
                 },
                 {
+                  "gram": null,
                   "en": "Take the book up/down to the third floor of the library.",
                   "cn": "把书拿到图书馆的3层。"
                 },
                 {
+                  "gram": "[ + two objects ]",
                   "en": "I suggested that he should take her some chocolates/take some chocolates to her (= bring them to her as a present).",
                   "cn": "我建议他给她带些巧克力。"
                 }
@@ -98,30 +108,37 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Do they take credit cards here?",
                   "cn": "他们这儿可以刷信用卡吗？"
                 },
                 {
+                  "gram": null,
                   "en": "Do you take milk in your coffee?",
                   "cn": "你茶里要放牛奶吗？"
                 },
                 {
+                  "gram": null,
                   "en": "This container will take (= has room for) six litres.",
                   "cn": "这种容器容量为6升。"
                 },
                 {
+                  "gram": null,
                   "en": "Which newspaper do you take (= regularly buy)?",
                   "cn": "你常买哪种报纸？"
                 },
                 {
+                  "gram": null,
                   "en": "He continually abuses her, and she just sits there and takes it.",
                   "cn": "他不断地辱骂她，而她只是坐在那里默默忍受。"
                 },
                 {
+                  "gram": null,
                   "en": "If you think I'm going to take that lying down (= accept it without complaining), you're very much mistaken.",
                   "cn": "如果你认为我会甘心忍受一切，那你就大错特错了。"
                 },
                 {
+                  "gram": null,
                   "en": "I take the/your point (= accept the argument), but I still don't think you should have gone.",
                   "cn": "我接受你的辩解，可我还是认为你原本就不应该去。"
                 }
@@ -135,6 +152,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I've been very busy recently. Take last week, I had meetings every night after work, except Friday.",
                   "cn": "我最近忙得不亦乐乎。就拿上星期来说，除了星期五，我每天晚上下班以后都要开会。"
                 }
@@ -148,14 +166,17 @@
               },
               "examples": [
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "These creatures are generally taken to be descended from primitive fishes.",
                   "cn": "这些生物通常被认为是从原始鱼类演变而来的。"
                 },
                 {
+                  "gram": null,
                   "en": "I could have taken him for (= believed that he was) your brother.",
                   "cn": "我差点把他当成了你的兄弟。"
                 },
                 {
+                  "gram": null,
                   "en": "I'm not going to forge his signature for you! What do you take me for? (= You should not believe I could do a thing like that.)",
                   "cn": "我不会帮你伪造他的签名的！你把我当成什么人了？"
                 }
@@ -169,6 +190,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I can't take it any more. I'm leaving.",
                   "cn": "我再也无法忍受。我要走了。"
                 }
@@ -182,6 +204,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "That's my final offer - you can take it or leave it.",
                   "cn": "那是我最后的报价了——接不接受由你。"
                 }
@@ -200,18 +223,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Can you take this bag while I open the door?",
                   "cn": "我开门的时候你帮我拿一下包，好吗？"
                 },
                 {
+                  "gram": null,
                   "en": "He took my arm and led me outside.",
                   "cn": "他拉住我的手臂，领我到门外。"
                 },
                 {
+                  "gram": null,
                   "en": "Take an egg and break it into the bowl.",
                   "cn": "拿一个鸡蛋打在碗里。"
                 },
                 {
+                  "gram": null,
                   "en": "He took hold of the plant's root and pulled.",
                   "cn": "他抓住植物的根部往上拔。"
                 }
@@ -230,14 +257,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We're taking the kids to the zoo on Saturday.",
                   "cn": "星期六我们要带孩子们去动物园。"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "I took my elderly parents to look at some new houses.",
                   "cn": "我带着年迈的父母看了一些新盖的房子。"
                 },
                 {
+                  "gram": "[ + -ing verb ]",
                   "en": "Will you take me swimming tomorrow?",
                   "cn": "你明天带我去游泳好吗？"
                 }
@@ -251,6 +281,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Let me take you to your room.",
                   "cn": "我带你去你的房间吧。"
                 }
@@ -264,6 +295,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Who's taking you to the dance?",
                   "cn": "谁带你去参加舞会？"
                 }
@@ -282,14 +314,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I always take the train - it's less hassle than a car.",
                   "cn": "我总是乘火车——乘火车比开车省事。"
                 },
                 {
+                  "gram": null,
                   "en": "She took the 10.30 flight to Edinburgh.",
                   "cn": "她乘10点半的飞机去了爱丁堡。"
                 },
                 {
+                  "gram": null,
                   "en": "If you take the road on the left, you'll come to the post office.",
                   "cn": "走左边的路就能到邮局。"
                 }
@@ -308,14 +343,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Parachuting takes a lot of nerve.",
                   "cn": "跳伞需要很大的勇气。"
                 },
                 {
+                  "gram": null,
                   "en": "Transitive verbs take a direct object.",
                   "cn": "及物动词带直接宾语。"
                 },
                 {
+                  "gram": "[ + -ing verb ]",
                   "en": "His story took some believing (= was difficult to believe).",
                   "cn": "他的故事令人难以置信。"
                 }
@@ -329,6 +367,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "What size shoes do you take?",
                   "cn": "你穿多大的鞋？"
                 }
@@ -342,14 +381,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The cooking process only takes ten minutes.",
                   "cn": "烹饪过程只需10分钟。"
                 },
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "How long does this paint take to dry?",
                   "cn": "这种油漆要多久才能干？"
                 },
                 {
+                  "gram": "[ + obj + noun  ]",
                   "en": "It took us all day to drive home.",
                   "cn": "我们开车回家花了一整天的时间。"
                 }
@@ -363,6 +405,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I'm just going to the shops - I won't take long.",
                   "cn": "我只是去商店买点东西——不会花太长时间的。"
                 }
@@ -376,6 +419,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Broken bones always take time to heal.",
                   "cn": "骨折总是要很长时间才能痊愈。"
                 }
@@ -394,6 +438,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Nurses took my temperature and blood pressure.",
                   "cn": "护士测了我的体温和血压。"
                 }
@@ -412,10 +457,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Take this medicine three times a day.",
                   "cn": "这种药每天服3次。"
                 },
                 {
+                  "gram": null,
                   "en": "Do you think she takes drugs?",
                   "cn": "你认为她吸毒吗？"
                 }
@@ -434,14 +481,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Shelley is taking (= studying) economics at university.",
                   "cn": "谢莉在大学里读经济学。"
                 },
                 {
+                  "gram": null,
                   "en": "The Archbishop took our service of thanksgiving.",
                   "cn": "大主教为我们主持了感恩祈祷仪式。"
                 },
                 {
+                  "gram": null,
                   "en": "Mr Marshall takes us for (= teaches us) physics.",
                   "cn": "马歇尔先生教我们物理。"
                 }
@@ -455,14 +505,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I think we'll take a break (= we'll stop for a break) there.",
                   "cn": "我想我们将在那儿休息一会儿。"
                 },
                 {
+                  "gram": null,
                   "en": "If you're tired you should take a rest (= you should rest).",
                   "cn": "如果累了，你就应该休息一下。"
                 },
                 {
+                  "gram": null,
                   "en": "I always like to take a walk (= to walk) after lunch.",
                   "cn": "午饭后我总喜欢散散步。"
                 }
@@ -481,6 +534,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We're taking the bomb threats very seriously.",
                   "cn": "我们对炸弹恐吓事件非常重视。"
                 }
@@ -499,14 +553,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I was just teasing him, but he took it the wrong way.",
                   "cn": "我不过是逗逗他，但他却领会错了。"
                 },
                 {
+                  "gram": null,
                   "en": "I'm not sure whether to take that as a compliment or an insult.",
                   "cn": "我不知道应该把这当作是恭维呢还是羞辱。"
                 },
                 {
+                  "gram": null,
                   "en": "She gave a nod, which we took to mean that she agreed.",
                   "cn": "她点了一下头，我们认为这就是说她同意了。"
                 }
@@ -525,22 +582,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He doesn't take any interest in his children.",
                   "cn": "他对孩子们一点也不关心。"
                 },
                 {
+                  "gram": null,
                   "en": "Don't take any notice of the cameras.",
                   "cn": "不要理会照相机。"
                 },
                 {
+                  "gram": null,
                   "en": "She takes offence too easily.",
                   "cn": "她很容易生气。"
                 },
                 {
+                  "gram": null,
                   "en": "They took pity on the stray cat and fed it.",
                   "cn": "他们可怜那只流浪猫，就给了它些吃的。"
                 },
                 {
+                  "gram": null,
                   "en": "I take the view that fuel should be heavily taxed to reduce road use.",
                   "cn": "我认为应该对燃料课以重税，以减少公路上的车辆。"
                 }
@@ -554,6 +616,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The sudden noise took her by surprise.",
                   "cn": "突然闹出那么大动静吓了她一跳。"
                 }
@@ -572,6 +635,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The show took an astonishing $100,000 in its first week.",
                   "cn": "这场演出第一个星期的收入就高达10万美元。"
                 }
@@ -590,22 +654,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Rebels ambushed the train and took several prisoners.",
                   "cn": "叛乱者伏击了火车，俘虏了一些人。"
                 },
                 {
+                  "gram": null,
                   "en": "The Liberals need just 200 more votes to take the seat from Labour.",
                   "cn": "自由党只需再获得200票，就可以从工党手中夺过该席位。"
                 },
                 {
+                  "gram": null,
                   "en": "With these wins, the Democrats have now taken the House back from the Republicans.",
                   "cn": "在赢得这些席位之后，民主党从共和党手中把议会控制权夺了回来。"
                 },
                 {
+                  "gram": null,
                   "en": "Centre-left parties look set to take power.",
                   "cn": "中间偏左的党派看来很可能要掌权。"
                 },
                 {
+                  "gram": null,
                   "en": "Adam, I'd like you to take control of the aircraft now.",
                   "cn": "亚当，我想现在让你来操控飞机。"
                 }
@@ -624,6 +693,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I hope you're all taking notes.",
                   "cn": "我希望你们都在记笔记。"
                 }
@@ -642,6 +712,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "These new plants haven't taken - they don't like this dry soil.",
                   "cn": "这些新植物长得不好——它们不适应这种干燥的土壤。"
                 }
@@ -655,6 +726,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/teɪk/",
         "us": "/teɪk/"
@@ -681,6 +753,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The box office take was huge for the new show.",
                   "cn": "这次新演出的票房收入很可观。"
                 }
@@ -699,6 +772,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "This scene needed ten takes before we felt it was right.",
                   "cn": "电影里的这个镜头我们拍了10次才感到满意。"
                 }
@@ -717,6 +791,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We'd love to hear your take on this issue.",
                   "cn": "我们很想听听您对这个问题的看法。"
                 }

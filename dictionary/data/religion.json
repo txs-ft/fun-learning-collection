@@ -1,8 +1,11 @@
 {
+  "time": 1751350184318,
   "title": "religion",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rɪˈlɪdʒ.ən/",
         "us": "/rɪˈlɪdʒ.ən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the Christian religion",
                   "cn": "基督教"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Football is a religion for these people.",
                   "cn": "这些人对足球入了迷。"
                 }

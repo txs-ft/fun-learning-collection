@@ -1,0 +1,194 @@
+{
+  "title": "before",
+  "generalBitmask": 56,
+  "allDefinitions": [
+    {
+      "pos": "preposition, adverb, conjunction",
+      "defBitmask": 56,
+      "pron": {
+        "uk": "/bɪˈfɔːr/",
+        "us": "/bɪˈfɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈfɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbee/ukbeer_011.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈfɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bef/befor/before.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": null,
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "at or during a time earlier than (the thing mentioned)",
+                "cn": "在…之前;以前"
+              },
+              "examples": [
+                {
+                  "gram": null,
+                  "en": "You should always wash your hands before meals.",
+                  "cn": "饭前应该洗手。"
+                },
+                {
+                  "gram": null,
+                  "en": "Before leaving he said goodbye to each of them.",
+                  "cn": "走前他和每个人都告了别。"
+                },
+                {
+                  "gram": null,
+                  "en": "She's always up before dawn.",
+                  "cn": "她总是黎明前就起床了。"
+                },
+                {
+                  "gram": null,
+                  "en": "Before he could reach the door, she quickly closed it.",
+                  "cn": "他还没走到门前她就迅速关上了门。"
+                },
+                {
+                  "gram": null,
+                  "en": "Before we make a decision, does anyone want to say anything else?",
+                  "cn": "趁我们还未作决定，还有人想说什么吗？"
+                },
+                {
+                  "gram": null,
+                  "en": "She had to give the doorman a tip before he would help her with her suitcases (= he would not do it until she had given him a tip).",
+                  "cn": "她得给看门人小费，好让他帮她提箱子。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "until (the event mentioned)",
+                "cn": "直到…发生"
+              },
+              "examples": [
+                {
+                  "gram": null,
+                  "en": "It was an hour before the police arrived.",
+                  "cn": "警察一小时后才赶到。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in the past",
+                "cn": "以前;从前"
+              },
+              "examples": [
+                {
+                  "gram": null,
+                  "en": "He said he had never seen her before.",
+                  "cn": "他说他以前从没见过她。"
+                },
+                {
+                  "gram": null,
+                  "en": "I feel as though I've been here before.",
+                  "cn": "我感觉好像以前来过这儿。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/bɪˈfɔːr/",
+        "us": "/bɪˈfɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈfɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbee/ukbeer_011.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈfɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bef/befor/before.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": null,
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in front of",
+                "cn": "在…前面，在…之前"
+              },
+              "examples": [
+                {
+                  "gram": null,
+                  "en": "The letter K comes before L in the English alphabet.",
+                  "cn": "在英语字母表中，K排在L前面。"
+                },
+                {
+                  "gram": null,
+                  "en": "Many mothers put their children's needs before their own.",
+                  "cn": "许多母亲都把孩子的需要置于自己的需要之前。"
+                },
+                {
+                  "gram": null,
+                  "en": "We have the whole weekend before us - what do you want to do?",
+                  "cn": "我们有整个周末的时间——做些什么呢？"
+                },
+                {
+                  "gram": null,
+                  "en": "He stood up before a whole roomful of people, and asked her to marry him.",
+                  "cn": "他在满屋子人面前站起来向她求婚。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "If a place is before another place, you will arrive at it first when you are travelling towards the second place.",
+                "cn": "（场所）在…之前"
+              },
+              "examples": [
+                {
+                  "gram": null,
+                  "en": "The bus stop is just before the school.",
+                  "cn": "公共汽车站就在学校前面一点。"
+                }
+              ]
+            },
+            {
+              "level": null,
+              "longDef": {
+                "en": "If something is before someone or before a group of people, it will be formally considered or examined by that person or group.",
+                "cn": "由…考虑;由…审查"
+              },
+              "examples": [
+                {
+                  "gram": null,
+                  "en": "The proposal before the committee is that we try and reduce our spending by ten percent.",
+                  "cn": "委员会正在考虑我们打算降低10%开支的建议。"
+                },
+                {
+                  "gram": null,
+                  "en": "The men appeared before the judge yesterday.",
+                  "cn": "这些人昨天出庭了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

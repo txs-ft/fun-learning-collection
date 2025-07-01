@@ -1,8 +1,11 @@
 {
+  "time": 1751350019164,
   "title": "intelligent",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ɪnˈtel.ɪ.dʒənt/",
         "us": "/ɪnˈtel.ə.dʒənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He is a highly intelligent person who can think outside the box.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "She would like a partner with whom she can have an intelligent conversation.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "Helen had a few intelligent things to say on the subject.",
                   "cn": "对于这个主题，海伦有一些颇有见地的想法要说。"
                 }

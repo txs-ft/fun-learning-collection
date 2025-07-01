@@ -1,8 +1,11 @@
 {
+  "time": 1751350293276,
   "title": "vanilla",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/vəˈnɪl.ə/",
         "us": "/vəˈnɪl.ə/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "vanilla essence/extract",
                   "cn": "香子兰精"
                 },
                 {
+                  "gram": null,
                   "en": "vanilla ice cream/yogurt",
                   "cn": "香草冰激凌／酸奶"
                 },
                 {
+                  "gram": null,
                   "en": "a vanilla milkshake",
                   "cn": "香草奶昔"
                 },
                 {
+                  "gram": null,
                   "en": "Add two teaspoons of vanilla and stir.",
                   "cn": "加两茶匙香草精并搅拌一下。"
                 },
                 {
+                  "gram": null,
                   "en": "a vanilla pod (= seed container)",
                   "cn": "香子兰荚"
                 }
@@ -58,6 +66,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/vəˈnɪl.ə/",
         "us": "/vəˈnɪl.ə/"
@@ -74,7 +83,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -84,6 +93,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I just want a vanilla bank account with low charges.",
                   "cn": "我只是需要一个普通的低收费的银行帐号。"
                 }

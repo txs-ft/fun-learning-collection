@@ -1,8 +1,11 @@
 {
+  "time": 1751350209307,
   "title": "shampoo",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ʃæmˈpuː/",
         "us": "/ʃæmˈpuː/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "an anti-dandruff shampoo",
                   "cn": "去头屑洗发剂"
                 },
                 {
+                  "gram": null,
                   "en": "a carpet shampoo",
                   "cn": "地毯清洗剂"
                 },
                 {
+                  "gram": null,
                   "en": "Directions: wet hair, apply shampoo, and massage into a rich lather.",
                   "cn": "使用说明：润湿头发，涂上香波并轻揉头发至产生丰富的泡沫。"
                 }
@@ -50,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "My hair/The rug/The dog needs a shampoo.",
                   "cn": "我的头发／地毯／这只狗需要洗一洗。"
                 },
                 {
+                  "gram": null,
                   "en": "She went to the hairdressers for a shampoo and set.",
                   "cn": "她去理发店洗头并做头发。"
                 }
@@ -67,6 +75,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ʃæmˈpuː/",
         "us": "/ʃæmˈpuː/"
@@ -83,7 +92,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -93,6 +102,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Duncan shampooed my hair and then Tracy cut it.",
                   "cn": "邓肯给我洗了头，然后特蕾西给我剪了头发。"
                 }

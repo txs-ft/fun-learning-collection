@@ -1,8 +1,11 @@
 {
+  "time": 1751350248413,
   "title": "temporary",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈtem.pər.ər.i/",
         "us": "/ˈtem.pə.rer.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The ceasefire will only provide a temporary solution to the crisis.",
                   "cn": "停火只能暂时解决危机。"
                 },
                 {
+                  "gram": null,
                   "en": "temporary staff",
                   "cn": "临时工作人员"
                 }

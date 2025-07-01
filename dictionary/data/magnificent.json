@@ -1,8 +1,11 @@
 {
+  "time": 1751350062716,
   "title": "magnificent",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/mæɡˈnɪf.ɪ.sənt/",
         "us": "/mæɡˈnɪf.ə.sənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a magnificent view",
                   "cn": "壮丽的景色"
                 },
                 {
+                  "gram": null,
                   "en": "a magnificent piece of writing",
                   "cn": "文笔出众的杰作"
                 },
                 {
+                  "gram": null,
                   "en": "They live in a magnificent Tudor house.",
                   "cn": "他们住在一座都铎时代的豪宅内。"
                 }

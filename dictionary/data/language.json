@@ -1,8 +1,11 @@
 {
+  "time": 1751350046791,
   "title": "language",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈlæŋ.ɡwɪdʒ/",
         "us": "/ˈlæŋ.ɡwɪdʒ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A1",
@@ -29,12 +32,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She does research into how children acquire language.",
                   "cn": "她研究儿童是如何习得语言的。"
                 },
                 {
+                  "gram": null,
                   "en": "This type of parent-child interaction is associated with language learning in infancy.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }

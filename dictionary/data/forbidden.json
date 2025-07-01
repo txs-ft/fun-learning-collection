@@ -1,8 +1,11 @@
 {
+  "time": 1751349973106,
   "title": "forbidden",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/fəˈbɪd.ən/",
         "us": "/fɚˈbɪd.ən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Smoking is forbidden in the cinema.",
                   "cn": "电影院里禁止吸烟。"
                 }

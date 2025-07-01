@@ -1,8 +1,11 @@
 {
+  "time": 1751349854516,
   "title": "architecture",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈɑː.kɪ.tek.tʃər/",
         "us": "/ˈɑːr.kə.tek.tʃɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "to study architecture",
                   "cn": "学习建筑学"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Roman architecture",
                   "cn": "罗马式建筑风格"
                 }

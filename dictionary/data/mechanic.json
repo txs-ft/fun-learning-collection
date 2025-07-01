@@ -1,8 +1,11 @@
 {
+  "time": 1751350069398,
   "title": "mechanic",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/məˈkæn.ɪk/",
         "us": "/məˈkæn.ɪk/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a car/garage/bike mechanic",
                   "cn": "汽车/自行车修理工"
                 }
@@ -47,8 +51,9 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He wanted to get a better understanding of the mechanics of his sport.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -65,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He knows a lot about the mechanics of running a school.",
                   "cn": "关于如何管理一所学校，他所知甚多。"
                 }

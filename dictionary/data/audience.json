@@ -1,8 +1,11 @@
 {
+  "time": 1751349859146,
   "title": "audience",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈɔː.di.əns/",
         "us": "/ˈɑː.di.əns/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She lectures to audiences all over the world.",
                   "cn": "她向世界各地的听众发表演讲。"
                 },
                 {
+                  "gram": null,
                   "en": "The secret to public speaking is to get the audience on your side.",
                   "cn": "当众演讲的秘诀是，一定要让听众支持你的观点。"
                 },
                 {
+                  "gram": null,
                   "en": "The audience was/were clearly delighted with the performance.",
                   "cn": "无疑，观众非常喜欢这场演出。"
                 },
                 {
+                  "gram": null,
                   "en": "The magic show had a lot of audience participation, with people shouting things to the performers and going up on stage.",
                   "cn": "这场魔术表演有很多观众参与的内容，有的观众在台下大声应答表演者，有的则上台助阵。"
                 }
@@ -54,10 +61,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The television company has lost a large part of its audience since it changed its programming.",
                   "cn": "该电视台调整节目后失去了大批观众。"
                 },
                 {
+                  "gram": null,
                   "en": "Her latest book should appeal to a large audience (= many people will want to read it).",
                   "cn": "她的新书应会吸引大批的读者。"
                 }
@@ -76,6 +85,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She had a private audience with the king.",
                   "cn": "她受到国王的私下召见。"
                 }

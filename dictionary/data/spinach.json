@@ -1,8 +1,11 @@
 {
+  "time": 1751350223322,
   "title": "spinach",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈspɪn.ɪtʃ/",
         "us": "/ˈspɪn.ɪtʃ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "spinach lasagne/salad",
                   "cn": "菠菜千层面／色拉"
                 }
@@ -42,6 +46,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈspɪn.ɪtʃ/",
         "us": "/ˈspɪn.ɪtʃ/"
@@ -58,7 +63,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -68,6 +73,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "spinach cinema",
                   "cn": "发人深思的电影"
                 }

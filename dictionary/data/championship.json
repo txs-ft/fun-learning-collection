@@ -1,8 +1,11 @@
 {
+  "time": 1751349892041,
   "title": "championship",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈtʃæm.pi.ən.ʃɪp/",
         "us": "/ˈtʃæm.pi.ən.ʃɪp/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the British Diving Championship",
                   "cn": "英国跳水锦标赛"
                 },
                 {
+                  "gram": null,
                   "en": "The world championships will be held in Scotland next year.",
                   "cn": "世界锦标赛将于明年在苏格兰举行。"
                 },
                 {
+                  "gram": null,
                   "en": "He has been playing championship tennis for three years now.",
                   "cn": "他参加网球锦标赛至今已有3年了。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has held the championship for the past three years.",
                   "cn": "在过去3年里她一直保持着冠军称号。"
                 }

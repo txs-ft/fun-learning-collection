@@ -1,8 +1,11 @@
 {
+  "time": 1751350284218,
   "title": "unforgettable",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌʌn.fəˈɡet.ə.bəl/",
         "us": "/ˌʌn.fɚˈɡet̬.ə.bəl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",

@@ -1,8 +1,11 @@
 {
+  "time": 1751349884974,
   "title": "ceremony",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈser.ɪ.mə.ni/",
         "us": "/ˈser.ə.mə.ni/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a wedding/graduation ceremony",
                   "cn": "结婚／毕业典礼"
                 }
@@ -47,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She arrived at the airport without the pomp and ceremony that usually accompanies important politicians.",
                   "cn": "她抵达了机场，没有通常与重要政界人士相伴的盛况和礼仪。"
                 },
                 {
+                  "gram": null,
                   "en": "I handed her my letter of resignation without ceremony (= in an informal way).",
                   "cn": "我毫不客气地向她递交了辞职书。"
                 }

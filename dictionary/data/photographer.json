@@ -1,8 +1,11 @@
 {
+  "time": 1751350112395,
   "title": "photographer",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/fəˈtɒɡ.rə.fər/",
         "us": "/fəˈtɑː.ɡrə.fɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a fashion/press/amateur photographer",
                   "cn": "时装／新闻／业余摄影师"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349898973,
   "title": "colleague",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkɒl.iːɡ/",
         "us": "/ˈkɑː.liːɡ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We're entertaining some colleagues of Carol's tonight.",
                   "cn": "今晚我们要招待卡罗尔的几位同事。"
                 }

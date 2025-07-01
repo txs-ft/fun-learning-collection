@@ -1,8 +1,11 @@
 {
+  "time": 1751350081226,
   "title": "nationality",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌnæʃ.ənˈæl.ə.ti/",
         "us": "/ˌnæʃ.ənˈæl.ə.t̬i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has British nationality.",
                   "cn": "她拥有英国国籍。"
                 },
                 {
+                  "gram": null,
                   "en": "What nationality are you?",
                   "cn": "你是哪国人？"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "At the International School they have pupils of 46 different nationalities.",
                   "cn": "这所国际学校里有来自46个不同民族的学生。"
                 }

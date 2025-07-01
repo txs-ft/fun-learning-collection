@@ -1,8 +1,11 @@
 {
+  "time": 1751349847584,
   "title": "adventure",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ədˈven.tʃər/",
         "us": "/ədˈven.tʃɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "They went on an adventure hunting for treasure in the western hills.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "She had some exciting adventures in Egypt.",
                   "cn": "她在埃及经历了一些很刺激的奇遇。"
                 },
                 {
+                  "gram": null,
                   "en": "Sam won't come - he's got no sense of adventure (= he does not enjoy dangerous or exciting situations).",
                   "cn": "萨姆不会来的，他不喜欢冒险。"
                 },
                 {
+                  "gram": null,
                   "en": "We got lost on the Metro - it was quite an adventure.",
                   "cn": "我们在地铁里迷了路，还真是挺惊险的。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350051465,
   "title": "literature",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈlɪt.rə.tʃər/",
         "us": "/ˈlɪt̬.ɚ.ə.tʃɚ/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "classical/modern literature",
                   "cn": "古典／现代文学"
                 },
                 {
+                  "gram": null,
                   "en": "\"Wuthering Heights\" is a classic of English literature.",
                   "cn": "《呼啸山庄》是一部经典的英国文学作品。"
                 }
@@ -51,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It's important to keep up-to-date with the literature in your field.",
                   "cn": "跟踪阅读自己专业的最新文献非常重要。"
                 },
                 {
+                  "gram": null,
                   "en": "There is very little literature on the disease.",
                   "cn": "关于这种疾病的文献资料很少。"
                 }
@@ -73,10 +80,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Could you send me your literature on/about car insurance policies, please?",
                   "cn": "请给我寄一份贵公司汽车保险方面的资料好吗？"
                 },
                 {
+                  "gram": null,
                   "en": "The Republicans were quick to highlight the Democrats' proposed tax increases in their campaign literature.",
                   "cn": "共和党不失时机地在其竞选宣传材料中强调了民主党提议增税的情况。"
                 }

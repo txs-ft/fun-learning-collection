@@ -1,8 +1,11 @@
 {
+  "time": 1751350078912,
   "title": "national",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈnæʃ.ən.əl/",
         "us": "/ˈnæʃ.ən.əl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a national holiday",
                   "cn": "全国性假日"
                 },
                 {
+                  "gram": null,
                   "en": "Britain has more than ten national newspapers.",
                   "cn": "英国有十多种全国性报纸。"
                 },
                 {
+                  "gram": null,
                   "en": "The company's national headquarters is in Rome.",
                   "cn": "这家公司国内的总部设在罗马。"
                 },
                 {
+                  "gram": null,
                   "en": "The children were wearing traditional national costume/dress.",
                   "cn": "孩子们身穿传统的民族服装。"
                 },
                 {
+                  "gram": null,
                   "en": "The government's view is that raising taxes now would not be in the national interest (= would not be good for the country).",
                   "cn": "政府认为，现在增税对国家不利。"
                 }
@@ -58,6 +66,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈnæʃ.ən.əl/",
         "us": "/ˈnæʃ.ən.əl/"
@@ -74,7 +83,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -84,10 +93,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "30 people, including six Mexican nationals, were killed in yesterday's plane crash.",
                   "cn": "在昨天的空难中有30人丧生，包括6名墨西哥公民。"
                 },
                 {
+                  "gram": null,
                   "en": "All foreign nationals were advised to leave the country following the outbreak of civil war.",
                   "cn": "内战爆发后所有外国公民都被建议离开该国。"
                 }

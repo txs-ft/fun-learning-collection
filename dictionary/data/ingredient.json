@@ -1,8 +1,11 @@
 {
+  "time": 1751350016938,
   "title": "ingredient",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ɪnˈɡriː.di.ənt/",
         "us": "/ɪnˈɡriː.di.ənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The list of ingredients included 250 g of almonds.",
                   "cn": "清单上列出的原料包括250克的杏仁。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Trust is a vital ingredient in a successful marriage.",
                   "cn": "信任是婚姻幸福的重要因素。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349968618,
   "title": "expedition",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌek.spəˈdɪʃ.ən/",
         "us": "/ˌek.spəˈdɪʃ.ən/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We're going on a shopping expedition on Saturday.",
                   "cn": "周六我们要去购物。"
                 },
                 {
+                  "gram": null,
                   "en": "Scott died while he was on an expedition to the Antarctic in 1912.",
                   "cn": "斯科特1912年死于南极探险途中。"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The British expedition to Mount Everest is leaving next month.",
                   "cn": "英国珠穆朗玛峰探险队将于下月启程。"
                 }
@@ -64,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We will deal with your order with the greatest possible expedition.",
                   "cn": "我们将尽快处理您的订单。"
                 }

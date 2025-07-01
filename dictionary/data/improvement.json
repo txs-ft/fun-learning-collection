@@ -1,8 +1,11 @@
 {
+  "time": 1751350007576,
   "title": "improvement",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ɪmˈpruːv.mənt/",
         "us": "/ɪmˈpruːv.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a slight improvement in the economy",
                   "cn": "经济上稍有起色"
                 },
                 {
+                  "gram": null,
                   "en": "home improvements",
                   "cn": "家居修缮"
                 },
                 {
+                  "gram": null,
                   "en": "These white walls are a big improvement on that disgusting old wallpaper.",
                   "cn": "这些白墙比起那些令人生厌的旧墙纸来说是个大的改观。"
                 },
                 {
+                  "gram": null,
                   "en": "He's been having treatment for two months now without any improvement.",
                   "cn": "他接受治疗已有两个月了，但毫无起色。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350023670,
   "title": "journey",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈdʒɜː.ni/",
         "us": "/ˈdʒɝː.ni/"
@@ -29,26 +32,32 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I love going on long journeys.",
                   "cn": "我喜欢长途旅行。"
                 },
                 {
+                  "gram": null,
                   "en": "We broke our journey (= stopped for a short time) in Jacksonville before travelling on to Miami the next day.",
                   "cn": "我们在杰克逊维尔稍作停留，第二天继续踏上旅途去迈阿密。"
                 },
                 {
+                  "gram": null,
                   "en": "Have a safe journey!",
                   "cn": "祝一路平安！"
                 },
                 {
+                  "gram": null,
                   "en": "He views his life as a spiritual journey towards a greater understanding of his faith.",
                   "cn": "他将生活视作一种加深其对信仰理解的精神旅程。"
                 },
                 {
+                  "gram": null,
                   "en": "Did you have a good journey?",
                   "cn": "你旅途愉快吗？"
                 },
                 {
+                  "gram": null,
                   "en": "It's a two-hour train journey from York to London.",
                   "cn": "从约克到伦敦乘火车需要两小时。"
                 }
@@ -62,6 +71,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈdʒɜː.ni/",
         "us": "/ˈdʒɝː.ni/"
@@ -78,7 +88,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -88,6 +98,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "As we journeyed south, the landscape became drier and rockier.",
                   "cn": "我们向南旅行时，土地越来越干燥，岩石越来越多。"
                 }

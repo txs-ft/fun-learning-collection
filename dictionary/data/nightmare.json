@@ -1,8 +1,11 @@
 {
+  "time": 1751350096144,
   "title": "nightmare",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈnaɪt.meər/",
         "us": "/ˈnaɪt.mer/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a terrifying nightmare",
                   "cn": "可怕的噩梦"
                 },
                 {
+                  "gram": null,
                   "en": "I shouldn't have watched that movie - it'll give me nightmares.",
                   "cn": "我真不该看那部电影——它会让我做噩梦的。"
                 }
@@ -46,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The whole journey was a nightmare - we lost our luggage and both flights were delayed.",
                   "cn": "整个旅程就像一场噩梦——我们弄丢了行李，而且两个航班都晚点了。"
                 },
                 {
+                  "gram": null,
                   "en": "Being trapped underwater is my worst nightmare.",
                   "cn": "被困水下是我最害怕的事情。"
                 }

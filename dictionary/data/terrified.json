@@ -1,8 +1,11 @@
 {
+  "time": 1751350261065,
   "title": "terrified",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈter.ə.faɪd/",
         "us": "/ˈter.ə.faɪd/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He huddled in the corner like a terrified child.",
                   "cn": "他像个受惊过度的小孩一样蜷缩在角落里。"
                 },
                 {
+                  "gram": null,
                   "en": "I'm terrified of the dark.",
                   "cn": "我很怕黑。"
                 },
                 {
+                  "gram": null,
                   "en": "She's terrified (that) her mother might find out her secret.",
                   "cn": "她很怕母亲发现她的秘密。"
                 }

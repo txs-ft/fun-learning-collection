@@ -1,8 +1,11 @@
 {
+  "time": 1751350304751,
   "title": "wheelchair",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈwiːl.tʃeər/",
         "us": "/ˈwiːl.tʃer/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He spent the last ten years of his life in a wheelchair after a fall that left him paralysed from the waist down.",
                   "cn": "一次摔倒后他腰部以下便瘫痪了，从此他在轮椅上度过了人生的最后10年。"
                 },
                 {
+                  "gram": null,
                   "en": "The building isn't designed very well from the point of view of wheelchair access.",
                   "cn": "在轮椅通道方面，这幢大楼设计得并不是太好。"
                 }

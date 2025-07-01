@@ -1,8 +1,11 @@
 {
+  "time": 1751350028159,
   "title": "jungle",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈdʒʌŋ.ɡəl/",
         "us": "/ˈdʒʌŋ.ɡəl/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The Yanomami people live in the South American jungle.",
                   "cn": "雅诺马密人生活在南美丛林中。"
                 },
                 {
+                  "gram": null,
                   "en": "Either side of the river is dense, impenetrable jungle.",
                   "cn": "河的两岸是茂密而难以穿行的丛林。"
                 }
@@ -51,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Our garden is a real jungle.",
                   "cn": "我们的花园真是乱七八糟。"
                 },
                 {
+                  "gram": null,
                   "en": "a jungle of electronic equipment",
                   "cn": "林林总总的电子设备"
                 }
@@ -73,6 +80,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "You've got to be determined in this life - it's a jungle out there, kid.",
                   "cn": "孩子，你必须意志坚定——生活就像弱肉强食的丛林一样。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350072035,
   "title": "medicine",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈmed.ɪ.sən/",
         "us": "/ˈmed.ɪ.sən/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "paediatric/preventative medicine",
                   "cn": "儿科／预防医学"
                 },
                 {
+                  "gram": null,
                   "en": "orthodox/Western medicine",
                   "cn": "正统／西方医学"
                 },
                 {
+                  "gram": null,
                   "en": "a career in medicine",
                   "cn": "从医生涯"
                 },
                 {
+                  "gram": null,
                   "en": "She is a doctor, but is unable to practise medicine (= work as a doctor) in her own country.",
                   "cn": "她是位医生，却不能在自己的国家行医。"
                 }
@@ -59,14 +66,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "cough medicine",
                   "cn": "止咳药"
                 },
                 {
+                  "gram": null,
                   "en": "Take two spoonfuls of medicine at mealtimes.",
                   "cn": "进餐时服两勺药。"
                 },
                 {
+                  "gram": null,
                   "en": "She knows a lot about herbal medicines.",
                   "cn": "她懂得许多关于草药的知识。"
                 }

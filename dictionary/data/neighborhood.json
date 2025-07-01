@@ -1,8 +1,11 @@
 {
+  "time": 1751350091676,
   "title": "neighbourhood",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈneɪ.bə.hʊd/",
         "us": "/ˈneɪ.bɚ.hʊd/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There were lots of kids in my neighbourhood when I was growing up.",
                   "cn": "我是在有很多孩子的街区里长大的。"
                 },
                 {
+                  "gram": null,
                   "en": "They live in a wealthy/poor/friendly neighbourhood.",
                   "cn": "他们生活在富裕／贫穷／和睦的街区。"
                 },
                 {
+                  "gram": null,
                   "en": "I wouldn't like to live in the neighbourhood of (= in the area around) an airport.",
                   "cn": "我不会喜欢住在机场附近。"
                 }

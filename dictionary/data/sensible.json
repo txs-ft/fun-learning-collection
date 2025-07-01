@@ -1,8 +1,11 @@
 {
+  "time": 1751350207004,
   "title": "sensible",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈsen.sə.bəl/",
         "us": "/ˈsen.sə.bəl/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a sensible answer/approach/compromise/option",
                   "cn": "明智的回答／方法／妥协／选择"
                 },
                 {
+                  "gram": null,
                   "en": "a sensible person",
                   "cn": "理智的人"
                 },
                 {
+                  "gram": null,
                   "en": "I think the sensible thing to do is call and ask for directions.",
                   "cn": "我觉得明智之举是打个电话问好路。"
                 },
                 {
+                  "gram": null,
                   "en": "It would be sensible to take an umbrella.",
                   "cn": "带把伞是明智的。"
                 }
@@ -54,6 +61,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It could be cold and wet so pack some sensible clothes.",
                   "cn": "天可能会又冷又潮，带上些合适的衣服。"
                 }
@@ -72,6 +80,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He did not appear to be sensible of the difficulties that lay ahead.",
                   "cn": "他看上去并没有意识到前面的困难。"
                 }

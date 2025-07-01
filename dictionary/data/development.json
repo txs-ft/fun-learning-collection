@@ -1,8 +1,11 @@
 {
+  "time": 1751349954975,
   "title": "development",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/dɪˈvel.əp.mənt/",
         "us": "/dɪˈvel.əp.mənt/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "healthy growth and development",
                   "cn": "健康的成长发育"
                 },
                 {
+                  "gram": null,
                   "en": "The documentary traced the development of popular music through the ages.",
                   "cn": "这部纪录片回顾了各个年代流行音乐的发展历程。"
                 },
                 {
+                  "gram": null,
                   "en": "The region suffers from under-/over-development (= having too little/much industry).",
                   "cn": "该地区苦于发展不足／过度。"
                 },
                 {
+                  "gram": null,
                   "en": "a development project (= one to help improve industry) in Pakistan",
                   "cn": "旨在促进巴基斯坦工业发展的开发项目"
                 }
@@ -59,10 +66,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "an important development in the fuel crisis",
                   "cn": "燃料危机中的一个重要进展"
                 },
                 {
+                  "gram": null,
                   "en": "Call me if there are any new developments.",
                   "cn": "如果有什么新动态就给我打电话。"
                 }
@@ -81,6 +90,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Mr Berkowitz is in charge of product development.",
                   "cn": "伯克维茨先生负责产品开发。"
                 }
@@ -99,6 +109,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a housing development",
                   "cn": "新建住宅区"
                 }

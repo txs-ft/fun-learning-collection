@@ -1,8 +1,11 @@
 {
+  "time": 1751350277221,
   "title": "unbelievable",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌʌn.bɪˈliː.və.bəl/",
         "us": "/ˌʌn.bɪˈliː.və.bəl/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She eats an unbelievable amount of food.",
                   "cn": "她的食量惊人。"
                 },
                 {
+                  "gram": null,
                   "en": "You've had such bad luck it's unbelievable.",
                   "cn": "你的运气这么差，真是令人难以置信。"
                 },
                 {
+                  "gram": null,
                   "en": "You should see her wardrobe - it's unbelievable - she's got about 50 pairs of shoes.",
                   "cn": "你该看看她的衣柜——真是不可思议——她有大约50双鞋。"
                 }
@@ -55,6 +61,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I thought most of the characters in the play were totally unbelievable.",
                   "cn": "我发现该剧中的大多数角色都完全不可信。"
                 }

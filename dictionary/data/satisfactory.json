@@ -1,8 +1,11 @@
 {
+  "time": 1751350198001,
   "title": "satisfactory",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌsæt.ɪsˈfæk.tər.i/",
         "us": "/ˌsæt̬.ɪsˈfæk.tɚ.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The teachers seem to think his work is satisfactory.",
                   "cn": "老师们似乎认为他的作品挺不错。"
                 },
                 {
+                  "gram": null,
                   "en": "We hope very much to find a satisfactory solution to the problem.",
                   "cn": "我们非常希望找到圆满解决这个问题的方案。"
                 },
                 {
+                  "gram": null,
                   "en": "The outcome of the discussion was highly satisfactory (= very pleasing).",
                   "cn": "讨论结果令人非常满意。"
                 }

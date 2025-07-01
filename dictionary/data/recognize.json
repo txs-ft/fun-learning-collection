@@ -1,8 +1,11 @@
 {
+  "time": 1751350168153,
   "title": "recognize",
+  "generalBitmask": 2,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈrek.əɡ.naɪz/",
         "us": "/ˈrek.əɡ.naɪz/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I hadn't seen her for 20 years, but I recognized her immediately.",
                   "cn": "我20年没见她了，但我还是一眼就认出了她。"
                 },
                 {
+                  "gram": null,
                   "en": "Do you recognize this song?",
                   "cn": "“你听出这首歌来了吗？”"
                 },
                 {
+                  "gram": null,
                   "en": "Doctors are trained to recognize the symptoms of different diseases.",
                   "cn": "医生受过训练可以辨识出不同疾病的症状。"
                 }
@@ -55,14 +61,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The international community has refused to recognize (= officially accept the existence of) the newly independent nation state.",
                   "cn": "国际社会拒绝承认这个新独立的国家。"
                 },
                 {
+                  "gram": "[ + (that) ]",
                   "en": "He sadly recognized (that) he would die childless.",
                   "cn": "他接受了这个悲哀的事实：他将无儿无女、孤苦伶仃地度过残生。"
                 },
                 {
+                  "gram": null,
                   "en": "You must recognize the seriousness of the problems we are facing.",
                   "cn": "你必须认识到我们现在面临的问题有多严重。"
                 }
@@ -76,6 +85,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The Queen recognized his services to his country by awarding him an MBE.",
                   "cn": "女王授予她大英帝国员佐勋章，以表彰她对国家的贡献。"
                 }

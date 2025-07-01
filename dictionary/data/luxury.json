@@ -1,8 +1,11 @@
 {
+  "time": 1751350058157,
   "title": "luxury",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈlʌk.ʃər.i/",
         "us": "/ˈlʌk.ʃɚ.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "to live in luxury",
                   "cn": "生活奢华"
                 },
                 {
+                  "gram": null,
                   "en": "a luxury cruise",
                   "cn": "豪华巡游"
                 },
                 {
+                  "gram": null,
                   "en": "a luxury hotel",
                   "cn": "豪华的酒店"
                 }
@@ -50,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "luxuries, such as champagne and chocolate",
                   "cn": "香槟酒和巧克力之类的奢侈品"
                 },
                 {
+                  "gram": null,
                   "en": "I like to buy myself little luxuries from time to time.",
                   "cn": "我喜欢时不时地给自己买些小小的奢侈品。"
                 }
@@ -67,6 +75,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "A day off work is such a luxury.",
                   "cn": "休息一天不用上班简直是一种奢侈。"
                 }

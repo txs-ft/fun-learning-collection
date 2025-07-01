@@ -1,8 +1,11 @@
 {
+  "time": 1751350218725,
   "title": "souvenir",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌsuː.vənˈɪər/",
         "us": "/ˌsuː.vəˈnɪr/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He bought a model of a red London bus as a souvenir of his trip to London.",
                   "cn": "他买了一个红色的伦敦公共汽车模型，作为他伦敦之行的纪念。"
                 },
                 {
+                  "gram": null,
                   "en": "We brought back a few souvenirs from our holiday in Mexico.",
                   "cn": "我们从墨西哥度假回来时买了一些纪念品。"
                 }

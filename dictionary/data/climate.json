@@ -1,8 +1,11 @@
 {
+  "time": 1751349896634,
   "title": "climate",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈklaɪ.mət/",
         "us": "/ˈklaɪ.mət/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a hot/dry/harsh climate",
                   "cn": "炎热／干燥／恶劣的气候"
                 },
                 {
+                  "gram": null,
                   "en": "The Mediterranean climate is good for growing citrus fruits and grapes.",
                   "cn": "地中海气候适宜柑橘属水果和葡萄的生长。"
                 },
                 {
+                  "gram": null,
                   "en": "When we retire, we're going to move to a warmer climate.",
                   "cn": "我们打算退休后搬到气候比较暖和的地方去。"
                 }
@@ -55,14 +61,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the political/social climate",
                   "cn": "政治／社会气候"
                 },
                 {
+                  "gram": null,
                   "en": "I don't think we should expand our business in the current economic climate.",
                   "cn": "我认为在当前的经济形势下，我们不应该扩展业务。"
                 },
                 {
+                  "gram": null,
                   "en": "Terrorism creates a climate of fear.",
                   "cn": "恐怖主义制造了一种恐惧气氛。"
                 }
@@ -76,6 +85,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈklaɪ.mət/",
         "us": "/ˈklaɪ.mət/"
@@ -92,7 +102,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -102,14 +112,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The world's premier climate scientists report that global warming is already occurring.",
                   "cn": "世界权威气候科学家报告说，全球已在变暖了。"
                 },
                 {
+                  "gram": null,
                   "en": "He is an outspoken climate sceptic.",
                   "cn": "他是个直言不讳的气候变化怀疑论者。"
                 },
                 {
+                  "gram": null,
                   "en": "a climate summit",
                   "cn": "气候峰会"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350156107,
   "title": "reality",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/riˈæl.ə.ti/",
         "us": "/riˈæl.ə.t̬i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The reality of the situation is that unless we find some new funding soon, the youth centre will have to close.",
                   "cn": "现实情况是，如果我们不能马上再筹到一些资金，青少年中心就得关门。"
                 },
                 {
+                  "gram": null,
                   "en": "He escaped from reality by going to the cinema every afternoon.",
                   "cn": "他每天下午都去电影院看电影，借此来逃避现实。"
                 },
                 {
+                  "gram": null,
                   "en": "He seemed very young, but he was in reality (= in fact) older than all of us.",
                   "cn": "他看上去很年轻，可实际上他比我们所有人年龄都大。"
                 }
@@ -50,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The book confronts the harsh social and political realities of the world today.",
                   "cn": "这本书直面当今世界残酷的社会和政治现实。"
                 },
                 {
+                  "gram": null,
                   "en": "Her childhood ambition became a reality (= happened in fact) when she was made a judge.",
                   "cn": "她被任命为法官，儿时的抱负终于成为了现实。"
                 }
@@ -67,10 +75,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There's too much reality on TV.",
                   "cn": "电视上的真人秀节目太多了。"
                 },
                 {
+                  "gram": null,
                   "en": "She's famous as a reality star.",
                   "cn": "她是从真人秀里出名的。"
                 }

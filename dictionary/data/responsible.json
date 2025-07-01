@@ -1,8 +1,11 @@
 {
+  "time": 1751350188835,
   "title": "responsible",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/rɪˈspɒn.sə.bəl/",
         "us": "/rɪˈspɑːn.sə.bəl/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Paul is directly responsible for the efficient running of the office.",
                   "cn": "保罗直接负责办事处的高效运作。"
                 },
                 {
+                  "gram": null,
                   "en": "Her department is responsible for overseeing the councils.",
                   "cn": "她的部门负责监督各市政会的工作。"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "In Australia, the prime minister and the Cabinet are responsible to the House of Representatives.",
                   "cn": "在澳大利亚，总理和内阁对众议院负责。"
                 }
@@ -64,10 +70,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Who is responsible for this terrible mess?",
                   "cn": "谁把这儿搞得乱七八糟的？"
                 },
                 {
+                  "gram": null,
                   "en": "Last month's bad weather was responsible for the crop failure.",
                   "cn": "庄稼歉收是因为上月天气恶劣。"
                 }
@@ -81,6 +89,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He held me personally responsible whenever anything went wrong in the project.",
                   "cn": "任何时候只要项目出现问题，他都归咎到我个人身上。"
                 }
@@ -94,6 +103,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The defendant was depressed and therefore not fully responsible for her own actions.",
                   "cn": "被告患有抑郁症，因此不能完全为她自己的行为负责。"
                 }
@@ -112,14 +122,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a hard-working and responsible employee",
                   "cn": "勤恳负责的雇员"
                 },
                 {
+                  "gram": null,
                   "en": "Let's stay calm and try to behave like responsible adults.",
                   "cn": "让我们冷静下来，行事尽量拿出成年人应有的明辨是非的能力。"
                 },
                 {
+                  "gram": null,
                   "en": "Many big companies are now becoming more responsible about the way they operate.",
                   "cn": "许多大公司现在在经营方式上变得越来越有责任感。"
                 }

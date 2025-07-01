@@ -1,8 +1,11 @@
 {
+  "time": 1751350158643,
   "title": "realistic",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌrɪəˈlɪs.tɪk/",
         "us": "/ˌriː.əˈlɪs.tɪk/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Let's be realistic (about this) - I just can't afford to pay that much money.",
                   "cn": "（在这一点上）我们还是现实一点吧——我根本就付不起那么一大笔钱。"
                 },
                 {
+                  "gram": null,
                   "en": "It isn't realistic to expect people to work for so little money.",
                   "cn": "给那么点报酬还指望人们干这个工作，这是不现实的。"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The special effects were so realistic.",
                   "cn": "那些特技镜头太逼真了。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350177453,
   "title": "regular",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈreɡ.jə.lər/",
         "us": "/ˈreɡ.jə.lɚ/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a regular customer/churchgoer/reader/user",
                   "cn": "老顾客／经常去教堂做礼拜的人／固定读者／老用户"
                 },
                 {
+                  "gram": null,
                   "en": "Professional athletes make regular appearances on TV.",
                   "cn": "职业足球运动员经常在电视上亮相。"
                 }
@@ -51,14 +56,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Her heartbeat was regular.",
                   "cn": "她的心跳很正常。"
                 },
                 {
+                  "gram": null,
                   "en": "The gardeners planted the trees at regular intervals.",
                   "cn": "园丁按照固定的间隔种树。"
                 },
                 {
+                  "gram": null,
                   "en": "I suggest that we have regular meetings/meet on a regular basis.",
                   "cn": "我建议我们定期会面。"
                 }
@@ -72,6 +80,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The doctor asked if I was regular/if my bowel movements were regular.",
                   "cn": "医生问我大便是否正常。"
                 }
@@ -90,18 +99,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Her regular secretary was off sick for a week.",
                   "cn": "她平时的秘书生病了，休假一周。"
                 },
                 {
+                  "gram": null,
                   "en": "I couldn't see my regular dentist.",
                   "cn": "我不能去找平时给我看病的那个牙医了。"
                 },
                 {
+                  "gram": null,
                   "en": "You can use low-fat or regular cream cheese.",
                   "cn": "你可以用低脂或普通的奶油奶酪。"
                 },
                 {
+                  "gram": null,
                   "en": "Do you want large fries or regular fries with that?",
                   "cn": "你想配大包还是普通薯条？"
                 }
@@ -115,6 +128,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "\"Talk\" is a regular verb but \"be\" is not.",
                   "cn": "动词 talk 是个规则动词，而 be 就不是。"
                 }
@@ -128,8 +142,9 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He just seemed like a regular guy - like one of us.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             },
@@ -141,8 +156,9 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The following year she enlisted in the regular army.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -159,10 +175,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's very handsome, with regular features and deep brown eyes.",
                   "cn": "他相貌英俊，五官端正，长着一双深褐色的眼睛。"
                 },
                 {
+                  "gram": null,
                   "en": "A square is a regular quadrilateral.",
                   "cn": "广场是个正四边形。"
                 }
@@ -181,10 +199,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The situation here now is becoming a regular disaster.",
                   "cn": "这里的局势现在正在演变成一场惨重的灾难。"
                 },
                 {
+                  "gram": null,
                   "en": "That child is a regular charmer/little nuisance.",
                   "cn": "那个小孩真是个地地道道的迷人精／讨厌鬼。"
                 }
@@ -198,6 +218,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈreɡ.jə.lər/",
         "us": "/ˈreɡ.jə.lɚ/"
@@ -224,6 +245,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's one of the regulars at the pub.",
                   "cn": "他是酒馆的常客之一。"
                 }

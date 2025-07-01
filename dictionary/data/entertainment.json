@@ -1,8 +1,11 @@
 {
+  "time": 1751349966160,
   "title": "entertainment",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/en.təˈteɪn.mənt/",
         "us": "/en.t̬ɚˈteɪn.mənt/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There's not much in the way of entertainment in this town - just the cinema and a couple of pubs.",
                   "cn": "这个城镇没多少娱乐活动——也就是这家影院和几家酒馆。"
                 },
                 {
+                  "gram": null,
                   "en": "This season's entertainments include five new plays and several concerts of Chinese and Indian music.",
                   "cn": "这个演出季的演出节目包括5部新剧和几场中国和印度音乐的音乐会。"
                 }

@@ -1,8 +1,11 @@
 {
+  "time": 1751350191078,
   "title": "romance",
+  "generalBitmask": 7,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rəʊˈmæns/",
         "us": "/roʊˈmæns/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "They got married last year after a whirlwind (= very short and unexpected) romance.",
                   "cn": "一段闪电式恋爱后，他们去年就结了婚。"
                 },
                 {
+                  "gram": null,
                   "en": "It was just a holiday romance.",
                   "cn": "那只是假期中的一场浪漫恋情而已。"
                 },
                 {
+                  "gram": null,
                   "en": "Office romances are usually a bad idea.",
                   "cn": "一般说来，和办公室的同事搞风流韵事可不怎么好。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I felt as though all the romance had gone out of my marriage.",
                   "cn": "我觉得好像我的婚姻中已经没有了浪漫。"
                 }
@@ -63,6 +70,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He loves the romance of travelling on a steam train.",
                   "cn": "他喜欢乘蒸汽火车旅行的那种浪漫感觉。"
                 }
@@ -76,10 +84,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a historical romance",
                   "cn": "历史爱情故事"
                 },
                 {
+                  "gram": null,
                   "en": "She loves reading romances.",
                   "cn": "她喜欢读爱情故事。"
                 }
@@ -93,6 +103,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "medieval romances",
                   "cn": "中世纪传奇故事"
                 }
@@ -106,6 +117,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/rəʊˈmæns/",
         "us": "/roʊˈmæns/"
@@ -122,7 +134,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -148,6 +160,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/rəʊˈmæns/",
         "us": "/roʊˈmæns/"
@@ -164,7 +177,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -174,6 +187,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "French, Italian, and Spanish are all Romance languages.",
                   "cn": "法语、意大利语和西班牙语都是罗曼语。"
                 }

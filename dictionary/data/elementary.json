@@ -1,8 +1,11 @@
 {
+  "time": 1751349961649,
   "title": "elementary",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌel.ɪˈmen.tər.i/",
         "us": "/ˌel.əˈmen.t̬ɚ.i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I have an elementary knowledge of physics.",
                   "cn": "我懂一些基本的物理知识。"
                 },
                 {
+                  "gram": null,
                   "en": "They made some elementary mistakes.",
                   "cn": "他们犯了一些很基础的错误。"
                 },
                 {
+                  "gram": null,
                   "en": "Millions of travellers fail to take even the most elementary of precautions.",
                   "cn": "上百万的旅行者甚至没有采取最基本的预防措施。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "This book contains a series of elementary exercises for learners.",
                   "cn": "本书含有为学习者设计的一系列基础练习。"
                 }

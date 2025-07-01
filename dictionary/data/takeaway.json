@@ -1,8 +1,11 @@
 {
+  "time": 1751350239327,
   "title": "takeaway",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈteɪk.ə.weɪ/",
         "us": "/ˈteɪk.ə.weɪ/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The takeaway from the conference was how competitive the tourism industry has become.",
                   "cn": "这场会议的主要信息是旅游业的竞争已变得非常激烈。"
                 },
                 {
+                  "gram": null,
                   "en": "At the end of the class, the teacher gives us the takeaway points.",
                   "cn": "快下课的时候，老师为我们总结了这堂课的要点。"
                 }
@@ -51,10 +56,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a Chinese takeaway",
                   "cn": "外卖中餐馆"
                 },
                 {
+                  "gram": null,
                   "en": "We were too tired to cook so we ordered takeaway.",
                   "cn": "我们累得连饭都做不动了，于是叫了外卖。"
                 }

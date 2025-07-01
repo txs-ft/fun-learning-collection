@@ -1,8 +1,11 @@
 {
+  "time": 1751350098500,
   "title": "occupation",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌɒk.jəˈpeɪ.ʃən/",
         "us": "/ˌɑː.kjəˈpeɪ.ʃən/"
@@ -29,12 +32,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "In the space marked \"occupation\" she wrote \"police officer\".",
                   "cn": "在“职业”一栏里她写了“警察”。"
                 },
                 {
+                  "gram": null,
                   "en": "Occupations experiencing shortages will need an average of 47% more graduates to meet demand.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -51,12 +56,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It seems to me his favourite occupation is eating.",
                   "cn": "在我看来，他最喜爱的消遣就是吃。"
                 },
                 {
+                  "gram": null,
                   "en": "Running a house is a full-time occupation.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -73,12 +80,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the Italian occupation of Ethiopia",
                   "cn": "意大利对埃塞俄比亚的侵占"
                 },
                 {
+                  "gram": null,
                   "en": "The US had planned to continue the occupation for another year.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }

@@ -1,8 +1,11 @@
 {
+  "time": 1751349875091,
   "title": "calculator",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkæl.kjə.leɪ.tər/",
         "us": "/ˈkæl.kjə.leɪ.t̬ɚ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,12 +32,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "You may bring a calculator into the exam.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "a pocket/hand-held/desktop calculator",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }

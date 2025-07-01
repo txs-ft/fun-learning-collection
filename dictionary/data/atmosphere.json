@@ -1,8 +1,11 @@
 {
+  "time": 1751349856768,
   "title": "atmosphere",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈæt.mə.sfɪər/",
         "us": "/ˈæt.mə.sfɪr/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "These factories are releasing toxic gases into the atmosphere.",
                   "cn": "这些工厂向大气中排放有毒气体。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the search for planets with a breathable atmosphere",
                   "cn": "寻找有可呼吸气体的星球"
                 }
@@ -55,10 +60,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The atmosphere in the room was so stuffy I could hardly breathe.",
                   "cn": "房间里空气污浊，我都快喘不过气来了。"
                 },
                 {
+                  "gram": null,
                   "en": "A few plants in an office will improve the atmosphere.",
                   "cn": "在办公室里摆些植物可以改善空气。"
                 }
@@ -77,10 +84,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There's a very relaxed atmosphere in our office.",
                   "cn": "我们办公室的气氛非常轻松。"
                 },
                 {
+                  "gram": null,
                   "en": "There has been an atmosphere of gloom in the factory since it was announced that it would be closing.",
                   "cn": "自从宣布工厂要关闭的消息后，厂子就笼罩在一片沮丧的气氛中。"
                 }
@@ -94,10 +103,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "You want a restaurant that serves good food but has a little atmosphere too.",
                   "cn": "谁都想去家饭菜可口又有点情调的饭店吃饭。"
                 },
                 {
+                  "gram": null,
                   "en": "He put on some soft music and turned the lights down in order to give the room a little more atmosphere.",
                   "cn": "为了使房间更富情调，他放起了轻柔的音乐，调暗了灯光。"
                 }

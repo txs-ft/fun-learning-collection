@@ -1,8 +1,11 @@
 {
+  "time": 1751350429494,
   "title": "suspect",
+  "generalBitmask": 7,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/səˈspekt/",
         "us": "/səˈspekt/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "So far, the police do not suspect foul play.",
                   "cn": "目前，警察没有怀疑是谋杀。"
                 },
                 {
+                  "gram": "[ + (that) ]",
                   "en": "We had no reason to suspect (that) he might try to kill himself.",
                   "cn": "我们没有理由认为他会自杀。"
                 },
                 {
+                  "gram": null,
                   "en": "\"Do you think she'll have told them?\" \"I suspect not/so.\"",
                   "cn": "“你认为她会不会已经告诉他们了？”“我想不会／会的。”"
                 }
@@ -55,14 +61,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "No one knows who killed her, but the police suspect her husband.",
                   "cn": "没有人知道谁杀了她，但是警方认为她丈夫有嫌疑。"
                 },
                 {
+                  "gram": null,
                   "en": "The police suspect him of carrying out two bomb attacks.",
                   "cn": "警方怀疑他制造了两起爆炸案。"
                 },
                 {
+                  "gram": null,
                   "en": "Three suspected terrorists have been arrested.",
                   "cn": "3名嫌疑恐怖分子已经被捕了。"
                 }
@@ -81,10 +90,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I have no reason to suspect her honesty/loyalty.",
                   "cn": "我没有理由怀疑她的诚实／忠诚。"
                 },
                 {
+                  "gram": null,
                   "en": "We suspected his motives in making his offer.",
                   "cn": "我们对他提出这个建议的动机表示怀疑。"
                 }
@@ -98,6 +109,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈsʌs.pekt/",
         "us": "/ˈsʌs.pekt/"
@@ -114,7 +126,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -124,14 +136,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Police have issued a photograph of the suspect.",
                   "cn": "警方已经发布了疑犯的照片。"
                 },
                 {
+                  "gram": null,
                   "en": "The prime suspect in the case committed suicide.",
                   "cn": "这起案件的主要嫌疑人自杀了。"
                 },
                 {
+                  "gram": null,
                   "en": "No one knows what caused the outbreak of food poisoning, but shellfish is the main suspect (= is thought to have caused it).",
                   "cn": "没有人知道造成这起食物中毒事件的原因，但怀疑很可能是吃贝类食品造成的。"
                 }
@@ -145,6 +160,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈsʌs.pekt/",
         "us": "/ˈsʌs.pekt/"
@@ -161,7 +177,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -171,10 +187,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The study was carried out with such a small sample that its results are suspect.",
                   "cn": "这项研究选取的样本如此之少，因此结果并不可靠。"
                 },
                 {
+                  "gram": null,
                   "en": "A suspect parcel was found at the station.",
                   "cn": "在车站发现了一个可疑包裹。"
                 }

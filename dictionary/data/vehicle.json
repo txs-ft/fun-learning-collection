@@ -1,8 +1,11 @@
 {
+  "time": 1751350297983,
   "title": "vehicle",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈvɪə.kəl/",
         "us": "/ˈviː.ə.kəl/"
@@ -29,24 +32,29 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "A truck driver died last night when his vehicle overturned.",
                   "cn": "昨晚一辆卡车翻了车，司机死亡。"
                 },
                 {
+                  "gram": null,
                   "en": "Road vehicles include cars, buses, and trucks.",
                   "cn": "道路交通工具包括汽车、公共汽车和卡车。"
                 },
                 {
+                  "gram": null,
                   "en": "Tractors are farm vehicles.",
                   "cn": "拖拉机是农用车辆。"
                 },
                 {
+                  "gram": null,
                   "en": "The number of thefts of motor vehicles rose by a third last year.",
                   "cn": "去年机动车失窃案数量上升了1/3。"
                 },
                 {
+                  "gram": null,
                   "en": "In a racing video game the player takes part in a racing competition with land, air, or sea vehicles.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -63,6 +71,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The conference was seen as an ideal vehicle for increased cooperation between the member states.",
                   "cn": "那次会议被视为增进成员国之间合作的理想途径。"
                 }
@@ -76,6 +85,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The play seems to be little more than a vehicle for its director and star.",
                   "cn": "那部戏看起来不过是为其导演兼主演量身打造的而已。"
                 }

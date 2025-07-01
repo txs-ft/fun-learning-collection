@@ -1,8 +1,11 @@
 {
+  "time": 1751350234635,
   "title": "stylish",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈstaɪ.lɪʃ/",
         "us": "/ˈstaɪ.lɪʃ/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The film's direction is subtle and stylish.",
                   "cn": "这部电影导演手法精巧细致、格调高雅。"
                 }

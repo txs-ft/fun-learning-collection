@@ -1,8 +1,11 @@
 {
+  "time": 1751349887442,
   "title": "certificate",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/səˈtɪf.ɪ.kət/",
         "us": "/sɚˈtɪf.ə.kət/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a birth/marriage/death certificate",
                   "cn": "出生／结婚／死亡证明"
                 },
                 {
+                  "gram": null,
                   "en": "a doctor's/medical certificate",
                   "cn": "医生／医疗证明"
                 }
@@ -46,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has a Certificate in Drama Education.",
                   "cn": "她有戏剧教育资格证书。"
                 }
@@ -59,6 +65,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/səˈtɪf.ɪ.keɪt/",
         "us": "/sɚˈtɪf.ə.kət/"
@@ -75,7 +82,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -85,10 +92,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She has proposed a series of reforms to the system of reporting and certificating deaths.",
                   "cn": "她提出了一系列对死亡报告和证明制度的改革。"
                 },
                 {
+                  "gram": null,
                   "en": "A welder who has been certificated to work at a certain level must be brought in to do the repairs.",
                   "cn": "必须请个有一定级别证书的焊工来进行维修。"
                 }

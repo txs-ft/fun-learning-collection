@@ -1,8 +1,11 @@
 {
+  "time": 1751350012418,
   "title": "independent",
+  "generalBitmask": 5,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˌɪn.dɪˈpen.dənt/",
         "us": "/ˌɪn.dɪˈpen.dənt/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "an independent enquiry/organization",
                   "cn": "独立调查／机构"
                 },
                 {
+                  "gram": null,
                   "en": "They all made the same comment, quite independent of each other (= without deciding together to do so).",
                   "cn": "他们都不约而同作出了相同的评论。"
                 }
@@ -59,12 +64,14 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Belize became fully independent from Britain in 1981.",
                   "cn": "伯利兹于1981年脱离英国完全独立。"
                 },
                 {
+                  "gram": null,
                   "en": "The 2014 referendum in Scotland focused on a simple \"yes\" or \"no\" question: Should Scotland be an independent country?",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -81,10 +88,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Grandma's very independent and does all her own shopping and cooking.",
                   "cn": "祖母非常独立，购物做饭全是自己干。"
                 },
                 {
+                  "gram": null,
                   "en": "I've always been financially independent.",
                   "cn": "在经济上我一直自食其力。"
                 }
@@ -111,6 +120,7 @@
     },
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌɪn.dɪˈpen.dənt/",
         "us": "/ˌɪn.dɪˈpen.dənt/"
@@ -137,6 +147,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He left the Conservatives and stood as an independent.",
                   "cn": "他离开了保守党，以独立候选人身份参选。"
                 }
@@ -150,6 +161,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She is gaining support among independents who have no political preference or who lean Democratic.",
                   "cn": "她正在获得那些没有政治倾向或倾向民主党的独立投票人的支持。"
                 }
@@ -168,6 +180,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The band would rather sign to an independent than a major record label.",
                   "cn": "这支乐队宁愿跟独立唱片公司签约，而不是跟大公司。"
                 }

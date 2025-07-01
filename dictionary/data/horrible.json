@@ -1,8 +1,11 @@
 {
+  "time": 1751349993643,
   "title": "horrible",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈhɒr.ə.bəl/",
         "us": "/ˈhɔːr.ə.bəl/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He's got a horrible cold.",
                   "cn": "他得了重感冒。"
                 },
                 {
+                  "gram": null,
                   "en": "What's that horrible smell?",
                   "cn": "是什么气味这么难闻？"
                 },
                 {
+                  "gram": null,
                   "en": "That was a horrible thing to say!",
                   "cn": "说那种话真是可恶！"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a horrible crime",
                   "cn": "骇人的罪行"
                 }

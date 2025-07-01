@@ -1,8 +1,11 @@
 {
+  "time": 1751350103291,
   "title": "organization",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/",
         "us": "/ˌɔːr.ɡən.əˈzeɪ.ʃən/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "the World Health Organization",
                   "cn": "世界卫生组织"
                 },
                 {
+                  "gram": null,
                   "en": "The article was about international aid organizations.",
                   "cn": "这篇文章是关于国际援助组织的。"
                 }
@@ -51,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He didn't want to be involved in the organization of/for the conference, although he was willing to attend and speak.",
                   "cn": "他不想参与大会的组织筹备工作，不过他愿意出席会议并发言。"
                 }

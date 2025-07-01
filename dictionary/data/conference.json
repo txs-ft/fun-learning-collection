@@ -1,8 +1,11 @@
 {
+  "time": 1751349901597,
   "title": "conference",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkɒn.fər.əns/",
         "us": "/ˈkɑːn.fɚ.əns/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a conference on women's rights",
                   "cn": "妇女权利大会"
                 },
                 {
+                  "gram": null,
                   "en": "They frequently hold conferences at that hotel.",
                   "cn": "他们常在那家酒店举办会议。"
                 },
                 {
+                  "gram": null,
                   "en": "I'm speaking at/attending a conference next week.",
                   "cn": "我下周要在一个会议上发言／出席一个会议。"
                 },
                 {
+                  "gram": null,
                   "en": "Should I book the conference room for the meeting?",
                   "cn": "我应该为会谈预订会议室吗？"
                 }
@@ -54,6 +61,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Ms O'Neill isn't available at the moment. She's in conference.",
                   "cn": "奥尼尔女士现在不在，她正在开会。"
                 }

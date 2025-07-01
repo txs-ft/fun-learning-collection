@@ -1,8 +1,11 @@
 {
+  "time": 1751350014681,
   "title": "influence",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈɪn.flu.əns/",
         "us": "/ˈɪn.flu.əns/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Helen's a bad/good influence on him.",
                   "cn": "海伦对他有不良／好的影响。"
                 },
                 {
+                  "gram": null,
                   "en": "He has a huge amount of influence over the city council.",
                   "cn": "他对市政委员会有着巨大的影响。"
                 },
                 {
+                  "gram": null,
                   "en": "Christopher hoped to exert his influence to make them change their minds.",
                   "cn": "克里斯托弗希望利用自己的影响迫使他们改变主意。"
                 },
                 {
+                  "gram": null,
                   "en": "At the time she was under the influence of her father.",
                   "cn": "她当时受到父亲的影响。"
                 }
@@ -54,6 +61,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈɪn.flu.əns/",
         "us": "/ˈɪn.flu.əns/"
@@ -70,7 +78,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -80,10 +88,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "She's very good at making friends and influencing people.",
                   "cn": "她很擅长交友并对他人施加影响。"
                 },
                 {
+                  "gram": "[ + obj + to infinitive  ]",
                   "en": "What influenced you to choose a career in nursing?",
                   "cn": "什么使你选择了护士这个职业？"
                 }

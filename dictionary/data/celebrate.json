@@ -1,8 +1,11 @@
 {
+  "time": 1751349880360,
   "title": "celebrate",
+  "generalBitmask": 2,
   "allDefinitions": [
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈsel.ə.breɪt/",
         "us": "/ˈsel.ə.breɪt/"
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We always celebrate our wedding anniversary by going out to dinner.",
                   "cn": "每年的结婚纪念日我们都出去吃饭庆祝。"
                 },
                 {
+                  "gram": null,
                   "en": "If this plan works, we'll celebrate in style (= in a special way).",
                   "cn": "要是这个计划奏效，我们就隆重地庆贺一下。"
                 }
@@ -51,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "His work celebrates the energy and enthusiasm of the young.",
                   "cn": "他的作品赞颂年轻人的活力和热情。"
                 }
@@ -69,6 +75,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "to celebrate Mass",
                   "cn": "主持弥撒"
                 }

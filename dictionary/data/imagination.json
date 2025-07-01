@@ -1,8 +1,11 @@
 {
+  "time": 1751350002792,
   "title": "imagination",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ɪˌmædʒ.ɪˈneɪ.ʃən/",
         "us": "/ɪˌmædʒ.əˈneɪ.ʃən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,22 +32,27 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "My younger son has a very vivid (= active) imagination.",
                   "cn": "我的小儿子想象力很丰富。"
                 },
                 {
+                  "gram": null,
                   "en": "I can never make up stories - I have absolutely no imagination.",
                   "cn": "我从来都不会编故事——我根本没什么想象力。"
                 },
                 {
+                  "gram": null,
                   "en": "For some reason the story captured/caught the imagination of the public (= made them very interested).",
                   "cn": "由于某种原因，这件事引起了公众的关注。"
                 },
                 {
+                  "gram": null,
                   "en": "It couldn't by any stretch of the imagination be described as a (= it is certainly not a) beautiful city.",
                   "cn": "这座城市再怎么说也称不上漂亮。"
                 },
                 {
+                  "gram": null,
                   "en": "There's a sex scene in the film which apparently leaves nothing to the imagination (= shows sexual parts of the body very clearly).",
                   "cn": "这部电影中有一个十分露骨的性爱场面，没有留下任何想象的余地。"
                 }
@@ -58,10 +66,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Was she paying him a lot of attention or was it just my imagination?",
                   "cn": "她是特别注意他呢，还是这一切只是我的臆想？"
                 },
                 {
+                  "gram": null,
                   "en": "Is it my imagination or is David behaving strangely at the moment?",
                   "cn": "是我的错觉呢，还是戴维现在真的是行为古怪？"
                 }
@@ -75,6 +85,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It's a job that needs someone with a bit of imagination.",
                   "cn": "做这项工作需要有一点儿创造力。"
                 }

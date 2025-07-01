@@ -1,8 +1,11 @@
 {
+  "time": 1751350225558,
   "title": "stomach",
+  "generalBitmask": 3,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈstʌm.ək/",
         "us": "/ˈstʌm.ək/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,30 +32,37 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He was punched in the stomach.",
                   "cn": "他肚子上挨了一拳。"
                 },
                 {
+                  "gram": null,
                   "en": "The doctor asked him to lie down on his stomach.",
                   "cn": "医生让他俯卧。"
                 },
                 {
+                  "gram": null,
                   "en": "The sight of blood always churns/turns my stomach (= makes me feel as if I am going to vomit).",
                   "cn": "看见血总会让我反胃。"
                 },
                 {
+                  "gram": null,
                   "en": "She has a very delicate stomach and doesn't eat spicy food.",
                   "cn": "她肠胃不好，不能吃辛辣食物。"
                 },
                 {
+                  "gram": null,
                   "en": "I was hungry and my stomach had started growling/rumbling (= making noises).",
                   "cn": "我饿了，肚子开始咕咕叫了。"
                 },
                 {
+                  "gram": null,
                   "en": "He felt a knot of nervousness in the pit (= bottom) of his stomach.",
                   "cn": "他感到心里一阵紧张。"
                 },
                 {
+                  "gram": null,
                   "en": "I suggested that some weak tea might settle (= calm) her stomach.",
                   "cn": "我建议她喝杯茶，也许可以缓解她胃部的不适。"
                 }
@@ -66,6 +76,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈstʌm.ək/",
         "us": "/ˈstʌm.ək/"
@@ -82,7 +93,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -92,10 +103,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "He can't stomach the idea that Peter might be the next chairman.",
                   "cn": "他一想到彼得可能会出任下届主席就很不舒服。"
                 },
                 {
+                  "gram": null,
                   "en": "She found the violence in the film hard to stomach.",
                   "cn": "她觉得这部电影中的暴力场面令人难以忍受。"
                 }

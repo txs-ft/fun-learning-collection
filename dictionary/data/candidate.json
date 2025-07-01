@@ -1,8 +1,11 @@
 {
+  "time": 1751349878069,
   "title": "candidate",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈkæn.dɪ.dət/",
         "us": "/ˈkæn.dɪ.dət/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B2",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "There are three candidates standing in the election.",
                   "cn": "有3位候选人参加竞选。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The English Department is a likely candidate for staff cuts.",
                   "cn": "英语系很有可能要裁员。"
                 }
@@ -55,6 +60,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Candidates must write their names on the top page of the exam paper.",
                   "cn": "考生必须将自己的名字写在试卷首页。"
                 }

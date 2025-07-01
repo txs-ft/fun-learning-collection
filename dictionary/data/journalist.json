@@ -1,8 +1,11 @@
 {
+  "time": 1751350025931,
   "title": "journalist",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈdʒɜː.nə.lɪst/",
         "us": "/ˈdʒɝː.nə.lɪst/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a freelance political journalist",
                   "cn": "政论文章自由撰稿人"
                 }

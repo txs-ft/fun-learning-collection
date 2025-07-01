@@ -1,8 +1,11 @@
 {
+  "time": 1751350126246,
   "title": "possibility",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌpɒs.əˈbɪl.ə.ti/",
         "us": "/ˌpɑː.səˈbɪl.ə.t̬i/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "It's not likely to happen but I wouldn't rule out the possibility.",
                   "cn": "这件事不太可能发生，但我不会排除有这种可能性。"
                 },
                 {
+                  "gram": null,
                   "en": "The forecast said that there's a possibility of snow tonight.",
                   "cn": "天气预报说今晚可能会下雪。"
                 },
                 {
+                  "gram": "[ + (that) ]",
                   "en": "There's a distinct possibility (that) I'll be asked to give a speech.",
                   "cn": "我很有可能被邀请去作演讲。"
                 },
                 {
+                  "gram": null,
                   "en": "Is there any possibility (that) you could pick me up from the station?",
                   "cn": "你有可能去车站接我吗？"
                 }
@@ -54,10 +61,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "We could take on extra staff - that's one possibility.",
                   "cn": "我们可以再招一些人——这是一种选择。"
                 },
                 {
+                  "gram": null,
                   "en": "\"Have you decided what to do?\" \"No, I'm still considering the various possibilities.\"",
                   "cn": "“你决定怎么做了吗？”“没有，我还在考虑各种可能的情况。”"
                 }

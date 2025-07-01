@@ -1,8 +1,11 @@
 {
+  "time": 1751350044438,
   "title": "landscape",
+  "generalBitmask": 7,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˈlænd.skeɪp/",
         "us": "/ˈlænd.skeɪp/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a rural/barren landscape",
                   "cn": "乡村／荒原"
                 },
                 {
+                  "gram": null,
                   "en": "Demolition firms and builders are busy changing urban landscapes.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "The landscape is dotted with the tents of campers and hikers.",
                   "cn": "乡间散布着宿营者和远足者搭起的帐篷。"
                 },
                 {
+                  "gram": null,
                   "en": "The cathedral dominates the landscape for miles around.",
                   "cn": "大教堂在方圆数英里的乡间高高耸立着。"
                 }
@@ -54,10 +61,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a watercolour landscape",
                   "cn": "水彩风景画"
                 },
                 {
+                  "gram": null,
                   "en": "J.M.W. Turner is one of the best-known British landscape painters.",
                   "cn": "J.M.W.特纳是英国最著名的风景画画家之一。"
                 }
@@ -71,6 +80,7 @@
     },
     {
       "pos": "verb",
+      "defBitmask": 2,
       "pron": {
         "uk": "/ˈlænd.skeɪp/",
         "us": "/ˈlænd.skeɪp/"
@@ -87,7 +97,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -97,8 +107,9 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "They have done a fantastic job landscaping the garden with fountains, bird feeders, and ponds.",
-                  "cn": ""
+                  "cn": null
                 }
               ]
             }
@@ -110,6 +121,7 @@
     },
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈlænd.skeɪp/",
         "us": "/ˈlænd.skeɪp/"
@@ -126,7 +138,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,

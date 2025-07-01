@@ -1,8 +1,11 @@
 {
+  "time": 1751350163698,
   "title": "reception",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/rɪˈsep.ʃən/",
         "us": "/rɪˈsep.ʃən/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The president gave a reception for the visiting heads of state.",
                   "cn": "总统举行招待会款待来访的外国元首。"
                 }
@@ -42,6 +46,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Her first book got a wonderful/warm/frosty reception from the critics.",
                   "cn": "评论家对她的第一本书反应很好／热烈／冷淡。"
                 }
@@ -55,6 +60,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The new hospital was ready for the reception of its first patients.",
                   "cn": "新医院已经可以用了，准备收治第一批病人。"
                 }
@@ -73,10 +79,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Ask for me at reception.",
                   "cn": "要找我的话，到前台问询。"
                 },
                 {
+                  "gram": null,
                   "en": "I signed in at the reception desk.",
                   "cn": "我在接待处登了记。"
                 }
@@ -95,14 +103,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The phone reception is really bad out here in the woods.",
                   "cn": "电话信号在这儿的树林里特别差。"
                 },
                 {
+                  "gram": null,
                   "en": "We live on top of a hill and so we get excellent radio reception.",
                   "cn": "我们住在小山顶上，所以收音机的收听效果特别好。"
                 },
                 {
+                  "gram": null,
                   "en": "A new digital antenna might improve your reception.",
                   "cn": "安装一个新的数码天线可能会改善接受效果。"
                 }
@@ -121,6 +132,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a reception class/teacher",
                   "cn": "学前班／学前班老师"
                 }

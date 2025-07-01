@@ -1,8 +1,11 @@
 {
+  "time": 1751350288758,
   "title": "uninterested",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ʌnˈɪn.tres.tɪd/",
         "us": "/ʌnˈɪn.trɪ.stɪd/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",

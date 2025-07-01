@@ -1,8 +1,11 @@
 {
+  "time": 1751350286432,
   "title": "unfortunately",
+  "generalBitmask": 8,
   "allDefinitions": [
     {
       "pos": "adverb",
+      "defBitmask": 8,
       "pron": {
         "uk": "/ʌnˈfɔː.tʃən.ət.li/",
         "us": "/ʌnˈfɔːr.tʃən.ət.li/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "A2",
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Unfortunately, I didn't have my credit card with me, or else I would have bought it.",
                   "cn": "很不凑巧，我没带信用卡，否则我肯定早买了。"
                 }

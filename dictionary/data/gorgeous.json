@@ -1,8 +1,11 @@
 {
+  "time": 1751349982082,
   "title": "gorgeous",
+  "generalBitmask": 4,
   "allDefinitions": [
     {
       "pos": "adjective",
+      "defBitmask": 4,
       "pron": {
         "uk": "/ˈɡɔː.dʒəs/",
         "us": "/ˈɡɔːr.dʒəs/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "What a gorgeous room/dress/colour!",
                   "cn": "多漂亮的房间／连衣裙／颜色啊！"
                 },
                 {
+                  "gram": null,
                   "en": "The bride looked gorgeous.",
                   "cn": "新娘看上去美极了。"
                 },
                 {
+                  "gram": null,
                   "en": "The weather was so gorgeous.",
                   "cn": "天气非常宜人。"
                 }

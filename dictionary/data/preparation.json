@@ -1,8 +1,11 @@
 {
+  "time": 1751350128551,
   "title": "preparation",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌprep.ərˈeɪ.ʃən/",
         "us": "/ˌprep.əˈreɪ.ʃən/"
@@ -29,14 +32,17 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The teacher didn't seem to have done much preparation for the class.",
                   "cn": "看来这位教师这堂课准备得不是太充分。"
                 },
                 {
+                  "gram": null,
                   "en": "The team blamed injuries and lack of preparation for their loss.",
-                  "cn": ""
+                  "cn": null
                 },
                 {
+                  "gram": null,
                   "en": "Yasmin assisted in the preparation of this article.",
                   "cn": "亚斯明协助为这篇文章做了一些准备工作。"
                 }
@@ -50,6 +56,7 @@
               },
               "examples": [
                 {
+                  "gram": "[ + to infinitive ]",
                   "en": "We are making preparations to fly Mr Goodall to the nearest hospital.",
                   "cn": "我们正在着手准备通过飞机将古多尔先生送往最近的一家医院。"
                 }
@@ -68,6 +75,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "a preparation for nappy rash",
                   "cn": "治疗尿布疹的药剂"
                 }

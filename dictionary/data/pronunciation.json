@@ -1,8 +1,11 @@
 {
+  "time": 1751350137701,
   "title": "pronunciation",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/prəˌnʌn.siˈeɪ.ʃən/",
         "us": "/prəˌnʌn.siˈeɪ.ʃən/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": "B1",
@@ -29,10 +32,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "English pronunciation is notoriously difficult.",
                   "cn": "英语的发音出了名的难。"
                 },
                 {
+                  "gram": null,
                   "en": "There are two different pronunciations of this word.",
                   "cn": "这个词有两种读音。"
                 }

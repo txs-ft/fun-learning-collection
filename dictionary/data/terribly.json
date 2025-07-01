@@ -1,8 +1,11 @@
 {
+  "time": 1751350253387,
   "title": "terribly",
+  "generalBitmask": 8,
   "allDefinitions": [
     {
       "pos": "adverb",
+      "defBitmask": 8,
       "pron": {
         "uk": "/ˈter.ə.bli/",
         "us": "/ˈter.ə.bli/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I slept terribly last night.",
                   "cn": "我昨晚睡得很不好。"
                 }
@@ -47,10 +51,12 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I'm terribly pleased to hear that you've got a job.",
                   "cn": "听说你找到了工作，我高兴坏了。"
                 },
                 {
+                  "gram": null,
                   "en": "I was terribly sorry to hear about the death of your mother.",
                   "cn": "听到你母亲去世的消息，我非常难过。"
                 }

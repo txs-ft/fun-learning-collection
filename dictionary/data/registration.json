@@ -1,8 +1,11 @@
 {
+  "time": 1751350175078,
   "title": "registration",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/ˌredʒ.ɪˈstreɪ.ʃən/",
         "us": "/ˌredʒ.əˈstreɪ.ʃən/"
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "voter registration",
                   "cn": "选民登记"
                 }
@@ -47,6 +51,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "Police are looking for a small blue car with the registration number B34-ACS.",
                   "cn": "警方正在查找一辆小型蓝色轿车，车牌号为 B34-ACS。"
                 }

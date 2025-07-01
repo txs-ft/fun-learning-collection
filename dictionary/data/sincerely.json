@@ -1,8 +1,11 @@
 {
+  "time": 1751350214234,
   "title": "sincerely",
+  "generalBitmask": 8,
   "allDefinitions": [
     {
       "pos": "adverb",
+      "defBitmask": 8,
       "pron": {
         "uk": "/sɪnˈsɪə.li/",
         "us": "/sɪnˈsɪr.li/"
@@ -19,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": "",
+          "simple": null,
           "defs": [
             {
               "level": null,
@@ -29,6 +32,7 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "I'm sincerely grateful.",
                   "cn": "我衷心地感谢。"
                 }

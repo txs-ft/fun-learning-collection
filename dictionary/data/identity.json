@@ -1,8 +1,11 @@
 {
+  "time": 1751350000572,
   "title": "identity",
+  "generalBitmask": 1,
   "allDefinitions": [
     {
       "pos": "noun",
+      "defBitmask": 1,
       "pron": {
         "uk": "/aɪˈden.tə.ti/",
         "us": "/aɪˈden.t̬ə.t̬i/"
@@ -29,18 +32,22 @@
               },
               "examples": [
                 {
+                  "gram": null,
                   "en": "The man's identity was being kept secret while he was helping police with their enquiries.",
                   "cn": "这个男子在协助警方调查时，他的身份是保密的。"
                 },
                 {
+                  "gram": null,
                   "en": "I cannot reveal the identity of my source.",
                   "cn": "我不能透露我的消息来源。"
                 },
                 {
+                  "gram": null,
                   "en": "The informant was given a new identity (= a different name and new official documents) for protection.",
                   "cn": "给了线人一个新身份以作保护。"
                 },
                 {
+                  "gram": null,
                   "en": "The newspaper photo apparently showed him in Rome but it was a case of mistaken identity (= it was the wrong person).",
                   "cn": "报纸上的照片似乎显示他在罗马，但其实那个人不是他。"
                 }
