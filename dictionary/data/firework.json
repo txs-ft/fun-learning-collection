@@ -1,0 +1,77 @@
+{
+  "time": 1752397227553,
+  "title": "firework",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈfaɪə.wɜːk/",
+        "us": "/ˈfaɪr.wɝːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfaɪə.wɜːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfir/ukfirew003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfaɪr.wɝːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usf/usfir/usfirep010.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "EXPLOSIVE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a small container filled with explosive chemicals that produce bright coloured patterns or loud noises when they explode",
+                "cn": "焰火;烟花"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a firework display",
+                  "cn": "焰火表演"
+                },
+                {
+                  "gram": "",
+                  "en": "When it gets dark we'll let off (US set off) (= light) the fireworks.",
+                  "cn": "天一黑下来我们就放烟花。"
+                },
+                {
+                  "gram": "",
+                  "en": "What time do the fireworks start?",
+                  "cn": "什么时候开始燃放焰火？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHOUTING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a lot of angry shouting:",
+                "cn": "他建议说应该要减一些肥，这就引来了大喊大叫。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He suggested he lose some weight and that's when the fireworks started!",
+                  "cn": "他建议说应该要减一些肥，这就引来了大喊大叫。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

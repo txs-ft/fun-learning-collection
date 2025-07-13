@@ -1,0 +1,233 @@
+{
+  "time": 1752141267458,
+  "title": "watch",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/wɒtʃ/",
+        "us": "/wɑːtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wɒtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwas/ukwaspi014.mp3"
+        },
+        "us": {
+          "ipa": "/wɑːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wat/watch/watch.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LOOK AT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to look at something for a period of time, especially something that is changing or moving",
+                "cn": "观看;注视"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I had dinner and watched TV for a couple of hours.",
+                  "cn": "我吃了饭，然后看了几个小时电视。"
+                },
+                {
+                  "gram": "",
+                  "en": "He spent the entire afternoon watching a cricket match.",
+                  "cn": "他整个下午都在看一场板球比赛。"
+                },
+                {
+                  "gram": "[ + obj + infinitive without to  ]",
+                  "en": "I watched him get into a cab.",
+                  "cn": "我看着他坐上一辆出租车。"
+                },
+                {
+                  "gram": "",
+                  "en": "I got the feeling I was being watched.",
+                  "cn": "我有种被人监视的感觉。"
+                },
+                {
+                  "gram": "[ + obj + -ing verb  ]",
+                  "en": "I sit by the window and watch people walking past.",
+                  "cn": "我坐在窗边，看着人来人往。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Just watch how he slides that ball in past the goalkeeper.",
+                  "cn": "看看他是多么巧妙地带球越过守门员而入网的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Bonner watched helplessly as they drove away without him.",
+                  "cn": "邦纳无助地看着他们开着车扬长而去，没有带上他。"
+                },
+                {
+                  "gram": "",
+                  "en": "She'll pretend that she hasn't seen us - you watch.",
+                  "cn": "她会假装没看见我们的——你看着吧。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to stay with someone or something, such as a child, for a short time to make certain that he, she, or it is safe",
+                "cn": "看护；照看"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If you want me to watch the kids for a couple of hours while you go out, just let me know.",
+                  "cn": "如果你想在出门时让我帮忙照看孩子们几个小时，跟我说一声就行了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you watch my bags for me, while I go to the toilet?",
+                  "cn": "我去一趟卫生间，你帮我看一下这些包好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BE CAREFUL",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to be careful of something",
+                "cn": "小心，当心，留神"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I have to watch my weight (= be careful not to become too heavy) now I'm not exercising so much.",
+                  "cn": "我必须注意自己的体重，因为我现在不怎么运动。"
+                },
+                {
+                  "gram": "",
+                  "en": "Watch your language (= do not use rude words), young man!",
+                  "cn": "请注意言语得体，年轻人！"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "Watch (that) you don't get glue on your fingers.",
+                  "cn": "注意别把胶水粘到你的手指上。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Watch what you're doing with that knife, Jim, it's sharp.",
+                  "cn": "用那把刀时小心点，吉姆，它很锋利的。"
+                },
+                {
+                  "gram": "",
+                  "en": "You need to watch him - he's a strange character.",
+                  "cn": "你得盯着他——他有点奇怪。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/wɒtʃ/",
+        "us": "/wɑːtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wɒtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwas/ukwaspi014.mp3"
+        },
+        "us": {
+          "ipa": "/wɑːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wat/watch/watch.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SMALL CLOCK",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a small clock that is worn on a strap around the wrist or, sometimes, connected to a piece of clothing by a chain",
+                "cn": "表，手表"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My watch seems to have stopped (= stopped working).",
+                  "cn": "我的手表好像停了。"
+                },
+                {
+                  "gram": "",
+                  "en": "He glanced nervously at his watch.",
+                  "cn": "他紧张地瞥了一眼手表。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LOOKING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the activity of watching or giving attention to something or someone, especially to make certain nothing bad happens",
+                "cn": "观察;监视;注意"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police keep a close watch on gang members.",
+                  "cn": "警方严密监视着一个帮派成员。"
+                },
+                {
+                  "gram": "",
+                  "en": "The soldiers slept at night, except for one who stayed awake on watch/to keep watch.",
+                  "cn": "夜里除了一个人站岗之外，其他的士兵都睡觉了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person or group of soldiers or guards whose duty is to protect a person, place, or thing from danger or attack",
+                "cn": "警卫；哨兵警卫队；治安队"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a particular period of time during which a person or a group of soldiers or guards has the duty of protecting and warning of danger",
+                "cn": "警戒时间；（警卫或治安队等的）值班时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the night watch",
+                  "cn": "值夜班"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

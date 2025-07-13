@@ -1,5 +1,5 @@
 {
-  "time": 1751350265594,
+  "time": 1752141164811,
   "title": "tournament",
   "generalBitmask": 1,
   "allDefinitions": [
@@ -22,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "B1",
@@ -32,12 +32,12 @@
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "a tennis/chess/golf tournament",
                   "cn": "网球／国际象棋／高尔夫球锦标赛"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "They were defeated in the first round of the tournament.",
                   "cn": "他们在锦标赛的第一轮就被打败了。"
                 }

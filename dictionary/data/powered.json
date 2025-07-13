@@ -1,0 +1,58 @@
+{
+  "time": 1752140859677,
+  "title": "-powered",
+  "generalBitmask": 8192,
+  "allDefinitions": [
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -paʊ.əd/",
+        "us": "/ -paʊ.ɚd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -paʊ.əd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31378.mp3"
+        },
+        "us": {
+          "ipa": "/ -paʊ.ɚd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31378.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "operated by the type of energy stated",
+                "cn": "（以某种类型的能量）运行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a battery-powered radio",
+                  "cn": "用电池的收音机"
+                },
+                {
+                  "gram": "",
+                  "en": "nuclear-powered submarines",
+                  "cn": "核动力潜艇"
+                },
+                {
+                  "gram": "",
+                  "en": "My calculator doesn't need batteries because it's solar-powered (= it obtains its energy from the sun).",
+                  "cn": "我的计算器不需要电池，因为它使用太阳能。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

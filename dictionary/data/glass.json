@@ -1,0 +1,162 @@
+{
+  "time": 1752140393509,
+  "title": "glass",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɡlɑːs/",
+        "us": "/ɡlæs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡlɑːs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgla/ukglaci030.mp3"
+        },
+        "us": {
+          "ipa": "/ɡlæs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gla/glass/glass.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SUBSTANCE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a hard, transparent material, used to make windows, bottles, and other objects",
+                "cn": "玻璃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "coloured/broken glass",
+                  "cn": "有色／碎玻璃"
+                },
+                {
+                  "gram": "",
+                  "en": "a glass jar/dish/ornament",
+                  "cn": "玻璃广口瓶／盘／饰品"
+                },
+                {
+                  "gram": "",
+                  "en": "It's a huge window made from a single pane of glass.",
+                  "cn": "这扇巨大的窗户是由一整块玻璃做的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "objects made from glass when thought of as a group",
+                "cn": "玻璃制品;玻璃器皿"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The museum has a fine collection of valuable glass.",
+                  "cn": "这个博物馆收藏了一批珍贵的玻璃制品。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in a glasshouse:",
+                "cn": "在气候凉爽的地带，必须把热带植物种在玻璃温室中。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In cool climates you have to grow tropical plants under glass.",
+                  "cn": "在气候凉爽的地带，必须把热带植物种在玻璃温室中。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTAINER",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a small container for drinks made of glass or similar material, with a flat base and usually with no handle",
+                "cn": "玻璃杯"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a beer/wine glass",
+                  "cn": "啤酒／葡萄酒杯"
+                },
+                {
+                  "gram": "",
+                  "en": "She poured some milk into a glass.",
+                  "cn": "她往玻璃杯中倒了些牛奶。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a type or amount of drink contained in a glass:",
+                "cn": "你要不要喝杯水？"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would you like a glass of water?",
+                  "cn": "你要不要喝杯水？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOR IMPROVING SIGHT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "two small pieces of special glass or plastic in a frame worn in front of the eyes to improve sight:",
+                "cn": "一副眼镜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a pair of glasses",
+                  "cn": "一副眼镜"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DEVICE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \nbarometer",
+                "cn": "气压计（同 barometer）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The glass has been falling/rising (= showing a change to bad/good weather) all day.",
+                  "cn": "今天气压一直在下降／上升。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "time": 1752139920619,
+  "title": "bark",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/bɑːk/",
+        "us": "/bɑːrk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɑːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbar/ukbareb011.mp3"
+        },
+        "us": {
+          "ipa": "/bɑːrk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bar/bark_/bark.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TREE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the hard outer covering of a tree",
+                "cn": "树皮"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "DOG",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the loud, rough noise that a dog and some other animals make",
+                "cn": "狗叫声;嗥叫声"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/bɑːk/",
+        "us": "/bɑːrk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɑːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbar/ukbareb011.mp3"
+        },
+        "us": {
+          "ipa": "/bɑːrk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bar/bark_/bark.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "(of a dog) to make a loud, rough noise",
+                "cn": "狗叫"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They heard a dog barking outside.",
+                  "cn": "他们听见外面有狗叫声。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to shout at someone in a forceful manner",
+                "cn": "咆哮，怒吼"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The sergeant barked (out) a succession of orders to the new recruits.",
+                  "cn": "中士向那些新兵大声下了一连串命令。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

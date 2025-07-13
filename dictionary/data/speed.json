@@ -1,0 +1,291 @@
+{
+  "time": 1752141032577,
+  "title": "speed",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/spiːd/",
+        "us": "/spiːd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spiːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspe/ukspect014.mp3"
+        },
+        "us": {
+          "ipa": "/spiːd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spe/speed/speed.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "RATE OF MOVEMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "how fast something moves",
+                "cn": "速度，速率"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was travelling at a speed of 90 mph.",
+                  "cn": "他以每小时90英里的速度行进。"
+                },
+                {
+                  "gram": "",
+                  "en": "The car has a top speed of 155 miles per hour.",
+                  "cn": "这辆汽车的最高时速是155英里。"
+                },
+                {
+                  "gram": "",
+                  "en": "You should lower/reduce your speed as you approach a junction.",
+                  "cn": "接近交叉路口时应该放慢速度。"
+                },
+                {
+                  "gram": "",
+                  "en": "On a clear, straight road you can gather/pick up speed.",
+                  "cn": "在空旷笔直的公路上可以加速行驶。"
+                },
+                {
+                  "gram": "",
+                  "en": "He came off the road while driving his car round a bend at high/breakneck speed (= very fast).",
+                  "cn": "他在弯道上开得飞快，结果冲出了公路。"
+                },
+                {
+                  "gram": "",
+                  "en": "There are speed restrictions (= controls on how fast traffic is allowed to move) on this part of the road.",
+                  "cn": "这段路是限速的。"
+                },
+                {
+                  "gram": "",
+                  "en": "an electric drill with two speeds (= rates at which it turns)",
+                  "cn": "有两挡速度的电钻"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "very fast movement",
+                "cn": "飞速，快速"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I get a real thrill from speed.",
+                  "cn": "飞速驾车会让我兴奋不已。"
+                },
+                {
+                  "gram": "",
+                  "en": "He put on a sudden burst of speed.",
+                  "cn": "他突然加速了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Both cars were travelling at speed (= very fast) when the accident happened.",
+                  "cn": "事故发生时两辆车的速度都很快。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "how fast something happens",
+                "cn": "（事情发生的）速度，进度"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were surprised at the speed of the response to our enquiry.",
+                  "cn": "这么快就得到了答复，让我们很惊讶。"
+                },
+                {
+                  "gram": "",
+                  "en": "It was the speed at which it all happened that shocked me.",
+                  "cn": "令我感到震惊的是整个事情发生得如此之快。"
+                },
+                {
+                  "gram": "",
+                  "en": "She got through her work with speed (= quickly) and efficiency.",
+                  "cn": "她快速而高效地完成了她的工作。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the rate at which light or sound travels",
+                "cn": "光／音速"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The speed of light is 300 million metres per second.",
+                  "cn": "光速是每秒钟3亿米。"
+                },
+                {
+                  "gram": "",
+                  "en": "These planes travel at twice the speed of sound.",
+                  "cn": "这些飞机以两倍音速飞行。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \ngear",
+                "cn": "排挡，变速器"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bicycle with ten speeds",
+                  "cn": "有10挡速度的自行车"
+                },
+                {
+                  "gram": "",
+                  "en": "a ten-speed bicycle",
+                  "cn": "十速自行车"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the rate at which a photographic film absorbs or reacts to light",
+                "cn": "（胶片的）感亮度"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What speed film do I need for taking photographs indoors?",
+                  "cn": "我在室内拍照片需要感亮度为多少的胶卷？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the length of time for which part of a camera is open to allow light to reach the film when a photograph is being taken",
+                "cn": "快门速度"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a high/low shutter speed",
+                  "cn": "高／低快门速度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DRUG",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "slang for\namphetamine  (= a drug that makes the mind or body more active)",
+                "cn": "苯丙胺，安非他明（一种兴奋剂）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was on speed at the time.",
+                  "cn": "她当时服了安非他明。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/spiːd/",
+        "us": "/spiːd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spiːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspe/ukspect014.mp3"
+        },
+        "us": {
+          "ipa": "/spiːd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spe/speed/speed.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to (cause to) move, go, or happen fast",
+                "cn": "（使）快速移动;（使）快速前行;加速;促进"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The train sped along at over 120 miles per hour.",
+                  "cn": "火车以每小时120多英里的速度飞驰。"
+                },
+                {
+                  "gram": "",
+                  "en": "The actress then sped away/off in a waiting car.",
+                  "cn": "后来女演员钻进了一辆等候的汽车，迅速离开了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We sped down the ski slopes.",
+                  "cn": "我们飞速滑下滑雪坡。"
+                },
+                {
+                  "gram": "",
+                  "en": "This year is speeding by/past.",
+                  "cn": "这一年过得特别快。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ambulances sped the injured people (= moved them quickly) away from the scene.",
+                  "cn": "救护车载着伤员飞速驶离现场。"
+                },
+                {
+                  "gram": "",
+                  "en": "The best thing you can do to speed your recovery (= make it quicker) is to rest.",
+                  "cn": "尽快让身体康复的最佳方法就是休息。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be driving faster than you are legally allowed to do",
+                "cn": "违法超速行驶"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was caught speeding.",
+                  "cn": "他超速行驶被抓住了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

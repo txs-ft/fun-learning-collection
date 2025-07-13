@@ -1,0 +1,92 @@
+{
+  "time": 1752141159931,
+  "title": "today",
+  "generalBitmask": 9,
+  "allDefinitions": [
+    {
+      "pos": "adverb, noun",
+      "defBitmask": 9,
+      "pron": {
+        "uk": "/təˈdeɪ/",
+        "us": "/təˈdeɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/təˈdeɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktob/uktobyj003.mp3"
+        },
+        "us": {
+          "ipa": "/təˈdeɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tod/today/today.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "(on) the present day",
+                "cn": "（在）今天，（在）今日"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What's the date today?",
+                  "cn": "今天几号？"
+                },
+                {
+                  "gram": "",
+                  "en": "He's going to call you at some point today.",
+                  "cn": "他今天某个时候要给你打电话。"
+                },
+                {
+                  "gram": "",
+                  "en": "Today is even hotter than yesterday!",
+                  "cn": "今天甚至比昨天还热！"
+                },
+                {
+                  "gram": "",
+                  "en": "Is that today's paper?",
+                  "cn": "那是今天的报纸吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He should be back today a week today (= one week from today).",
+                  "cn": "他一个星期后的今天回来。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used more generally to mean the present time",
+                "cn": "现在，目前，现今"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Today, people are much more concerned about their health than they were in the past.",
+                  "cn": "现在人们比过去更关注自己的健康。"
+                },
+                {
+                  "gram": "",
+                  "en": "With today's technology almost anything seems possible.",
+                  "cn": "有了今天的技术，似乎一切皆有可能。"
+                },
+                {
+                  "gram": "",
+                  "en": "The youth of today don't know how lucky they are.",
+                  "cn": "如今的年轻人不知道他们有多幸运。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "time": 1752140505009,
+  "title": "instead",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ɪnˈsted/",
+        "us": "/ɪnˈsted/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˈsted/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukins/ukinspe017.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˈsted/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ins/inste/instead.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in place of someone or something else",
+                "cn": "作为替代"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's no coffee - would you like a cup of tea instead?",
+                  "cn": "没有咖啡——来杯茶怎么样？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "time": 1752139957656,
+  "title": "became",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/bɪˈkeɪm/",
+        "us": "/bɪˈkeɪm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈkeɪm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbea/ukbeau_018.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈkeɪm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bec/becam/became_become.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "past simple of\nbecome",
+                "cn": "（become 的过去式）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "time": 1752140154023,
+  "title": "community",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kəˈmjuː.nə.ti/",
+        "us": "/kəˈmjuː.nə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈmjuː.nə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcommu011.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈmjuː.nə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70908.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the people living in one particular area or people who are considered as a unit because of their common interests, social group, or nationality",
+                "cn": "社区;群体;社团，团体，界"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's well known in the local community.",
+                  "cn": "他在当地非常出名。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a large black/white/Jewish community living in this area.",
+                  "cn": "在该地区有一个大的黑人／白人／犹太人社区。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her speech caused outrage among the gay community.",
+                  "cn": "她的演说激起了同性恋群体的愤怒。"
+                },
+                {
+                  "gram": "",
+                  "en": "Drug trafficking is a matter of considerable concern for the entire international community (= all the countries of the world).",
+                  "cn": "毒品走私是整个国际社会都相当关注的问题。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a real sense of community (= caring and friendly feeling) in this neighbourhood.",
+                  "cn": "在该地区有一种真正的社区归属感。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of animals or plants that live or grow together",
+                "cn": "（动植物的）群落"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the general public",
+                "cn": "公众，群众"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Unlike the present government, we believe in serving the community.",
+                  "cn": "与现任政府不同，我们信奉服务大众。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

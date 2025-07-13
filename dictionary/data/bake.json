@@ -1,0 +1,110 @@
+{
+  "time": 1752139876026,
+  "title": "bake",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/beɪk/",
+        "us": "/beɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/beɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbag/ukbag__023.mp3"
+        },
+        "us": {
+          "ipa": "/beɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bak/bake_/bake.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to cook inside an oven, without using added liquid or fat",
+                "cn": "烘，烤"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I made the icing while the cake was baking.",
+                  "cn": "趁烤面包的时候我做好了糖衣。"
+                },
+                {
+                  "gram": "",
+                  "en": "a baked potato",
+                  "cn": "烤土豆"
+                },
+                {
+                  "gram": "",
+                  "en": "freshly baked bread",
+                  "cn": "刚烤好的面包"
+                },
+                {
+                  "gram": "",
+                  "en": "Bake at 180°C for about 20 minutes.",
+                  "cn": "以180摄氏度的温度烘烤20分钟。"
+                },
+                {
+                  "gram": "",
+                  "en": "Bake for 5–7 minutes in a preheated oven.",
+                  "cn": "在预热过的烤箱中烤5至7分钟。"
+                },
+                {
+                  "gram": "",
+                  "en": "a baking dish",
+                  "cn": "烤碟"
+                },
+                {
+                  "gram": "",
+                  "en": "a baking tin/tray",
+                  "cn": "烘烤铁器皿/烘烤浅盘"
+                },
+                {
+                  "gram": "",
+                  "en": "a baking sheet/pan",
+                  "cn": "金属烤盘/烤盘"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make something such as earth or clay hard by heating it, usually in order to make bricks",
+                "cn": "烧硬（砖块等）"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be or become very hot",
+                "cn": "感到很热"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's baking outside.",
+                  "cn": "外面热得跟蒸笼似的。"
+                },
+                {
+                  "gram": "",
+                  "en": "You'll bake in that fleece jacket!",
+                  "cn": "穿那件羊毛夹克会很热的！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

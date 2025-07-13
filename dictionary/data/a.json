@@ -1,0 +1,502 @@
+{
+  "time": 1752139572625,
+  "title": "A, a",
+  "generalBitmask": 65,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/eɪ/",
+        "us": "/eɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/eɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka__/uka____001.mp3"
+        },
+        "us": {
+          "ipa": "/eɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/a_0/a_01_/a_01_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LETTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the first letter of the English alphabet",
+                "cn": "（英语字母表的第一个字母）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "MUSIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a note in Western music",
+                "cn": "A音"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This concerto is in the key of A major.",
+                  "cn": "这支协奏曲是 A 大调。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MARK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a mark in an exam or for a piece of work that shows that your work is considered excellent",
+                "cn": "（学业成绩）A，优，甲"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Sophie got an A for English.",
+                  "cn": "苏菲英语得了个 A。"
+                },
+                {
+                  "gram": "",
+                  "en": "She got straight As (= all her marks were As) in her final exams.",
+                  "cn": "她期末考试各科成绩均为 A。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jim is a straight-A student (= all his marks are A).",
+                  "cn": "吉姆是个全优生。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "strong /eɪ/",
+        "us": "strong /eɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /eɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka__/uka____001.mp3"
+        },
+        "us": {
+          "ipa": "strong /eɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/a_0/a_01_/a_01_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT PARTICULAR",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used before a noun to refer to a single thing or person that has not been mentioned before, especially when you are not referring to a particular thing or person",
+                "cn": "一（个）（用于名词前，表示未曾提及的，尤其是非特指的人、事、物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've bought a car.",
+                  "cn": "我买了辆汽车。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's got a boyfriend.",
+                  "cn": "她交了个男朋友。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was a sudden loud noise.",
+                  "cn": "突然发出一声巨响。"
+                },
+                {
+                  "gram": "",
+                  "en": "What a shame that you couldn't go to the party.",
+                  "cn": "你不能去参加聚会，太遗憾了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I heard a child crying.",
+                  "cn": "我听见有个孩子在哭。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is he a friend of yours (= one of your friends)?",
+                  "cn": "他是你的朋友吗？"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to say what type of thing or person something or someone is",
+                "cn": "（表示人或物的类型）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She wants to be a doctor when she grows up.",
+                  "cn": "她长大了想当医生。"
+                },
+                {
+                  "gram": "",
+                  "en": "This is a very mild cheese.",
+                  "cn": "这是一种很清淡的奶酪。"
+                },
+                {
+                  "gram": "",
+                  "en": "Experts think the painting may be a Picasso (= one done by Picasso).",
+                  "cn": "专家们认为这幅画可能出自毕加索的手笔。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to mean any or every thing or person of the type you are referring to",
+                "cn": "（泛指所指类别中的任何一个）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can you ride a bike?",
+                  "cn": "你会骑自行车吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "A cheetah can run faster than a lion.",
+                  "cn": "猎豹能跑过狮子。"
+                },
+                {
+                  "gram": "",
+                  "en": "A teacher needs to have a lot of patience.",
+                  "cn": "做老师需要很有耐心。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before some uncountable nouns when you want to limit their meaning in some way, such as when describing them more completely or referring to one example of them",
+                "cn": "（用于一些不可数名词前，在某种意义上起限定性作用）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I only have a limited knowledge of Spanish.",
+                  "cn": "我只懂一点西班牙语。"
+                },
+                {
+                  "gram": "",
+                  "en": "He has a great love of music.",
+                  "cn": "他酷爱音乐。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was a fierceness in her voice.",
+                  "cn": "她的声音中透着股凶气。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used before some nouns of action when referring to one example of the action",
+                "cn": "（用于某些行为名词前）一下；一次"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Take a look at this, Jez.",
+                  "cn": "杰兹，看一下这个。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm just going to have a snack.",
+                  "cn": "我正要去洗个澡。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was a knocking at the door.",
+                  "cn": "有人敲门。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used when referring to a unit or container of something, especially something you eat or drink",
+                "cn": "（尤指饮食的）一份"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd love a coffee.",
+                  "cn": "我想来杯咖啡。"
+                },
+                {
+                  "gram": "",
+                  "en": "All I had for lunch was a yogurt.",
+                  "cn": "午饭我只喝了一杯酸奶。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used before the first but not the second of two nouns that are referred to as one unit",
+                "cn": "（用于被视为一体的两个名词中的第一个词前）一副；一套；一组"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a cup and saucer",
+                  "cn": "一副杯碟"
+                },
+                {
+                  "gram": "",
+                  "en": "a knife and fork",
+                  "cn": "一副刀叉"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used before some words that express a number or amount",
+                "cn": "（用于某些表示数量的词前）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a few days",
+                  "cn": "几天"
+                },
+                {
+                  "gram": "",
+                  "en": "a bit of wool",
+                  "cn": "一点羊毛"
+                },
+                {
+                  "gram": "",
+                  "en": "a lot of money",
+                  "cn": "很多钱"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in front of a person's name when referring to someone who you do not know",
+                "cn": "（用于不认识的人名前）有个，某一（个）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's a Ms Evans to see you.",
+                  "cn": "有位埃文斯女士找你。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in front of someone's family name when they are a member of that family",
+                "cn": "（用于某人的姓之前，表示其为该姓家族成员）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is that a Wilson over there?",
+                  "cn": "那边那个人是威尔逊家的吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before the name of a day or month to refer to one example of it",
+                "cn": "（用于日期、月份前）一个"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My birthday is on a Friday this year.",
+                  "cn": "今年我的生日是个星期五。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's been a very wet June.",
+                  "cn": "今年6月一直都特别潮湿。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ONE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "one",
+                "cn": "一"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a hundred",
+                  "cn": "一百"
+                },
+                {
+                  "gram": "",
+                  "en": "a thousand",
+                  "cn": "一千"
+                },
+                {
+                  "gram": "",
+                  "en": "a dozen",
+                  "cn": "一打"
+                },
+                {
+                  "gram": "",
+                  "en": "There were three men and a woman.",
+                  "cn": "有三位男士和一位女士。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used between a fraction and a unit of measurement",
+                "cn": "（用于分数和度量单位之间）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "half a mile",
+                  "cn": "半英里"
+                },
+                {
+                  "gram": "",
+                  "en": "a quarter of a kilo",
+                  "cn": "1/4公斤"
+                },
+                {
+                  "gram": "",
+                  "en": "three quarters of an hour",
+                  "cn": "三刻钟"
+                },
+                {
+                  "gram": "",
+                  "en": "six tenths of a second",
+                  "cn": "0.6秒"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used when saying how often something happens in a certain period",
+                "cn": "（指某事在特定时间段内发生的频率）每一（个），一"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Take one tablet three times a day.",
+                  "cn": "一日三次，每次一片。"
+                },
+                {
+                  "gram": "",
+                  "en": "I swim once a week.",
+                  "cn": "我每星期游一次泳。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used when saying how much someone earns or how much something costs in a certain period",
+                "cn": "（指特定时间段内的收入或费用）一，每"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She earns $100,000 a year.",
+                  "cn": "她一年挣10万美元。"
+                },
+                {
+                  "gram": "",
+                  "en": "My plumber charges £30 an hour.",
+                  "cn": "管子工每小时收我30英镑的维修费。"
+                },
+                {
+                  "gram": "",
+                  "en": "I pay £25 a week for my parking permit.",
+                  "cn": "我的停车证费用是每周25英镑。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/eɪ/",
+        "us": "/eɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/eɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka__/uka____001.mp3"
+        },
+        "us": {
+          "ipa": "/eɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/a_0/a_01_/a_01_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ELECTRICITY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "written abbreviation for\namp",
+                "cn": "安（电流强度单位amp“安培”的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

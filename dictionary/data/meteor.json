@@ -1,0 +1,42 @@
+{
+  "time": 1752140613194,
+  "title": "meteor",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmiː.ti.ɔːr/",
+        "us": "/ˈmiː.t̬i.ɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmiː.ti.ɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmet/ukmetap006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmiː.t̬i.ɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/met/meteo/meteor.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a piece of rock or other matter from space that produces a bright light as it travels through the atmosphere",
+                "cn": "流星"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

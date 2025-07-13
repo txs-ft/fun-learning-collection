@@ -1,0 +1,127 @@
+{
+  "time": 1752141125346,
+  "title": "team",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/tiːm/",
+        "us": "/tiːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tiːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktaw/uktawny030.mp3"
+        },
+        "us": {
+          "ipa": "/tiːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tea/team_/team.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a number of people or animals who do something together as a group",
+                "cn": "队，组，班"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a basketball/hockey/netball team",
+                  "cn": "篮球队／曲棍球队／无挡板篮球队"
+                },
+                {
+                  "gram": "",
+                  "en": "a team of investigators",
+                  "cn": "调查组"
+                },
+                {
+                  "gram": "",
+                  "en": "Team GB (= the athletes representing Great Britain in a sport)",
+                  "cn": "英国代表队"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in a number of phrases that refer to people working together as a group in order to achieve something",
+                "cn": "（用于一些短语中）集体合作"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It was a real team effort - everyone contributed something to the success of the project.",
+                  "cn": "这完全是集体努力的结果——每个人都为这个项目的成功作出了贡献。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to refer to a group of people who support a particular person or a particular point of view",
+                "cn": "支持某人或某观点的一群人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In this discussion, we're on Team Marisa.",
+                  "cn": "在这个讨论中，我们支持玛丽莎。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/tiːm/",
+        "us": "/tiːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tiːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktaw/uktawny030.mp3"
+        },
+        "us": {
+          "ipa": "/tiːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tea/team_/team.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to act together to achieve something",
+                "cn": "组成团队以实现…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Lang teamed with Draper to develop the vaccine.",
+                  "cn": "郎和德瑞普组成团队开发疫苗。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

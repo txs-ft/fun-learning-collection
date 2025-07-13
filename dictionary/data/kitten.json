@@ -1,0 +1,42 @@
+{
+  "time": 1752140567196,
+  "title": "kitten",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɪt.ən/",
+        "us": "/ˈkɪt̬.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɪt.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkit/ukkit__008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɪt̬.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kit/kitte/kitten.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a very young cat",
+                "cn": "小猫"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

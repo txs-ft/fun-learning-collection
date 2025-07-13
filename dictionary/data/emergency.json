@@ -1,0 +1,58 @@
+{
+  "time": 1752140255340,
+  "title": "emergency",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɪˈmɜː.dʒən.si/",
+        "us": "/ɪˈmɝː.dʒən.si/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪˈmɜː.dʒən.si/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukemb/ukembry009.mp3"
+        },
+        "us": {
+          "ipa": "/ɪˈmɝː.dʒən.si/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71512.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something dangerous or serious, such as an accident, that happens suddenly or unexpectedly and needs fast action in order to avoid harmful results",
+                "cn": "紧急情况；不测事件；突发事件"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How would disabled people escape in an emergency?",
+                  "cn": "如果发生紧急情况，伤残人士如何逃离？"
+                },
+                {
+                  "gram": "",
+                  "en": "Is the emergency exit suitable for wheelchairs?",
+                  "cn": "安全出口适于轮椅通行吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The pilot of the aircraft was forced to make an emergency landing on Lake Geneva.",
+                  "cn": "这架飞机的驾驶员不得不在日内瓦湖面上紧急迫降。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

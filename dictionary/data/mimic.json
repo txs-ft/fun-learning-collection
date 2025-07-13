@@ -1,0 +1,89 @@
+{
+  "time": 1752140618156,
+  "title": "mimic",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈmɪm.ɪk/",
+        "us": "/ˈmɪm.ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɪm.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmil/ukmilli016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɪm.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mim/mimic/mimic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to copy the way in which a particular person usually speaks and moves, usually in order to make people laugh",
+                "cn": "（为逗乐而）模仿，学…的样子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was mimicking the various people in our office.",
+                  "cn": "她在学我们办公室里各种人的样子。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmɪm.ɪk/",
+        "us": "/ˈmɪm.ɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɪm.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmil/ukmilli016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɪm.ɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mim/mimic/mimic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person who can copy the sounds or movements of other people",
+                "cn": "善于模仿的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's a fantastic mimic.",
+                  "cn": "她非常擅长模仿。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

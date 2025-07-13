@@ -1,0 +1,73 @@
+{
+  "time": 1752141112613,
+  "title": "surprised",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/səˈpraɪzd/",
+        "us": "/sɚˈpraɪzd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈpraɪzd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksur/uksurge018.mp3"
+        },
+        "us": {
+          "ipa": "/sɚˈpraɪzd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sur/surpr/surprised.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "feeling or showing surprise because something has happened that you did not expect",
+                "cn": "意外的，惊讶的，诧异的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were very surprised at the result.",
+                  "cn": "这个结果让我们觉得很意外。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's not like you to behave like this, Alice - I'm surprised at you (= I feel disappointed with you)!",
+                  "cn": "艾丽斯，这太不像你的所作所为了——你真让我感到意外！"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm not surprised (that) he didn't keep his promise.",
+                  "cn": "果然不出我所料，他没有遵守他的诺言。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm surprised to see you here.",
+                  "cn": "我真没想到会在这里看到你。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've managed to fix your car for now, but don't be surprised if it breaks down again (= it probably will stop working again).",
+                  "cn": "眼下我算是把你的车修好了，但如果它再出什么毛病，你也别觉得惊讶。"
+                },
+                {
+                  "gram": "",
+                  "en": "She looked at him with a surprised expression on her face.",
+                  "cn": "她满脸惊诧地看着他。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

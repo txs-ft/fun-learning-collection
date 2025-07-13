@@ -1,0 +1,353 @@
+{
+  "time": 1752140144142,
+  "title": "colour",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkʌl.ər/",
+        "us": "/ˈkʌl.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʌl.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcolor007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʌl.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/color/color.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "APPEARANCE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "red, blue, green, yellow, etc.",
+                "cn": "颜色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What's your favourite colour?",
+                  "cn": "你最喜欢什么颜色？"
+                },
+                {
+                  "gram": "",
+                  "en": "She wears a lot of bright colours.",
+                  "cn": "她穿得很鲜艳。"
+                },
+                {
+                  "gram": "",
+                  "en": "What colour are your eyes?",
+                  "cn": "你的眼睛是什么颜色的？"
+                },
+                {
+                  "gram": "",
+                  "en": "Does the shirt come in any other colour?",
+                  "cn": "这件衬衫有其他颜色的吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I like rich jewel colours, such as purple, blue, and green.",
+                  "cn": "我喜欢浓重的宝石色，如紫色、蓝色和绿色。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are the photos in colour or black and white?",
+                  "cn": "照片是彩色的还是黑白的？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the pleasant effect of a bright colour or of a lot of colours together",
+                "cn": "色彩，色调"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I think we need a bit of colour in this room.",
+                  "cn": "我觉得我们这个房间需要增加一点色彩。"
+                },
+                {
+                  "gram": "",
+                  "en": "Red and yellow peppers give a little colour to the sauce.",
+                  "cn": "红色和黄色的辣椒给酱汁添加了一点色彩。"
+                },
+                {
+                  "gram": "",
+                  "en": "The whole garden was ablaze with/a riot of colour (= full of different bright colours).",
+                  "cn": "整个花园五彩缤纷。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a substance, such as a paint or dye, that you add to something to give it a particular colour",
+                "cn": "颜料，染料"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I put my new green shirt in a hot wash and the colour ran (= the colour came out of the material).",
+                  "cn": "我把新买的绿色衬衫往热水中一泡，颜色就褪掉了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a pink colour in someone's face, often showing good health or showing feelings such as embarrassment or excitement",
+                "cn": "红润的面色；血色，气色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That walk has put some colour in your cheeks.",
+                  "cn": "散散步使你的气色好看些了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I watched the colour drain from her face as she heard the news.",
+                  "cn": "我注意到她得知这消息后脸色煞白。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has a high colour (= the natural colour of her face is red).",
+                  "cn": "她面色红润。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INTEREST",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "interesting or exciting qualities or details",
+                "cn": "趣味；风格；风味；色彩"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We added your story for a bit of local colour.",
+                  "cn": "我们给你的故事加了一些本土色彩。"
+                },
+                {
+                  "gram": "",
+                  "en": "Michael was there so that added a bit of colour to the evening's proceedings.",
+                  "cn": "迈克尔的到场使那晚的活动有所增色。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RACE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the natural colour of a person's skin which shows which race they belong to",
+                "cn": "（人种的）肤色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She felt she had not been given the job because of her colour.",
+                  "cn": "她觉得没能得到那份工作是因为自己的肤色。"
+                },
+                {
+                  "gram": "",
+                  "en": "There should be no discrimination on the grounds of color.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to describe people who do not consider themselves to be white",
+                "cn": "有色人种（用来形容自己）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We need to protect the rights of people of colour.",
+                  "cn": "我们需要保护有色人种的权利。"
+                },
+                {
+                  "gram": "",
+                  "en": "As a woman of colour, she experiences discrimination on many levels.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SYMBOL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(at school, college, or university) an honour given to people who have been chosen for a sports team, often represented by a special symbol on a shirt or tie",
+                "cn": "（中学或大学授予入选运动队者的）徽章"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was awarded her colours for hockey/her hockey colours at the end of term.",
+                  "cn": "她在学期末被选入曲棍球队。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the official flag of a country, ship, or military group",
+                "cn": "国旗；舰旗；军旗"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "regimental colours",
+                  "cn": "军团旗"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈkʌl.ər/",
+        "us": "/ˈkʌl.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʌl.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcolor007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʌl.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/color/color.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "Colour television, photography, or printing shows things in all their colours, not just in black and white.",
+                "cn": "（电视、照片、印刷）彩色的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈkʌl.ər/",
+        "us": "/ˈkʌl.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʌl.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcolor007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʌl.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/color/color.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BECOME A COLOUR",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to become a particular colour, or to make something a particular colour",
+                "cn": "变色;给…着色;使成为…色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you think he colours his hair?",
+                  "cn": "你觉得他染发了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He drew a heart and coloured it red.",
+                  "cn": "他画了一颗心并把它涂成红色。"
+                },
+                {
+                  "gram": "",
+                  "en": "Fry the onions till they start to colour.",
+                  "cn": "将洋葱煎至变色。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to become red in the face because you are embarrassed",
+                "cn": "（因为困窘而）脸红"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "INFLUENCE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If something colours your opinion of something, it influences your opinion in a negative way.",
+                "cn": "影响（观点）；使有偏见"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm sure my views on marriage are coloured by my parents' divorce.",
+                  "cn": "我对婚姻的观点肯定受到了我父母离婚一事的影响。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm trying not to let my judgment be coloured by that one incident.",
+                  "cn": "我努力不让自己的判断因为那一事件而带上偏见。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

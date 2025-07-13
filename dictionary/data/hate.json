@@ -1,0 +1,129 @@
+{
+  "time": 1752140461769,
+  "title": "hate",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/heɪt/",
+        "us": "/heɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/heɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhas/ukhasty010.mp3"
+        },
+        "us": {
+          "ipa": "/heɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hat/hate_/hate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to dislike someone or something very much",
+                "cn": "憎恨，憎恶，厌恶"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Kelly hates her teacher.",
+                  "cn": "凯莉厌恶她的老师。"
+                },
+                {
+                  "gram": "",
+                  "en": "She hated the cold, dark days of winter.",
+                  "cn": "她不喜欢冬天寒冷阴暗的日子。"
+                },
+                {
+                  "gram": "",
+                  "en": "I hate it when you do that.",
+                  "cn": "我非常讨厌你那样做。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "I have always hated speaking in public.",
+                  "cn": "我一直讨厌在公共场合讲话。"
+                },
+                {
+                  "gram": "",
+                  "en": "I hate him telling me what do to all the time.",
+                  "cn": "我讨厌他每时每刻都在告诉我该做什么。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I hate (= do not want) to interrupt, but it's time we left.",
+                  "cn": "我不想打断你，但我们该走了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd hate (= would not like) you to think I didn't appreciate what you'd done.",
+                  "cn": "我不愿让你认为我不感激你做的事。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/heɪt/",
+        "us": "/heɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/heɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhas/ukhasty010.mp3"
+        },
+        "us": {
+          "ipa": "/heɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hat/hate_/hate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "an extremely strong dislike",
+                "cn": "憎恨，憎恶"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She gave him a look of pure hate.",
+                  "cn": "她非常憎恨地看了他一眼。"
+                },
+                {
+                  "gram": "",
+                  "en": "The feelings of hate grew stronger every day.",
+                  "cn": "仇恨一天天加深。"
+                },
+                {
+                  "gram": "",
+                  "en": "One of my pet hates (= one of the main things I dislike) is people who use your name all the while when they're speaking to you.",
+                  "cn": "我最讨厌那些跟你说话时不停地叫你名字的人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

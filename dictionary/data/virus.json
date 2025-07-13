@@ -1,0 +1,85 @@
+{
+  "time": 1752141254109,
+  "title": "virus",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈvaɪə.rəs/",
+        "us": "/ˈvaɪ.rəs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈvaɪə.rəs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvir/ukvirgi019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈvaɪ.rəs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/v/vir/virus/virus.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DISEASE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an extremely small piece of organic material that causes disease in humans, animals, and plants",
+                "cn": "病毒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the chickenpox/flu/herpes/mumps virus",
+                  "cn": "水痘／流行性感冒／疱疹／流行性腮腺炎病毒"
+                },
+                {
+                  "gram": "",
+                  "en": "Evidence suggested that the AIDS virus was spreading very quickly among the heterosexual community.",
+                  "cn": "有证据表明艾滋病病毒正在异性恋群体中迅速传播。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a disease caused by a virus",
+                "cn": "病毒病，病毒性疾病；病毒感染"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't know exactly what's wrong with her - I think she has some kind of virus.",
+                  "cn": "我不知道她到底得了什么病——我觉得可能是某种病毒感染。"
+                },
+                {
+                  "gram": "",
+                  "en": "Several employees were off work with a vomiting virus.",
+                  "cn": "几名员工因感染致呕吐病毒而没能来上班。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPUTER PROBLEM",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a computer program or part of a computer program that can make copies of itself and is intended to prevent the computer from working normally",
+                "cn": "计算机病毒"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

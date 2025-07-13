@@ -1,0 +1,273 @@
+{
+  "time": 1752140758097,
+  "title": "old",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/əʊld/",
+        "us": "/oʊld/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əʊld/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukoff/ukoffst030.mp3"
+        },
+        "us": {
+          "ipa": "/oʊld/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75193.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT YOUNG/NEW",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "having lived or existed for many years",
+                "cn": "老的;年老的;古老的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an old man",
+                  "cn": "老人"
+                },
+                {
+                  "gram": "",
+                  "en": "We're all getting older.",
+                  "cn": "我们都老了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was shocked by how old he looked.",
+                  "cn": "他看上去那么老让我很震惊。"
+                },
+                {
+                  "gram": "",
+                  "en": "Now come on, you're old enough to tie your own shoelaces, Carlos.",
+                  "cn": "好，来吧，卡洛斯，你那么大了，该自己系鞋带了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm too old to be out in the clubs every night.",
+                  "cn": "我老大不小了，不能每晚总在夜总会里胡混。"
+                },
+                {
+                  "gram": "",
+                  "en": "a beautiful old farm house in the country",
+                  "cn": "乡下一间漂亮的古老农舍"
+                },
+                {
+                  "gram": "",
+                  "en": "a battered old car",
+                  "cn": "残破的旧汽车"
+                },
+                {
+                  "gram": "",
+                  "en": "That's an old joke - I've heard it about a thousand times.",
+                  "cn": "那是个老掉牙的笑话——我听过不知多少次了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I think this cheese is old, judging by the smell of it.",
+                  "cn": "从气味上判断，我觉得这块奶酪有点陈了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "unsuitable because intended for older people:",
+                "cn": "你不觉得这本书是给年龄大一些的人看的，对你来说不合适吗？"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't you think that book is too old for you?",
+                  "cn": "你不觉得这本书是给年龄大一些的人看的，对你来说不合适吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WHAT AGE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to describe or ask about someone's age",
+                "cn": "…岁的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How old is your father?",
+                  "cn": "你父亲多大年龄了？"
+                },
+                {
+                  "gram": "",
+                  "en": "Rosie's six years old now.",
+                  "cn": "罗茜现在6岁了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's not very dignified behaviour for a 54-year-old man.",
+                  "cn": "对于一个54岁的人来说，这种行为太有失体面了。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's a couple of years older than me.",
+                  "cn": "他比我大几岁。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FROM THE PAST",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "from a period in the past",
+                "cn": "过去的;旧时的，从前的，以前的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I saw my old English teacher last time I went home.",
+                  "cn": "上次我回家时见到了我从前的英语老师。"
+                },
+                {
+                  "gram": "",
+                  "en": "He bought me a new phone to replace my old one.",
+                  "cn": "他给我买了一个新电话取代了那个旧的。"
+                },
+                {
+                  "gram": "",
+                  "en": "She showed me her old school.",
+                  "cn": "她领我参观了她的母校。"
+                },
+                {
+                  "gram": "",
+                  "en": "I saw an old boyfriend of mine.",
+                  "cn": "我看见了我的一个前男友。"
+                },
+                {
+                  "gram": "",
+                  "en": "In my old job I had less responsibility.",
+                  "cn": "我以前的那份工作职责没有这么多。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LANGUAGE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a language when it was in an early stage in its development:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Both words come to us from Old English.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VERY FAMILIAR",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "(especially of a friend) known for a long time",
+                "cn": "（尤指朋友）老的，结识久的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's one of my oldest friends - we met in kindergarten.",
+                  "cn": "她是我的老朋友之一——我们上幼儿园时就认识了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before someone's name when you are referring to or talking to them, to show that you know that person well and like them",
+                "cn": "（用于人名前表示亲密、熟识的称呼）老…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's old Sara working away in the corner.",
+                  "cn": "老萨拉在角落里埋头苦干。"
+                },
+                {
+                  "gram": "",
+                  "en": "I hear poor old Frank's lost his job.",
+                  "cn": "我听说可怜的老弗兰克失业了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əʊld/",
+        "us": "/oʊld/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əʊld/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukoff/ukoffst030.mp3"
+        },
+        "us": {
+          "ipa": "/oʊld/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75193.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "old people considered together as a group",
+                "cn": "老年人，长者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "These cuts in services will particularly affect the old.",
+                  "cn": "许多服务项目被取消，这样做对老年人的影响尤其大。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

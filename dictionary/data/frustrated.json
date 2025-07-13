@@ -1,0 +1,84 @@
+{
+  "time": 1752140376006,
+  "title": "frustrated",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/frʌsˈtreɪ.tɪd/",
+        "us": "/ˈfrʌs.treɪ.t̬ɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/frʌsˈtreɪ.tɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfru/ukfruga020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfrʌs.treɪ.t̬ɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fru/frust/frustrated.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "feeling annoyed or less confident because you cannot achieve what you want",
+                "cn": "灰心的，气馁的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Are you feeling frustrated in your present job?",
+                  "cn": "你做现在这份工作感觉气馁吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say that a person who has not succeeded in a particular type of job",
+                "cn": "失意的；不成功的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Frustrated writers often end up in publishing.",
+                  "cn": "失意的作家最后往往投身出版业。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "A frustrated emotion is one that you are not able to express.",
+                "cn": "情感受挫的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "her frustrated love for him",
+                  "cn": "她对他的爱情受挫了"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "unhappy because you are not having as much sex as you want",
+                "cn": "性需求没有得到满足的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

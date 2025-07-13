@@ -1,0 +1,138 @@
+{
+  "time": 1752140170189,
+  "title": "construction",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kənˈstrʌk.ʃən/",
+        "us": "/kənˈstrʌk.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kənˈstrʌk.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcon/ukconst002.mp3"
+        },
+        "us": {
+          "ipa": "/kənˈstrʌk.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/con/const/construction.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BUILDING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the work of building or making something, especially buildings, bridges, etc.",
+                "cn": "建造;构筑;建设"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She works in construction/in the construction industry.",
+                  "cn": "她在建筑行业工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "The bridge is a marvellous work of engineering and construction.",
+                  "cn": "这座桥梁是工程学和建筑业的杰作。"
+                },
+                {
+                  "gram": "",
+                  "en": "This website is currently under construction (= being created).",
+                  "cn": "该网站目前正在创建中。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the particular type of structure, materials, etc. that something has",
+                "cn": "（某种）构造，结构"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The bridge is of lightweight construction.",
+                  "cn": "这座桥结构较轻。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a building",
+                "cn": "建筑物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What's that concrete and metal construction over there?",
+                  "cn": "那边那座混凝土和金属结构的建筑物是什么？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LANGUAGE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the way in which the words in a sentence or phrase are arranged",
+                "cn": "（句子或词组的）结构，构造"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The writer has used several complex grammatical constructions.",
+                  "cn": "作者使用了几个复杂的句法结构。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to understand something in a particular way:",
+                "cn": "他们怎么能把一个毫无恶意的词语理解为谴责呢？"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How can they put such a damning construction on a perfectly innocent phrase?",
+                  "cn": "他们怎么能把一个毫无恶意的词语理解为谴责呢？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to understand something as having a particular meaning, especially other people's actions and statements:",
+                "cn": "我不想让他们误解我的举动。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't want them to put the wrong construction on my actions.",
+                  "cn": "我不想让他们误解我的举动。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

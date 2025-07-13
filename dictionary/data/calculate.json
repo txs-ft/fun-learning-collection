@@ -1,0 +1,63 @@
+{
+  "time": 1752140076266,
+  "title": "calculate",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈkæl.kjə.leɪt/",
+        "us": "/ˈkæl.kjə.leɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæl.kjə.leɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcaj/ukcajun012.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæl.kjə.leɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/calcu/calculate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to judge the number or amount of something by using the information that you already have, and adding, taking away, multiplying, or dividing numbers",
+                "cn": "算，计算"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The cost of the damage caused by the recent storms has been calculated as/at over £5 million.",
+                  "cn": "据计算，近期风暴造成的损失超过了500万英镑。"
+                },
+                {
+                  "gram": "",
+                  "en": "The new tax system would be calculated on the value of property owned by an individual.",
+                  "cn": "新税制将按照个人财产价值计算税额。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "At some stage we need to calculate when the project will be finished.",
+                  "cn": "在一定阶段，我们需要计算一下工程何时会结束。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "He's calculated that it would take him two years to save up enough for a car.",
+                  "cn": "他算了一下要攒两年的钱才够买辆车。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "time": 1752397237062,
+  "title": "note",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/nəʊt/",
+        "us": "/noʊt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/nəʊt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknos/uknosh_017.mp3"
+        },
+        "us": {
+          "ipa": "/noʊt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/not/note_/note.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WRITING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a short piece of writing",
+                "cn": "短笺，便条"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He left a note to say he would be home late.",
+                  "cn": "他留下字条说他会晚点回家。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a note on the door saying when the shop will open again.",
+                  "cn": "门上钉着一张便条，上面写着商店何时将重新开张。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a short explanation or an extra piece of information that is given at the bottom of a page, at the back of a book, etc.",
+                "cn": "（页底）注释，说明;（书的）封底介绍"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For more information see Note 3.",
+                  "cn": "详细解释参见注释3。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "information written on paper:",
+                "cn": "风把我的笔记吹得满屋子都是。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The wind blew my notes all over the room.",
+                  "cn": "风把我的笔记吹得满屋子都是。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SOUND",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a single sound at a particular level, usually in music, or a written symbol that represents this sound",
+                "cn": "音;音符"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "high/low notes",
+                  "cn": "高／低音"
+                },
+                {
+                  "gram": "",
+                  "en": "She played three long notes on the piano.",
+                  "cn": "她在钢琴上弹了3个长音。"
+                },
+                {
+                  "gram": "",
+                  "en": "The engine noise suddenly changed its note and rose to a whine.",
+                  "cn": "引擎噪音突然越来越响，变成了尖叫声。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WAY OF EXPRESSING",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "an emotion or a way of expressing something",
+                "cn": "语调；口气"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There was a note of caution in her letter.",
+                  "cn": "她的信中带着一丝谨慎。"
+                },
+                {
+                  "gram": "",
+                  "en": "His speech struck just the right note.",
+                  "cn": "他发言的语调恰如其分。"
+                },
+                {
+                  "gram": "",
+                  "en": "The meeting ended on an optimistic note.",
+                  "cn": "这次会议在一片乐观的气氛中结束。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a piece of paper money",
+                "cn": "纸币"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a €20 note",
+                  "cn": "20欧元的纸币"
+                },
+                {
+                  "gram": "",
+                  "en": "He took a wad of notes from his pocket.",
+                  "cn": "他从口袋中拿出一叠钞票。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IMPORTANCE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "importance, or the fact that something deserves attention",
+                "cn": "重要性；值得注意之处"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There was nothing of note in the latest report.",
+                  "cn": "最近的这份报告中并无值得关注之处。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/nəʊt/",
+        "us": "/noʊt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/nəʊt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknos/uknosh_017.mp3"
+        },
+        "us": {
+          "ipa": "/noʊt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/not/note_/note.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to notice something",
+                "cn": "留意，注意"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They noted the consumers' growing demand for quicker service.",
+                  "cn": "他们留意到消费者对便捷服务与日俱增的需求。"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "Please note (that) we will be closed on Saturday.",
+                  "cn": "请注意我们周六不营业。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Note how easy it is to release the catch quickly.",
+                  "cn": "注意看，迅速拉开插销有多么容易。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to give your attention to something by discussing it or making a written record of it",
+                "cn": "谈到，论及"
+              },
+              "examples": [
+                {
+                  "gram": "[ + that ]",
+                  "en": "He said the weather was beyond our control, noting that last summer was one of the hottest on record.",
+                  "cn": "他说天气超出了我们的掌控范围，并提到去年夏天是有史以来最炎热的一个夏天。"
+                },
+                {
+                  "gram": "",
+                  "en": "In the article, she notes several cases of medical incompetence.",
+                  "cn": "在文章中，她提到了几起医疗事故的案例。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

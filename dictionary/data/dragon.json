@@ -1,0 +1,69 @@
+{
+  "time": 1752140232198,
+  "title": "dragon",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈdræɡ.ən/",
+        "us": "/ˈdræɡ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdræɡ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdoz/ukdozen021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdræɡ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dra/drago/dragon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ANIMAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large, frightening imaginary animal, often represented with wings, a long tail, and fire coming out of its mouth",
+                "cn": "龙"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "any of various types of large lizard",
+                "cn": "（大型）蜥蜴"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "WOMAN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an unfriendly and frightening woman",
+                "cn": "悍妇，恶婆"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's a real old dragon.",
+                  "cn": "她真是个老恶婆。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

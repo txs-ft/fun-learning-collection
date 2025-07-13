@@ -1,0 +1,103 @@
+{
+  "time": 1752139706345,
+  "title": "Arctic",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈɑːk.tɪk/",
+        "us": "/ˈɑːrk.tɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑːk.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarc/ukarchi007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɑːrk.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/arc/arcti/arctic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the very cold area around the North Pole",
+                "cn": "北极，北极地区"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Polar bears live in the Arctic.",
+                  "cn": "北极熊生活在北极地区。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈɑːk.tɪk/",
+        "us": "/ˈɑːrk.tɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑːk.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarc/ukarchi007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɑːrk.tɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/arc/arcti/arctic.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "belonging or relating to the Arctic",
+                "cn": "北极的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "No trees grow in the Arctic regions.",
+                  "cn": "北极地区不生长树木。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "very cold",
+                "cn": "极其寒冷的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The North of England has been experiencing Arctic conditions these past few days.",
+                  "cn": "过去的几天里，英格兰北部天气极其寒冷。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

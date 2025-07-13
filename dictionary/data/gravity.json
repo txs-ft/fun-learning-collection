@@ -1,0 +1,67 @@
+{
+  "time": 1752140448070,
+  "title": "gravity",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈɡræv.ə.ti/",
+        "us": "/ˈɡræv.ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡræv.ə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgra/ukgravi001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡræv.ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72086.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FORCE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the force that attracts objects towards one another, especially the force that makes things fall to the ground",
+                "cn": "（尤指地球的）重力，引力，地心引力"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the laws of gravity",
+                  "cn": "万有引力定律"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SERIOUS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "seriousness",
+                "cn": "严重性"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't think you understand the gravity of the situation.",
+                  "cn": "我认为你没有明白局势的严重性。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

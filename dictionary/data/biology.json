@@ -1,0 +1,63 @@
+{
+  "time": 1752139975185,
+  "title": "biology",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/baɪˈɒl.ə.dʒi/",
+        "us": "/baɪˈɑː.lə.dʒi/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/baɪˈɒl.ə.dʒi/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbin/ukbingo018.mp3"
+        },
+        "us": {
+          "ipa": "/baɪˈɑː.lə.dʒi/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bio/biolo/biology.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the scientific study of the natural processes of living things",
+                "cn": "生物学"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "human biology",
+                  "cn": "人类生物学"
+                },
+                {
+                  "gram": "",
+                  "en": "marine biology",
+                  "cn": "海洋生物学"
+                },
+                {
+                  "gram": "",
+                  "en": "molecular biology",
+                  "cn": "分子生物学"
+                },
+                {
+                  "gram": "",
+                  "en": "The book deals with the reproductive biology of the buffalo.",
+                  "cn": "此书讲述的是野牛的生殖习性。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

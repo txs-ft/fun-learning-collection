@@ -1,0 +1,77 @@
+{
+  "time": 1752140470885,
+  "title": "hidden",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈhɪd.ən/",
+        "us": "/ˈhɪd.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhɪd.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cbe/cbedu/cbeduk04844.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhɪd.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cbe/cbedu/cbedus04844.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT EASY TO FIND",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not easy to find",
+                "cn": "不易找到的，隐藏的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a hidden valley",
+                  "cn": "一座不宜找到的峡谷"
+                },
+                {
+                  "gram": "",
+                  "en": "There were hidden microphones in the room to record their conversation.",
+                  "cn": "房间内有隐藏的话筒记录他们的对话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT KNOWN ABOUT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "that most people do not know about",
+                "cn": "不为人知的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "hidden costs/taxes",
+                  "cn": "隐匿成本／税收"
+                },
+                {
+                  "gram": "",
+                  "en": "Hidden problems may lead to an increase in costs.",
+                  "cn": "预先不知道的问题可能导致成本的增加。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

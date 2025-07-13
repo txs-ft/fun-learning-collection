@@ -1,0 +1,138 @@
+{
+  "time": 1752140965602,
+  "title": "settlement",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈset.əl.mənt/",
+        "us": "/ˈset̬.əl.mənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈset.əl.mənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukser/ukservi022.mp3"
+        },
+        "us": {
+          "ipa": "/ˈset̬.əl.mənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/set/settl/settlement.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "AGREE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "an official agreement that finishes an argument",
+                "cn": "（结束争端的）协议"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It now seems unlikely that it will be possible to negotiate/reach a peaceful settlement of the conflict.",
+                  "cn": "现在看来和平解决这一冲突是不可能的。"
+                },
+                {
+                  "gram": "",
+                  "en": "As part of their divorce settlement, Jeff agreed to let Polly keep the house.",
+                  "cn": "作为离婚协议的一部分，杰夫同意房子归波莉所有。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "an arrangement to end a disagreement involving a law having been broken, without taking it to a law court, or an amount of money paid as part of such an arrangement",
+                "cn": "庭外和解;庭外和解费"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They reached an out-of-court settlement.",
+                  "cn": "他们达成了庭外和解。"
+                },
+                {
+                  "gram": "",
+                  "en": "The actor accepted a settlement of $100,000 from the magazine.",
+                  "cn": "这名演员接受了杂志10万美元的庭外和解费。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HOME",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a place where people come to live or the process of settling in such a place",
+                "cn": "定居;定居地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A large Roman settlement has been discovered just outside the French town.",
+                  "cn": "在这座法国城市郊外发现了一处大型古罗马人定居点。"
+                },
+                {
+                  "gram": "",
+                  "en": "Many Native Americans were killed during the settlement of the American West by Europeans in the 19th century.",
+                  "cn": "许多美洲印第安人在19世纪欧洲人在美国西部开拓殖民地的过程中被杀害。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PAYMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the action of paying money to someone",
+                "cn": "结算;结帐;支付"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The settlement of his debts took him several months.",
+                  "cn": "他花了几个月时间才还清了债务。"
+                },
+                {
+                  "gram": "",
+                  "en": "I enclose a cheque in settlement of your claim.",
+                  "cn": "我附上一张支票支付你的索赔。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her mother made a settlement on her (= made a formal arrangement to give her money) when she started college.",
+                  "cn": "她开始读大学时，她母亲赠与了她一笔钱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVEMENT LOWER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the process of the slow sinking of a building or the ground",
+                "cn": "（建筑物、地面的）沉降，下沉"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

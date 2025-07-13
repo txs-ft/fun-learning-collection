@@ -1,0 +1,134 @@
+{
+  "time": 1752140914096,
+  "title": "restoration",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌres.tərˈeɪ.ʃən/",
+        "us": "/ˌres.təˈreɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌres.tərˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukres/ukrespo022.mp3"
+        },
+        "us": {
+          "ipa": "/ˌres.təˈreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/res/resto/restoration.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the act or process of returning something to its earlier good condition or position, or to its owner",
+                "cn": "修复;恢复;复位"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The first task following the disaster was the restoration of clean water supplies.",
+                  "cn": "灾难过后的首要任务就是要恢复清洁水的供应。"
+                },
+                {
+                  "gram": "",
+                  "en": "Restoration work on the Sistine Chapel ceiling is now complete.",
+                  "cn": "西斯廷教堂天花板的修复工程现已完工。"
+                },
+                {
+                  "gram": "",
+                  "en": "A large majority of the population is demanding the restoration of the former government.",
+                  "cn": "绝大多数人都要求恢复前政府。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌres.tərˈeɪ.ʃən/",
+        "us": "/ˌres.təˈreɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌres.tərˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31512.mp3"
+        },
+        "us": {
+          "ipa": "/ˌres.təˈreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31512.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the event in British history when Charles II was made king in 1660 after a period in which there was no king or queen",
+                "cn": "王政复辟（1660年查理二世的复辟）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˌres.tərˈeɪ.ʃən/",
+        "us": "/ˌres.təˈreɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌres.tərˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31400.mp3"
+        },
+        "us": {
+          "ipa": "/ˌres.təˈreɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31400.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "relating to or from the Restoration",
+                "cn": "王政复辟时期的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Restoration comedy/architecture/art",
+                  "cn": "王政复辟时期的喜剧/建筑/艺术"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

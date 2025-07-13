@@ -1,0 +1,42 @@
+{
+  "time": 1752140141556,
+  "title": "colorful",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈkʌl.ə.fəl/",
+        "us": "/ˈkʌl.ɚ.fəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʌl.ə.fəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcolor010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʌl.ɚ.fəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/color/colorful.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "US spelling of \ncolourful",
+                "cn": "（colourful的美式拼写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

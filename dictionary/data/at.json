@@ -1,0 +1,320 @@
+{
+  "time": 1752139813435,
+  "title": "at",
+  "generalBitmask": 16,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "strong /æt/",
+        "us": "strong /æt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /æt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukasu/ukasund007.mp3"
+        },
+        "us": {
+          "ipa": "strong /æt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/at_/at___/at.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PLACE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show an exact position or particular place",
+                "cn": "（表示地点或位置）在…里;在…上;在…旁"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We'll meet you at the entrance.",
+                  "cn": "我们会在入口处跟你碰头。"
+                },
+                {
+                  "gram": "",
+                  "en": "That bit at the beginning of the film was brilliant.",
+                  "cn": "电影开头的那一段精彩极了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's sitting at the table in the corner.",
+                  "cn": "她坐在角落的一张桌子旁。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was standing at the top of the stairs.",
+                  "cn": "她在楼梯顶端站着。"
+                },
+                {
+                  "gram": "",
+                  "en": "The dog came and lay down at (= next to) my feet.",
+                  "cn": "这只狗过来趴在我的脚边。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's someone at the door (= someone is outside and wants to come in).",
+                  "cn": "有人敲门。"
+                },
+                {
+                  "gram": "",
+                  "en": "We spent the afternoon at a football match.",
+                  "cn": "我们下午去看了场足球比赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "I enjoyed my three years at university.",
+                  "cn": "我在大学度过了3年美好的时光。"
+                },
+                {
+                  "gram": "",
+                  "en": "I called her but she was at lunch (= away, eating her lunch).",
+                  "cn": "我打电话给她，但是她出去吃午饭了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show an exact or a particular time",
+                "cn": "（表示确切或某一时间）在…时刻;在…期间;在…岁时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's a meeting at 2.30 this afternoon.",
+                  "cn": "今天下午两点半有个会。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are you free at lunchtime?",
+                  "cn": "吃午饭的时候你有空吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "In theory, women can still have children at the age of 50.",
+                  "cn": "理论上说，妇女到了50岁仍可以生育。"
+                },
+                {
+                  "gram": "",
+                  "en": "The bells ring at regular intervals through the day.",
+                  "cn": "在一天中，这些钟每隔一段时间就会准时鸣响。"
+                },
+                {
+                  "gram": "",
+                  "en": "At no time/point did the company do anything illegal.",
+                  "cn": "这家公司从未做过任何违法的事情。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm busy at the moment (= now) - can you call back later?",
+                  "cn": "我现在很忙，你过一会儿再打回来行吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "It's a shame I wasn't here to meet you - I was overseas at the time (= then).",
+                  "cn": "真可惜那次我不在，没有见到你——那时我在国外呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DIRECTION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "in the direction of",
+                "cn": "对着…；朝着…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She smiled at me.",
+                  "cn": "她对我微笑了一下。"
+                },
+                {
+                  "gram": "",
+                  "en": "They waved at us as we drove by.",
+                  "cn": "我们驱车经过时，他们朝我们挥手。"
+                },
+                {
+                  "gram": "",
+                  "en": "She aimed at the target.",
+                  "cn": "她瞄准目标。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Look at me! Look at me!\" called the little girl.",
+                  "cn": "“看看我！看看我！”那个小女孩叫道。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's always shouting at the children.",
+                  "cn": "他老是冲着孩子们大喊大叫。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to show the cause of something, especially a feeling",
+                "cn": "（尤指感觉是）由于，因为，作为对…的反应"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were surprised at the news.",
+                  "cn": "我们听到这个消息很吃惊。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was quite excited at the prospect.",
+                  "cn": "想到这种前景，我激动不已。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why does no one ever laugh at my jokes?",
+                  "cn": "为什么我讲了笑话，从来就没人笑呢？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACTIVITY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to show the activity in which someone's ability is being judged",
+                "cn": "在…方面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was never very good at sports.",
+                  "cn": "我从来都不太擅长体育运动。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's very good at getting on with people.",
+                  "cn": "他很善于跟人打交道。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's hopeless at organizing things.",
+                  "cn": "她办什么事情都没有条理，简直不可救药。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EMAIL ADDRESS",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the @ symbol that joins the name of a person or a department in an organization to a domain name to make an email address",
+                "cn": "（电子邮件地址中的）符号@"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"What's your email address?\" \"It's dictionary at cambridge dot org.\"",
+                  "cn": "“你的电邮地址是什么？”“是 dictionary@cambridge.org。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AMOUNT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to show a price, temperature, rate, speed, etc.",
+                "cn": "（表示价格、温度、比率、速度等）以，达"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm not going to buy those shoes at $150!",
+                  "cn": "那么一双鞋要150美元，我才不会买！"
+                },
+                {
+                  "gram": "",
+                  "en": "Inflation is running at 5 percent.",
+                  "cn": "通货膨胀率达到5%。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was driving at 120 mph when the police spotted him.",
+                  "cn": "当警察发现他时，他正以120英里的时速行驶。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in financial records to show the price, rate, etc. of a particular thing or of each of a number of things on a list",
+                "cn": "（用于财务记录中表示某一项目的价格、比率等的）符号@"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "50 units @ £4.75",
+                  "cn": "50件，每件4.75英镑"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONDITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show a state, condition, or continuous activity",
+                "cn": "（表示状态、状况或连续的活动）处于;从事于;忙于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a country at war",
+                  "cn": "处于战争状态的国家"
+                },
+                {
+                  "gram": "",
+                  "en": "children at play",
+                  "cn": "玩耍的孩子们"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

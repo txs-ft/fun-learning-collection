@@ -1,0 +1,134 @@
+{
+  "time": 1752140114487,
+  "title": "chew",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/tʃuː/",
+        "us": "/tʃuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʃuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukche/ukchess007.mp3"
+        },
+        "us": {
+          "ipa": "/tʃuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/che/chew_/chew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to crush food into smaller, softer pieces with the teeth so that it can be swallowed",
+                "cn": "咀嚼;嚼碎"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This meat is difficult to chew.",
+                  "cn": "这肉很难嚼。"
+                },
+                {
+                  "gram": "",
+                  "en": "You don't chew your food enough - that's why you get indigestion.",
+                  "cn": "你没把食物嚼烂——这就是你消化不良的原因。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to bite something with your teeth, usually in order to taste its flavour",
+                "cn": "（尤指为品尝味道而）嚼，咬"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would you like some gum to chew?",
+                  "cn": "你想吃口香糖吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She gave the children some sweets to chew (on) during the long car journey.",
+                  "cn": "在漫长的汽车旅行途中，她给了孩子们些糖果嚼着吃。"
+                },
+                {
+                  "gram": "",
+                  "en": "She sat in the dentist's waiting room, nervously chewing (at) (= biting) her nails.",
+                  "cn": "她坐在牙医的候诊室里，紧张地咬着指甲。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/tʃuː/",
+        "us": "/tʃuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʃuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukche/ukchess007.mp3"
+        },
+        "us": {
+          "ipa": "/tʃuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/che/chew_/chew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an act of chewing something",
+                "cn": "嚼，咀嚼"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a piece of hard food that can be given to an animal to chew",
+                "cn": "咀嚼物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "dog chews",
+                  "cn": "狗咬胶"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a hard sweet that gets softer the more you chew it",
+                "cn": "（越嚼越软的）硬糖;口香糖"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

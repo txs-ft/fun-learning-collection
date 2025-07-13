@@ -1,0 +1,101 @@
+{
+  "time": 1752141140703,
+  "title": "threatened",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈθret.ənd/",
+        "us": "/ˈθret.ənd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈθret.ənd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo11/cdo1121ukthre4143.mp3"
+        },
+        "us": {
+          "ipa": "/ˈθret.ənd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo11/cdo1121usthre4225.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in danger, or likely to stop existing",
+                "cn": "受威胁的，有灭绝威胁的，濒危的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Congo rainforest is one of the world's most threatened ecosystems.",
+                  "cn": "刚果雨林是世界上最受威胁的生态系统之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "The panda is the best known of our threatened species.",
+                  "cn": "熊猫是世界上最著名的濒危物种。"
+                },
+                {
+                  "gram": "",
+                  "en": "People do not realize how very threatened these landscapes that we cherish are.",
+                  "cn": "人们没有意识到我们所珍视的这些景观受到的威胁有多大。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "feeling that something bad might happen, or that someone might do something bad to you",
+                "cn": "受到威胁的，担惊受怕的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There should be proper policing so children can walk home from school without feeling threatened.",
+                  "cn": "应该有足够的警务，使孩子们可以从学校步行回家而不会担惊受怕。"
+                },
+                {
+                  "gram": "",
+                  "en": "Under the stress of questioning, he would have felt very threatened and been likely to make untrue admissions.",
+                  "cn": "在审讯的压力下，他原本会深感威胁，并可能做出不实的供词。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "feeling that someone or something might cause you to be less respected or less admired, or cause you to lose your authority or position",
+                "cn": "感觉（权威、尊严等）受到威胁的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Doctors shouldn't feel threatened by their patients asking for a medicine by name.",
+                  "cn": "医生不应该因为病人点名要某种药物而感觉自己的权威受到挑战。"
+                },
+                {
+                  "gram": "",
+                  "en": "At that time the church was feeling very threatened and uncomfortable with non-religious society.",
+                  "cn": "那时候，对于非宗教社会，教会感觉受到了威胁，很不舒服。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Why are you so threatened by my ideas?\" he asks.",
+                  "cn": "\"你为什么对我的想法感觉如此受威胁？\"他问道。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

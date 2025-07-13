@@ -1,0 +1,92 @@
+{
+  "time": 1752140690404,
+  "title": "mystery",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmɪs.tər.i/",
+        "us": "/ˈmɪs.tɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɪs.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmut/ukmutto022.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɪs.tɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mys/myste/mystery.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "STRANGE/UNKNOWN THING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something strange or not known that has not yet been explained or understood",
+                "cn": "神秘的事物，难以理解的事物，谜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How the massive stones were brought here from hundreds of miles away is/remains a mystery.",
+                  "cn": "巨石是怎样从几百英里之外运到这里来的仍是个谜。"
+                },
+                {
+                  "gram": "",
+                  "en": "The mystery was solved when the police discovered the murder weapon.",
+                  "cn": "警察找到凶器后，谜团便解开了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The book tries to explain some of the mysteries of life.",
+                  "cn": "该书试图解释一些生命之谜。"
+                },
+                {
+                  "gram": "",
+                  "en": "The details of the scandal remain cloaked/shrouded/wrapped in mystery.",
+                  "cn": "丑闻的详情仍然不明／是一个谜／披着神秘的面纱。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's a complete mystery (to me) that/why (= I do not understand why) she married him at all!",
+                  "cn": "我完全弄不懂她怎么会嫁给他！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BOOK/ FILM/PLAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a book, film, or play, especially about a crime or a murder, with a surprise ending that explains all the strange events that have happened",
+                "cn": "悬疑作品;悬疑电影;推理剧"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I really enjoy murder mysteries.",
+                  "cn": "我很爱看谋杀推理作品。"
+                },
+                {
+                  "gram": "",
+                  "en": "a mystery writer",
+                  "cn": "侦探小说作家"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

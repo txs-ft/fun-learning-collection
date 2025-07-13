@@ -1,0 +1,333 @@
+{
+  "time": 1752140972920,
+  "title": "shadow",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈʃæd.əʊ/",
+        "us": "/ˈʃæd.oʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʃæd.əʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksex/uksexua020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃæd.oʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sha/shado/shadow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DARKNESS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an area of darkness, caused by light being blocked by something",
+                "cn": "阴影，影子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children were playing, jumping on each other's shadows.",
+                  "cn": "孩子们正在嬉戏，跳来跳去踩彼此的影子。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jamie followed his mother around all day like a shadow.",
+                  "cn": "杰米像影子一样整天跟着他母亲。"
+                },
+                {
+                  "gram": "",
+                  "en": "The sun shone through the leaves, casting/throwing shadows on the lawn.",
+                  "cn": "阳光透过树叶，在草地上投下阴影。"
+                },
+                {
+                  "gram": "",
+                  "en": "This corner of the room is always in shadow (= slight darkness).",
+                  "cn": "房间的这个角落总是有些暗。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an area of darkness in which people and things cannot be seen",
+                "cn": "暗处;阴影处"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Someone jumped out of the shadows and grabbed my handbag.",
+                  "cn": "有个人从阴暗处窜出，抢走了我的手提包。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small dark area of skin under your eye",
+                "cn": "黑眼圈"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She put on some make-up to cover the dark shadows under her eyes.",
+                  "cn": "她化了点妆来掩盖她眼睛下的黑眼圈。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be very close to a larger building or place",
+                "cn": "离（某个大的建筑物或场所）很近"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "His workshop was in the shadow of the great church of San Paolo Maggiore.",
+                  "cn": "他的工作坊离圣保罗大教堂很近。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be in a situation in which something unpleasant either seems likely to happen and to have a bad effect on your life, or is already having a bad effect on your life",
+                "cn": "处在…的阴影中"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We are all living under the shadow of war.",
+                  "cn": "我们都生活在战争的阴影中。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SMALL AMOUNT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small amount",
+                "cn": "一点点，一丝"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It is a tragic story, but there is a shadow of hope.",
+                  "cn": "那是一个悲剧故事，但仍有一丝希望。"
+                },
+                {
+                  "gram": "",
+                  "en": "There isn't a shadow of doubt that you've made the right decision.",
+                  "cn": "毫无疑问，你作出的决定是正确的。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If something is true beyond a shadow of a doubt, there is no doubt that it is true.",
+                "cn": "无疑，毫无疑问"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This is without a shadow of a doubt the best movie I've seen all year.",
+                  "cn": "毫无疑问，这是我整年来看过最好的一部电影。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOLLOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who follows another person everywhere",
+                "cn": "跟踪者，盯梢者;形影不离的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"I think we have a shadow on our tail,\" muttered the detective.",
+                  "cn": "“我认为有人在跟踪我们，”侦探低声说。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ever since he was able to walk, Stephen has been his older brother's shadow (= has followed him and copied his actions).",
+                  "cn": "自从斯蒂芬会走路之后，就一直和他哥哥形影不离。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person who follows someone else while they are at work in order to learn about that person's job",
+                "cn": "（尤指行业的）学徒;见习生"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈʃæd.əʊ/",
+        "us": "/ˈʃæd.oʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʃæd.əʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksex/uksexua020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃæd.oʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sha/shado/shadow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FOLLOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to follow closely",
+                "cn": "尾随;跟踪"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police think that the robbers shadowed their victims for days before the crime.",
+                  "cn": "警方认为抢劫者跟踪了受害人几天之后才实施犯罪的。"
+                },
+                {
+                  "gram": "",
+                  "en": "The euro has closely shadowed the dollar.",
+                  "cn": "欧元紧跟美元。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to follow someone else while they are at work in order to learn about that person's job",
+                "cn": "（为了解某人的工作而）跟随见习"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Your first week in the job will be spent shadowing one of our more experienced employees.",
+                  "cn": "你工作的第一周将是跟随我们其中一位经验丰富的雇员学习。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DARKNESS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to produce a shadow",
+                "cn": "投下阴影;产生阴影"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We came across a glade shadowed by large trees.",
+                  "cn": "我们偶然发现了一块被大树遮蔽的空地。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SADNESS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make a person unhappy or to make their life less happy",
+                "cn": "使（某人）不快乐"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Mental illness had shadowed him for more than a decade.",
+                  "cn": "十年来他的人生一直被精神疾病所困扰。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈʃæd.əʊ/",
+        "us": "/ˈʃæd.oʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʃæd.əʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksex/uksexua020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃæd.oʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sha/shado/shadow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in the title of important politicians in the main opposition party (= the party not in government)",
+                "cn": "（用于主要反对党的要员的头衔中）影子的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the Shadow Foreign Secretary",
+                  "cn": "影子外交大臣"
+                },
+                {
+                  "gram": "",
+                  "en": "the Shadow Cabinet",
+                  "cn": "影子内阁"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

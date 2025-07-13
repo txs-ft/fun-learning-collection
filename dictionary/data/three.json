@@ -1,0 +1,53 @@
+{
+  "time": 1752141143411,
+  "title": "three",
+  "generalBitmask": 128,
+  "allDefinitions": [
+    {
+      "pos": "number",
+      "defBitmask": 128,
+      "pron": {
+        "uk": "/θriː/",
+        "us": "/θriː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/θriː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktho/ukthoug012.mp3"
+        },
+        "us": {
+          "ipa": "/θriː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thr/three/three.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the number 3",
+                "cn": "（数字）3"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've got three sisters.",
+                  "cn": "我有三个姐妹。"
+                },
+                {
+                  "gram": "",
+                  "en": "School finishes at three (o'clock).",
+                  "cn": "学校在三点钟放学。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

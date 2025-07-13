@@ -1,0 +1,104 @@
+{
+  "time": 1752140277842,
+  "title": "expert",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈek.spɜːt/",
+        "us": "/ˈek.spɝːt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈek.spɜːt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukexp/ukexper008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈek.spɝːt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/exp/exper/expert.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person with a high level of knowledge or skill relating to a particular subject or activity",
+                "cn": "专家;内行;行家"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a gardening/medical expert",
+                  "cn": "园艺／医学专家"
+                },
+                {
+                  "gram": "",
+                  "en": "My mother is an expert at dress-making (= she does it very well).",
+                  "cn": "我妈妈做裁缝活可是行家。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈek.spɜːt/",
+        "us": "/ˈek.spɝːt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈek.spɜːt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukexp/ukexper008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈek.spɝːt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/exp/exper/expert.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "having or showing a lot of knowledge or skill",
+                "cn": "专家的；内行的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The centre provides expert advice for people with financial problems.",
+                  "cn": "该中心为大家提供理财方面的专家咨询。"
+                },
+                {
+                  "gram": "",
+                  "en": "What's your expert opinion?",
+                  "cn": "作为专家，你有什么意见？"
+                },
+                {
+                  "gram": "",
+                  "en": "an expert fisherman",
+                  "cn": "一个经验丰富的渔夫"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "time": 1752140874252,
+  "title": "purple",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈpɜː.pəl/",
+        "us": "/ˈpɝː.pəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɜː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpur/ukpurit004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɝː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pur/purpl/purple.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COLOUR",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "of a dark reddish-blue colour",
+                "cn": "紫色的，紫红色的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "purple plums",
+                  "cn": "紫色的李子"
+                },
+                {
+                  "gram": "",
+                  "en": "a dark purple bruise",
+                  "cn": "一块青肿"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "dark red in the face because of anger:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "By this point, and purple with rage, all I could think of saying was, \"I think we'll have to agree to disagree.\"",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "STYLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to describe a piece of writing that is complicated or sounds false because the writer has tried too hard to make the style interesting",
+                "cn": "（作品）词藻华丽的，华而不实的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Despite occasional patches of purple prose, the book is mostly clear and incisive.",
+                  "cn": "这本书尽管偶尔有几段词藻华丽的文句，但总体来讲文风简洁明了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The prose is quite purple, filled with ridiculous adjectives and unnecessary descriptions.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She shuns the purple passage in favour of concise, striking images.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpɜː.pəl/",
+        "us": "/ˈpɝː.pəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɜː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpur/ukpurit004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɝː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pur/purpl/purple.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a dark reddish-blue colour",
+                "cn": "紫色，紫红色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Purple is my favourite colour.",
+                  "cn": "我最喜欢的颜色是紫色。"
+                },
+                {
+                  "gram": "",
+                  "en": "The evening sky was full of purples and reds.",
+                  "cn": "傍晚的天空布满紫色和红色的云彩。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

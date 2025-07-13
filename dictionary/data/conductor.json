@@ -1,0 +1,93 @@
+{
+  "time": 1752140161397,
+  "title": "conductor",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kənˈdʌk.tər/",
+        "us": "/kənˈdʌk.tɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kənˈdʌk.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcon/ukcondu003.mp3"
+        },
+        "us": {
+          "ipa": "/kənˈdʌk.tɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/con/condu/conductor.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MUSIC",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "someone who directs the performance of musicians or a piece of music",
+                "cn": "（合唱团、乐队等的）指挥"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The conductor raised his baton.",
+                  "cn": "指挥举起了指挥棒。"
+                },
+                {
+                  "gram": "",
+                  "en": "a guest conductor",
+                  "cn": "嘉宾指挥"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUBLIC TRANSPORT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a railway official who travels on and is responsible for a train",
+                "cn": "列车长"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone whose job is to sell tickets on a bus, train, or other public vehicle",
+                "cn": "（公共汽车、火车或其他交通工具上的）售票员"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "SUBSTANCE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a substance that allows heat or electricity to go through it",
+                "cn": "导体"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Metal is a good conductor of heat.",
+                  "cn": "金属是良好的热导体。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

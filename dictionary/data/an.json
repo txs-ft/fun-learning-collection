@@ -1,0 +1,129 @@
+{
+  "time": 1752139647342,
+  "title": "an",
+  "generalBitmask": 8256,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "strong /æn/",
+        "us": "strong /æn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /æn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukamu/ukamusi003.mp3"
+        },
+        "us": {
+          "ipa": "strong /æn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/an_/an___/an.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used instead of \"a\" when the following word begins with a vowel sound",
+                "cn": "（用于以元音开头的词前，代替 a）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an orange",
+                  "cn": "一个橘子"
+                },
+                {
+                  "gram": "",
+                  "en": "an honour",
+                  "cn": "一份荣誉"
+                },
+                {
+                  "gram": "",
+                  "en": "an easy question",
+                  "cn": "一个容易的问题"
+                },
+                {
+                  "gram": "",
+                  "en": "an interesting story",
+                  "cn": "一个有趣的故事"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -ən/",
+        "us": "/ -ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukamu/ukamusi003.mp3"
+        },
+        "us": {
+          "ipa": "/ -ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/an_/an___/an.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "connected with or belonging to the stated place, group, or type",
+                "cn": "和…有关的（人或物）;属于…的（人或物）;来自…的（人或物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an American",
+                  "cn": "美国人"
+                },
+                {
+                  "gram": "",
+                  "en": "a Canadian",
+                  "cn": "加拿大人"
+                },
+                {
+                  "gram": "",
+                  "en": "a Korean",
+                  "cn": "韩国人"
+                },
+                {
+                  "gram": "",
+                  "en": "a Christian",
+                  "cn": "基督徒"
+                },
+                {
+                  "gram": "",
+                  "en": "Russian literature",
+                  "cn": "俄罗斯文学"
+                },
+                {
+                  "gram": "",
+                  "en": "Italian opera",
+                  "cn": "意大利歌剧"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

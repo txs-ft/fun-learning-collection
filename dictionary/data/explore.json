@@ -1,0 +1,92 @@
+{
+  "time": 1752140283063,
+  "title": "explore",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ɪkˈsplɔːr/",
+        "us": "/ɪkˈsplɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪkˈsplɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukexp/ukexplo007.mp3"
+        },
+        "us": {
+          "ipa": "/ɪkˈsplɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/exp/explo/explore.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to search a place and discover things about it",
+                "cn": "探测；勘查；探索；研究"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The best way to explore the countryside is on foot.",
+                  "cn": "探索农村地区，步行是最好的方法。"
+                },
+                {
+                  "gram": "",
+                  "en": "Robots, rather than astronauts, explore space now.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The children have gone exploring in the woods.",
+                  "cn": "孩子们到树林里观察大自然去了。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to think about, talk about, or study something, or to experience it, in order to find out more about it",
+                "cn": "仔细研究;探究，探讨"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They are exploring the possibility of collaborating on a new project.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "At this point we are just exploring our options.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Scientists are exploring multiple avenues to develop the most effective vaccine.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "to explore a theme/an issue/an idea",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Working on the play and exploring deaf culture has been a profound experience for many in the cast.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

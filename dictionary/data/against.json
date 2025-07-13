@@ -1,0 +1,267 @@
+{
+  "time": 1752139622933,
+  "title": "against",
+  "generalBitmask": 16,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/əˈɡenst/",
+        "us": "/əˈɡenst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈɡenst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukafo/ukafore028.mp3"
+        },
+        "us": {
+          "ipa": "/əˈɡenst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aga/again/against.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "OPPOSING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "disagreeing with a plan or activity",
+                "cn": "反对;与…相反"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She spoke against the decision to close the college.",
+                  "cn": "她声言反对关闭学院的决定。"
+                },
+                {
+                  "gram": "",
+                  "en": "50 people voted against the new proposal.",
+                  "cn": "50人投票反对这一新提案。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm very much against the idea that it is the woman's job to bring up the child.",
+                  "cn": "对于抚养孩子是女人的活儿这一想法，我坚决反对。"
+                },
+                {
+                  "gram": "",
+                  "en": "Germany are playing against Brazil in the cup final tonight.",
+                  "cn": "德国队在今晚的决赛中对阵巴西队。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's always rebelled against authority.",
+                  "cn": "她总是对抗权威。"
+                },
+                {
+                  "gram": "",
+                  "en": "She sold the house even though it was against his wishes.",
+                  "cn": "她卖掉了房子，尽管这违背了他的愿望。"
+                },
+                {
+                  "gram": "",
+                  "en": "They called a demonstration to protest against proposed job cuts.",
+                  "cn": "他们召集了示威游行来抗议削减工作机会的提议。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are you for or against my proposal?",
+                  "cn": "你赞成还是反对我的提议？"
+                },
+                {
+                  "gram": "",
+                  "en": "Sanctions against the country should be lifted.",
+                  "cn": "应该取消对这个国家的制裁。"
+                },
+                {
+                  "gram": "",
+                  "en": "Stricter controls will help in the fight against inflation.",
+                  "cn": "更加严厉的调控措施将有助于抑制通货膨胀。"
+                },
+                {
+                  "gram": "",
+                  "en": "Criminal charges will be brought against the driver.",
+                  "cn": "将对司机提起刑事诉讼。"
+                },
+                {
+                  "gram": "",
+                  "en": "They decided not to take legal action against him.",
+                  "cn": "他们决定不起诉他。"
+                },
+                {
+                  "gram": "",
+                  "en": "They were up against a powerful pressure group.",
+                  "cn": "他们面临一个强大的压力集团。"
+                },
+                {
+                  "gram": "",
+                  "en": "We came up against a lot of problems in the course of building our extension.",
+                  "cn": "我们在扩建过程中遇到好多问题。"
+                },
+                {
+                  "gram": "",
+                  "en": "The chances/odds against you winning such a competition are enormous.",
+                  "cn": "你赢得这样一场比赛的可能性极小。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's against the law (= illegal) to leave children under a certain age alone in the house.",
+                  "cn": "将某个年龄以下的孩子单独留在家里是违法的。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's against my beliefs/principles to be nice to someone I dislike just because they're in a senior position.",
+                  "cn": "对于我厌恶的人，我不会仅仅因为他比我职位高就对其和颜悦色，这有违我的处世原则。"
+                },
+                {
+                  "gram": "",
+                  "en": "Against all probability (= although it was extremely unlikely) we found ourselves in the same hotel.",
+                  "cn": "不可思议的是，我们发现自己竟然住进了同一家旅馆。"
+                },
+                {
+                  "gram": "",
+                  "en": "I wouldn't dare say anything against him (= criticize him) to his mother!",
+                  "cn": "我不敢对他妈妈说他的坏话！"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "If you have something against someone, you dislike them for a reason:",
+                "cn": "我一点都不讨厌他，只是和他没有太多相似之处。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've nothing against him - I just don't have much in common with him.",
+                  "cn": "我一点都不讨厌他，只是和他没有太多相似之处。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something counts/goes/works against you, it gives you a disadvantage:",
+                "cn": "一般而言，缺乏工作经验会成为面试的不利因素。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Lack of experience will generally count against you in an interview.",
+                  "cn": "一般而言，缺乏工作经验会成为面试的不利因素。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOUCHING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "next to and touching or being supported by (something)",
+                "cn": "紧贴着;紧靠着;倚在"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Why don't we put the bed against the wall?",
+                  "cn": "为什么不把床紧靠墙放呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "He loved the feel of her soft hair against his skin.",
+                  "cn": "他喜欢她那柔滑的头发贴着他的肌肤的感觉。"
+                },
+                {
+                  "gram": "",
+                  "en": "The rain beat against her face as she struggled through the wind.",
+                  "cn": "她在风雨中艰难行进，雨水打在她的脸上。"
+                },
+                {
+                  "gram": "",
+                  "en": "The police officer had him up against the wall, both arms behind his back.",
+                  "cn": "警察把他双手别在身后按到墙上。"
+                },
+                {
+                  "gram": "",
+                  "en": "She leaned against the door.",
+                  "cn": "她倚着门。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in front of or compared to",
+                "cn": "以…为背景；以…作衬托；和…对照"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Paintings look best against a simple white wall.",
+                  "cn": "画挂在没有任何装饰的白墙上看上去效果最好。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN OPPOSITE DIRECTION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in the opposite direction to",
+                "cn": "逆…的方向;迎着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The last part of the course was hard because I was running against the wind.",
+                  "cn": "最后一段赛程很艰难，因为我是顶风跑。"
+                },
+                {
+                  "gram": "",
+                  "en": "Commuting is not so bad when you are travelling against the traffic.",
+                  "cn": "如果你是逆着主车流而行，乘车上下班倒也不错。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AS PROTECTION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "as a protection or defence from the bad effects of",
+                "cn": "防…；抗…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We've insured the car against fire, theft, and accident.",
+                  "cn": "我们给车上了火灾险、窃盗险和交通事故险。"
+                },
+                {
+                  "gram": "",
+                  "en": "The police have to arm themselves against attack.",
+                  "cn": "警察必须得配备武器以防受到攻击。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

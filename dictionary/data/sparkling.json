@@ -1,0 +1,91 @@
+{
+  "time": 1752141027706,
+  "title": "sparkling",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈspɑː.klɪŋ/",
+        "us": "/ˈspɑːr.klɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspɑː.klɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspa/ukspaci029.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspɑːr.klɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spa/spark/sparkling.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BRIGHT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "shining brightly",
+                "cn": "闪烁的，闪亮的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "sparkling white teeth",
+                  "cn": "洁白闪亮的牙齿"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INTERESTING",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "energetic and interesting",
+                "cn": "充满活力的;妙趣横生的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a sparkling performance",
+                  "cn": "激情四溢的表演"
+                },
+                {
+                  "gram": "",
+                  "en": "sparkling conversation/wit",
+                  "cn": "轻松愉快的谈话／才华横溢"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUBBLES",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "A sparkling drink is one that contains many small bubbles of gas.",
+                "cn": "（饮料）起泡的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Champagne is a sparkling wine.",
+                  "cn": "香槟是一种起泡葡萄酒。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

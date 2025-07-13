@@ -1,0 +1,160 @@
+{
+  "time": 1752140687675,
+  "title": "my",
+  "generalBitmask": 576,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "/maɪ/",
+        "us": "/maɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/maɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmut/ukmutto011.mp3"
+        },
+        "us": {
+          "ipa": "/maɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/my_/my___/my.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "of or belonging to me (= the speaker or writer)",
+                "cn": "我的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "my parents",
+                  "cn": "我的父母"
+                },
+                {
+                  "gram": "",
+                  "en": "my feet",
+                  "cn": "我的脚"
+                },
+                {
+                  "gram": "",
+                  "en": "my name",
+                  "cn": "我的名字"
+                },
+                {
+                  "gram": "",
+                  "en": "my jacket",
+                  "cn": "我的夹克"
+                },
+                {
+                  "gram": "",
+                  "en": "It wasn't my fault.",
+                  "cn": "这不是我的错。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was somewhat surprised at my asking (= that I asked) for the book to be returned.",
+                  "cn": "我要她还书她感到相当惊讶。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to emphasize that something belongs to or is connected with me and no one else:",
+                "cn": "我想要一辆我自己的小汽车。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I want my own car.",
+                  "cn": "我想要一辆我自己的小汽车。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in front of a noun as a way of expressing love or as a polite or humorous form of address",
+                "cn": "（用于名词前，构成表示爱、礼貌或幽默语气的称呼语）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My darling!",
+                  "cn": "我亲爱的！"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you want any help, my dear?",
+                  "cn": "你需要帮助吗，亲爱的？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "relating to a part of some websites where you can choose to see only the information that is important to you",
+                "cn": "我的网页的（指网页上可选择的部分，只显示个人认为重要的信息）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "exclamation",
+      "defBitmask": 512,
+      "pron": {
+        "uk": "/maɪ/",
+        "us": "/maɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/maɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmut/ukmutto011.mp3"
+        },
+        "us": {
+          "ipa": "/maɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/my_/my___/my.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to express surprise or pleasure",
+                "cn": "（表示惊讶或高兴）噢"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My, what delicious food!",
+                  "cn": "噢，多么美味的食物啊！"
+                },
+                {
+                  "gram": "",
+                  "en": "My, oh, my, what a busy day!",
+                  "cn": "哎呀，天哪，多忙的一天啊！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "time": 1752140847705,
+  "title": "pleased",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/pliːzd/",
+        "us": "/pliːzd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pliːzd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplayg023.mp3"
+        },
+        "us": {
+          "ipa": "/pliːzd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/ple/pleas/pleased.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "happy or satisfied",
+                "cn": "开心的;满意的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a pleased expression/smile",
+                  "cn": "开心的表情／微笑"
+                },
+                {
+                  "gram": "",
+                  "en": "Are you pleased about John's promotion?",
+                  "cn": "约翰升职了，你开心吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We're so pleased that you're able to come to the wedding.",
+                  "cn": "你能来参加婚礼，我们太开心了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm really pleased with your work this term.",
+                  "cn": "我对你本学期的表现非常满意。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm pleased to hear you're feeling better.",
+                  "cn": "听到你感觉好些了我真高兴。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be very willing to do something:",
+                "cn": "我非常乐意帮忙。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm only too (= very) pleased to help.",
+                  "cn": "我非常乐意帮忙。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

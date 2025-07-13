@@ -1,0 +1,287 @@
+{
+  "time": 1752140750103,
+  "title": "now",
+  "generalBitmask": 41,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/naʊ/",
+        "us": "/naʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/naʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknot/uknotif030.mp3"
+        },
+        "us": {
+          "ipa": "/naʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/now/now__/now.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "AT PRESENT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "at the present time, not in the past or future",
+                "cn": "现在，此刻，目前"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She used to be a teacher, but now she works in publishing.",
+                  "cn": "她过去曾是一名教师，但现在从事出版工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "I may eat something later, but I'm not hungry now.",
+                  "cn": "我过一会儿可能会想吃点儿什么，可这会儿不饿。"
+                },
+                {
+                  "gram": "",
+                  "en": "Many people now own a smartphone.",
+                  "cn": "如今许多人都拥有智能手机。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "immediately",
+                "cn": "马上，立刻"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't want to wait until tomorrow, I want it now!",
+                  "cn": "我不想等到明天，我现在就要！"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to express how long something has been happening, from when it began to the present time",
+                "cn": "至今"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's been a vegetarian for ten years now.",
+                  "cn": "她吃素已经10年了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in stories or reports of past events to describe a new situation or event",
+                "cn": "（用于描述过去的新情况或新事件）此刻，这时候"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It was getting dark now, and we were tired.",
+                  "cn": "这时候天越来越黑，我们疲惫不堪。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when describing a situation that is the result of what someone just said or did",
+                "cn": "（用于描述刚刚所说或所做之事的结果）这样一来"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Oh yes, now I know who you mean.",
+                  "cn": "哦，是的，这样一来我就知道你指的是谁了。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "very soon:",
+                "cn": "我们的客人马上就要到了，可家里还是乱糟糟的。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The guests are coming any minute now, and the house is still a mess.",
+                  "cn": "我们的客人马上就要到了，可家里还是乱糟糟的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to introduce a new subject:",
+                "cn": "现在我们来讨论一下明天要做什么。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "And now for what we're going to do tomorrow.",
+                  "cn": "现在我们来讨论一下明天要做什么。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN SPEECH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in statements and questions to introduce or give emphasis to what you are saying",
+                "cn": "（用于陈述句和疑问句，引导后面的话或对其加以强调）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Now, where did I put my hat?",
+                  "cn": "唉，我把我的帽子放哪儿了？"
+                },
+                {
+                  "gram": "",
+                  "en": "There was a knock at the door. Now Jan knew her mother had promised to come by, so she assumed it was her.",
+                  "cn": "有人敲门。简知道妈妈答应过要来，所以认为敲门的是她。"
+                },
+                {
+                  "gram": "",
+                  "en": "Hurry, now, or you'll miss the bus!",
+                  "cn": "快点，否则你就赶不上公共汽车了！"
+                },
+                {
+                  "gram": "",
+                  "en": "Sorry, I can't today. Now if you'd asked me yesterday, I would have said yes.",
+                  "cn": "抱歉，我今天不行。如果你昨天问我的话，我会说行的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/naʊ/",
+        "us": "/naʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/naʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknot/uknotif030.mp3"
+        },
+        "us": {
+          "ipa": "/naʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/now/now__/now.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the present moment or time",
+                "cn": "现在，此刻"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Now isn't a good time to speak to him.",
+                  "cn": "现在不适合跟他谈话。"
+                },
+                {
+                  "gram": "",
+                  "en": "I thought you'd be finished by now.",
+                  "cn": "我以为你这会儿该弄完了。"
+                },
+                {
+                  "gram": "",
+                  "en": "You should have mentioned it before now.",
+                  "cn": "你本该此前就提到它。"
+                },
+                {
+                  "gram": "",
+                  "en": "That's all for now (= until a future point in time).",
+                  "cn": "暂时就这样吧。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "from this moment and always in the future:",
+                "cn": "从现在开始，大门将在午夜上锁。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "From now on the gates will be locked at midnight.",
+                  "cn": "从现在开始，大门将在午夜上锁。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/naʊ/",
+        "us": "/naʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/naʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknot/uknotif030.mp3"
+        },
+        "us": {
+          "ipa": "/naʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/now/now__/now.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to give an explanation of a new situation:",
+                "cn": "有车之后，我的活动量不如从前大了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Now I have my car, I don't get as much exercise as I used to.",
+                  "cn": "有车之后，我的活动量不如从前大了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

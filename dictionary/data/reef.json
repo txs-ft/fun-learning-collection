@@ -1,0 +1,53 @@
+{
+  "time": 1752140906845,
+  "title": "reef",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/riːf/",
+        "us": "/riːf/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/riːf/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukred/ukredou012.mp3"
+        },
+        "us": {
+          "ipa": "/riːf/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/ree/reef_/reef.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a line of rocks or sand just above or just below the surface of the sea, often dangerous to ships",
+                "cn": "礁;暗礁;礁脉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a dangerous offshore reef",
+                  "cn": "靠近岸边的危险暗礁"
+                },
+                {
+                  "gram": "",
+                  "en": "a coral reef",
+                  "cn": "珊瑚礁"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

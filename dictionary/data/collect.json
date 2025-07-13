@@ -1,0 +1,258 @@
+{
+  "time": 1752140139239,
+  "title": "collect",
+  "generalBitmask": 15,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kəˈlekt/",
+        "us": "/kəˈlekt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈlekt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcoley022.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈlekt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/colle/collect.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "AS A HOBBY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to get and keep things of one type such as stamps or coins as a hobby",
+                "cn": "（作为爱好）收藏，收集"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She collects dolls.",
+                  "cn": "她收藏玩具娃娃。"
+                },
+                {
+                  "gram": "",
+                  "en": "So when did you start collecting antique glass?",
+                  "cn": "那你是从什么时候开始收集古董玻璃制品的？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GET",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to go to a place and bring someone or something away from it",
+                "cn": "取，领取;接走"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Your shoes will be repaired and ready for you to collect on Thursday.",
+                  "cn": "你的鞋子星期四会修好，到时可以来取。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll collect you from the station.",
+                  "cn": "我会去车站接你。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BRING TOGETHER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to bring something together from different places or over a period of time",
+                "cn": "（使）聚集，（使）集合，（使）集中"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "After the party I collected (up) bottles from various parts of the house.",
+                  "cn": "聚会后我把房屋各处的瓶子都收在一起。"
+                },
+                {
+                  "gram": "",
+                  "en": "These china ornaments just collect dust.",
+                  "cn": "这些瓷器摆在那儿只会招灰尘。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GET MONEY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to ask people to give you money for something, for example a charity",
+                "cn": "（慈善）募捐"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're collecting (money) for the homeless.",
+                  "cn": "我们正在为无家可归的人士募捐。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to take money such as taxes, rents, etc.",
+                "cn": "收（租金、税等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The state collected about $1.2 million in taxes in January.",
+                  "cn": "一月份州政府收取的税金为120万美元。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COME TOGETHER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to come together from different places or over a period of time",
+                "cn": "聚集;聚拢"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A large crowd of reporters collected outside the prime minister's house.",
+                  "cn": "一大群记者聚集在首相府前。"
+                },
+                {
+                  "gram": "",
+                  "en": "Rainwater collects in the barrel in the garden.",
+                  "cn": "雨水收集在花园里的大桶里。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTROL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to get control of your feelings and thoughts, especially after shock, surprise, or laughter:",
+                "cn": "他的话惊得我目瞪口呆，我定了定神才答上话。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was so stunned by what he'd said I had to collect myself before I could reply.",
+                  "cn": "他的话惊得我目瞪口呆，我定了定神才答上话。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kəˈlekt/",
+        "us": "/kəˈlekt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈlekt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/e/epd/epd31/epd31514.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈlekt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70881.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a short prayer that is said during some Christian religious ceremonies",
+                "cn": "（某些基督教仪式上的）短祷文"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective, adverb",
+      "defBitmask": 12,
+      "pron": {
+        "uk": "/kəˈlekt/",
+        "us": "/kəˈlekt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈlekt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcol/ukcoley022.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈlekt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/col/colle/collect.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "When you call collect or make a collect phone call, the person you call pays for the call.",
+                "cn": "对方付话费的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to make a collect call.",
+                  "cn": "我想打一个对方付费的电话。"
+                },
+                {
+                  "gram": "",
+                  "en": "She called me collect.",
+                  "cn": "她给我打了电话，由我付话费。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

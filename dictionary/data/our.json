@@ -1,0 +1,63 @@
+{
+  "time": 1752140767199,
+  "title": "our",
+  "generalBitmask": 64,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "/aʊər/",
+        "us": "/ˈaʊ.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aʊər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhot/ukhotfo020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈaʊ.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hou/hour_/hour.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "of or belonging to us",
+                "cn": "我们的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We bought our house several years ago.",
+                  "cn": "我们的房子是几年前买的。"
+                },
+                {
+                  "gram": "",
+                  "en": "He walked off and left us on our own.",
+                  "cn": "他拂袖而去，丢下我们不管。"
+                },
+                {
+                  "gram": "",
+                  "en": "Drugs are one of the greatest threats in our society.",
+                  "cn": "毒品是对我们社会最大的威胁之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's no point in our buying a new car this year.",
+                  "cn": "我们今年买辆新车没有意义。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

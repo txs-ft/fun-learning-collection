@@ -1,0 +1,496 @@
+{
+  "time": 1752140109121,
+  "title": "change",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/tʃeɪndʒ/",
+        "us": "/tʃeɪndʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʃeɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchamo016.mp3"
+        },
+        "us": {
+          "ipa": "/tʃeɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/chang/change.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BECOME DIFFERENT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to exchange one thing for another thing, especially of a similar type",
+                "cn": "换，交换"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's just changed jobs.",
+                  "cn": "她刚换了工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let's change the subject (= talk about something different).",
+                  "cn": "我们换个话题吧。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to make or become different",
+                "cn": "改变，变化"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I almost didn't recognize her - she'd changed so much.",
+                  "cn": "我几乎认不出她了——她变化太大了。"
+                },
+                {
+                  "gram": "",
+                  "en": "That was 20 years ago and things have changed since then.",
+                  "cn": "20年过去了，情况已经变了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Nothing changes, does it - I've been away two years and the office still looks exactly the same.",
+                  "cn": "什么也没有改变，不是吗——我走了两年，办公室看起来仍然是老样子。"
+                },
+                {
+                  "gram": "",
+                  "en": "People have changed their diets a lot over the past few years.",
+                  "cn": "过去几年里人们的饮食习惯改变了许多。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm going to change my hairstyle.",
+                  "cn": "我打算改变一下发型。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to take something you have bought back to a shop and exchange it for something else",
+                "cn": "（将购买的东西拿回店里去）换，交换"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I had to change those trousers I bought for (= take them back to the shop in order to get) a bigger pair.",
+                  "cn": "我不得不把买来的裤子拿回去换了条大些的。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to form a new opinion or make a new decision about something that is different from your old one:",
+                "cn": "要是你改变主意今晚不来了，给我打个电话就行。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If you change your mind about coming tonight, just give me a call.",
+                  "cn": "要是你改变主意今晚不来了，给我打个电话就行。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to improve:",
+                "cn": "她自从开始新工作后态度确实变好了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her attitude has definitely changed for the better since she started this new job.",
+                  "cn": "她自从开始新工作后态度确实变好了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to improve the bad parts of your behaviour:",
+                "cn": "要是他想继续在这儿住下去，就得改改样子，学着干净整洁一点。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If he wants to carry on living here, he's going to have to change his ways and learn to be a bit less messy.",
+                  "cn": "要是他想继续在这儿住下去，就得改改样子，学着干净整洁一点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRANSPORT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to get off a train, bus, etc. and catch another in order to continue a journey",
+                "cn": "换乘，转乘（火车、公共汽车等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I had to change (trains) twice to get there.",
+                  "cn": "到那里我得换乘两次（火车）。"
+                },
+                {
+                  "gram": "",
+                  "en": "Change at Peterborough for York.",
+                  "cn": "在彼得伯勒换车去约克。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to get or give money in exchange for money, either because you want it in smaller units, or because you want the same value in foreign money",
+                "cn": "把…换成零钱;兑换"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you change a £10 note (for two fives), please?",
+                  "cn": "请问你能把一张10英镑换开（换成两张5英镑）吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you change a £5 note for me?",
+                  "cn": "你能为我换开一张5英镑的纸币吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I need to change my dollars for/into English money.",
+                  "cn": "我需要把手头的美元换成英镑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CLOTHES/BEDS",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to remove one set of clothes and put a different set on yourself or a young child, especially a baby, or to remove dirty sheets from a bed and put clean ones on it",
+                "cn": "（给…）换衣服;（给…）换床单"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You don't need to change - you look great as you are.",
+                  "cn": "你不用换衣服——这样看上去就很好。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll just change into (= get dressed in) something a bit smarter.",
+                  "cn": "我要换一身更漂亮点的衣服。"
+                },
+                {
+                  "gram": "",
+                  "en": "Give me five minutes to change out of (= remove) my work clothes and I'll come out with you.",
+                  "cn": "给我5分钟换下工作服就跟你出去。"
+                },
+                {
+                  "gram": "",
+                  "en": "How often do you think he changes his shirt?",
+                  "cn": "你觉得他多久换一次衬衣？"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you change the baby (= the baby's nappy)?",
+                  "cn": "你能给婴儿换一下尿布吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've changed the sheets/the bed (= the sheets on the bed) in the guest room.",
+                  "cn": "我把客房的床单换过了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WIND/SEA",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "When the wind or the tide (= the rise and fall of the sea) changes, it starts to move in a different direction.",
+                "cn": "（风或潮水）改向"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The tide is starting to change.",
+                  "cn": "潮水开始改向了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPEED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to put a vehicle into a different gear, usually in order to change the speed at which it is moving",
+                "cn": "（车辆）换挡，变速"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "to change gear",
+                  "cn": "换挡"
+                },
+                {
+                  "gram": "",
+                  "en": "I changed into fourth (gear).",
+                  "cn": "我换到了第4挡。"
+                },
+                {
+                  "gram": "",
+                  "en": "Change down to go round the corner.",
+                  "cn": "转弯要换到低挡。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/tʃeɪndʒ/",
+        "us": "/tʃeɪndʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʃeɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchamo016.mp3"
+        },
+        "us": {
+          "ipa": "/tʃeɪndʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/chang/change.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BECOMING DIFFERENT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the act of becoming different, or the result of something becoming different",
+                "cn": "改变；改动；变化；变动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Let me know if there's any change in the situation.",
+                  "cn": "要是情况有了什么变化请告诉我。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're living in a time of great change.",
+                  "cn": "我们生活在一个大变革的时代。"
+                },
+                {
+                  "gram": "",
+                  "en": "We need a change of government.",
+                  "cn": "我们需要换个政府。"
+                },
+                {
+                  "gram": "",
+                  "en": "a change in lifestyle",
+                  "cn": "生活方式的改变"
+                },
+                {
+                  "gram": "",
+                  "en": "They've made a lot of changes to the house.",
+                  "cn": "他们已对房子作了很多变动。"
+                },
+                {
+                  "gram": "",
+                  "en": "The new management will make fundamental/radical/sweeping changes (= do things in a very different way).",
+                  "cn": "新的管理层会进行根本的／彻底的／大范围的变革。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something that is pleasant or interesting because it is unusual or new",
+                "cn": "（令人愉快或有趣的）改进，改变"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's nice to see her smile for a change.",
+                  "cn": "看到她笑了，真好。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Shall we we eat in the garden?\" \"Why not - it'll make a change.\"",
+                  "cn": "“我们到花园里吃饭好吗?”“为什么不呢——这样会很新鲜。”"
+                },
+                {
+                  "gram": "",
+                  "en": "We've always had a red car - it's time we had a change!",
+                  "cn": "我们的车总是红色的——该换一换了！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a new situation:",
+                "cn": "她在同一家公司已经干了好多年了，觉得需要换个环境，所以申请了一份舞台监督的工作。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She'd been with the same company for too many years and felt she needed a change of scene, so she applied for a job as a stage manager.",
+                  "cn": "她在同一家公司已经干了好多年了，觉得需要换个环境，所以申请了一份舞台监督的工作。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "money in the form of coins rather than notes",
+                "cn": "硬币；辅币"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She gave me €5 in change.",
+                  "cn": "她给了我5欧元的硬币。"
+                },
+                {
+                  "gram": "",
+                  "en": "My dad always used to carry a lot of loose/small change (= coins) in his pocket.",
+                  "cn": "我爸爸以前口袋里总是装着许多硬币。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "smaller units of money given in exchange for larger units of the same amount",
+                "cn": "（换开的）零钱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you have change for a 20-dollar bill?",
+                  "cn": "你能换开20美元的钞票吗？"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the money that is returned to someone who has paid for something that costs less than the amount that they gave",
+                "cn": "找头，找给的零钱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I think you've given me the wrong change.",
+                  "cn": "我想你找错我钱了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CLOTHES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the action of putting on different clothes",
+                "cn": "更衣，换衣服"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She did a quick change before going on TV.",
+                  "cn": "上电视前，她迅速换了套衣服。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a set of clothes as well as the ones that you are wearing:",
+                "cn": "你要是在外面过夜，就需要带一套换洗的衣服。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You'll need a change of clothes if you're staying overnight.",
+                  "cn": "你要是在外面过夜，就需要带一套换洗的衣服。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRANSPORT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the action of getting off a train, bus, etc. and catching another in order to continue a journey",
+                "cn": "换乘（火车、公共汽车等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I hate journeys where you've got a lot of changes.",
+                  "cn": "我讨厌频频换车的旅程。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

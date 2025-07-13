@@ -1,0 +1,262 @@
+{
+  "time": 1752141167656,
+  "title": "trace",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/treɪs/",
+        "us": "/treɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/treɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktow/uktowni015.mp3"
+        },
+        "us": {
+          "ipa": "/treɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/trace/trace.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FIND",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to find someone or something that was lost",
+                "cn": "找到，查出，发现"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police are trying to trace the mother of a newborn baby found abandoned outside a hospital.",
+                  "cn": "警察试图查出那位把新生婴儿抛弃在医院外面的母亲。"
+                },
+                {
+                  "gram": "",
+                  "en": "Attempts to trace the whereabouts of a man seen leaving the scene of the crime have so far been unsuccessful.",
+                  "cn": "有人曾看到一名男子离开犯罪现场，但迄今为止追查该男子下落的种种努力一无所获。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their missing daughter was finally traced to (= found in) Manchester.",
+                  "cn": "他们失踪的女儿最终在曼彻斯特找到了。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to find the origin of something",
+                "cn": "追查…的来源"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The phone company was unable to trace the call.",
+                  "cn": "电话公司查不出这个电话来自何处。"
+                },
+                {
+                  "gram": "",
+                  "en": "No one has yet been able to trace the source of the rumour.",
+                  "cn": "还没有人能够查出谣言的出处。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to discover the causes or origins of something by examining the way in which it has developed",
+                "cn": "（根据事物的发展方式）查明…的起因（或源头），追溯"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The outbreak of food poisoning was traced to some contaminated shellfish.",
+                  "cn": "经调查，这次食物中毒源于一些受到污染的贝类。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has traced her family history back to the seventeenth century.",
+                  "cn": "她把家族历史追溯到了十七世纪。"
+                },
+                {
+                  "gram": "",
+                  "en": "The practice of giving eggs at Easter can be traced back to (= first happened in) festivals in ancient China.",
+                  "cn": "复活节送彩蛋的习俗可追溯至中国古代的节庆活动。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to describe the way in which something has developed",
+                "cn": "描绘…的发展方式"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The film traces the events leading up to the Russian Revolution in 1917.",
+                  "cn": "该影片描述了导致1917年俄国革命爆发的一系列事件。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DRAW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to copy a drawing or pattern, etc. by drawing over its lines through a thin piece of transparent paper",
+                "cn": "（把透明纸覆盖在底样上）描摹"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Did you draw this picture yourself, or did you trace it?",
+                  "cn": "这幅画是你自己画的，还是你描摹的？"
+                },
+                {
+                  "gram": "",
+                  "en": "She learned to write her name by tracing out the letters.",
+                  "cn": "她通过描摹字母学会了写自己的名字。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to draw a shape by showing the main or outer lines",
+                "cn": "勾画出…的轮廓"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The child was tracing patterns in/on the sand with a stick.",
+                  "cn": "孩子用棍子在沙子上勾画出一个个图案。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/treɪs/",
+        "us": "/treɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/treɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktow/uktowni015.mp3"
+        },
+        "us": {
+          "ipa": "/treɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/trace/trace.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SIGN/RECORD",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a sign that something has happened or existed",
+                "cn": "痕迹，踪迹"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He attempted to cover up all the traces of his crime.",
+                  "cn": "他试图掩盖他犯罪的蛛丝马迹。"
+                },
+                {
+                  "gram": "",
+                  "en": "When she moved out, she left no trace of having been there.",
+                  "cn": "她搬走后，没有留下任何在那儿住过的痕迹。"
+                },
+                {
+                  "gram": "",
+                  "en": "My wallet has been missing for several days and I can't find any trace of it.",
+                  "cn": "我的钱包不见好几天了，而我就是找不到它。"
+                },
+                {
+                  "gram": "",
+                  "en": "He seems to have vanished without (a) trace (= no one knows where he is).",
+                  "cn": "他似乎已经消失得无影无踪了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an act of finding information about something electronically, or the record of the information found in this way",
+                "cn": "（利用电子仪器的）追踪，描记图"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The phone company put a trace on the call.",
+                  "cn": "电话公司用电子仪器追踪了这次通话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SLIGHT AMOUNT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a very slight amount",
+                "cn": "微量，少许"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Traces of drugs were found in his blood.",
+                  "cn": "在他的血液中发现了少许毒品。"
+                },
+                {
+                  "gram": "",
+                  "en": "There is just a trace of grey in his hair.",
+                  "cn": "他头发中夹杂着少许白发。"
+                },
+                {
+                  "gram": "",
+                  "en": "She speaks English without any trace of an accent.",
+                  "cn": "她讲英语丝毫不带口音。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was the faintest trace of a smile on her lips.",
+                  "cn": "她的唇边带着一丝微笑。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"How wonderful!\" she said, without any trace of sarcasm.",
+                  "cn": "“多好啊！”她说道，语气中丝毫没有挖苦的意思。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "time": 1752141082655,
+  "title": "spring",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/sprɪŋ/",
+        "us": "/sprɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sprɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspo/ukspotl024.mp3"
+        },
+        "us": {
+          "ipa": "/sprɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spr/sprin/spring.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SEASON",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the season of the year between winter and summer, lasting from March to June north of the equator, and from September to December south of the equator, when the weather becomes warmer, leaves and plants start to grow again and flowers appear",
+                "cn": "春天，春季"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many bulbs bloom in (the) spring.",
+                  "cn": "很多球茎植物春天开花。"
+                },
+                {
+                  "gram": "",
+                  "en": "Janet's coming over for a couple of weeks next spring.",
+                  "cn": "珍妮特明年春天要来这儿呆几个星期。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's been a very wet spring.",
+                  "cn": "今年春天雨很多。"
+                },
+                {
+                  "gram": "",
+                  "en": "a spring day/morning",
+                  "cn": "春日白天／早晨"
+                },
+                {
+                  "gram": "",
+                  "en": "spring flowers/weather",
+                  "cn": "春花／春日天气"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CURVED METAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a piece of curved or bent metal that can be pressed into a smaller space but then returns to its usual shape",
+                "cn": "弹簧，发条"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children have jumped on the couch so much that they've ruined the springs.",
+                  "cn": "孩子们老是在沙发上跳来跳去的，把弹簧都弄坏了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "something's ability to return to its usual shape after it has been pressed",
+                "cn": "弹性，弹力"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Over the years the mattress has lost its spring.",
+                  "cn": "几年下来，床垫失去了弹性。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WATER",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a place where water naturally flows out from the ground",
+                "cn": "泉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "bubbling/hot springs",
+                  "cn": "汩汩冒泡的泉／温泉"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/sprɪŋ/",
+        "us": "/sprɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sprɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspo/ukspotl024.mp3"
+        },
+        "us": {
+          "ipa": "/sprɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spr/sprin/spring.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVE QUICKLY",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to move quickly and suddenly towards a particular place",
+                "cn": "跳，跃，蹦"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I sprang out of bed to answer the door.",
+                  "cn": "我从床上跳起来去开门。"
+                },
+                {
+                  "gram": "",
+                  "en": "The organization is ready to spring into action (= start taking action) the moment it receives its funding.",
+                  "cn": "那个组织已准备好了，一得到资金就立即采取行动。"
+                },
+                {
+                  "gram": "",
+                  "en": "He always springs to his feet when she walks in the room.",
+                  "cn": "她走进房间时，他总是会立即站起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "I noticed the way you sprang to his defence when Caroline started joking about his clothes.",
+                  "cn": "我注意到，卡罗琳打趣他的穿着时，你立刻就开始为他辩护了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The lid of the box sprang shut.",
+                  "cn": "盒盖啪的一下关上了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "APPEAR SUDDENLY",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to appear suddenly",
+                "cn": "突然出现;涌现"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Where did you spring from? - I didn't see you come in!\"",
+                  "cn": "“你从那儿冒出来的？——我都没见你进来！”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/sprɪŋ/",
+        "us": "/sprɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sprɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspo/ukspotl024.mp3"
+        },
+        "us": {
+          "ipa": "/sprɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318usspri4695.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(of furniture) using springs (= curved pieces of metal) to give support",
+                "cn": "（家具）装有弹簧的，有弹簧支撑的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

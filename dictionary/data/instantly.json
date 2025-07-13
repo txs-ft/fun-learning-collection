@@ -1,0 +1,48 @@
+{
+  "time": 1752140502619,
+  "title": "instantly",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈɪn.stənt.li/",
+        "us": "/ˈɪn.stənt.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɪn.stənt.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukins/ukinspe016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɪn.stənt.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ins/insta/instantly.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "immediately",
+                "cn": "立即，马上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Both drivers were killed instantly.",
+                  "cn": "两名司机当即丧生。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

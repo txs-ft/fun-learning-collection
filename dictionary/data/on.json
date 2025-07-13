@@ -1,0 +1,1117 @@
+{
+  "time": 1752140761919,
+  "title": "on",
+  "generalBitmask": 24,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/ɒn/",
+        "us": "/ɑːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɒn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukad5/ukad5014.mp3"
+        },
+        "us": {
+          "ipa": "/ɑːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73326.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ABOVE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show that something is in a position above something else and touching it, or that something is moving into such a position",
+                "cn": "在…上面；到…上面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Look at all the books on your desk!",
+                  "cn": "看看你书桌上这么多书！"
+                },
+                {
+                  "gram": "",
+                  "en": "Ow, you're standing on my foot!",
+                  "cn": "哎哟，你踩着我的脚了！"
+                },
+                {
+                  "gram": "",
+                  "en": "Your suitcase is on top of the wardrobe.",
+                  "cn": "你的手提箱在衣柜顶上。"
+                },
+                {
+                  "gram": "",
+                  "en": "They live in that old house on the hill.",
+                  "cn": "他们住在山上的那间旧房子里。"
+                },
+                {
+                  "gram": "",
+                  "en": "I got on my bike and left.",
+                  "cn": "我骑上自行车离开了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONNECTED",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "covering the surface of, being held by, or connected to something",
+                "cn": "在…上；连上的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's blood on your shirt.",
+                  "cn": "你的衬衫上沾了血。"
+                },
+                {
+                  "gram": "",
+                  "en": "Which finger do you wear your ring on?",
+                  "cn": "你把戒指戴在哪个手指上？"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you stand on your head?",
+                  "cn": "你会倒立吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We could hang this picture on the wall next to the door.",
+                  "cn": "我们可以把这幅画挂在门旁边的墙上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Dogs should be kept on their leashes at all times.",
+                  "cn": "狗应该一直用皮带拴着。"
+                },
+                {
+                  "gram": "",
+                  "en": "We've just moved house and we're not on the phone (= not connected to the phone service) yet.",
+                  "cn": "我们刚搬了家，还没有接通电话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show when something happens",
+                "cn": "（发生）在…时候"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hair salons don't usually open on Sundays.",
+                  "cn": "发廊通常星期天不开门。"
+                },
+                {
+                  "gram": "",
+                  "en": "What are you doing on Friday?",
+                  "cn": "星期五你要干什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "My birthday's on 30 May.",
+                  "cn": "我的生日是5月30日。"
+                },
+                {
+                  "gram": "",
+                  "en": "Would you mind telling me what you were doing on the afternoon of Friday the 13th of March?",
+                  "cn": "能否告诉我3月13日星期五下午你在干什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "The bells in the clock tower ring every hour on the hour (= at exactly one o'clock, two o'clock, etc.).",
+                  "cn": "钟楼上的钟每小时整点敲响。"
+                },
+                {
+                  "gram": "",
+                  "en": "On a clear day you can see the mountains from here.",
+                  "cn": "在晴天，从这儿可以看到那些山峦。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was dead on arrival (= dead when she arrived) at the hospital.",
+                  "cn": "她刚到医院就死了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Please leave your key at the reception desk on your departure from (= when you leave) the hotel.",
+                  "cn": "离开酒店时请把钥匙交到服务台。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WRITING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to show where something has been written, printed, or drawn",
+                "cn": "（写、印或画）在…上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Which page is that curry recipe on?",
+                  "cn": "那道咖喱菜的做法在第几页？"
+                },
+                {
+                  "gram": "",
+                  "en": "His initials were engraved on the back of his watch.",
+                  "cn": "他姓名的首字母刻在了他手表的后盖上。"
+                },
+                {
+                  "gram": "",
+                  "en": "What's on the menu tonight? (= What food is available?)",
+                  "cn": "今晚菜单上有什么菜？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRAVEL",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used for showing some methods of travelling",
+                "cn": "乘，上（车等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I love travelling on trains.",
+                  "cn": "我喜欢乘火车旅行。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's coming in on the 5.30 bus.",
+                  "cn": "她将乘坐5点30分的公共汽车到达。"
+                },
+                {
+                  "gram": "",
+                  "en": "We went to France on the ferry.",
+                  "cn": "我们是乘渡轮去法国的。"
+                },
+                {
+                  "gram": "",
+                  "en": "It'd be quicker to get there on foot.",
+                  "cn": "步行到那里更快些。"
+                },
+                {
+                  "gram": "",
+                  "en": "two figures on horseback",
+                  "cn": "马背上的两个身影"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PROCESS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show that a condition or process is being experienced",
+                "cn": "处于…状况（或过程）中"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He accidentally set his bed on fire.",
+                  "cn": "他无意中烧着了自己的床。"
+                },
+                {
+                  "gram": "",
+                  "en": "Max's on holiday this week.",
+                  "cn": "马丁这星期在度假。"
+                },
+                {
+                  "gram": "",
+                  "en": "I often get carsick when I'm on a long journey.",
+                  "cn": "长途旅行时我常晕车。"
+                },
+                {
+                  "gram": "",
+                  "en": "Crime is on the increase (= is increasing) again.",
+                  "cn": "犯罪活动又开始抬头了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their flights to Paris are on special offer at the moment.",
+                  "cn": "他们飞往巴黎的航班目前正在打折。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll be away on a training course next week.",
+                  "cn": "下星期我要外出参加一个培训班。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RECORDING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to show the form in which something is recorded or performed",
+                "cn": "（记录、录制或演出）以…方式，通过，使用"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How much data can you store on the flash drive?",
+                  "cn": "一张闪存盘上能存储多少数据？"
+                },
+                {
+                  "gram": "",
+                  "en": "When's the movie coming out on DVD?",
+                  "cn": "这部电影的DVD什么时候出？"
+                },
+                {
+                  "gram": "",
+                  "en": "I was really embarrassed the first time I saw myself on film.",
+                  "cn": "第一次看到自己上电影时，我觉得很尴尬。"
+                },
+                {
+                  "gram": "",
+                  "en": "What's on TV tonight?",
+                  "cn": "今晚电视有什么节目？"
+                },
+                {
+                  "gram": "",
+                  "en": "I wish there was more jazz on the radio.",
+                  "cn": "我希望收音机里多播放一些爵士乐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PAIN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to show what causes pain or injury as a result of being touched",
+                "cn": "在…上（受伤或碰伤）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I hit my head on the shelf as I was standing up.",
+                  "cn": "我站起来的时候，头撞在架子上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Be careful not to cut yourself on that knife.",
+                  "cn": "小心不要被那把刀划伤。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TO",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to or towards",
+                "cn": "在；向，朝，对"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Our house is the first on the left after the post office.",
+                  "cn": "我们家是邮局过后靠左第一家。"
+                },
+                {
+                  "gram": "",
+                  "en": "The attack on the village lasted all night.",
+                  "cn": "对该村庄的进攻持续了一整夜。"
+                },
+                {
+                  "gram": "",
+                  "en": "I wish you wouldn't sneak up on me like that!",
+                  "cn": "我希望你不要那样蹑手蹑脚地靠近我！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RELATING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to",
+                "cn": "关于，有关；涉及"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a book on pregnancy",
+                  "cn": "关于妊娠的书"
+                },
+                {
+                  "gram": "",
+                  "en": "Her talk is on Italian women's literature.",
+                  "cn": "她的论文是关于意大利女性文学的。"
+                },
+                {
+                  "gram": "",
+                  "en": "The minister has refused to comment on the allegations.",
+                  "cn": "部长拒绝对指控作出评论。"
+                },
+                {
+                  "gram": "",
+                  "en": "Criticism has no effect on him.",
+                  "cn": "批评对他不起作用。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do the police have anything on you (= do they have any information about you that can be used against you)?",
+                  "cn": "警方有没有抓住你什么把柄？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to show something for which a payment is made",
+                "cn": "付钱买…;在…上（花费）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He spent €180 on a hat.",
+                  "cn": "他花180欧元买了一顶帽子。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've wasted a lot of money on this car.",
+                  "cn": "我在这辆汽车上浪费了许多钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "We made a big profit on that deal.",
+                  "cn": "我们在那笔生意上获利颇丰。"
+                },
+                {
+                  "gram": "",
+                  "en": "How much interest are you paying on the loan?",
+                  "cn": "这笔贷款你要支付多少利息？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NECESSARY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show a person or thing that is necessary for something to happen or that is the origin of something",
+                "cn": "（表示需要或缘由）靠，指望，凭"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're relying on you.",
+                  "cn": "我们要靠你了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I might come - it depends on Andrew.",
+                  "cn": "我可能会来——这取决于安德鲁。"
+                },
+                {
+                  "gram": "",
+                  "en": "Most children remain dependent on their parents while they are at university.",
+                  "cn": "大多数孩子上大学期间仍然依赖他们的父母。"
+                },
+                {
+                  "gram": "",
+                  "en": "His latest movie is based on a fairy tale.",
+                  "cn": "他的新电影是根据一个童话故事改编的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INVOLVEMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show when someone is involved or taking part in something",
+                "cn": "（表示牵涉或参与其中）在从事…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm working on a new book.",
+                  "cn": "我正在写一本新书。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Where had we got up to?\" \"We were on page 42.\"",
+                  "cn": "“我们进行到哪里了？”“我们讲到第42页了。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FINANCIAL SUPPORT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show what is providing financial support or an income",
+                "cn": "以…为生，以…为收入"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I only have $70 a week to live on at the moment.",
+                  "cn": "目前我每周只靠70美元的收入过活。"
+                },
+                {
+                  "gram": "",
+                  "en": "He retired on a generous pension from the company.",
+                  "cn": "他退休后靠公司提供的丰厚退休金生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's on (= earning) £25,000 a year.",
+                  "cn": "她的年收入为2.5万英镑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOOD/FUEL/DRUG",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to show something that is used as food, fuel, or a drug",
+                "cn": "（指食物、燃料、药物等）用，吃，喝"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What do mice live on?",
+                  "cn": "老鼠以什么为食？"
+                },
+                {
+                  "gram": "",
+                  "en": "Does this radio run on batteries?",
+                  "cn": "这台收音机是用电池的吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Is he on drugs?",
+                  "cn": "他吸毒吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NEXT TO",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "next to or along the side of",
+                "cn": "靠近，挨着;沿着;在…旁"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's a small town on the Mississippi River.",
+                  "cn": "这是密西西比河上的一座小镇。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our house was on Sturton Street.",
+                  "cn": "我们的房子在斯特顿大街上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Strasbourg is on the border of France and Germany.",
+                  "cn": "斯特拉斯堡位于德法边界上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEMBER",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "used to show when someone is a member of a group or organization",
+                "cn": "是…的成员；属于…组织"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Have you ever served on a jury?",
+                  "cn": "你参加过陪审团吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "There are no women on the committee.",
+                  "cn": "该委员会没有女性。"
+                },
+                {
+                  "gram": "",
+                  "en": "How many people are on your staff?",
+                  "cn": "你有多少职员？"
+                },
+                {
+                  "gram": "",
+                  "en": "She's a researcher on a women's magazine.",
+                  "cn": "她在一家女性杂志做调查员。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOOL",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used when referring to a tool, instrument, or system that is used to do something",
+                "cn": "（指工具、设备或系统）用，凭借"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I do all my household accounts on the computer.",
+                  "cn": "我用电脑来处理全部的家庭账目。"
+                },
+                {
+                  "gram": "",
+                  "en": "Chris is on drums and Mike's on bass guitar.",
+                  "cn": "克里斯打鼓，迈克弹低音电吉他。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm on (= talking on) the phone.",
+                  "cn": "我正在打电话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AGAIN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show when something is repeated one or more times",
+                "cn": "（用于表示一再重复）又，再"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The government suffered defeat on defeat in the local elections.",
+                  "cn": "本届政府在地方选举中一再受挫。"
+                },
+                {
+                  "gram": "",
+                  "en": "Wave on wave of refugees has crossed the border to escape the fighting.",
+                  "cn": "一批又一批的难民为躲避战争而越过边境。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPARISON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when making a comparison",
+                "cn": "（用于比较）与…相比"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That's my final offer, and I can't improve on it.",
+                  "cn": "这是我出的最高价，我不可能再提价了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The manufacturer has never improved on the earliest model of the car.",
+                  "cn": "制造商从未对最早的车型进行改进。"
+                },
+                {
+                  "gram": "",
+                  "en": "The productivity figures are down/up on last week's.",
+                  "cn": "与上周相比生产率下降／上升了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POSSESSION",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "used to show when someone has something in a pocket or in a bag that they are carrying",
+                "cn": "随身携带"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you have a spare pen on you?",
+                  "cn": "你身上有没有多余的笔？"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't have my driving licence on me.",
+                  "cn": "我没有带驾驶执照。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AFTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "happening after and usually because of",
+                "cn": "在…后;由于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Acting on information given to them anonymously, the police arrested him.",
+                  "cn": "警方根据匿名者提供的消息采取行动，逮捕了他。"
+                },
+                {
+                  "gram": "",
+                  "en": "He inherited a quarter of a million pounds on his mother's death.",
+                  "cn": "他母亲死后他继承了25万英镑。"
+                },
+                {
+                  "gram": "",
+                  "en": "On their return they discovered that their house had been broken into.",
+                  "cn": "他们回来后发现家里被盗。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PAYMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show who is paying for something",
+                "cn": "由…支付"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Dinner meal is on me.",
+                  "cn": "这顿饭我付钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "She had her operation done on the National Health Service.",
+                  "cn": "她享受国民医疗保健制度免费做了手术。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FAULTY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show who suffers when something does not operate as it should",
+                "cn": "（表示运转出故障时受影响的人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The phone suddenly went dead on me.",
+                  "cn": "我正在打电话，电话突然断了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their car broke down on them on the way home.",
+                  "cn": "他们的汽车在回家的途中抛锚了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POINTS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show the number of points a person or team has in a competition",
+                "cn": "（竞赛中）得…分"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Clive's team is on five points while Joan's is on seven.",
+                  "cn": "克莱夫所在队得5分，琼所在队得7分。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ɒn/",
+        "us": "/ɑːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɒn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukad5/ukad5014.mp3"
+        },
+        "us": {
+          "ipa": "/ɑːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73326.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CONNECTED",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "on your body or someone's body",
+                "cn": "穿着…地，带着…地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's very cold so put a coat on.",
+                  "cn": "天很冷，穿上大衣吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "She wanders around the house with nothing on.",
+                  "cn": "她光着身体在房子里四处走动。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you remember what he had on (= was wearing)?",
+                  "cn": "你记得他穿什么衣服吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I tried on a few jackets, but none of them looked nice.",
+                  "cn": "我试了好几件夹克衫，可是都不好看。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "covering the surface of something or connected to something",
+                "cn": "盖上…地； 连上…地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Screw the lid on tightly.",
+                  "cn": "把盖子紧紧地拧上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Surgeons managed to sew the finger back on.",
+                  "cn": "外科医生成功地把手指接回去了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OPERATING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to show when something is operating or starting to operate",
+                "cn": "开着；在工作中；开始运行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you switch on the radio?",
+                  "cn": "你能把收音机打开吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Would you turn the TV on?",
+                  "cn": "请打开电视机好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "You left the bedroom light on.",
+                  "cn": "你忘了关卧室的灯了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT STOPPING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "continuing or not stopping",
+                "cn": "继续下去；不停地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The referee waved at the player to play on.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Read on to discover the amazing properties of coconut water.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The police officers shook their heads and drove on.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "When Jenny walks the dog, she ignores his hunting behaviour and just walks on till he comes back.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRAVEL",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "into a bus, train, plane, etc., or in the correct position to start using some other method of travelling",
+                "cn": "上（公交车、火车、飞机等旅行交通工具）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The train suddenly started moving as I was getting on.",
+                  "cn": "我上车的时候火车突然开动了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her horse galloped off as soon as she was on.",
+                  "cn": "她刚一上马，马就飞奔起来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERFORMING",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "performing",
+                "cn": "上场表演;在演出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hurry up with the make-up - I'm on in ten minutes.",
+                  "cn": "赶快化妆——我10分钟后上场。"
+                },
+                {
+                  "gram": "",
+                  "en": "The audience cheered as the band came on (= came onto the stage).",
+                  "cn": "乐队上台的时候，观众们欢呼起来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVING FORWARD",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "continuing forward in time or space",
+                "cn": "向前，前进地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They never spoke to each other from that day on (= after that day).",
+                  "cn": "从那天起他们彼此之间再没讲过话。"
+                },
+                {
+                  "gram": "",
+                  "en": "What are you doing later on?",
+                  "cn": "你过一会儿要做什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "When you're done with it, would you pass it on to Paul?",
+                  "cn": "你看完后把它传给保罗好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Move on, please, and let the ambulance through.",
+                  "cn": "请往前挪一下，让救护车过去。"
+                },
+                {
+                  "gram": "",
+                  "en": "You cycle on and I'll meet you there.",
+                  "cn": "你骑车向前走，我在那儿和你会面。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HAPPENING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "happening or planned",
+                "cn": "正在发生；根据预先计划"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is the party still on for tomorrow?",
+                  "cn": "明天聚会仍然举行吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm busy tomorrow, but I've got nothing on the day after.",
+                  "cn": "我明天很忙，不过后天没什么事。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got a lot on at the moment.",
+                  "cn": "我这会儿事情很多。"
+                },
+                {
+                  "gram": "",
+                  "en": "Food had to be rationed when the war was on.",
+                  "cn": "战时食物必须实行定量配给。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are there any good movies on (= being shown) this week?",
+                  "cn": "这周电影院有什么好电影吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POSITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when talking about the position of one thing compared with the position of another",
+                "cn": "（用于表示相对位置）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's amazing nobody was injured because the two buses crashed head on (= the front parts of the buses hit each other).",
+                  "cn": "令人惊讶的是两辆车正面相撞，居然没有一个人受伤。"
+                },
+                {
+                  "gram": "",
+                  "en": "The bike hit our car side on (= hit the side of the car rather than the front or back).",
+                  "cn": "自行车撞到了我们车的侧面。"
+                },
+                {
+                  "gram": "",
+                  "en": "It would be easier to get the bookcase through the doorway if we turned it sideways on (= turned it so that one of its sides is at the front).",
+                  "cn": "如果我们把书柜侧过来，通过门道就比较容易了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

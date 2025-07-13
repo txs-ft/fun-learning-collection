@@ -1,0 +1,90 @@
+{
+  "time": 1752141237827,
+  "title": "unlock",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ʌnˈlɒk/",
+        "us": "/ʌnˈlɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʌnˈlɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukunj/ukunjus021.mp3"
+        },
+        "us": {
+          "ipa": "/ʌnˈlɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/unl/unloc/unlock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to open something, especially a door that is locked (= fastened with a lock) using a key or an electronic device",
+                "cn": "打开;（尤指用钥匙或电子设备）开（门）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I think I left the garage door unlocked.",
+                  "cn": "我觉得我忘了锁上车库门。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to enter a password or number in order to be able to use a mobile phone",
+                "cn": "（用密码）解锁（手机）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You need to know the secret PIN to unlock your mobile phone upon power up.",
+                  "cn": "您需要知道密码才能在开机时解锁您的手机。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make a mobile phone able to be used on any mobile phone network",
+                "cn": "解锁（某一特定网络运营商的手机）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Once your phone is unlocked, you can buy and change SIM cards as you travel.",
+                  "cn": "手机解锁后，您可以在旅行时购买和更换SIM卡。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make the imagination more active, producing interesting ideas and images",
+                "cn": "放飞想象力"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "One of poetry's functions is to unlock the imagination.",
+                  "cn": "诗歌的功能之一便是开启想象力。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

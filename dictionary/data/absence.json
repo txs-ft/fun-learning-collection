@@ -1,0 +1,82 @@
+{
+  "time": 1752139594927,
+  "title": "absence",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈæb.səns/",
+        "us": "/ˈæb.səns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈæb.səns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukabr/ukabrea015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈæb.səns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/abs/absen/absence.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT BEING PRESENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the fact of not being where you are usually expected to be",
+                "cn": "缺席；缺勤；不在场"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A new manager was appointed during her absence.",
+                  "cn": "她不在的时候任命了一位新经理。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll be gone for two weeks, with Chris handling the deliveries in my absence.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She has had repeated absences from work this year.",
+                  "cn": "今年她屡次旷工。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT EXISTING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the fact of not existing",
+                "cn": "不存在；缺乏"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In the absence of (= because there were not) more suitable candidates, we decided to offer the job to Mr Conway.",
+                  "cn": "由于没有更为合适的人选，我们决定任命康韦先生。"
+                },
+                {
+                  "gram": "",
+                  "en": "He drew attention to the absence of concrete evidence against the defendant.",
+                  "cn": "他使大家注意到，可以证明被告有罪的确凿证据并不存在。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

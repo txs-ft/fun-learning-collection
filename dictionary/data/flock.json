@@ -1,0 +1,155 @@
+{
+  "time": 1752140351069,
+  "title": "flock",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/flɒk/",
+        "us": "/flɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/flɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfli/ukflirt007.mp3"
+        },
+        "us": {
+          "ipa": "/flɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/flo/flock/flock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of sheep, goats, or birds",
+                "cn": "羊群;鸟群;人群"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a flock of sheep/goats/geese",
+                  "cn": "一群绵羊／山羊／鹅"
+                },
+                {
+                  "gram": "",
+                  "en": "The shepherd is bringing his flock down from the hills.",
+                  "cn": "牧羊人正把羊群往山下赶。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large group of people, usually people of a particular type",
+                "cn": "（特定类型的）一群人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A noisy flock of tourists came into the building.",
+                  "cn": "一群吵吵嚷嚷的游客走进了大楼。"
+                },
+                {
+                  "gram": "",
+                  "en": "The priest invited all the members of his flock (= all the people who go to his church) to attend the special service.",
+                  "cn": "牧师邀请教区的所有信徒参加这一特别仪式。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MATERIAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "soft material used for filling objects such as cushions, or soft material that forms a raised pattern on wallpaper or curtains",
+                "cn": "（充填垫子等的）软填料；（在墙纸或窗帘上制作凸起图案用的）短绒，绒屑"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/flɒk/",
+        "us": "/flɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/flɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfli/ukflirt007.mp3"
+        },
+        "us": {
+          "ipa": "/flɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/flo/flock/flock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVE IN GROUP",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move or come together in large numbers",
+                "cn": "聚集；蜂拥"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hundreds of people flocked to the football match.",
+                  "cn": "数百人蜂拥前来观看足球比赛。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "Crowds of people flocked to see the Picasso exhibition.",
+                  "cn": "大群人蜂拥去看毕加索画展。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DECORATE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cover a surface with a soft material in order to decorate it",
+                "cn": "用软材料覆盖表面装饰"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You can flock a living Christmas tree to achieve the effect of natural snow.",
+                  "cn": "你可以用軟材料覆蓋真圣诞树的表面来达到模仿自然界下雪的效果。"
+                },
+                {
+                  "gram": "",
+                  "en": "a flocked greetings card",
+                  "cn": "软面问候卡"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "time": 1752140386116,
+  "title": "generosity",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌdʒen.əˈrɒs.ə.ti/",
+        "us": "/ˌdʒen.əˈrɑː.sə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌdʒen.əˈrɒs.ə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgen/ukgener012.mp3"
+        },
+        "us": {
+          "ipa": "/ˌdʒen.əˈrɑː.sə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72003.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the quality or condition of being generous",
+                "cn": "慷慨，大方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her friends take advantage of (= benefit unfairly from) her generosity.",
+                  "cn": "她的那些朋友利用她的慷慨占她的便宜。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

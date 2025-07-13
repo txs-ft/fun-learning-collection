@@ -1,0 +1,76 @@
+{
+  "time": 1752141148565,
+  "title": "thus",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ðʌs/",
+        "us": "/ðʌs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ðʌs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthu/ukthund010.mp3"
+        },
+        "us": {
+          "ipa": "/ðʌs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thu/thus_/thus.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in this way",
+                "cn": "如此，这样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Bend from the waist, thus.",
+                  "cn": "弯腰，就这样。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "with this result",
+                "cn": "因此，从而"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They planned to reduce staff and thus to cut costs.",
+                  "cn": "他们计划裁员，从而达到降低成本的目的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "as far as this or until now",
+                "cn": "迄今"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We haven't had any problems thus far.",
+                  "cn": "我们至今没有出现任何问题。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "time": 1752139631460,
+  "title": "alarm",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əˈlɑːm/",
+        "us": "/əˈlɑːrm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈlɑːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukair/ukairwo018.mp3"
+        },
+        "us": {
+          "ipa": "/əˈlɑːrm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ala/alarm/alarm.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WARNING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a warning of danger, usually a loud noise or flashing light",
+                "cn": "警报"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If there's any trouble, raise/sound the alarm by pulling the emergency cord.",
+                  "cn": "如果出现任何问题，拉紧急警报索报警。"
+                },
+                {
+                  "gram": "",
+                  "en": "The first two bomb alerts were false alarms, but the third was for real.",
+                  "cn": "前两次炸弹警报是一场虚惊，但是第三次是真的。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a device that makes a loud noise to warn of danger",
+                "cn": "警报器;警报装置"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a burglar/car/fire/smoke alarm",
+                  "cn": "防盗／汽车／防火／烟雾警报器"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an \nalarm clock",
+                "cn": "闹钟"
+              },
+              "examples": []
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "If an electronic device such as a watch or computer has an alarm, it can be set to make a noise at a particular time.",
+                "cn": "闹铃装置;定时装置"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "WORRY",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "sudden worry and fear, especially that something dangerous or unpleasant might happen",
+                "cn": "惊恐，惊慌;担忧"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I didn't tell her that he was late because I didn't want to cause her any alarm.",
+                  "cn": "我没有告诉她他来晚了，因为我不想让她担惊受怕。"
+                },
+                {
+                  "gram": "",
+                  "en": "Villagers have reacted with alarm to news of a proposed new road.",
+                  "cn": "听说有要修新路的计划，村民们很是担忧。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/əˈlɑːm/",
+        "us": "/əˈlɑːrm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈlɑːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukair/ukairwo018.mp3"
+        },
+        "us": {
+          "ipa": "/əˈlɑːrm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ala/alarm/alarm.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to make someone worried or frightened",
+                "cn": "令某人担心或害怕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I didn't want to alarm him by telling him that she was ill.",
+                  "cn": "我不想让他担心，没有告诉他她生病的事。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

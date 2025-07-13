@@ -1,0 +1,87 @@
+{
+  "time": 1752140862153,
+  "title": "prefer",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/prɪˈfɜːr/",
+        "us": "/prɪˈfɝː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/prɪˈfɜːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpre/ukpredi027.mp3"
+        },
+        "us": {
+          "ipa": "/prɪˈfɝː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pre/prefe/prefer.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CHOOSE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to like, choose, or want one thing rather than another",
+                "cn": "宁可，更喜爱;觉得还是…更可取"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you prefer hot or cold weather?",
+                  "cn": "你喜欢热天还是冷天？"
+                },
+                {
+                  "gram": "",
+                  "en": "I prefer red wine to white.",
+                  "cn": "比起白葡萄酒，我更喜欢红葡萄酒。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "He prefers watching football to playing it.",
+                  "cn": "比起踢足球来，他更喜欢看足球比赛。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I'd prefer not to discuss this issue.",
+                  "cn": "我宁愿不讨论这个问题。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd prefer you not to smoke (= I would like it better if you did not smoke), please.",
+                  "cn": "我希望你别抽烟。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACCUSE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to accuse someone officially",
+                "cn": "举报;提出（控告）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police have decided not to prefer charges against them because of insufficient evidence.",
+                  "cn": "由于证据不足，警方决定不对他们提出诉讼。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

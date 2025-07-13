@@ -1,0 +1,111 @@
+{
+  "time": 1752140475704,
+  "title": "history",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈhɪs.tər.i/",
+        "us": "/ˈhɪs.t̬ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhɪs.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhir/ukhire_016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhɪs.t̬ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/his/histo/history.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PAST EVENTS",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "(the study of or a record of) past events considered together, especially events of a particular period, country, or subject",
+                "cn": "历史；历史学"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I studied modern European history at college.",
+                  "cn": "我在大学里学的是欧洲现代史。"
+                },
+                {
+                  "gram": "",
+                  "en": "American history",
+                  "cn": "美国历史"
+                },
+                {
+                  "gram": "",
+                  "en": "Annie's decided to write a history of electronic music.",
+                  "cn": "安妮已经决定写一本关于电子音乐历史的书。"
+                },
+                {
+                  "gram": "",
+                  "en": "I only asked him for a cigarette, but two hours later he'd told me his whole life history.",
+                  "cn": "我只是跟他要支烟抽而已，可两小时之后他把他的整个身世都告诉了我。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that happened or ended a long time ago and is not important now, or a person who is not important now, although they were in the past",
+                "cn": "过去的事，过去的人（现已不再重要）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Last year's report is ancient history and totally irrelevant to the current situation.",
+                  "cn": "去年的报告已经是老早以前的事了，与当前的情况毫无关系。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"What about Dan - are you still seeing him?\" \"Oh, he's history.\"",
+                  "cn": "“那么丹呢──你还在和他交往吗？”“噢，他已经是历史了。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PARTICULAR RECORD",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "something that has been done or experienced by a particular person or thing repeatedly over a long period",
+                "cn": "经历，履历；沿革"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her family has a history of heart problems.",
+                  "cn": "她的家族有心脏病史。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a long history of industrial disputes at the factory.",
+                  "cn": "那家工厂有很长的劳资纠纷史。"
+                },
+                {
+                  "gram": "",
+                  "en": "He has a good credit history (= a good record of paying money that he owes).",
+                  "cn": "他的信用记录很好。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

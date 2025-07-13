@@ -1,0 +1,210 @@
+{
+  "time": 1752140134217,
+  "title": "club",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/klʌb/",
+        "us": "/klʌb/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klʌb/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukclo/ukclosu018.mp3"
+        },
+        "us": {
+          "ipa": "/klʌb/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clu/club_/club.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an organization of people with a common purpose or interest, who meet regularly and take part in shared activities",
+                "cn": "俱乐部;社团"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've just joined the local golf/squash/tennis club.",
+                  "cn": "我刚参加了当地的高尔夫球／壁球／网球俱乐部。"
+                },
+                {
+                  "gram": "",
+                  "en": "Visitors must be accompanied by club members.",
+                  "cn": "来访者必须有会员陪同。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a team",
+                "cn": "队，组，班"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Orioles are an exciting club this year.",
+                  "cn": "黄鹂队今年的表现令人振奋。"
+                },
+                {
+                  "gram": "",
+                  "en": "Stockport County Football Club",
+                  "cn": "斯多克港足球俱乐部"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a building in which a club meets",
+                "cn": "俱乐部大楼，会所"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "DANCE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a place that people go to in order to dance and drink in the evening",
+                "cn": "夜总会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I went to that new club that's just opened.",
+                  "cn": "我去了那家新开的夜总会。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GOLF",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a long, thin stick used in golf to hit the ball",
+                "cn": "高尔夫球棒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a set of golf clubs",
+                  "cn": "一套高尔夫球棒"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WEAPON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a heavy stick used as a weapon",
+                "cn": "（用作武器的）棍，棒"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "CARD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "one of the four suits in playing cards, represented by a symbol with three round leaves:",
+                "cn": "三张梅花牌／梅花K"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the three/King of clubs",
+                  "cn": "三张梅花牌／梅花K"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a playing card from the suit of clubs",
+                "cn": "（一张）梅花（牌）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Now you have to play a club if you have one.",
+                  "cn": "现在，如果你手里有梅花，就必须出。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/klʌb/",
+        "us": "/klʌb/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klʌb/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukclo/ukclosu018.mp3"
+        },
+        "us": {
+          "ipa": "/klʌb/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clu/club_/club.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to beat a person or an animal, usually repeatedly, with a heavy stick or object",
+                "cn": "棒打，棒击"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was clubbed over the head.",
+                  "cn": "他头上挨了一棍。"
+                },
+                {
+                  "gram": "",
+                  "en": "The alligators are then clubbed to death.",
+                  "cn": "接着短吻鳄被乱棒打死。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

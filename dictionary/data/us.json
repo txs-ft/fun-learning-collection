@@ -1,0 +1,220 @@
+{
+  "time": 1752141248280,
+  "title": "us",
+  "generalBitmask": 325,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "strong /ʌs/",
+        "us": "strong /ʌs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ʌs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukuri/ukuric_011.mp3"
+        },
+        "us": {
+          "ipa": "strong /ʌs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/us_/us_02/us_02_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used as the object of a verb or a preposition to refer to a group that includes the speaker and at least one other person",
+                "cn": "（用作动词或介词的宾语）我们"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Thank you for driving us to the station.",
+                  "cn": "谢谢您载我们去车站。"
+                },
+                {
+                  "gram": "",
+                  "en": "Many of us in the editorial department disagree with the changes that are happening.",
+                  "cn": "我们编辑部里大部分人对所进行的变革持反对态度。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(especially used in spoken English) me",
+                "cn": "（尤用于口语）我，咱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Give us a light, mate.",
+                  "cn": "借个火，老兄。"
+                },
+                {
+                  "gram": "",
+                  "en": "Give us it here and I'll see if I can mend it.",
+                  "cn": "拿到我这里，看看我能不能修。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "strong /ʌs/",
+        "us": "/ʌs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ʌs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukuri/ukuric_011.mp3"
+        },
+        "us": {
+          "ipa": "/ʌs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/us_/us_02/us_02_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "our",
+                "cn": "我们的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Where've you parked us car?",
+                  "cn": "你把我们的车停在哪儿了？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌjuːˈes/",
+        "us": "/ˌjuːˈes/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌjuːˈes/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31521.mp3"
+        },
+        "us": {
+          "ipa": "/ˌjuːˈes/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31521.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for the United States (of America)",
+                "cn": "美国（the United States的缩写）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A new study of education in the US has just been published.",
+                  "cn": "对美国教育的一项新研究刚刚发表。"
+                },
+                {
+                  "gram": "",
+                  "en": "The US has had several years of solid growth.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The US have taken a different view of the situation.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˌjuːˈes/",
+        "us": "/ˌjuːˈes/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌjuːˈes/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo02/cdo0216theuuk2209.mp3"
+        },
+        "us": {
+          "ipa": "/ˌjuːˈes/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318ustheu5401.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "belonging to or relating to the United States of America or its people",
+                "cn": "美国的;美国人的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She had served in the US army for several years.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The decision was taken by the US State Department.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "When did you become a US citizen?",
+                  "cn": "你什么时候成为美国公民的？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

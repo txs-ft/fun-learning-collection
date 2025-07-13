@@ -1,5 +1,5 @@
 {
-  "time": 1751350202534,
+  "time": 1752140955377,
   "title": "scientist",
   "generalBitmask": 1,
   "allDefinitions": [
@@ -22,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "B1",
@@ -32,7 +32,7 @@
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "a research/nuclear scientist",
                   "cn": "研究型／核科学家"
                 }

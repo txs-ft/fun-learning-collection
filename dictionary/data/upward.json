@@ -1,0 +1,83 @@
+{
+  "time": 1752141242912,
+  "title": "upward",
+  "generalBitmask": 12,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈʌp.wəd/",
+        "us": "/ˈʌp.wɚd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʌp.wəd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukups/ukupstr010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʌp.wɚd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318usupwa5394.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "→ \nupwards",
+                "cn": "向上地"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈʌp.wəd/",
+        "us": "/ˈʌp.wɚd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʌp.wəd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukups/ukupstr010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʌp.wɚd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/upw/upwar/upward.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "moving towards a higher position, level, or value",
+                "cn": "向上的，朝上的；向高处的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "With an upward trend in inflation, you expect prices to rise.",
+                  "cn": "通货膨胀有上升趋势，预计物价还会上涨。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "time": 1752140967966,
+  "title": "seven",
+  "generalBitmask": 128,
+  "allDefinitions": [
+    {
+      "pos": "number",
+      "defBitmask": 128,
+      "pron": {
+        "uk": "/ˈsev.ən/",
+        "us": "/ˈsev.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsev.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukser/ukservi026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsev.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sev/seven/seven.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the number 7",
+                "cn": "（数字）7"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The restaurant opens for dinner at seven (o'clock).",
+                  "cn": "餐厅在七点钟开门供晚餐。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're open seven days a week (= every day).",
+                  "cn": "我们一周七天都开放。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

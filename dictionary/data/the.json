@@ -1,0 +1,415 @@
+{
+  "time": 1752141133114,
+  "title": "the",
+  "generalBitmask": 64,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "strong /ðiː/",
+        "us": "strong /ðiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ðiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/e/epd/epd33/epd33125.mp3"
+        },
+        "us": {
+          "ipa": "strong /ðiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/the/the_0/the_01_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PARTICULAR",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used before nouns to refer to particular things or people that have already been talked about or are already known or that are in a situation where it is clear what is happening",
+                "cn": "（用于名词前，指听者或读者已知的事物或人，尤指已提到的或能被领会的事物或人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I just bought a new shirt and some new shoes. The shirt was pretty expensive, but the shoes weren't.",
+                  "cn": "我刚买了一件新衬衫和几双新鞋。衬衫很贵，但鞋子不贵。"
+                },
+                {
+                  "gram": "",
+                  "en": "Please would you pass the salt.",
+                  "cn": "请你把盐递给我。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll pick you up at the airport.",
+                  "cn": "我会开车到机场接你。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used before some nouns that refer to place when you want to mention that type of place, without showing exactly which example of the place you mean",
+                "cn": "（用于某些名词前，表示泛指一类地方）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We spent all day at the beach.",
+                  "cn": "我们在海滩上呆了一整天。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let's go to the movies this evening.",
+                  "cn": "我们今晚去看电影吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "I have to go to the bank and get some Euros.",
+                  "cn": "我得去银行兑换些欧元。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used before noun phrases in which the range of meaning of the noun is limited in some way",
+                "cn": "（用在带有限制性定语的名词短语前）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I really enjoyed the book I've just finished reading.",
+                  "cn": "我真的很喜欢我刚读完的那本书。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you like the other kids in your class?",
+                  "cn": "你喜欢你们班的其他同学吗？"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to refer to things or people when only one exists at any one time",
+                "cn": "（指独一无二的事物或人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What will happen in the future?",
+                  "cn": "未来会发生什么事？"
+                },
+                {
+                  "gram": "",
+                  "en": "After I leave college, I want to travel around the world.",
+                  "cn": "大学毕业后，我想环游世界。"
+                },
+                {
+                  "gram": "",
+                  "en": "They live in the north of Spain.",
+                  "cn": "他们住在西班牙北部。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ed Koch was for many years the mayor of New York.",
+                  "cn": "埃德‧科克做了多年的纽约市长。"
+                },
+                {
+                  "gram": "",
+                  "en": "When we went to Paris, we went up the Eiffel Tower.",
+                  "cn": "我们到巴黎时去了埃菲尔铁塔。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used before superlatives and other words, such as \"first\" or \"only\" or numbers showing something's position in a list, to refer to only one thing or person",
+                "cn": "（用于形容词或副词最高级及表示排名的词前）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That was one of the best films I've ever seen.",
+                  "cn": "那是我看过的最好的电影之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "What's the highest mountain in Asia?",
+                  "cn": "亚洲最高的山是哪一座？"
+                },
+                {
+                  "gram": "",
+                  "en": "I will never forget the first time we met.",
+                  "cn": "我永远也忘不了我们第一次见面的情形。"
+                },
+                {
+                  "gram": "",
+                  "en": "You're the fifth person to ask me that question.",
+                  "cn": "你是第5个问我那个问题的人。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say that the particular person or thing being mentioned is the best, most famous, etc. In this use, \"the\" is usually given strong pronunciation",
+                "cn": "（用于表示“最…的”，此时 the 应重读）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Harry's Bar is the place to go.",
+                  "cn": "哈里酒吧是最值得一去的。"
+                },
+                {
+                  "gram": "",
+                  "en": "You don't mean you met the Will Smith (= the film star), do you?",
+                  "cn": "你不是说你见到了威尔‧史密斯本人吧？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before some adjectives to turn the adjectives into nouns that refer to one particular person or thing described by the adjective",
+                "cn": "（用在形容词前，指特定的人或事物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It seems that the deceased (= this particular dead person) had no living relatives.",
+                  "cn": "看来死者没有健在的亲属。"
+                },
+                {
+                  "gram": "",
+                  "en": "I suppose we'll just have to wait for the inevitable (= the particular thing that is certain to happen).",
+                  "cn": "看来我们只好坐等那不可避免的事情发生。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before some adjectives to turn the adjectives into nouns that refer to people or things in general that can be described by the adjective",
+                "cn": "（用在形容词前构成名词，泛指一类人或事物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She lives in a special home for the elderly.",
+                  "cn": "她住在养老院。"
+                },
+                {
+                  "gram": "",
+                  "en": "The French were defeated at Waterloo in 1815.",
+                  "cn": "1815年法军在滑铁卢被击败。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before a singular noun to refer to all the things or people represented by that noun",
+                "cn": "（用在单数名词前，指该类事物或人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The panda is becoming an increasingly rare animal.",
+                  "cn": "熊猫这种动物数量越来越稀少了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The car is responsible for causing a lot of damage to our environment.",
+                  "cn": "汽车对我们的环境造成了严重破坏。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before a family name to refer to two people who are married or to a whole family",
+                "cn": "（用在姓氏前表示某夫妇或一家人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Jacksons are coming to visit on Saturday.",
+                  "cn": "杰克逊一家周六要来看我们。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before some nouns referring to musical instruments or dances to mean the type of instrument or dance in general",
+                "cn": "（用在乐器或舞蹈的名称前表泛指）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Nico is learning to play the piano.",
+                  "cn": "尼科在学弹钢琴。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you do the waltz?",
+                  "cn": "你会跳华尔兹吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before a noun to represent the activity connected with that noun",
+                "cn": "（用在名词前表示与名词有关的活动）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm going under the knife (= having a medical operation) next week.",
+                  "cn": "我下周要接受外科手术。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's not a good idea to spend more than three hours at the wheel (= driving a vehicle) without a break.",
+                  "cn": "连续驾车3个多小时不是个好主意。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used before numbers that refer to periods of ten years",
+                "cn": "（用在逢10的数字前）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the 60s",
+                  "cn": "60年代"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used before each of two comparative adjectives or adverbs when you want to show how one amount gets bigger or smaller in relation to the other",
+                "cn": "（用在两个形容词或副词比较级前，表示“越…越…”）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The sooner I get this piece of work done, the sooner I can go home.",
+                  "cn": "我越快完成这项工作，就能越早回家。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before comparative adjectives or adverbs when you want to show that someone or something has become more or less of a particular state",
+                "cn": "（用在形容词或副词比较级前，表示某人或事物的特定状态的变化）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She doesn't seem to be any the worse for her bad experience.",
+                  "cn": "她看来丝毫没有因为悲惨的经历而沮丧。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used for emphasis when you are expressing a strong opinion about someone or something",
+                "cn": "（用于强调所持看法）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "André's got a new job, the lucky devil.",
+                  "cn": "安德烈有了新工作，这个幸运的家伙。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "YOUR",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used instead of a possessive adjective such as your, her, or my",
+                "cn": "（用于代替 your，her，my 等词）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He held his daughter by the arm (= her arm).",
+                  "cn": "他抓着女儿的胳膊。"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't remember where I parked the (= my) car.",
+                  "cn": "我不记得把车停在哪儿了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ENOUGH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "enough",
+                "cn": "足够的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to go out tonight, but I don't think I have the energy.",
+                  "cn": "我倒是想今晚出去玩，但又觉得自己没那个精力。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I don't have the time to talk to you now.",
+                  "cn": "我现在没有时间和你谈话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EACH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "each; every",
+                "cn": "每个"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It does 30 miles to the gallon.",
+                  "cn": "这辆车每加仑汽油能跑30英里。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

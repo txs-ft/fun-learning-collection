@@ -1,0 +1,77 @@
+{
+  "time": 1752139638834,
+  "title": "alive",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/əˈlaɪv/",
+        "us": "/əˈlaɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈlaɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukali/ukalign006.mp3"
+        },
+        "us": {
+          "ipa": "/əˈlaɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ali/alive/alive.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "living, not dead",
+                "cn": "活（着）的;在世的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's alive and well and living in New Zealand.",
+                  "cn": "她活得好好的，现住在新西兰。"
+                },
+                {
+                  "gram": "",
+                  "en": "Doctors kept him alive on a life-support machine.",
+                  "cn": "医生使用生命维持机来维持他的生命。"
+                },
+                {
+                  "gram": "",
+                  "en": "The lost hikers were able to stay alive by finding shelter in a cave in the side of the mountain.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "He must be 90 if he's still alive.",
+                  "cn": "如果他还在世的话，肯定有90岁了。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If something is alive, it continues to exist.",
+                "cn": "仍然存在的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Relatives of the missing sailors are struggling to keep their hopes alive.",
+                  "cn": "失踪水手的亲人们仍然苦守着他们能生还的希望。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

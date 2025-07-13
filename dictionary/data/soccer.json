@@ -1,0 +1,42 @@
+{
+  "time": 1752141008150,
+  "title": "soccer",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsɒk.ər/",
+        "us": "/ˈsɑː.kɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɒk.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksob/uksober005.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɑː.kɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/soc/socce/soccer.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal",
+                "cn": "英式足球，足球"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

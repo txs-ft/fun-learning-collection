@@ -1,0 +1,907 @@
+{
+  "time": 1752141157514,
+  "title": "to",
+  "generalBitmask": 24,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "strong /tuː/",
+        "us": "strong /tuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /tuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktit/uktitil017.mp3"
+        },
+        "us": {
+          "ipa": "strong /tuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/to_/to___/to.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INFINITIVE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used before a verb to show that it is in the infinitive",
+                "cn": "（用于动词前，表示不定式）"
+              },
+              "examples": []
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used after some verbs, especially when the action described in the infinitive will happen later",
+                "cn": "（用于某些动词后，尤其是不定式所描述的动作将会随后发生时）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She agreed to help.",
+                  "cn": "她答应帮忙。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll have to tell him.",
+                  "cn": "我得告诉他。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sadly, she didn't live to see her grandchildren.",
+                  "cn": "令人伤心的是，她没有活到孙辈出生的那一天。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used after many verbs of agreeing, needing, and wanting",
+                "cn": "（用于许多表示赞成、需要和想要的动词后）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I need to eat something first.",
+                  "cn": "我首先得吃点东西。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd love to live in New York.",
+                  "cn": "我想要住在纽约。"
+                },
+                {
+                  "gram": "",
+                  "en": "That child ought to be in bed.",
+                  "cn": "那个孩子应该上床睡觉。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used instead of repeating a verb clause",
+                "cn": "（用于代替动词分句，以免重复）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Are you going tonight?\" \"I'm certainly hoping to.\"",
+                  "cn": "“你今晚要走吗？”“我当然希望走。”"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used in phrases where there are reported orders and requests",
+                "cn": "（用于表示间接命令、要求的短语中）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He told me to wait.",
+                  "cn": "他叫我等。"
+                },
+                {
+                  "gram": "",
+                  "en": "Did anyone ask Daniel to reserve the room?",
+                  "cn": "有人要丹尼尔订房间了吗？"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used after some adjectives",
+                "cn": "（用于某些形容词后）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's not likely to happen.",
+                  "cn": "这事不大可能发生。"
+                },
+                {
+                  "gram": "",
+                  "en": "Three months is too long to wait.",
+                  "cn": "等3个月太久了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's not strong enough to go hiking up mountains.",
+                  "cn": "她身体不够壮，登不上山。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used after some nouns",
+                "cn": "（用于某些名词后）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He has this enviable ability to ignore everything that's unpleasant in life.",
+                  "cn": "他有这种令人羡慕的本事，能够不去理睬生活中的种种不快。"
+                },
+                {
+                  "gram": "",
+                  "en": "This will be my second attempt to make flaky pastry.",
+                  "cn": "这将是我第二次尝试制作薄馅饼皮。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "A clause containing to + infinitive can be used as the subject of a sentence",
+                "cn": "（含有带 to 的不定式的分句可用作句子主语）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To go overseas on your own is very brave.",
+                  "cn": "只身去国外，真勇敢。"
+                },
+                {
+                  "gram": "",
+                  "en": "My plan was to get it all arranged before I told anyone.",
+                  "cn": "我的计划是先把一切都安排好再告诉别人。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used after question words",
+                "cn": "（用于疑问词后）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't know what to do.",
+                  "cn": "我不知道该怎么办。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you tell me how to get there?",
+                  "cn": "你能告诉我怎样去那儿吗？"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used with an infinitive to express use or purpose",
+                "cn": "（与不定式连用，表示用途或目的）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm going there to see my sister.",
+                  "cn": "我要去那儿看望我的姐姐。"
+                },
+                {
+                  "gram": "",
+                  "en": "This tool is used to make holes in leather.",
+                  "cn": "这个工具是用来在皮革上打眼的。"
+                },
+                {
+                  "gram": "",
+                  "en": "To make this cake, you'll need two eggs, 175 grams of sugar, and 175 grams of flour.",
+                  "cn": "做这个蛋糕，你需要两个鸡蛋、175克糖和175克面粉。"
+                },
+                {
+                  "gram": "",
+                  "en": "He works to get paid, not because he enjoys it.",
+                  "cn": "他工作是为了挣钱，而不是因为喜欢工作。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "You can introduce a clause with a phrase containing to + infinitive",
+                "cn": "（含有带 to 的不定式的短语可引出分句）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To be honest (= speaking honestly), Becky, I like thegrey shirt better.",
+                  "cn": "说实话，贝姬，我更喜欢那件灰色的衬衫。"
+                },
+                {
+                  "gram": "",
+                  "en": "To tell you the truth, I never really liked the man.",
+                  "cn": "坦率地跟你说，我从未真正地喜欢过这个男人。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used with an infinitive after 'there is' or 'there are' and a noun",
+                "cn": "（与不定式连用，用于 there be + 名词这种结构后）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's an awful lot of work to be done.",
+                  "cn": "有许许多多的工作要做。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "To be going on with means in order to continue with the present activity or situation",
+                "cn": "为了继续做下去"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do we have enough paint to be going on with, or should I get some more while I'm out?",
+                  "cn": "继续下去我们的油漆够用吗，我是不是该外出时再买一些？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHOWING DIRECTION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "in the direction of",
+                "cn": "朝，向，往，对着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're going to town on the bus, okay?",
+                  "cn": "我们坐公共汽车去城里，好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We went to Prague last year.",
+                  "cn": "我们去年去了布拉格。"
+                },
+                {
+                  "gram": "",
+                  "en": "I asked someone the way to the town centre.",
+                  "cn": "我向人问了去市中心的路。"
+                },
+                {
+                  "gram": "",
+                  "en": "You can walk from here to the school in under ten minutes.",
+                  "cn": "你可以从这儿走到学校，用不了10分钟。"
+                },
+                {
+                  "gram": "",
+                  "en": "I asked Kirsten and Kai to dinner (= invited them to come and eat dinner with me) next week.",
+                  "cn": "我邀请了柯尔斯滕和卡伊下星期来吃饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "We received another invitation to a wedding this morning.",
+                  "cn": "今天上午我们又收到了一份参加婚礼的请柬。"
+                },
+                {
+                  "gram": "",
+                  "en": "I had my back to them, so I couldn't see what they were doing.",
+                  "cn": "我背对着他们，所以看不见他们在做什么。"
+                },
+                {
+                  "gram": "",
+                  "en": "She walked over to the window.",
+                  "cn": "她走到窗边来。"
+                },
+                {
+                  "gram": "",
+                  "en": "He went up to a complete stranger and started talking.",
+                  "cn": "他走到一个完全陌生的人跟前，开始和对方交谈起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "You've got your sweater on back to front (= with the back of the sweater on the chest).",
+                  "cn": "你的毛衣前后穿反了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RECEIVING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used for showing who receives something or who experiences an action",
+                "cn": "（表示动作的对象）对，给"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I lent my bike to my brother.",
+                  "cn": "我把自行车借给了我哥哥。"
+                },
+                {
+                  "gram": "",
+                  "en": "I told that to Alex and he just laughed.",
+                  "cn": "我把那件事告诉了阿历克斯，他笑了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who's the letter addressed to?",
+                  "cn": "这封信是寄给谁的？"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "With many verbs that have two objects, 'to' can be used before the indirect object",
+                "cn": "（与许多可接双宾语的动词连用，用于间接宾语前）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Give me that gun./Give that gun to me.",
+                  "cn": "给我那把枪／把那把枪给我。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "UNTIL",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "until a particular time, state, or level is reached",
+                "cn": "距;到;至"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's only two weeks to Christmas.",
+                  "cn": "离圣诞节只有两星期了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Unemployment has risen to almost eight million.",
+                  "cn": "失业人数已经上升到了差不多800万。"
+                },
+                {
+                  "gram": "",
+                  "en": "He drank himself to death.",
+                  "cn": "他酗酒而死。"
+                },
+                {
+                  "gram": "",
+                  "en": "She nursed me back to health.",
+                  "cn": "她护理我直到康复。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used when saying the time, to mean before the stated hour",
+                "cn": "（表示时间）在…之前;距;差"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's twenty to six.",
+                  "cn": "差20分到6点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXTREME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to suggest an extreme state",
+                "cn": "（表示极端的状态）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Look at your shirt - it's torn to shreds!",
+                  "cn": "看看你的衬衫——都成碎片了！"
+                },
+                {
+                  "gram": "",
+                  "en": "She was thrilled to bits.",
+                  "cn": "她激动得不行。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was bored to tears.",
+                  "cn": "我感到无聊极了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONNECTION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in connection with",
+                "cn": "与…相关"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What was their response to your query?",
+                  "cn": "他们对你的询问作何反应？"
+                },
+                {
+                  "gram": "",
+                  "en": "She was so mean to me.",
+                  "cn": "她对我很粗暴。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a funny side to everything.",
+                  "cn": "任何事物都有其滑稽的一面。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to say where something is fastened or connected",
+                "cn": "（用于表示被系住或连接的地方）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The paper was stuck to the wall with tape.",
+                  "cn": "纸张被用胶带贴在了墙上。"
+                },
+                {
+                  "gram": "",
+                  "en": "A fast rail service connects us to the city.",
+                  "cn": "快速铁路把我们和城市连接了起来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FUTURE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before an infinitive, usually with 'be', to indicate a future action",
+                "cn": "（用于不定式前，通常和 be 连用，构成将来时）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The government announced today that it is to cut funding for the arts for next year.",
+                  "cn": "今天政府宣布明年要削减对艺术的资助。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in this pattern to say what someone should do or to give an order",
+                "cn": "（表示命令或指出某人应该做什么）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You're not to (= you must not) bite your nails like that.",
+                  "cn": "你不准那样咬指甲。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "Newspapers often use to + infinitive without 'be' in their headlines (= titles of articles) when reporting planned future events",
+                "cn": "（报纸标题中常用 to + 不定式这种结构，前面不加 be，表示未来计划中的事）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Russia to send troops in.",
+                  "cn": "俄罗斯即将派兵。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSING",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "causing a particular feeling in a particular person",
+                "cn": "令（某人）感到…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That's when I found out, to my amazement, that she was coming here.",
+                  "cn": "令我惊讶的是，那时候我得知她正要到这里来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONSIDERED BY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "considered by",
+                "cn": "对…而言;在…看来"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I realize it may sound strange to you.",
+                  "cn": "我意识到对你而言这听上去可能很奇怪。"
+                },
+                {
+                  "gram": "",
+                  "en": "I mean, £50 is nothing to him (= he would not consider it a large amount).",
+                  "cn": "我的意思是，50英镑对他而言算不了什么。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"I hear you've been going out with Ella.\" \"Yeah, so? What's it to you?\" (= It should not interest you, and you have no right to ask about it.)",
+                  "cn": "“我听说你在和艾拉谈恋爱。”“哟，这和你有什么关系？”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SERVING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "serving",
+                "cn": "为…效力，为…服务"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As a personal trainer to the rich and famous, he earns over a million dollars a year.",
+                  "cn": "他做富人和名流的私人教练一年挣100多万美元。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AGAINST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "against or very near",
+                "cn": "靠着;顶着;非常接近"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Stand back to back.",
+                  "cn": "背靠背站着。"
+                },
+                {
+                  "gram": "",
+                  "en": "They were dancing cheek to cheek.",
+                  "cn": "他们在跳贴面舞。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BELONGING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "matching or belonging to",
+                "cn": "与…相配;属于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My dad gave me the keys to his car.",
+                  "cn": "爸爸把他的车钥匙给了我。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've lost the trousers to this jacket.",
+                  "cn": "我把和这件夹克相配的裤子弄丢了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "having as a characteristic feature",
+                "cn": "有…的特征"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She has a mean side to her.",
+                  "cn": "她性格中有刻薄的一面。"
+                },
+                {
+                  "gram": "",
+                  "en": "There is a very moral tone to this book.",
+                  "cn": "这本书很有道德教育的意味。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHOWING POSITION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to show the position of something or someone in comparison with something or someone else",
+                "cn": "（表示相对位置）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "John's standing to the left of Adrian in the photo.",
+                  "cn": "照片中约翰站在阿德里安的左边。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Yorkshire Dales are twenty miles to the north of the city.",
+                  "cn": "约克郡山谷位于这个城市以北20英里处。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN HONOUR OF",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in honour or memory of",
+                "cn": "为向…表示敬意;为了纪念"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I proposed a toast to the bride and the groom.",
+                  "cn": "我提议为新娘新郎干杯。"
+                },
+                {
+                  "gram": "",
+                  "en": "The record is dedicated to her mother, who died recently.",
+                  "cn": "这张唱片是献给她不久前去世的母亲的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOR EACH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "for each",
+                "cn": "每"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How many dollars are there to the pound?",
+                  "cn": "1英镑等于多少美元？"
+                },
+                {
+                  "gram": "",
+                  "en": "This car does about 40 miles to the gallon.",
+                  "cn": "这辆车每加仑汽油可行驶大约40英里。"
+                },
+                {
+                  "gram": "",
+                  "en": "When we go swimming together I do six lengths to her twelve.",
+                  "cn": "如果我们一起去游泳，她每游12个来回而我只能游6个。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BETWEEN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used in phrases that show a range",
+                "cn": "（用于短语中，表示范围）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There were probably 30 to 35 (= a number between 30 and 35) people there.",
+                  "cn": "那儿可能有30到35个人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AT THE SAME TIME AS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "at the same time as music or other sound",
+                "cn": "与（音乐或其他声音）同时，伴随"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I like exercising to music.",
+                  "cn": "我喜欢跟着音乐做运动。"
+                },
+                {
+                  "gram": "",
+                  "en": "He left the stage to the sound of booing.",
+                  "cn": "他在一片嘘声中离开了舞台。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POSITIVE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "relating to a positive reaction or result",
+                "cn": "适合，符合;利于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When the pasta is done to your liking, drain the water.",
+                  "cn": "把意大利面煮到你认为合适的程度时，倒掉水。"
+                },
+                {
+                  "gram": "",
+                  "en": "I think being at the meeting would be to your advantage.",
+                  "cn": "我认为出席会议会对你有利。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPARED WITH",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "compared with",
+                "cn": "与…相比"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's earning a reasonable wage, but nothing to what she could if she was in the private sector.",
+                  "cn": "她的收入还可以，但如果她在私营企业工作收入会高得多。"
+                },
+                {
+                  "gram": "",
+                  "en": "Paul beat me by three games to two (= he won three and I won two).",
+                  "cn": "保罗以3比2打败了我。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was old enough to be her father - she looked about 30 to his 60.",
+                  "cn": "他老得可以当她的爸爸——她看上去约30岁，而他有60岁。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/tuː/",
+        "us": "/tuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktit/uktitil017.mp3"
+        },
+        "us": {
+          "ipa": "/tuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/to_/to___/to.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "into a closed position",
+                "cn": "关着地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll just push the door to.",
+                  "cn": "我只是要把门推上。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

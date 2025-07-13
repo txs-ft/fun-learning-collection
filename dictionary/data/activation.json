@@ -1,0 +1,53 @@
+{
+  "time": 1752139601505,
+  "title": "activation",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌæk.tɪˈveɪ.ʃən/",
+        "us": "/ˌæk.təˈveɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌæk.tɪˈveɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukact/ukactiv002.mp3"
+        },
+        "us": {
+          "ipa": "/ˌæk.təˈveɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/act/activ/activation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the act of making something start or making it start working",
+                "cn": "激活"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The false activation of an alarm is a serious matter.",
+                  "cn": "误触警报是很严重的事。"
+                },
+                {
+                  "gram": "",
+                  "en": "You will be sent an account activation email.",
+                  "cn": "你会收到一封帐户激活邮件。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

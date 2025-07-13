@@ -1,0 +1,123 @@
+{
+  "time": 1752141275300,
+  "title": "we",
+  "generalBitmask": 256,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "strong /wiː/",
+        "us": "strong /wiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /wiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwax/ukwaxwo014.mp3"
+        },
+        "us": {
+          "ipa": "strong /wiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/we_/we___/we.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used as the subject of a verb to refer to a group including the speaker and at least one other person",
+                "cn": "（用作动词的主语）我们"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can we all go to the swimming pool this afternoon?",
+                  "cn": "我们今天下午能都去游泳吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "If you don't hurry up we'll be late.",
+                  "cn": "你不抓紧的话我们就要迟到了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used by a speaker or a writer to refer to themselves and the people listening or reading",
+                "cn": "（讲话者或作者用来指代自己与听众或读者）我们"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In today's lecture, we will be exploring the world economic situation.",
+                  "cn": "在今天的讲座上，我们要探讨世界经济形势。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALL PEOPLE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used as the subject of a verb to refer to all people, especially when considered as a group",
+                "cn": "（用作动词的主语）所有人;（尤指作为一个整体的）我们"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This planet on which we all live should be cherished and not exploited.",
+                  "cn": "我们生活的这个星球应该受到珍爱，而不该被掠夺。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "YOU",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used as the subject of a verb to mean \"you\", especially when talking to a child or someone who is ill",
+                "cn": "（用作动词的主语，用于对孩子或病人说话时）你，你们"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We don't want to be late for school, do we?",
+                  "cn": "你不想上学迟到，对不对？"
+                },
+                {
+                  "gram": "",
+                  "en": "\"How are we this morning, Mrs Flanagan?\" said the doctor.",
+                  "cn": "“你今天上午感觉怎么样，弗拉纳根太太?”医生说道。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "I",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used by a queen or king when speaking officially to mean \"I\"",
+                "cn": "（女王或国王在正式场合使用）朕，寡人"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

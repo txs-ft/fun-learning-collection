@@ -1,0 +1,158 @@
+{
+  "time": 1752140106382,
+  "title": "champion",
+  "generalBitmask": 519,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈtʃæm.pi.ən/",
+        "us": "/ˈtʃæm.pi.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃæm.pi.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchamo006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃæm.pi.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/champ/champion.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WINNER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "someone or something, especially a person or animal, that has beaten all other competitors in a competition",
+                "cn": "（人或动物）冠军，获胜者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an Olympic champion",
+                  "cn": "奥运会冠军"
+                },
+                {
+                  "gram": "",
+                  "en": "She is the world champion for the third year in succession.",
+                  "cn": "她第3次蝉联世界冠军。"
+                },
+                {
+                  "gram": "",
+                  "en": "The defending champion will play his first match of the tournament tomorrow.",
+                  "cn": "卫冕冠军将在明天参加锦标赛的第一场比赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who are the reigning European football champions?",
+                  "cn": "谁是目前的欧洲足球冠军？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUPPORTER",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a person who enthusiastically supports, defends, or fights for a person, belief, right, or principle",
+                "cn": "拥护者;卫士，捍卫者;斗士"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She has long been a champion of prisoners' rights/the disabled/free speech.",
+                  "cn": "长期以来，她一直是囚犯权利／残疾人利益／言论自由的捍卫者。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈtʃæm.pi.ən/",
+        "us": "/ˈtʃæm.pi.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃæm.pi.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchamo006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃæm.pi.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/champ/champion.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to support, defend, or fight for a person, belief, right, or principle enthusiastically",
+                "cn": "支持，声援;捍卫，为…斗争"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He has championed constitutional reform for many years.",
+                  "cn": "他支持宪法改革好多年了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective, exclamation",
+      "defBitmask": 516,
+      "pron": {
+        "uk": "/ˈtʃæm.pi.ən/",
+        "us": "/ˈtʃæm.pi.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃæm.pi.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchamo006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃæm.pi.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/champ/champion.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "excellent",
+                "cn": "优秀的，第一流的，很好的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

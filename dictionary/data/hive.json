@@ -1,0 +1,67 @@
+{
+  "time": 1752140478987,
+  "title": "hive",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/haɪv/",
+        "us": "/haɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/haɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhiv/ukhive_001.mp3"
+        },
+        "us": {
+          "ipa": "/haɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hiv/hive_/hive.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BEES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a structure where bees live, either built by people or made by the bees themselves",
+                "cn": "蜂巢，蜂窝;蜂群"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Bees naturally attack anything entering their hives.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SKIN CONDITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a condition in which a person's skin develops red raised areas:",
+                "cn": "她吃过草莓之后身上就起了疹子。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She broke out in hives after eating strawberries.",
+                  "cn": "她吃过草莓之后身上就起了疹子。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

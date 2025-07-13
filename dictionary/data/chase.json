@@ -1,0 +1,175 @@
+{
+  "time": 1752140111870,
+  "title": "chase",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/tʃeɪs/",
+        "us": "/tʃeɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʃeɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchary002.mp3"
+        },
+        "us": {
+          "ipa": "/tʃeɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/chase/chase.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FOLLOW",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to hurry after someone or something in order to catch him, her, or it",
+                "cn": "追赶，追逐;追捕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police car was going so fast, it must have been chasing someone.",
+                  "cn": "警车开得这么快，一定是在追捕什么人。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was chasing (after) a man who had snatched her bag.",
+                  "cn": "她在追赶一个抢走她包的男子。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE FAST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to hurry or run in various directions",
+                "cn": "跑来跑去;匆忙赶往"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She couldn't study with the children chasing around the house.",
+                  "cn": "孩子们在房子里跑来跑去，她没法学习。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRY TO GET",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to try to get something that is difficult to get or achieve",
+                "cn": "追求，努力争取"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's depressing how many people there are chasing so few jobs.",
+                  "cn": "这么多人在争夺这么少的几份工作，真是让人沮丧。"
+                },
+                {
+                  "gram": "",
+                  "en": "After years of chasing her dreams, she finally got a part in a film.",
+                  "cn": "追逐自己的梦想这么多年，她终于在一部电影中得到了一个角色。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to try very hard to persuade someone to have a relationship with you",
+                "cn": "追求，向…求爱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's always chasing (after) men.",
+                  "cn": "她总是追求男人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GET RID OF",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to run after a person or an animal in a threatening way in order to make him, her, or it leave",
+                "cn": "驱逐;赶走，撵走"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He used to chase the children away from his apple trees.",
+                  "cn": "他过去常把孩子们从他的苹果树旁赶走。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's always chasing cats out of the garden to protect her precious birds.",
+                  "cn": "她总是把猫赶出花园，以保护她那些珍贵的小鸟。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/tʃeɪs/",
+        "us": "/tʃeɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʃeɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcha/ukchary002.mp3"
+        },
+        "us": {
+          "ipa": "/tʃeɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cha/chase/chase.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the act of going after someone or something very quickly in order to catch him, her, or it",
+                "cn": "追赶，追逐;追捕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a tedious movie with endless car/police chases",
+                  "cn": "充斥着没完没了追车／警察追捕场面的乏味电影"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

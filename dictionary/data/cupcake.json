@@ -1,0 +1,42 @@
+{
+  "time": 1752140197105,
+  "title": "cupcake",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkʌp.keɪk/",
+        "us": "/ˈkʌp.keɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʌp.keɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcun/ukcunt_004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʌp.keɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cup/cupca/cupcake.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small cake with icing on top",
+                "cn": "纸杯蛋糕"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

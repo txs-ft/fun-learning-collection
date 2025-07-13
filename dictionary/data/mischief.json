@@ -1,0 +1,82 @@
+{
+  "time": 1752140662810,
+  "title": "mischief",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmɪs.tʃɪf/",
+        "us": "/ˈmɪs.tʃɪf/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɪs.tʃɪf/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmir/ukmirro029.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɪs.tʃɪf/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mis/misch/mischief.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "behaviour, especially a child's, that is slightly bad but is not intended to cause serious harm or damage",
+                "cn": "（尤指儿童的）恶作剧，淘气，捣蛋"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's a lively little girl, full of mischief.",
+                  "cn": "她是一个活泼好动的小姑娘，特别爱淘气。"
+                },
+                {
+                  "gram": "",
+                  "en": "He needs a hobby to keep him busy and stop him from getting into mischief.",
+                  "cn": "他需要培养一个爱好让他有事可忙，不再调皮捣蛋。"
+                },
+                {
+                  "gram": "",
+                  "en": "Maybe a new bike would keep him out of mischief.",
+                  "cn": "也许一辆新自行车会让他不再淘气。"
+                },
+                {
+                  "gram": "",
+                  "en": "I hope you haven't been up to any mischief while I was gone.",
+                  "cn": "我希望我不在时你没有搞什么恶作剧。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "damage or harm, or an act that causes damage or harm",
+                "cn": "损害；伤害；危害"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "criminal mischief",
+                  "cn": "刑事毁坏"
+                },
+                {
+                  "gram": "",
+                  "en": "The country should try to remedy its past mischiefs.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

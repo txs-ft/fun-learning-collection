@@ -1,0 +1,214 @@
+{
+  "time": 1752140491719,
+  "title": "ice",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/aɪs/",
+        "us": "/aɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhyp/ukhypot015.mp3"
+        },
+        "us": {
+          "ipa": "/aɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ice/ice__/ice.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FROZEN WATER",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "water that has frozen and become solid, or pieces of this",
+                "cn": "冰;冰块"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The pond was covered in ice all winter.",
+                  "cn": "这个池塘整个冬天都结着冰。"
+                },
+                {
+                  "gram": "",
+                  "en": "Would you like ice in your juice?",
+                  "cn": "你的果汁里要加冰块吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He slipped on a patch of ice.",
+                  "cn": "他在一块冰上滑了一下。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ICE CREAM",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an ice cream, especially one bought in a shop",
+                "cn": "（尤指从商店买的）冰激凌"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The shop sign said \"Drinks, Cakes, Ices!\"",
+                  "cn": "商店的招牌上写着：“饮料、糕点、冰激凌！”。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "JEWELLERY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "jewellery, especially diamonds",
+                "cn": "珠宝（尤指钻石）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/aɪs/",
+        "us": "/aɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhyp/ukhypot015.mp3"
+        },
+        "us": {
+          "ipa": "/aɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/ice/ice__/ice.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COVER CAKES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cover a cake with icing (= a food made mainly with sugar)",
+                "cn": "给（糕点）覆糖衣"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've made her a chocolate cake - now I just need to ice it.",
+                  "cn": "我为她做了一个巧克力蛋糕，现在只需要加上糖衣。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "KILL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to murder someone",
+                "cn": "谋杀"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/aɪs/",
+        "us": "/aɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo03/cdo0319ukice0842.mp3"
+        },
+        "us": {
+          "ipa": "/aɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0319usice0939.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "US LAW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for Immigration and Customs Enforcement: the US government department that is responsible for making sure that laws on who is allowed to enter, stay in, and work in the US and what is allowed to be brought across US borders are obeyed",
+                "cn": "（美国）移民及海关执法局（Immigration and Customs Enforcement 的缩写）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The senator urged ICE not to deport the woman, who has four young children.",
+                  "cn": "这位参议员呼吁移民及海关执法局不要驱逐这名有四个年幼孩子的妇女。"
+                },
+                {
+                  "gram": "",
+                  "en": "In a raid by ICE agents on a clothing manufacturer, more than 100 workers were arrested on immigration-related offences.",
+                  "cn": "在移民及海关执法局对一家服装厂的突击搜查中，100多名工人因与移民有关的罪行被捕。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ON PHONE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for In Case of Emergency: used as a name for a number stored on a person's mobile phone that other people should call if the person is seriously ill or injured",
+                "cn": "紧急情况联系人（In Case of Emergency 的缩写，用作储存在手机上的一个号码的名字，如果手机主人突发疾病或受伤，其他人可以拨打这个号码）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The idea of ICE took off after the 7 July 2005 London bombings.",
+                  "cn": "“紧急情况联系人”这个做法是在伦敦七七爆炸案之后开始广泛使用的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Some handsets provide access to a list of ICE contacts directly from the \"locked\" screen.",
+                  "cn": "有些手机允许在屏幕“锁定”的情况下直接进入紧急情况联系人列表。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

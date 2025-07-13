@@ -1,0 +1,213 @@
+{
+  "time": 1752140126779,
+  "title": "clock",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/klɒk/",
+        "us": "/klɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcli/ukclipp014.mp3"
+        },
+        "us": {
+          "ipa": "/klɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clo/clock/clock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a device for measuring and showing time, usually found in or on a building and not worn by a person",
+                "cn": "钟表，时钟"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We have an antique clock on our mantelpiece.",
+                  "cn": "我们家的壁炉架上有一只老式钟表。"
+                },
+                {
+                  "gram": "",
+                  "en": "The town-hall clock says (= shows that the time is) nine o'clock.",
+                  "cn": "市政厅的大钟指向了9点。"
+                },
+                {
+                  "gram": "",
+                  "en": "I think the kitchen clock is fast/slow (= is showing a later/earlier time than it should).",
+                  "cn": "我觉得厨房的钟表快／慢了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The clock began to strike twelve.",
+                  "cn": "时钟敲响12点。"
+                },
+                {
+                  "gram": "",
+                  "en": "She set her clock (= put it to the right time) by the time signal on the radio.",
+                  "cn": "她根据收音机上的报时信号对表。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to change the time on your clocks to an hour earlier, at an officially chosen time of year:",
+                "cn": "今晚别忘了把钟拨慢一小时。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't forget to turn the clocks back tonight.",
+                  "cn": "今晚别忘了把钟拨慢一小时。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to change the time on your clocks to an hour later, at an officially chosen time of year:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We turn the clocks forward today, so our children will be short of sleep.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPEED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a speedometer (= a device that measures speed)",
+                "cn": "速度计"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was only doing 30 mph on the clock.",
+                  "cn": "速度表上显示我的车速只有每小时30英里。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a milometer (= a device for recording distance travelled)",
+                "cn": "里程表，计程器"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My car's only got 10,000 miles on the clock.",
+                  "cn": "根据里程表，我的车才跑了1万英里。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/klɒk/",
+        "us": "/klɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcli/ukclipp014.mp3"
+        },
+        "us": {
+          "ipa": "/klɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clo/clock/clock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to take a particular time exactly to do or complete something",
+                "cn": "用时;达到（某一时间）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He clocked ten seconds in the 100 metres (= he ran it in ten seconds).",
+                  "cn": "他100米跑了10秒。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPEED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to show or reach a particular speed or distance on a measuring device",
+                "cn": "显示，达到（某一速度或里程）"
+              },
+              "examples": [
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "The police clocked him doing 80 mph in a 50 mph area.",
+                  "cn": "警察测出他在限速每小时50英里的地区开到了时速80英里。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jim's car has clocked (up) (= travelled) 40,000 miles in less than two years.",
+                  "cn": "吉姆的车不到两年跑了4万英里。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HIT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to hit someone, especially on the head or face",
+                "cn": "打，揍，击（尤指头部或脸部）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Then the other guy turned round and clocked him one (= hit him).",
+                  "cn": "这时，另一个家伙转过身来揍了他一顿。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "time": 1752139970230,
+  "title": "being",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈbiː.ɪŋ/",
+        "us": "/ˈbiː.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbiː.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbeg/ukbegui021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbiː.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bei/being/being.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a person or thing that exists",
+                "cn": "生命，生物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A nuclear war would kill millions of living beings.",
+                  "cn": "一场核战争会夺去数百万人的生命。"
+                },
+                {
+                  "gram": "",
+                  "en": "Strange beings from outer space are still a popular subject for sci-fi movies.",
+                  "cn": "外星人仍是许多科幻电影流行的主题。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the state of existing",
+                "cn": "存在；生存"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We do not know exactly how life first came into being (= began to exist.)",
+                  "cn": "我们不知道生命最初究竟是如何诞生的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

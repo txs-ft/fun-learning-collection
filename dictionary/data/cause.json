@@ -1,0 +1,203 @@
+{
+  "time": 1752140101388,
+  "title": "cause",
+  "generalBitmask": 35,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kɔːz/",
+        "us": "/kɑːz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kɔːz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcat/ukcatsu018.mp3"
+        },
+        "us": {
+          "ipa": "/kɑːz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cau/cause/cause.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "REASON",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the reason why something, especially something bad, happens",
+                "cn": "（尤指不好的事情发生的）原因，起因"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police are still trying to establish the cause of the fire.",
+                  "cn": "警方仍在努力查证失火的原因。"
+                },
+                {
+                  "gram": "",
+                  "en": "She had died of natural causes.",
+                  "cn": "她是自然死亡。"
+                },
+                {
+                  "gram": "",
+                  "en": "I wouldn't tell you without (good) cause (= if there was not a (good) reason).",
+                  "cn": "没有（正当的）理由，我是不会告诉你的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I believe we have/there is just cause (= a fair reason) for taking this action.",
+                  "cn": "我认为我们采取这样的行动有正当的理由。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a reason to feel something or to behave in a particular way",
+                "cn": "理由；根据；缘故"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's never given me any cause for concern.",
+                  "cn": "他从未让我担心过。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRINCIPLE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a socially valuable principle that is strongly supported by some people",
+                "cn": "（为某些人所强烈支持的）原则，事业，目标"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They are fighting for a cause - the liberation of their people.",
+                  "cn": "他们正为解放人民这一事业而战斗。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll sponsor you for £10 - it's all in a good cause.",
+                  "cn": "我资助你10英镑——这都是为了做正经事嘛。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kɔːz/",
+        "us": "/kɑːz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kɔːz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcat/ukcatsu018.mp3"
+        },
+        "us": {
+          "ipa": "/kɑːz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cau/cause/cause.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to make something happen, especially something bad",
+                "cn": "使（不好的事情）发生；造成，导致"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The difficult driving conditions caused several accidents.",
+                  "cn": "艰难的驾驶条件引发了好几起事故。"
+                },
+                {
+                  "gram": "[ + obj + to infinitive  ]",
+                  "en": "The bright light caused her to blink.",
+                  "cn": "明亮的光线刺得她直眨眼睛。"
+                },
+                {
+                  "gram": "",
+                  "en": "Most heart attacks are caused by blood clots.",
+                  "cn": "大多数心脏病发作都是由于血液凝块所致。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "I hope the children haven't caused you too much trouble.",
+                  "cn": "我希望孩子们没给你添太多麻烦。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/kɒz/",
+        "us": "/kɑːz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kɒz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcat/ukcatsu018.mp3"
+        },
+        "us": {
+          "ipa": "/kɑːz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cau/cause/cause.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "because",
+                "cn": "因为，由于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll host the party cause I've got plenty of room at my house.",
+                  "cn": "因为我家地方大，所以将由我来举办聚会。"
+                },
+                {
+                  "gram": "",
+                  "en": "I try to practise my French every day, cause I'm not very good at it.",
+                  "cn": "我的法语不太好，所以我尽可能地天天练习。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

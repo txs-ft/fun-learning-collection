@@ -1,0 +1,109 @@
+{
+  "time": 1752140747487,
+  "title": "novel",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈnɒv.əl/",
+        "us": "/ˈnɑː.vəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnɒv.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknot/uknotif020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnɑː.vəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/nov/novel/novel.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a long printed story about imaginary characters and events",
+                "cn": "（长篇）小说"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a paperback novel",
+                  "cn": "平装小说"
+                },
+                {
+                  "gram": "",
+                  "en": "historical/romantic novels",
+                  "cn": "历史／爱情小说"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you read any of Jane Austen's novels?",
+                  "cn": "你读过简‧奥斯汀的小说吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "His latest novel is selling really well.",
+                  "cn": "他的最新小说非常畅销。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈnɒv.əl/",
+        "us": "/ˈnɑː.vəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnɒv.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknot/uknotif020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnɑː.vəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/nov/novel/novel.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "new and original, not like anything seen before",
+                "cn": "新颖的，新奇的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a novel idea/suggestion",
+                  "cn": "新颖的观点／建议"
+                },
+                {
+                  "gram": "",
+                  "en": "Keeping a sheep in the garden is a novel way of keeping the grass short!",
+                  "cn": "在花园里养只羊来阻止草长高，这办法可真新奇！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

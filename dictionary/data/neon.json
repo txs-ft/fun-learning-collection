@@ -1,0 +1,48 @@
+{
+  "time": 1752140697996,
+  "title": "neon",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈniː.ɒn/",
+        "us": "/ˈniː.ɑːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈniː.ɒn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/ukneg/uknegot023.mp3"
+        },
+        "us": {
+          "ipa": "/ˈniː.ɑːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/neo/neon_/neon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a chemical element that is a gas with no smell or colour, does not react with other chemicals, and shines red when an electric current goes through it",
+                "cn": "氖，氖气"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a neon light/sign",
+                  "cn": "霓虹灯／霓虹灯广告牌"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

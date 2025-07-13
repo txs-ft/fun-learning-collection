@@ -1,0 +1,143 @@
+{
+  "time": 1752140073874,
+  "title": "cake",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/keɪk/",
+        "us": "/keɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/keɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcaj/ukcajun002.mp3"
+        },
+        "us": {
+          "ipa": "/keɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cak/cake_/cake.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FOOD",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a sweet food made with a mixture of flour, eggs, fat, and sugar",
+                "cn": "蛋糕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would you like a piece of/a slice of/some cake?",
+                  "cn": "你想来块／片／些蛋糕吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "chocolate/sponge cake",
+                  "cn": "巧克力／海绵蛋糕"
+                },
+                {
+                  "gram": "",
+                  "en": "a birthday/Christmas cake",
+                  "cn": "生日／圣诞蛋糕"
+                },
+                {
+                  "gram": "",
+                  "en": "cream cakes",
+                  "cn": "奶油蛋糕"
+                },
+                {
+                  "gram": "",
+                  "en": "He made/baked a delicious cake.",
+                  "cn": "他做／烤了个美味的蛋糕。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHAPE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small flat object made by pressing together a soft substance",
+                "cn": "饼状物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "fish/potato cakes",
+                  "cn": "鱼／土豆饼"
+                },
+                {
+                  "gram": "",
+                  "en": "a cake of soap",
+                  "cn": "一块肥皂"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/keɪk/",
+        "us": "/keɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/keɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcaj/ukcajun002.mp3"
+        },
+        "us": {
+          "ipa": "/keɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cak/cake_/cake.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cover something or someone thickly with a substance that then dries out",
+                "cn": "（用会变干的东西厚厚地）覆盖;（使）结块;凝结"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The men were caked in layers of filth and grime.",
+                  "cn": "这些男人身上积了一层层污垢。"
+                },
+                {
+                  "gram": "",
+                  "en": "boots caked with mud",
+                  "cn": "粘着泥块的靴子"
+                },
+                {
+                  "gram": "",
+                  "en": "She said that if your intestines are caked up with stuff, most of what you eat is not going to get through.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

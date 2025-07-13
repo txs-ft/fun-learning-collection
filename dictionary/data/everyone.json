@@ -1,0 +1,83 @@
+{
+  "time": 1752140275205,
+  "title": "everyone",
+  "generalBitmask": 256,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "/ˈev.ri.wʌn/",
+        "us": "/ˈev.ri.wʌn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈev.ri.wʌn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukeve/ukeve__021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈev.ri.wʌn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eve/every/everyone.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "every person",
+                "cn": "每个人，人人;所有人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would everyone who wishes to attend the dinner let me know by Friday afternoon?",
+                  "cn": "想去参加晚宴的人请在周五下午前通知我好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Everyone has their own ideas about the best way to bring up children.",
+                  "cn": "对什么是养育孩子的最佳方式，每个人都有自己的看法。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've received replies from everybody but Jane.",
+                  "cn": "除了简，所有人都给了我回复。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you agree with the principle that everyone should pay something towards the cost of health care?",
+                  "cn": "每个人都要承担一些卫生保健费用，这个原则你赞同吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Everyone knows who stole it, but they're all afraid to tell anyone.",
+                  "cn": "大家都知道是谁偷的，但都不敢跟别人说。"
+                },
+                {
+                  "gram": "",
+                  "en": "Everyone involved in the accident has been questioned by the police.",
+                  "cn": "事故牵涉到的每个人都被警方盘问过。"
+                },
+                {
+                  "gram": "",
+                  "en": "Goodbye, everybody - I'll see you next week.",
+                  "cn": "各位，再会——下周见。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm sorry, but you'll just have to wait your turn like everybody else.",
+                  "cn": "对不起，你得和其他人一样等着，按顺序来。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

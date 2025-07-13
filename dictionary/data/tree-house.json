@@ -1,0 +1,48 @@
+{
+  "time": 1752397244051,
+  "title": "tree house",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈtriː ˌhaʊs/",
+        "us": "/ˈtriː ˌhaʊs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtriː ˌhaʊs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka35/uka35633.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtriː ˌhaʊs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa35/usa35633.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small building, structure, or shelter built among the branches of a tree",
+                "cn": "树上小屋"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I spent hours in our tree house when I was a kid.",
+                  "cn": "孩提时代，我在树屋里一玩就是几个小时。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

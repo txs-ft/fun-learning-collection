@@ -1,0 +1,72 @@
+{
+  "time": 1752139753186,
+  "title": "artist",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈɑː.tɪst/",
+        "us": "/ˈɑːr.t̬ɪst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑː.tɪst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukart/ukartic015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɑːr.t̬ɪst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/art/artis/artist.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "someone who paints, draws, or makes sculptures",
+                "cn": "艺术家;美术家;画家;雕塑家"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Monet is one of my favourite artists.",
+                  "cn": "莫奈是我最喜欢的画家之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "The artist painted this picture using tiny brushstrokes.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who creates things with great skill and imagination",
+                "cn": "高手;大师;技艺高超的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He described her as one of the greatest film artists of the 20th century.",
+                  "cn": "他称她为20世纪最伟大的电影艺术家之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "In the kitchen, he is an artist.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

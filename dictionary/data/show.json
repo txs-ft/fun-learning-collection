@@ -1,0 +1,613 @@
+{
+  "time": 1752140990577,
+  "title": "show",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ʃəʊ/",
+        "us": "/ʃoʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃəʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshove003.mp3"
+        },
+        "us": {
+          "ipa": "/ʃoʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/show_/show.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKE SEEN",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to make it possible for something to be seen",
+                "cn": "给…看；出示；显示"
+              },
+              "examples": [
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "Let me show you this new book I've just bought.",
+                  "cn": "给你看看我刚买的这本新书。"
+                },
+                {
+                  "gram": "",
+                  "en": "On this map, urban areas are shown in grey.",
+                  "cn": "在这张地图上，城区用灰色表示。"
+                },
+                {
+                  "gram": "",
+                  "en": "You ought to show that rash to your doctor.",
+                  "cn": "你应该让医生看看那些皮疹。"
+                },
+                {
+                  "gram": "[ + obj + question word  ]",
+                  "en": "Why won't you show me what's in your hand?",
+                  "cn": "为什么不让我看你手里的东西？"
+                },
+                {
+                  "gram": "[ + obj + -ing verb  ]",
+                  "en": "The secretly filmed video shows the prince and princess kissing.",
+                  "cn": "秘密拍摄的录像中出现了王子和王妃接吻的画面。"
+                },
+                {
+                  "gram": "",
+                  "en": "These photographs show the effects of the chemical on the trees.",
+                  "cn": "这些照片显示了这种化学品对树木的影响。"
+                },
+                {
+                  "gram": "",
+                  "en": "He began to show signs of recovery.",
+                  "cn": "他开始出现了好转的迹象。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"This is a Victorian gold coin.\" \"Is it? Show me (= allow me to see it).\"",
+                  "cn": "“我这里有一枚维多利亚时代金币。”“真的吗？让我看看。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RECORD",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to record or express a number or measurement",
+                "cn": "记录，显示（数字或测量值）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The right-hand dial shows the temperature, and the left-hand one shows the air pressure.",
+                  "cn": "右面的刻度盘显示温度，左面的刻度盘显示气压。"
+                },
+                {
+                  "gram": "",
+                  "en": "The company showed a loss of $2 million last year.",
+                  "cn": "该公司去年亏损了200万英镑。"
+                },
+                {
+                  "gram": "",
+                  "en": "The latest crime figures show a sharp rise in burglaries.",
+                  "cn": "最新的犯罪数据表明，入室盗窃案急剧增加。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPLAIN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to explain something to someone, by doing it or by giving instructions or examples",
+                "cn": "（通过演示、示范）解释，说明"
+              },
+              "examples": [
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Can you show me how to set the DVD player?",
+                  "cn": "你能教我如何设置DVD播放机吗?"
+                },
+                {
+                  "gram": "",
+                  "en": "This dictionary contains many examples that show how words are actually used.",
+                  "cn": "这本词典包括许多说明单词实际用法的例子。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you show me the way to the bus station?",
+                  "cn": "你能告诉我去公共汽车站怎么走吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PROVE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to prove something or make the truth or existence of something known",
+                "cn": "证明；表明"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She has shown herself (to be) a highly competent manager.",
+                  "cn": "她已经证明了自己是一个非常有能力的管理者。"
+                },
+                {
+                  "gram": "",
+                  "en": "His diaries show him to have been an extremely insecure person.",
+                  "cn": "他的日记表明他一直是一个极不自信的人。"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "The diaries show (that) he was very insecure.",
+                  "cn": "日记表明他曾经极不自信。"
+                },
+                {
+                  "gram": "",
+                  "en": "Show me (that) I can trust you.",
+                  "cn": "证明给我看，让我可以相信你。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Our research has shown (us) how little we know about this disease.",
+                  "cn": "我们的研究表明，我们对这种疾病知之甚少。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPRESS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to express ideas or feelings using actions or words",
+                "cn": "表达；表现"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He finds it difficult to show affection.",
+                  "cn": "他发现表达爱意很难。"
+                },
+                {
+                  "gram": "",
+                  "en": "She showed enormous courage when she rescued him from the fire.",
+                  "cn": "她把他从火里救出来时，表现出了极大的勇气。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "You should show your parents more respect/show more respect to your parents.",
+                  "cn": "你应该对你的父母更尊重一些。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOTICEABLE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to be easy to see or notice",
+                "cn": "显眼;容易看到（或注意到）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Oh no, I've spilled red wine on my jacket!\" \"Don't worry, it doesn't show.\"",
+                  "cn": "“啊，不好，我把葡萄酒洒到夹克上了！”“没事儿，看不出来。”"
+                },
+                {
+                  "gram": "",
+                  "en": "Whatever she's thinking, she never lets it show.",
+                  "cn": "不管她在想什么，她都从不表现出来。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've painted over the graffiti twice, but it still shows through.",
+                  "cn": "我已把这些涂鸦粉刷过两遍了，可是仍然能看出来。"
+                },
+                {
+                  "gram": "",
+                  "en": "The drug does not show up in blood tests because it is effective in very small quantities.",
+                  "cn": "血液检验不会发现这些药物，因为只需极小的剂量它就能发挥作用。"
+                },
+                {
+                  "gram": "",
+                  "en": "When we moved in, the house hadn't been decorated for 20 years, and it showed.",
+                  "cn": "我们搬进去时，那房子已有20年没有装修过了，这能看得出来。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to look as old as you really are",
+                "cn": "显出老态;显出真实年龄"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Recently, he's really starting to show his age.",
+                  "cn": "最近，他真的开始显出老态了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUBLIC EVENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make an artist's work available for the public to see",
+                "cn": "展出，展览，陈列（艺术作品）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Our aim is to make it easier for young unknown artists to show their work.",
+                  "cn": "我们的目的是方便不知名的年轻艺术家展出他们的作品。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a cinema or television station shows a film or programme, or if a film or programme is showing somewhere, you can see it there.",
+                "cn": "放映;播出;演出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's the first time this movie has been shown on television.",
+                  "cn": "这是该电影首次在电视上播出。"
+                },
+                {
+                  "gram": "",
+                  "en": "Now showing at a cinema near you!",
+                  "cn": "各大影院正在上映！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ARRIVE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to \nshow up informal",
+                "cn": "到达;露面（同 show up）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "LEAD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to take someone somewhere by going there with them",
+                "cn": "给…带路，带领"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you show Dr Sanchez into the living room?",
+                  "cn": "你能领桑切斯博士去起居室吗?"
+                },
+                {
+                  "gram": "",
+                  "en": "The waiter showed us to our table.",
+                  "cn": "服务员领我们到餐桌前。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FAIL TO HIDE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to fail to hide something, or to make it possible to see or know something that is not intended to be seen or known",
+                "cn": "露出，显露"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Your shirt's so thin that it shows your bra.",
+                  "cn": "你的衬衫太薄，里面的胸罩都透出来了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Light-coloured carpets show the dirt.",
+                  "cn": "浅色地毯不耐脏。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "His failure in the exams shows (up) just how bad his teachers are.",
+                  "cn": "他考试未获通过，这恰恰表明他的老师们有多么糟糕。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MAKE UNDERSTAND",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make someone understand something by directing their attention to it",
+                "cn": "指明；指出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can you show me where it hurts?",
+                  "cn": "你能指给我看哪里疼吗?"
+                },
+                {
+                  "gram": "",
+                  "en": "Show me which one you want.",
+                  "cn": "指给我看你想要哪一个。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ʃəʊ/",
+        "us": "/ʃoʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃəʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshove003.mp3"
+        },
+        "us": {
+          "ipa": "/ʃoʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/show_/show.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ENTERTAINMENT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a theatre performance or a television or radio programme that is entertaining rather than serious",
+                "cn": "演出;节目"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a radio/television/stage show",
+                  "cn": "电台节目／电视节目／舞台演出"
+                },
+                {
+                  "gram": "",
+                  "en": "a quiz/game show",
+                  "cn": "智力竞赛／游戏节目"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't we go to London on Saturday and see a show?",
+                  "cn": "我们星期六为什么不去伦敦看场演出呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "We had to raise £60,000 to stage the show.",
+                  "cn": "我们得筹集6万英镑来上演该剧。"
+                },
+                {
+                  "gram": "",
+                  "en": "We had a puppet show for Jamie's birthday party.",
+                  "cn": "我们在杰米的生日聚会上看了一场木偶戏。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUBLIC EVENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an event at which a group of related things are available for the public to look at",
+                "cn": "展出，展览"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a fashion/flower show",
+                  "cn": "时装／花卉展"
+                },
+                {
+                  "gram": "",
+                  "en": "There were some amazing new cars at the motor show.",
+                  "cn": "车展上展出了一些令人惊叹的新车型。"
+                },
+                {
+                  "gram": "",
+                  "en": "They put on a retrospective show of his work at the National Museum of American Art.",
+                  "cn": "他们在美国国家艺术博物馆为他举行了一次作品回顾展。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "Something that is on show has been made available for the public to look at.",
+                "cn": "在展出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her sculptures will be on show at the museum until the end of the month.",
+                  "cn": "她的雕塑作品将会在博物馆中展览至月底。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPRESSION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an action that makes other people know what your feelings, beliefs, or qualities are",
+                "cn": "表达；表现；显示"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In a show of solidarity, the management and workers have joined forces to campaign against the closure of the factory.",
+                  "cn": "管理层和工人们团结一致，共同反对关闭工厂。"
+                },
+                {
+                  "gram": "",
+                  "en": "Over 100 military vehicles paraded through the capital in a show of strength.",
+                  "cn": "100多辆军车列队驶过首都以展示实力。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an activity or piece of work that appears to be done with great, little, etc. effort",
+                "cn": "良好／不好（等等）的表现"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She may not have won, but she certainly put up a good show.",
+                  "cn": "尽管她没有获胜，但的确表现不俗。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FALSE APPEARANCE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an appearance of something that is not really sincere or real",
+                "cn": "装出的样子;假象"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Despite its public show of unity, the royal family had its share of disagreements just like any other.",
+                  "cn": "尽管在公众面前表现得很团结，实际上王室和其他家庭一样也存在着分歧。"
+                },
+                {
+                  "gram": "",
+                  "en": "They put on a show of being interested, but I don't think they really were.",
+                  "cn": "他们假装很感兴趣，但我认为其实并非如此。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "Something that is for show has no practical value and is used only to improve the appearance of something else.",
+                "cn": "装装门面；作为摆设"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do the lights on this phone have any useful function or are they just/only for show?",
+                  "cn": "电话上的灯是有什么实际用处呢，还是仅仅作为装饰？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACTIVITY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an activity, business, or organization, considered in relation to who is managing it",
+                "cn": "活动；事务；机构"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Who will run the show when Meg retires?",
+                  "cn": "梅格退休后谁来负责此事？"
+                },
+                {
+                  "gram": "",
+                  "en": "The wedding is their show - let them do it their way.",
+                  "cn": "婚礼是他们的事——让他们按自己的方式办吧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BLOOD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small amount of blood and mucus (= thick liquid) that comes out of the vagina at the start of labour (= the process of giving birth)",
+                "cn": "（分娩时的）见红，血先露"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the bloody show",
+                  "cn": "见红"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

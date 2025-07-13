@@ -1,0 +1,224 @@
+{
+  "time": 1752140940341,
+  "title": "room",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ruːm/",
+        "us": "/ruːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ruːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukroo/ukrooke003.mp3"
+        },
+        "us": {
+          "ipa": "/ruːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/roo/room_/room.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PLACE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a part of the inside of a building that is separated from other parts by walls, floor, and ceiling",
+                "cn": "房间，室"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I like this room - it has plenty of light.",
+                  "cn": "我喜欢这个房间——光线非常充足。"
+                },
+                {
+                  "gram": "",
+                  "en": "I could hear people talking in the next room.",
+                  "cn": "我能听见隔壁房间里的说话声。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's waiting for you in the conference room upstairs.",
+                  "cn": "她在楼上会议室等你。"
+                },
+                {
+                  "gram": "",
+                  "en": "The whole room (= all the people in the room) turned and looked at her.",
+                  "cn": "整个房间里的人都扭过头来看她。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a bedroom",
+                "cn": "卧室"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's upstairs in her room.",
+                  "cn": "她在楼上自己房间里。"
+                },
+                {
+                  "gram": "",
+                  "en": "Go tidy your room, or you can't watch TV tonight.",
+                  "cn": "去整理你的房间，不然今晚不能看电视。"
+                },
+                {
+                  "gram": "",
+                  "en": "a single/double room (= a bedroom for one person/two people)",
+                  "cn": "单／双人房"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used as a combining form in the names of particular rooms",
+                "cn": "（用于合成词中）房间，室，厅"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bedroom",
+                  "cn": "卧室"
+                },
+                {
+                  "gram": "",
+                  "en": "a bathroom",
+                  "cn": "浴室"
+                },
+                {
+                  "gram": "",
+                  "en": "a dining room",
+                  "cn": "餐厅"
+                },
+                {
+                  "gram": "",
+                  "en": "a living room",
+                  "cn": "客厅"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a set of rented rooms, especially in a college or university:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "These were his rooms when he was studying here.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPACE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the amount of space that someone or something needs",
+                "cn": "空间，空地方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That sofa would take up too much room in the flat.",
+                  "cn": "那个沙发放在公寓房中太占空间。"
+                },
+                {
+                  "gram": "",
+                  "en": "James took the books off the little table to make room for the television.",
+                  "cn": "詹姆斯拿走了小桌上的书，腾出地方来放电视。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's fainted! Don't crowd him - give him room.",
+                  "cn": "他昏倒了！别围在他旁边——给他让出点地方来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is there (enough/any) room for me in the car?",
+                  "cn": "我还能坐进车里去吗／车里还有我坐的地方吗？"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "There's hardly room to move in here.",
+                  "cn": "这里面挤得几乎动都动不了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "opportunity for doing something",
+                "cn": "机会；余地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I feel the company has little room for/to manoeuvre.",
+                  "cn": "我觉得公司几乎没有回旋的余地。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ruːm/",
+        "us": "/ruːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ruːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukroo/ukrooke003.mp3"
+        },
+        "us": {
+          "ipa": "/ruːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/roo/room_/room.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to rent a room from someone, or share a rented room with someone",
+                "cn": "租住;（与某人）合租"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At college he rooms with this guy from Nebraska.",
+                  "cn": "在大学里他和这个来自内布拉斯加州的小伙子是室友。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

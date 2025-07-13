@@ -1,0 +1,345 @@
+{
+  "time": 1752140071349,
+  "title": "by",
+  "generalBitmask": 24,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/baɪ/",
+        "us": "/baɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/baɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbut/ukbutte013.mp3"
+        },
+        "us": {
+          "ipa": "/baɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/buy/buy__/buy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "AGENT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to show the person or thing that does something",
+                "cn": "（用于表示动作的施动者）被，由"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The motorcycle was driven by a tiny bald man.",
+                  "cn": "那辆摩托车由一个秃顶的小个子男人驾驶。"
+                },
+                {
+                  "gram": "",
+                  "en": "We were amazed by what she told us.",
+                  "cn": "我们对她所说的事感到很惊讶。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm reading some short stories (written) by Chekhov.",
+                  "cn": "我在读契诃夫写的一些短篇小说。"
+                },
+                {
+                  "gram": "",
+                  "en": "The book was translated by a well-known author.",
+                  "cn": "这本书是由一位著名作家翻译的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I felt frightened by the anger in his voice.",
+                  "cn": "我被他声音中的怒气吓坏了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "METHOD",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to show how something is done",
+                "cn": "（用于表示方式）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They travelled across Europe by train/car.",
+                  "cn": "他们乘火车／开汽车在欧洲旅行。"
+                },
+                {
+                  "gram": "",
+                  "en": "She did the decorating (all) by herself (= alone, without help from anyone).",
+                  "cn": "所有装饰都是她一人做的。"
+                },
+                {
+                  "gram": "",
+                  "en": "We went in by (= through) the front door.",
+                  "cn": "我们是从前门进去的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you want to be paid in cash or by cheque?",
+                  "cn": "你想拿现金还是支票？"
+                },
+                {
+                  "gram": "",
+                  "en": "He learned English by listening to the radio.",
+                  "cn": "他通过听收音机来学习英语。"
+                },
+                {
+                  "gram": "",
+                  "en": "Suddenly, she grabbed him by the arm (= took hold of this part of his body).",
+                  "cn": "突然，她抓住了他的手臂。"
+                },
+                {
+                  "gram": "",
+                  "en": "I refuse to live by (= following) their rules.",
+                  "cn": "我拒绝遵守他们的规矩。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POSITION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "near or at the side of",
+                "cn": "在…旁边，在…附近"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A small child stood sullenly by her side.",
+                  "cn": "一个小孩闷闷不乐地站在她身边。"
+                },
+                {
+                  "gram": "",
+                  "en": "He wanted to keep her close by him always.",
+                  "cn": "他想让她一直呆在自己身边。"
+                },
+                {
+                  "gram": "",
+                  "en": "The policewoman walked by (= past) them without saying a word.",
+                  "cn": "那个女警察没说一句话就从他们身边走过去了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT LATER THAN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "not later than; at or before",
+                "cn": "不迟于;早于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She had promised to be back by five o'clock.",
+                  "cn": "她答应过5点前回来。"
+                },
+                {
+                  "gram": "",
+                  "en": "The application must be in by the 31st to be accepted.",
+                  "cn": "申请必须在31号之前到达才会被接受。"
+                },
+                {
+                  "gram": "",
+                  "en": "By the time I got to the station the train had already gone.",
+                  "cn": "等我到达火车站时，火车已经开走了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEASUREMENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to show measurements or amounts",
+                "cn": "（用于表示度量或数量）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Our office floor space measured twelve metres by ten (= was twelve metres in one direction and ten in the other).",
+                  "cn": "我们办公室的面积为12乘10米。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their wages were increased by 15 percent.",
+                  "cn": "他们的工资上涨了15%。"
+                },
+                {
+                  "gram": "",
+                  "en": "Freelance workers are paid by the hour (= for every hour they work).",
+                  "cn": "自由职业者按小时领取报酬。"
+                },
+                {
+                  "gram": "",
+                  "en": "These phones have sold by the thousand (= several thousand have been sold).",
+                  "cn": "这些电话已经售出几千台。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say that something increases or changes with every minute, hour, day, etc. that passes:",
+                "cn": "随着每分钟的过去，飓风造成的死亡人数一直在增加。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The death toll from the hurricane was climbing minute by minute.",
+                  "cn": "随着每分钟的过去，飓风造成的死亡人数一直在增加。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "describing or showing what happens every minute, hour, etc.:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Police presented a minute-by-minute timeline of the incident.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DURING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "during",
+                "cn": "在…期间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We travelled by night and rested by day.",
+                  "cn": "我们昼伏夜行。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when describing someone's character, job, etc.:",
+                "cn": "她本性是那种乐观开朗、积极向上的人。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She is, by nature, a sunny, positive kind of person.",
+                  "cn": "她本性是那种乐观开朗、积极向上的人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something is all right/fine by someone, they agree that it can happen:",
+                "cn": "“我想晚点去。”“我没意见。”"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"I'd rather go later.\" \"That's fine by me.\"",
+                  "cn": "“我想晚点去。”“我没意见。”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/baɪ/",
+        "us": "/baɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/baɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbut/ukbutte013.mp3"
+        },
+        "us": {
+          "ipa": "/baɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/buy/buy__/buy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "at the side of or (in distance or time) past",
+                "cn": "经过"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The policewoman walked by without saying a word.",
+                  "cn": "那个女警察没说一句话就走过去了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't you call in for a cup of coffee next time you're passing by?",
+                  "cn": "下次你路过的时候干吗不进来喝杯咖啡呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "The years flew by.",
+                  "cn": "岁月飞逝。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

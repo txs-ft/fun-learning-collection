@@ -1,0 +1,42 @@
+{
+  "time": 1752141250805,
+  "title": "Viking",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈvaɪ.kɪŋ/",
+        "us": "/ˈvaɪ.kɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈvaɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukv/ukvig/ukvigil011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈvaɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usv/usvie/usvienn009.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person belonging to a race of Scandinavian people who travelled by sea and attacked parts of northern and southern Europe between the 8th and the 11th centuries, often staying to live in places they travelled to",
+                "cn": "北欧海盗，维金人（斯堪的纳维亚人的一支，在8至11世纪间曾劫掠北欧和南欧）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

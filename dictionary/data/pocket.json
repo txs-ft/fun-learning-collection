@@ -1,0 +1,267 @@
+{
+  "time": 1752140850159,
+  "title": "pocket",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpɒk.ɪt/",
+        "us": "/ˈpɑː.kɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɒk.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpmt/ukpmt__009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɑː.kɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/poc/pocke/pocket.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BAG",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a small bag for carrying things in, made of cloth and sewn into the inside or onto the outside of a piece of clothing",
+                "cn": "衣袋，口袋，兜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a jacket/trouser/coat pocket",
+                  "cn": "夹克衫／裤子／外衣口袋"
+                },
+                {
+                  "gram": "",
+                  "en": "a hip/breast pocket",
+                  "cn": "臀部／胸部口袋"
+                },
+                {
+                  "gram": "",
+                  "en": "She thrust her hands deep in/into her pockets.",
+                  "cn": "她把双手深深插进口袋里。"
+                },
+                {
+                  "gram": "",
+                  "en": "He took some coins from/out of his pocket.",
+                  "cn": "他从口袋里掏出几枚硬币。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a container, usually made of cloth, that is sewn into or onto a bag or attached to a seat or door in a vehicle",
+                "cn": "（附于提包、车门、车座椅等处的）囊，口袋，袋子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Sarah put her maps in the outside pocket of her rucksack.",
+                  "cn": "萨拉把地图放在帆布背包外面的口袋里。"
+                },
+                {
+                  "gram": "",
+                  "en": "The safety instructions are in the pocket of the seat in front of you.",
+                  "cn": "安全指南在前座椅背的插袋里。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "one of several holes around the edge of a billiard or snooker table, into which balls are hit",
+                "cn": "（台球桌的）网袋，球袋"
+              },
+              "examples": []
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the amount of money that someone has for spending",
+                "cn": "钱，财力"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You need deep pockets (= a lot of money) if you're involved in a long law suit.",
+                  "cn": "卷入这样旷日持久的诉讼中，得有钱才行。"
+                },
+                {
+                  "gram": "",
+                  "en": "I paid for my ticket out of my own pocket (= with my own money), but I can claim the cost of it back from my employer.",
+                  "cn": "我自己掏钱买的票，不过我可以向老板报销。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GROUP/AREA",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group, area, or mass of something that is separate and different from what surrounds it",
+                "cn": "小块地区（或团体、部分）；孤立地区（或团体、部分）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Among the staff there are some pockets of resistance to the planned changes (= some small groups of them are opposed).",
+                  "cn": "员工中有部分人抵制计划中的变革。"
+                },
+                {
+                  "gram": "",
+                  "en": "The pilot said that we were going to encounter a pocket of turbulence (= an area of violently moving air).",
+                  "cn": "飞行员说我们将碰上一小股强气流。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈpɒk.ɪt/",
+        "us": "/ˈpɑː.kɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɒk.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpmt/ukpmt__009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɑː.kɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/poc/pocke/pocket.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to put something into your pocket",
+                "cn": "把…装入口袋"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He carefully pocketed his change.",
+                  "cn": "他小心翼翼地把找回的零钱装入口袋。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to hit a billiard or snooker ball into a pocket",
+                "cn": "（台球中）击（球）落袋"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Davis pocketed the black to win the game.",
+                  "cn": "戴维斯把黑球击入袋内赢得了比赛。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to take something for yourself, especially dishonestly",
+                "cn": "窃取，侵吞，把…据为己有"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll tell them I sold it for £20, not £25, then I can pocket the rest.",
+                  "cn": "我要告诉他们我卖了20英镑而不是25英镑，这样我就可以把余下的钱据为己有。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈpɒk.ɪt/",
+        "us": "/ˈpɑː.kɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɒk.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpmt/ukpmt__009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɑː.kɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/poc/pocke/pocket.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to describe something that is small enough to put in your pocket, or that you regularly carry in your pocket",
+                "cn": "袖珍的，口袋版的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a pocket dictionary",
+                  "cn": "袖珍词典"
+                },
+                {
+                  "gram": "",
+                  "en": "a pocket diary",
+                  "cn": "袖珍日记本"
+                },
+                {
+                  "gram": "",
+                  "en": "a pocket calculator",
+                  "cn": "袖珍计算器"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "smaller than usual",
+                "cn": "很小的，小型的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a pocket battleship",
+                  "cn": "小型战舰"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

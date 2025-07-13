@@ -1,0 +1,176 @@
+{
+  "time": 1752397239355,
+  "title": "paint",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/peɪnt/",
+        "us": "/peɪnt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/peɪnt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpai/ukpaink007.mp3"
+        },
+        "us": {
+          "ipa": "/peɪnt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73396.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a coloured liquid that is put on a surface such as a wall to decorate it",
+                "cn": "油漆，涂料"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a tin of paint",
+                  "cn": "一罐漆"
+                },
+                {
+                  "gram": "",
+                  "en": "a can of paint",
+                  "cn": "一罐漆"
+                },
+                {
+                  "gram": "",
+                  "en": "This wall needs another coat of paint.",
+                  "cn": "这面墙需要再刷一层漆。"
+                },
+                {
+                  "gram": "",
+                  "en": "The sign said \"Caution! Wet paint.\"",
+                  "cn": "牌子上写着：“小心，油漆未干！”"
+                },
+                {
+                  "gram": "",
+                  "en": "gloss paint",
+                  "cn": "亮光漆"
+                },
+                {
+                  "gram": "",
+                  "en": "matt paint",
+                  "cn": "亚光漆"
+                },
+                {
+                  "gram": "",
+                  "en": "matte paint",
+                  "cn": "亚光漆"
+                },
+                {
+                  "gram": "",
+                  "en": "There were so many paints (= types of paint) to choose from that I couldn't decide which to buy.",
+                  "cn": "有这么多种油漆可供选择，我很难决定买哪一种。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "tubes of paint or blocks of dried paint used for making pictures:",
+                "cn": "油画颜料"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "oil paints",
+                  "cn": "油画颜料"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/peɪnt/",
+        "us": "/peɪnt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/peɪnt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpai/ukpaink007.mp3"
+        },
+        "us": {
+          "ipa": "/peɪnt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73396.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to cover a surface with paint",
+                "cn": "油漆（表面），（在…上）刷油漆"
+              },
+              "examples": [
+                {
+                  "gram": "[ + obj + adj  ]",
+                  "en": "We've painted the bedroom blue.",
+                  "cn": "我们把卧室漆成了蓝色。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've been painting all morning.",
+                  "cn": "我整个早上都在刷油漆。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll need to paint over (= cover with another layer of paint) these dirty marks on the wall.",
+                  "cn": "我得用油漆遮盖一下墙上这些污迹。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to make a picture using paints",
+                "cn": "（用颜料）画，绘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All these pictures were painted by local artists.",
+                  "cn": "所有这些画都是当地画家画的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you paint your nails or face, you put make-up on that part of your body.",
+                "cn": "涂（指甲）;在（脸上）搽脂粉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She painted her nails bright red.",
+                  "cn": "她把指甲涂成鲜红色。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

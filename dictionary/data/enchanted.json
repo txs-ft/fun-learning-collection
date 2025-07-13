@@ -1,0 +1,48 @@
+{
+  "time": 1752140260119,
+  "title": "enchanted",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ɪnˈtʃɑːn.tɪd/",
+        "us": "/ɪnˈtʃæn.t̬ɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˈtʃɑːn.tɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukenc/ukencas003.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˈtʃæn.t̬ɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/enc/encha/enchanted.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "affected by magic or seeming to be affected by magic",
+                "cn": "被施了魔法的;着魔的，入迷的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They met in Paris one enchanted afternoon in early autumn.",
+                  "cn": "在初秋的一个下午，他们如上天安排般在巴黎相遇了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

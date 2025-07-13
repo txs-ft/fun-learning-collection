@@ -1,0 +1,42 @@
+{
+  "time": 1752140224112,
+  "title": "divers",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈdaɪ.vəz/",
+        "us": "/ˈdaɪ.vɚz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdaɪ.vəz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdis/ukdisun024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdaɪ.vɚz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usd/usdis/usdisun017.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "various or several",
+                "cn": "多样的，多种的；多个的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

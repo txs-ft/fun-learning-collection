@@ -1,0 +1,42 @@
+{
+  "time": 1752140819553,
+  "title": "participant",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/pɑːˈtɪs.ɪ.pənt/",
+        "us": "/pɑːrˈtɪs.ə.pənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pɑːˈtɪs.ɪ.pənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpar/ukparsi017.mp3"
+        },
+        "us": {
+          "ipa": "/pɑːrˈtɪs.ə.pənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/par/parti/participant.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a person who takes part in or becomes involved in a particular activity",
+                "cn": "参加者，参与者"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

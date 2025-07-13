@@ -1,0 +1,48 @@
+{
+  "time": 1752141127756,
+  "title": "thankfully",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈθæŋk.fəl.i/",
+        "us": "/ˈθæŋk.fəl.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈθæŋk.fəl.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktet/uktetch021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈθæŋk.fəl.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tha/thank/thankfully.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "used, usually at the beginning of a sentence, to show you are happy or grateful about something",
+                "cn": "（通常用于句首，表示高兴或感激）幸好，幸亏"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Thankfully, nobody was hurt.",
+                  "cn": "谢天谢地，没有人受伤。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

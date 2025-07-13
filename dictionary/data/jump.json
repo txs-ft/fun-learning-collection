@@ -1,0 +1,352 @@
+{
+  "time": 1752140562095,
+  "title": "jump",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/dʒʌmp/",
+        "us": "/dʒʌmp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dʒʌmp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjud/ukjudic027.mp3"
+        },
+        "us": {
+          "ipa": "/dʒʌmp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jum/jump_/jump.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "IN THE AIR",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to push yourself suddenly off the ground and into the air using your legs",
+                "cn": "跳，跃;跳跃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children were jumping up and down with excitement.",
+                  "cn": "孩子们兴奋地跳来跳去。"
+                },
+                {
+                  "gram": "",
+                  "en": "She ran across the grass and jumped into the water.",
+                  "cn": "她跑过草地，跳入水中。"
+                },
+                {
+                  "gram": "",
+                  "en": "He had to jump out of an upstairs window to escape.",
+                  "cn": "他不得不从楼上的窗户跳出去逃命。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our cat is always jumping up on/onto the furniture.",
+                  "cn": "我们的猫总是跳到家具上。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to push yourself suddenly off the ground in order to go over something",
+                "cn": "跳跃;跃过"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can you jump over/across this stream?",
+                  "cn": "你能跃过这条小溪吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "All the horses are finding it difficult to jump the last fence.",
+                  "cn": "跃过这最后一道围栏对所有的马匹都很困难。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE/ACT SUDDENLY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to move or act suddenly or quickly",
+                "cn": "突然（或快速）行动（或移动）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He suddenly jumped to his feet/jumped up and left.",
+                  "cn": "他霍地一下站起来离开了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She jumped in/into a taxi and rushed to the station.",
+                  "cn": "她跳上一辆出租车急匆匆赶往车站。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "If a noise or action causes you to jump, your body makes a sudden sharp movement because of surprise or fear.",
+                "cn": "（受惊等后）猛地一跳，突然一跳"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The loud explosion made everyone jump.",
+                  "cn": "爆炸的巨响把大家都吓了一跳。"
+                },
+                {
+                  "gram": "",
+                  "en": "I almost jumped out of my skin when I heard a loud crash downstairs.",
+                  "cn": "听到楼下哐的一声巨响，我几乎吓得灵魂出窍。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INCREASE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to increase suddenly by a large amount",
+                "cn": "暴涨；激增"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "House prices have jumped dramatically.",
+                  "cn": "房价大幅上涨。"
+                },
+                {
+                  "gram": "",
+                  "en": "The cost of building the road has jumped by 70 percent.",
+                  "cn": "修这条公路的费用猛增了70%。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEQUENCE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a story, film, play, etc. jumps, it moves suddenly between different parts of it.",
+                "cn": "（故事、电影、戏剧等在不同部分间）突然转换，跳跃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The movie is about his adult life, but it keeps jumping (back) to when he was a child.",
+                  "cn": "这部电影讲述的是他成年后的生活，但不断跳回到他的孩提时代。"
+                },
+                {
+                  "gram": "",
+                  "en": "His talk was hard to follow because he kept jumping from one subject to another.",
+                  "cn": "很难跟上他讲话的思路，因为他不断从一个话题跳到另一个话题。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AVOID",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to avoid or leave out a point or stage from the correct order in a series",
+                "cn": "略去，省掉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You have to follow the instructions exactly, you can't just jump a few steps ahead.",
+                  "cn": "你必须严格按说明操作，不能将前面的几步略去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ATTACK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to attack someone suddenly",
+                "cn": "突然袭击"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They were just walking home when a bunch of guys jumped (on) them.",
+                  "cn": "他们正往家走，一帮人突然袭击了他们。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE PAST/AWAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to go past or away from something illegally or wrongly",
+                "cn": "逃离;逃避"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police video showed that she had jumped the (traffic) lights.",
+                  "cn": "警方的录像表明她闯了红灯。"
+                },
+                {
+                  "gram": "",
+                  "en": "Several sailors jumped ship (= left their ship without permission) in New York.",
+                  "cn": "几名水手在纽约擅自离船。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to fail to appear for a court trial after being released until the trial in exchange for payment:",
+                "cn": "我真没想到休会在保释期间潜逃。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd never have thought Hugh would jump bail.",
+                  "cn": "我真没想到休会在保释期间潜逃。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUSY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a place is jumping, it is crowded and full of life:",
+                "cn": "这个娱乐场所今晚可真热闹。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This joint (= place of entertainment) is really jumping tonight.",
+                  "cn": "这个娱乐场所今晚可真热闹。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dʒʌmp/",
+        "us": "/dʒʌmp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dʒʌmp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjud/ukjudic027.mp3"
+        },
+        "us": {
+          "ipa": "/dʒʌmp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jum/jump_/jump.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVEMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a sudden movement off the ground and into the air",
+                "cn": "一跃而起"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He won with a jump of 8.5 metres.",
+                  "cn": "他以8.5米远的一跳赢得了比赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "a parachute jump",
+                  "cn": "跳伞"
+                },
+                {
+                  "gram": "",
+                  "en": "Several horses fell at the last jump (= fence or other thing to be jumped over).",
+                  "cn": "好几匹马在最后一道障碍处跌倒了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a sudden sharp movement because of surprise or fear",
+                "cn": "（受惊等后）猛地一跳，突然一跳"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The door slammed and Rita woke up with a jump.",
+                  "cn": "砰的关门声把丽塔猛地惊醒了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INCREASE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a sudden increase",
+                "cn": "暴涨；激增"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Interest rates are now at 6.75 - that's a jump of almost 2 percent.",
+                  "cn": "现在的利率为6.75，上升了差不多2%。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

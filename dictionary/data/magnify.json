@@ -1,0 +1,62 @@
+{
+  "time": 1752140600267,
+  "title": "magnify",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈmæɡ.nɪ.faɪ/",
+        "us": "/ˈmæɡ.nə.faɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmæɡ.nɪ.faɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmag/ukmagni001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmæɡ.nə.faɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mag/magni/magnify.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make something look larger than it is, especially by looking at it through a lens",
+                "cn": "放大，扩大"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Although our skin looks smooth, when magnified it is full of bumps and holes.",
+                  "cn": "我们的皮肤看上去很光滑，但放大后看却是坑坑洼洼的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make a problem bigger or more important",
+                "cn": "加强，使（问题）更严重"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The hot summer magnified the racial tensions in the community.",
+                  "cn": "炎热的夏日加深了社区的种族矛盾。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

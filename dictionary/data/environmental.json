@@ -1,0 +1,48 @@
+{
+  "time": 1752140265188,
+  "title": "environmental",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ɪnˌvaɪ.rənˈmen.təl/",
+        "us": "/ɪnˌvaɪ.rənˈmen.t̬əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˌvaɪ.rənˈmen.təl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukent/ukentre020.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˌvaɪ.rənˈmen.t̬əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71592.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to the environment",
+                "cn": "自然环境的;有关环境的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "People are becoming far more aware of environmental issues.",
+                  "cn": "现在人们对环境问题的关注程度正明显提高。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

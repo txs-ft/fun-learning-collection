@@ -1,0 +1,133 @@
+{
+  "time": 1752140909279,
+  "title": "repair",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/rɪˈpeər/",
+        "us": "/rɪˈper/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈpeər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukren/ukrenni014.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈper/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rep/repai/repair.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to put something that is damaged, broken, or not working correctly, back into good condition or make it work again",
+                "cn": "修理；修补；修复；整修"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "to repair (the surface of) the road",
+                  "cn": "修路（面）"
+                },
+                {
+                  "gram": "",
+                  "en": "to repair a roof after a storm",
+                  "cn": "暴风雨后修理房顶"
+                },
+                {
+                  "gram": "",
+                  "en": "The garage said the car was so old it wasn't worth repairing.",
+                  "cn": "修车厂的人说这辆车太旧，不值得修了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I really must get my bike repaired this weekend.",
+                  "cn": "这个周末我真得修修自行车了。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If you repair something wrong or harmful that has been done, you do something to make it right.",
+                "cn": "补救；纠正；弥补"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "to repair a broken friendship",
+                  "cn": "修复破裂的友情"
+                },
+                {
+                  "gram": "",
+                  "en": "Is it too late to repair the damage we have done to our planet?",
+                  "cn": "现在采取措施挽回我们对地球所造成的破坏已为时太晚了吗？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/rɪˈpeər/",
+        "us": "/rɪˈper/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈpeər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukren/ukrenni014.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈper/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rep/repai/repair.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the act of fixing something that is broken or damaged",
+                "cn": "修理；修补；修缮"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My car is in the garage for repairs.",
+                  "cn": "我的车正放在修车厂里维修。"
+                },
+                {
+                  "gram": "",
+                  "en": "The repairs to the roof will be expensive.",
+                  "cn": "修理房顶将会花很多钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "The mechanic pointed out the repair (= repaired place) on the front of my car.",
+                  "cn": "修车工人给我指出车前部修过的地方。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

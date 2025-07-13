@@ -1,0 +1,48 @@
+{
+  "time": 1752141240407,
+  "title": "upside",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈʌp.saɪd/",
+        "us": "/ˈʌp.saɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʌp.saɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukupl/ukuplan024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʌp.saɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/ups/upsid/upside.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the advantage of a situation",
+                "cn": "优点；好处；有利的一面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's annoying that we can't travel until Thursday, but the upside is that tickets are cheaper then.",
+                  "cn": "烦人的是我们要等到周四才能出发去旅行，但好处是到时票价会便宜些。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

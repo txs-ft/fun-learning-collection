@@ -1,0 +1,98 @@
+{
+  "time": 1752140192048,
+  "title": "creation",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kriˈeɪ.ʃən/",
+        "us": "/kriˈeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kriˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcre/ukcream005.mp3"
+        },
+        "us": {
+          "ipa": "/kriˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cre/creat/creation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the act of creating something, or the thing that is created",
+                "cn": "创造;创立;产生;创造物，作品"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the creation of a new political party",
+                  "cn": "新政党的建立"
+                },
+                {
+                  "gram": "",
+                  "en": "Their policies all emphasize the creation of wealth.",
+                  "cn": "他们的政策全都是为了创造财富。"
+                },
+                {
+                  "gram": "",
+                  "en": "This 25-foot-high sculpture is her latest creation.",
+                  "cn": "这尊25英尺高的雕塑是她的最新作品。"
+                },
+                {
+                  "gram": "",
+                  "en": "The fashion magazines were full of the latest Paris creations (= fashionable new clothes).",
+                  "cn": "时尚杂志里到处都是巴黎最新时装的照片。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kriˈeɪ.ʃən/",
+        "us": "/kriˈeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kriˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka35/uka35313.mp3"
+        },
+        "us": {
+          "ipa": "/kriˈeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa35/usa35313.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in the Bible, the making of the world by God",
+                "cn": "《圣经》中上帝的创世，创造天地"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

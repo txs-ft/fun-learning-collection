@@ -1,0 +1,99 @@
+{
+  "time": 1752140569755,
+  "title": "lack",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/læk/",
+        "us": "/læk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/læk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklab/uklabia021.mp3"
+        },
+        "us": {
+          "ipa": "/læk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lac/lack_/lack.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the fact that something is not available or that there is not enough of it:",
+                "cn": "她唯一的问题是缺乏自信。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her only problem is a lack of confidence.",
+                  "cn": "她唯一的问题是缺乏自信。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/læk/",
+        "us": "/læk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/læk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklab/uklabia021.mp3"
+        },
+        "us": {
+          "ipa": "/læk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lac/lack_/lack.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to not have or not have enough of something that is needed or wanted",
+                "cn": "缺少，缺乏"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He just lacks a little confidence.",
+                  "cn": "他只是有点缺乏自信。"
+                },
+                {
+                  "gram": "",
+                  "en": "What we lack in this house is space to store things.",
+                  "cn": "我们这所房子缺少的是储物空间。"
+                },
+                {
+                  "gram": "",
+                  "en": "We are lacking three members of staff due to illness.",
+                  "cn": "我们有3人因病缺席。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

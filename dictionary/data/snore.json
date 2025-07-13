@@ -1,0 +1,94 @@
+{
+  "time": 1752141003003,
+  "title": "snore",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/snɔːr/",
+        "us": "/snɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/snɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksno/uksnobb012.mp3"
+        },
+        "us": {
+          "ipa": "/snɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sno/snore/snore.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to breathe in a very noisy way while you are sleeping",
+                "cn": "打呼噜，打鼾"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Sometimes my husband snores so loudly, it keeps me awake at night.",
+                  "cn": "有时候我丈夫打鼾太响，弄得我整夜无法入睡。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you know any cures for snoring?",
+                  "cn": "你知道有什么办法能治打呼噜吗？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/snɔːr/",
+        "us": "/snɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/snɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksno/uksnobb012.mp3"
+        },
+        "us": {
+          "ipa": "/snɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sno/snore/snore.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a very noisy breath while you are sleeping",
+                "cn": "呼噜声，鼾声"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I could hear loud snores coming from Jim's bedroom.",
+                  "cn": "我能听到从吉姆的卧室传来如雷的鼾声。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

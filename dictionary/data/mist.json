@@ -1,0 +1,72 @@
+{
+  "time": 1752140665196,
+  "title": "mist",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/mɪst/",
+        "us": "/mɪst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/mɪst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmis/ukmispr026.mp3"
+        },
+        "us": {
+          "ipa": "/mɪst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mis/mist_/mist.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "thin fog produced by very small drops of water collecting in the air just above an area of ground or water",
+                "cn": "薄雾"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The mountain villages seem to be permanently shrouded in mist.",
+                  "cn": "山村好像永远笼罩在薄雾之中。"
+                },
+                {
+                  "gram": "",
+                  "en": "The early-morning mist soon lifted/cleared.",
+                  "cn": "清晨的薄雾很快就散了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a thin layer of liquid on the surface of something that makes it difficult to see",
+                "cn": "水汽，水蒸气"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's always a mist on the bathroom mirror/windows when I've had a shower.",
+                  "cn": "我淋浴过后，浴室的镜子／窗户上总有一层水汽。"
+                },
+                {
+                  "gram": "",
+                  "en": "Through a mist of tears, I watched his train pull out of the station.",
+                  "cn": "我泪眼模糊，看着他乘坐的火车驶离了车站。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

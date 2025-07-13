@@ -1,0 +1,177 @@
+{
+  "time": 1752141290640,
+  "title": "while",
+  "generalBitmask": 33,
+  "allDefinitions": [
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/waɪl/",
+        "us": "/waɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/waɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhi/ukwhich004.mp3"
+        },
+        "us": {
+          "ipa": "/waɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whi/while/while.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DURING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "during the time that, or at the same time as",
+                "cn": "在…的时候;与…同时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I read it while you were drying your hair.",
+                  "cn": "在你吹干头发的时候我读了它。"
+                },
+                {
+                  "gram": "",
+                  "en": "While I was in Italy I went to see Alessandro.",
+                  "cn": "在意大利的时候，我去看望了亚历山德罗。"
+                },
+                {
+                  "gram": "",
+                  "en": "I thought I heard him come in while we were having dinner.",
+                  "cn": "我想在我们吃饭的时候我听见他进来了。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"I'm going to the post office.\" \"While you're there can you get me some stamps?\"",
+                  "cn": "“我要去邮局。”“你去的时候帮我买些邮票好吗？”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALTHOUGH",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "despite the fact that; although",
+                "cn": "虽然;尽管"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "While I accept that he's not perfect in many respects, I do actually like the man.",
+                  "cn": "虽然我承认他在很多方面不是那么完美，但我实际上还是非常喜欢这个男人的。"
+                },
+                {
+                  "gram": "",
+                  "en": "While I fully understand your point of view, I also have some sympathy with Michael's.",
+                  "cn": "尽管我完全能理解你的观点，但我在一定程度上也赞同迈克尔的观点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "compared with the fact that; but",
+                "cn": "然而;但是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He gets £50,000 a year while I get a meagre £20,000!",
+                  "cn": "他每年挣5万英镑，而我只有可怜的2万！"
+                },
+                {
+                  "gram": "",
+                  "en": "Tom is very extrovert and confident while Katy's shy and quiet.",
+                  "cn": "汤姆性格外向，非常自信，而凯蒂却羞涩文静。"
+                },
+                {
+                  "gram": "",
+                  "en": "I do all the housework while he just does the dishes now and again.",
+                  "cn": "家务活我样样都得干，而他却只是偶尔刷刷碗而已。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/waɪl/",
+        "us": "/waɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/waɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhi/ukwhich004.mp3"
+        },
+        "us": {
+          "ipa": "/waɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whi/while/while.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a length of time",
+                "cn": "一会儿；一段时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I only stayed for a short while.",
+                  "cn": "我就呆了一小会儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "You were there quite a while (= a long time), weren't you?",
+                  "cn": "你在那儿呆了很长时间，是不是？"
+                },
+                {
+                  "gram": "",
+                  "en": "\"When did that happen?\" \"Oh, it was a while ago (= a long time ago).",
+                  "cn": "“那是什么时候发生的？”“噢，是很久之前了。”"
+                },
+                {
+                  "gram": "",
+                  "en": "I haven't seen him for a while (= for a long time).",
+                  "cn": "我已经很久没见到他了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll be fine in a while (= soon).",
+                  "cn": "我很快就会好的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

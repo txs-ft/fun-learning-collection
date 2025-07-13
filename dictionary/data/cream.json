@@ -1,0 +1,214 @@
+{
+  "time": 1752140187249,
+  "title": "cream",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kriːm/",
+        "us": "/kriːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kriːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcra/ukcraps029.mp3"
+        },
+        "us": {
+          "ipa": "/kriːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cre/cream/cream.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the thick, yellowish-white liquid that forms on the top of milk",
+                "cn": "奶油，乳脂"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "strawberries and cream",
+                  "cn": "加奶油的草莓"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you like cream in your coffee?",
+                  "cn": "你的咖啡要加奶油吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "a cream cake (= cake with cream in it)",
+                  "cn": "奶油蛋糕"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the colour of cream",
+                "cn": "奶油色，淡黄色，米黄色"
+              },
+              "examples": []
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a soft substance that you rub into your skin",
+                "cn": "护肤霜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "face/hand cream",
+                  "cn": "面霜／护手霜"
+                },
+                {
+                  "gram": "",
+                  "en": "moisturizing cream",
+                  "cn": "润肤霜"
+                },
+                {
+                  "gram": "",
+                  "en": "Put some sun cream on to protect your face.",
+                  "cn": "抹点防晒霜保护脸部。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a type of sweet that is soft inside",
+                "cn": "奶油夹心糖"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "chocolate/peppermint creams",
+                  "cn": "巧克力／薄荷奶油夹心糖"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a thick liquid used for cleaning things",
+                "cn": "清洁乳液"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "cream cleaner",
+                  "cn": "乳液清洁剂"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "soup that has been made into a smooth thick liquid and usually has cream in it:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Not many people keep a can of cream of tomato soup in their kitchen, but it makes an excellent base for casseroles.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/kriːm/",
+        "us": "/kriːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kriːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcra/ukcraps029.mp3"
+        },
+        "us": {
+          "ipa": "/kriːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cre/cream/cream.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "having a yellowish-white colour",
+                "cn": "奶油色的，淡黄色的，米黄色的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a cream shirt",
+                  "cn": "淡黄色的衬衫"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kriːm/",
+        "us": "/kriːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kriːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcra/ukcraps029.mp3"
+        },
+        "us": {
+          "ipa": "/kriːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cre/cream/cream.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make food into a smooth, thick liquid",
+                "cn": "把…搅成糊状"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Cream the butter and sugar together.",
+                  "cn": "将奶油和糖混合起来搅成糊状。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "time": 1752141022895,
+  "title": "sonar",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsəʊ.nɑːr/",
+        "us": "/ˈsoʊ.nɑːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsəʊ.nɑːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksom/uksomet013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsoʊ.nɑːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/uss/usson/ussonar001.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "equipment, especially on a ship, that uses sound waves to discover how deep the water is or the position of an object in the water, such as a group of fish",
+                "cn": "声纳，声呐（一种声波探测仪器，用声波测定水的深度或水下物体的方位）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

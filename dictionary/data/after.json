@@ -1,0 +1,342 @@
+{
+  "time": 1752139613492,
+  "title": "after",
+  "generalBitmask": 4152,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/ˈɑːf.tər/",
+        "us": "/ˈæf.tɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑːf.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukafo/ukafore011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈæf.tɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aft/after/after.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FOLLOWING IN TIME OR PLACE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "following in time, place, or order",
+                "cn": "（时间、地点或顺序）在…之后;（一个）接着（一个）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Let's go for a walk after breakfast.",
+                  "cn": "我们吃过早饭去散步吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "Some people believe in life after death.",
+                  "cn": "一些人相信死后灵魂依然存在。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her name came after mine on the list.",
+                  "cn": "名单上她的名字排在我后面。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a good film on the day after tomorrow.",
+                  "cn": "后天有一部不错的电影。"
+                },
+                {
+                  "gram": "",
+                  "en": "She waited until well after midnight.",
+                  "cn": "她一直等到后半夜很晚的时候。"
+                },
+                {
+                  "gram": "",
+                  "en": "She went back to work soon after the birth.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "It's a quarter after four.",
+                  "cn": "4点1刻了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She just keeps on working, day after day (= continuously).",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She just keeps on working, week after week (= continuously).",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "We've had meeting after meeting (= many meetings) to discuss this point.",
+                  "cn": "我们一次又一次地开会讨论这个问题。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jessie seemed very small after (= in comparison with) Michael's children.",
+                  "cn": "与迈克尔的孩子们比起来，杰西显得很矮小。"
+                },
+                {
+                  "gram": "",
+                  "en": "The children have to learn to tidy up after themselves (= after they have made things untidy).",
+                  "cn": "孩子们必须意识到，自己弄乱了东西，就得自己收拾整齐。"
+                },
+                {
+                  "gram": "",
+                  "en": "She slammed the door after (= behind) her.",
+                  "cn": "她随手砰地关上了门。"
+                },
+                {
+                  "gram": "",
+                  "en": "We ran after (= followed) him, but he escaped.",
+                  "cn": "我们去追他，但是他逃脱了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you lock up after you (= when you leave), please?",
+                  "cn": "请你离开时锁好门好吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be looking for someone or something or trying to find or get them or it:",
+                "cn": "警察正在追捕他。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police are after him.",
+                  "cn": "警察正在追捕他。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say politely that someone can go ahead of you or do something before you:",
+                "cn": "“我给你倒点咖啡吧？”“噢，不用，你先来吧。”"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Can I pour you some coffee?\" \"Oh no, after you.\"",
+                  "cn": "“我给你倒点咖啡吧？”“噢，不用，你先来吧。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SIMILAR TO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "typical of or similar to the style of",
+                "cn": "具有…风格；模仿…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a painting after Titian",
+                  "cn": "一幅模仿提香的画作"
+                },
+                {
+                  "gram": "",
+                  "en": "a concerto after Mozart",
+                  "cn": "模仿莫扎特风格的协奏曲"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "used when giving someone or something the same name as another person or thing",
+                "cn": "依照…命名"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was named Mark after his grandfather.",
+                  "cn": "他以祖父的名字命名为马克。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈɑːf.tər/",
+        "us": "/ˈæf.tɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑːf.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukafo/ukafore011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈæf.tɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aft/after/after.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "later than someone or something else",
+                "cn": "以后，后来;向后;在后面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hilary got here at midday and Nick arrived soon after.",
+                  "cn": "希拉里中午到了这儿，随后不久尼克也到了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't go next week - how about the week after (= the following week)?",
+                  "cn": "下星期我去不了，下下星期怎么样？"
+                },
+                {
+                  "gram": "",
+                  "en": "She got back at 4.30 and went to see Emilie after (= after she got back).",
+                  "cn": "她4点半回来的，随后就去看望埃米莉了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/ˈɑːf.tər/",
+        "us": "/ˈæf.tɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɑːf.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukafo/ukafore011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈæf.tɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aft/after/after.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "at a time that is later than another event",
+                "cn": "在…之后"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Three months after they moved out, the house was still empty.",
+                  "cn": "他们搬出去3个月了，这座房子仍然空着。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was captured in 1940 soon after the fighting began.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Shortly after we set off, the car started to make a strange noise.",
+                  "cn": "我们出发不久，车子就发出奇怪的噪音。"
+                },
+                {
+                  "gram": "",
+                  "en": "I went to the post office immediately after I left you.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/ɑːf.tər-/",
+        "us": "/æf.tɚ-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɑːf.tər-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukafo/ukafore011.mp3"
+        },
+        "us": {
+          "ipa": "/æf.tɚ-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aft/after/after.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "coming after",
+                "cn": "…之后的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an after-dinner speech",
+                  "cn": "宴会后的讲话"
+                },
+                {
+                  "gram": "",
+                  "en": "an after-hours club",
+                  "cn": "深夜营业的夜总会"
+                },
+                {
+                  "gram": "",
+                  "en": "after-sales service",
+                  "cn": "售后服务"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

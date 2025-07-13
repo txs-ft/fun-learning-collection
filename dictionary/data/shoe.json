@@ -1,0 +1,111 @@
+{
+  "time": 1752140985140,
+  "title": "shoe",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ʃuː/",
+        "us": "/ʃuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshodd004.mp3"
+        },
+        "us": {
+          "ipa": "/ʃuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/shoe_/shoe.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "one of a pair of coverings for your feet, usually made of a strong material such as leather, with a thick leather or plastic sole (= base) and usually a heel",
+                "cn": "鞋"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "flat/high-heeled shoes",
+                  "cn": "平跟／高跟鞋"
+                },
+                {
+                  "gram": "",
+                  "en": "running/tennis shoes",
+                  "cn": "跑步／网球鞋"
+                },
+                {
+                  "gram": "",
+                  "en": "He put on/took off his new pair of shoes.",
+                  "cn": "他穿上／脱下他那双新鞋。"
+                },
+                {
+                  "gram": "",
+                  "en": "Hurry and do up/lace up your shoes.",
+                  "cn": "快点儿把鞋带系好。"
+                },
+                {
+                  "gram": "",
+                  "en": "a shoe shop",
+                  "cn": "鞋店"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \nhorseshoe",
+                "cn": "（同horseshoe）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ʃuː/",
+        "us": "/ʃuː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃuː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshodd004.mp3"
+        },
+        "us": {
+          "ipa": "/ʃuː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/shoe_/shoe.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you shoe a horse, you nail a horseshoe (= a curved piece of metal) to one or each of its feet.",
+                "cn": "给（马）钉蹄铁"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

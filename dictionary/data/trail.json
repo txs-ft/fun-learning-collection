@@ -1,0 +1,207 @@
+{
+  "time": 1752141173183,
+  "title": "trail",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/treɪl/",
+        "us": "/treɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/treɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktract025.mp3"
+        },
+        "us": {
+          "ipa": "/treɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/trail/trail.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PATH",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a path through a countryside, mountain, or forest area, often made or used for a particular purpose",
+                "cn": "乡间（山间或林间等）小道"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a forest/mountain trail",
+                  "cn": "林间／山间小道"
+                },
+                {
+                  "gram": "",
+                  "en": "a walking/snowshoeing/cross-country skiing trail",
+                  "cn": "步行／雪鞋／越野滑雪道"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SIGNS",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the smell or series of marks left by a person, animal, or thing as it moves along",
+                "cn": "臭迹;踪迹;痕迹"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The dogs are trained to follow the trail left by the fox.",
+                  "cn": "这些狗经过特别的训练，能够追踪狐狸留下的气味。"
+                },
+                {
+                  "gram": "",
+                  "en": "He left a trail of muddy footprints behind him.",
+                  "cn": "他身后留下了一串泥泞的脚印。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "various pieces of information that together show where someone you are searching for has gone",
+                "cn": "蛛丝马迹，线索"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police admit that the robbers have left no trail for them to follow up.",
+                  "cn": "警方承认小偷没有留下可供他们追踪的线索。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be searching for someone or something by examining information you find about where they went",
+                "cn": "（循线索）追踪"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The three men went to the Bahamas, on the trail of a sunken 17th-century galleon full of treasure.",
+                  "cn": "这3个人去了巴哈马，为的是寻找一艘满载金银财宝的17世纪西班牙沉船。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/treɪl/",
+        "us": "/treɪl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/treɪl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktract025.mp3"
+        },
+        "us": {
+          "ipa": "/treɪl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/trail/trail.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVE SLOWLY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to (allow something to) move slowly along the ground or through the air or water, after someone or something",
+                "cn": "拖，拉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Katherine, your skirt's trailing in the mud!",
+                  "cn": "凯瑟琳，你的裙子拖在泥里了！"
+                },
+                {
+                  "gram": "",
+                  "en": "As the boat moved along, he trailed his hand in the water.",
+                  "cn": "他把手放在了水里，手随船破水而行。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to move slowly and without energy or enthusiasm",
+                "cn": "行动拖沓;疲惫地走;没精打采地行走"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The delegates trailed back into the conference room for the afternoon session.",
+                  "cn": "代表们没精打采地回到会议室，准备开下午的会。"
+                },
+                {
+                  "gram": "",
+                  "en": "After a mile or two the youngest children were trailing behind.",
+                  "cn": "走了一两英里后，年龄最小的孩子们无精打采地跟在后面。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN A COMPETITION/GAME",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to be losing to your competitor in a competition",
+                "cn": "（比赛中）落后，失败"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Canadian team is trailing by six points.",
+                  "cn": "加拿大队落后了6分。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Democrats are trailing (behind) the Republicans in the opinion polls.",
+                  "cn": "在民意调查中，民主党落后于共和党。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOLLOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to follow the trail of someone or something",
+                "cn": "追踪"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

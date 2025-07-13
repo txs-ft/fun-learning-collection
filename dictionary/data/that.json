@@ -1,0 +1,283 @@
+{
+  "time": 1752141130429,
+  "title": "that",
+  "generalBitmask": 360,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "/ðæt/",
+        "us": "/ðæt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ðæt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktet/uktetch026.mp3"
+        },
+        "us": {
+          "ipa": "/ðæt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tha/that_/that.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to refer to a person, object, idea, etc. that is separated from the speaker by space or time",
+                "cn": "那;那个;那人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've never liked that cousin of hers.",
+                  "cn": "我从来没喜欢过她的那个表亲。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who's that? Is that the girl you told me about?",
+                  "cn": "那是谁？是你跟我说起过的那个女孩吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "How much are those shoes?",
+                  "cn": "那双鞋多少钱？"
+                },
+                {
+                  "gram": "",
+                  "en": "His handwriting is like that (= the writing) of a much younger child.",
+                  "cn": "他的字像小孩子写的。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to refer to something that has been mentioned or was involved earlier, or to something that is already known about",
+                "cn": "（指已提到过的、与前文有关的或听话人熟悉的事物）那，那个"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Where's that pen (= the one I was using earlier) gone?",
+                  "cn": "我刚才用的那支笔哪里去了？"
+                },
+                {
+                  "gram": "",
+                  "en": "She lives in that house at the end of Jeremy's street (= you know which one I mean).",
+                  "cn": "她住在杰瑞米住的那条街尽头的那栋房子里。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "strong /ðæt/",
+        "us": "strong /ðæt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ðæt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktet/uktetch026.mp3"
+        },
+        "us": {
+          "ipa": "strong /ðæt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tha/that_/that.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to introduce a clause that reports something or gives further information, although it can often be left out",
+                "cn": "（用于引导从句，常可省略）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She said (that) she'd pick it up for me after work.",
+                  "cn": "她说下班后会帮我把它取来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is it true (that) she's gone back to teaching?",
+                  "cn": "她真的又回去教书了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We'll be there at about 7.30, provided/providing (that) there's not too much traffic.",
+                  "cn": "如果交通不拥堵的话，我们将在7点半左右到那里。"
+                },
+                {
+                  "gram": "",
+                  "en": "It was so dark (that) I couldn't see anything.",
+                  "cn": "天太黑，我什么也看不见。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "strong /ðæt/",
+        "us": "strong /ðæt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ðæt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktet/uktetch026.mp3"
+        },
+        "us": {
+          "ipa": "strong /ðæt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tha/that_/that.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "USED TO REFER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used as the subject or object of a verb to show which person or thing you are referring to, or to add information about a person or thing just mentioned. It is used for both people and things. It can often be left out",
+                "cn": "（用作动词的主语或宾语，指代人或事物或对刚提到的人或事物作补充，常常可省略）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I can't find the books (that) I got from the library.",
+                  "cn": "我找不到从图书馆借来的那些书了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is this the train that goes to Braintree?",
+                  "cn": "这是去布雷恩垂的火车吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you been to the restaurant that's just opened in town?",
+                  "cn": "你去过镇上新开张的那家饭店吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONNECTING WITH EARLIER STATEMENT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to make a connection with an earlier statement",
+                "cn": "（用于连接前文）那，这"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My car broke down. That's why I'm so late.",
+                  "cn": "我的车坏了，所以我这么晚才到。"
+                },
+                {
+                  "gram": "",
+                  "en": "Lucy worked out how to fix it. That's Lucy for you (= She can fix anything).",
+                  "cn": "露西想出修理的办法了，她就是那样能干。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to express a reaction to something",
+                "cn": "（用于表达对某事的反应）那，这"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I didn't know she'd been so ill. That's terrible.",
+                  "cn": "我不知道她病得那么厉害。这太糟了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Turn the engine on, then put the car in gear. That's right (= you are doing it correctly).",
+                  "cn": "发动引擎，然后挂挡，就是这样。"
+                },
+                {
+                  "gram": "",
+                  "en": "Smile for the camera. That's more like it (= that smile is better than before).",
+                  "cn": "对着照相机笑一笑。这样好多了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ðæt/",
+        "us": "/ðæt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ðæt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktet/uktetch026.mp3"
+        },
+        "us": {
+          "ipa": "/ðæt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tha/that_/that.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "as much as suggested",
+                "cn": "那样；那么"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's too young to walk that far.",
+                  "cn": "她太小了，走不了那么远。"
+                },
+                {
+                  "gram": "",
+                  "en": "It wasn't (all) that (= very) good.",
+                  "cn": "它并非那么好。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

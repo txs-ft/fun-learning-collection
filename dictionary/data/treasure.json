@@ -1,0 +1,151 @@
+{
+  "time": 1752141181044,
+  "title": "treasure",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈtreʒ.ər/",
+        "us": "/ˈtreʒ.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtreʒ.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktre/uktreac011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtreʒ.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tre/treas/treasure.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VALUABLE THINGS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "very valuable things, usually in the form of a store of precious metals, precious stones, or money",
+                "cn": "财宝;珍宝"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Stories about pirates often include a search for buried treasure.",
+                  "cn": "海盗故事中经常包括搜寻宝藏。"
+                },
+                {
+                  "gram": "",
+                  "en": "When they opened up the tomb they found treasure beyond their wildest dreams.",
+                  "cn": "他们挖开坟墓后发现了做梦也想象不到的珍宝。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "very valuable things, especially pieces of art",
+                "cn": "珍宝；（尤指）艺术珍品"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "stolen art treasures",
+                  "cn": "被盗的艺术珍品"
+                },
+                {
+                  "gram": "",
+                  "en": "The museum houses many priceless treasures.",
+                  "cn": "这家博物馆收藏了许多价值连城的珍品。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who is very helpful and valuable to you",
+                "cn": "很有用的人;很重要的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't know what I'd have done without Lizzie when I was ill - she was an absolute treasure.",
+                  "cn": "我生病时，要不是丽兹真不知道会怎么样——她真是个不可多得的人。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a friendly way of talking to someone, especially a child",
+                "cn": "宝贝儿（亲昵称呼，尤指小孩）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Come on, treasure, let's go and see Granny.",
+                  "cn": "赶快，宝贝儿，我们看奶奶去。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈtreʒ.ər/",
+        "us": "/ˈtreʒ.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtreʒ.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktre/uktreac011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtreʒ.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tre/treas/treasure.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to take great care of something because you love it or consider it very valuable",
+                "cn": "珍爱;珍惜;珍藏"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I will always treasure those memories of my dad.",
+                  "cn": "我会一直珍藏对爸爸的回忆。"
+                },
+                {
+                  "gram": "",
+                  "en": "This pen that my grandfather gave me is one of my most treasured possessions.",
+                  "cn": "我祖父送给我的这支钢笔是我最珍爱的东西之一。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

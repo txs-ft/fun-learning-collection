@@ -1,0 +1,113 @@
+{
+  "time": 1752140368846,
+  "title": "found",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/faʊnd/",
+        "us": "/faʊnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/faʊnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfor/ukfortn023.mp3"
+        },
+        "us": {
+          "ipa": "/faʊnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fou/found/found.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FIND",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "past simple and past participle of\nfind",
+                "cn": "（find的过去式及过去分词）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "BEGIN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to bring something into existence",
+                "cn": "创建;创立;创办"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Boston was founded in 1630 by Puritan colonists from England.",
+                  "cn": "波士顿是1630年由来自英格兰的清教徒殖民者兴建的。"
+                },
+                {
+                  "gram": "",
+                  "en": "She left a large sum of money in her will to found a wildlife sanctuary.",
+                  "cn": "她在遗嘱里留下了一大笔钱用来创建野生动物保护区。"
+                },
+                {
+                  "gram": "",
+                  "en": "We are planning a dinner to celebrate the 50th anniversary of the founding of the company.",
+                  "cn": "我们正筹划一个晚宴，庆祝公司成立50周年。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUILD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to build a support in the ground for a large structure such as a building or road",
+                "cn": "为（建筑物或公路）打地基"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "BASE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to base a belief, claim, idea, etc. on something",
+                "cn": "把…基于，把…建立在"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her lawyer accused the prosecution of founding its case on insufficient evidence.",
+                  "cn": "她的律师谴责控方所控证据不足。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd like to see the research that these recommendations are founded on.",
+                  "cn": "我想看看这些建议所依据的研究基础。"
+                },
+                {
+                  "gram": "",
+                  "en": "a society founded on egalitarian principles",
+                  "cn": "建立在人人平等原则基础之上的社会"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

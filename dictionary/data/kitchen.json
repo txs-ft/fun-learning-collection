@@ -1,0 +1,58 @@
+{
+  "time": 1752140564724,
+  "title": "kitchen",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɪtʃ.ən/",
+        "us": "/ˈkɪtʃ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɪtʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkit/ukkit__002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɪtʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kit/kitch/kitchen.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a room where food is kept, prepared, and cooked and where the dishes are washed",
+                "cn": "厨房"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We usually eat breakfast in the kitchen.",
+                  "cn": "我们通常在厨房吃早饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "the kitchen table",
+                  "cn": "厨房用桌"
+                },
+                {
+                  "gram": "",
+                  "en": "a new fitted kitchen (= cupboards that look the same attached to the walls and floor in the kitchen)",
+                  "cn": "全新的整体厨房"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

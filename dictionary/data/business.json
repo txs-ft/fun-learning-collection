@@ -1,0 +1,213 @@
+{
+  "time": 1752140068756,
+  "title": "business",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈbɪz.nɪs/",
+        "us": "/ˈbɪz.nɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbɪz.nɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbus/ukbushr005.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbɪz.nɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bus/busin/business.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SELLING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the activity of buying and selling goods and services",
+                "cn": "买卖（货品或服务）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My brother's in business.",
+                  "cn": "我哥哥经商。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's in the frozen food business.",
+                  "cn": "他做冷冻食品生意。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our firm does a lot of business with overseas customers.",
+                  "cn": "我们公司与海外客户的生意往来很多。"
+                },
+                {
+                  "gram": "",
+                  "en": "Eventually they found a consultant they felt they could do business with (= with whom they could work well).",
+                  "cn": "最后他们找到了一个他们觉得可以与其愉快合作的顾问。"
+                },
+                {
+                  "gram": "",
+                  "en": "Currently, there are fewer firms in business (= operating) in the area than ever before.",
+                  "cn": "目前在该地区经营的公司比以往任何时候都少。"
+                },
+                {
+                  "gram": "",
+                  "en": "This new tax will put a lot of small firms out of business (= they will stop operating).",
+                  "cn": "这项新的税收将导致许多小企业倒闭。"
+                },
+                {
+                  "gram": "",
+                  "en": "She set up in business (= started her own company) as a management consultant.",
+                  "cn": "她自己开办公司提供管理咨询服务。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPANY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a particular company that buys and sells goods and services",
+                "cn": "公司;商业机构"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The two brothers established/set up/started up a clothes retailing business.",
+                  "cn": "兄弟俩开了家服装零售商店。"
+                },
+                {
+                  "gram": "",
+                  "en": "She runs her own printing business.",
+                  "cn": "她经营自己的印刷公司。"
+                },
+                {
+                  "gram": "",
+                  "en": "They put a lot of money into the family business.",
+                  "cn": "他们向家族公司投入了许多金钱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WORK",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "work that you do to earn money",
+                "cn": "商务活动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm in Baltimore on business.",
+                  "cn": "我在巴尔的摩出差。"
+                },
+                {
+                  "gram": "",
+                  "en": "a business appointment",
+                  "cn": "商务会面"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the amount of work done or the number of goods or services sold by a company or organization",
+                "cn": "生意"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Business is good/brisk/booming/flourishing (= I'm selling a lot).",
+                  "cn": "生意兴隆。"
+                },
+                {
+                  "gram": "",
+                  "en": "Business is bad/slack/quiet (= I'm not selling much).",
+                  "cn": "生意清淡。"
+                },
+                {
+                  "gram": "",
+                  "en": "How is business (= are you selling much) at the moment?",
+                  "cn": "现在生意怎么样？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MATTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a situation or activity, often one that you are giving your opinion about",
+                "cn": "状况;事，事情;事务;重要事件"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Arranging a trip abroad is a time-consuming business.",
+                  "cn": "筹划一趟出国旅行是件很费时的事。"
+                },
+                {
+                  "gram": "",
+                  "en": "These killings are a horrible business.",
+                  "cn": "这些谋杀是非常可怕的事。"
+                },
+                {
+                  "gram": "",
+                  "en": "I make it my business (= I feel it is my particular duty) to check the monthly accounts.",
+                  "cn": "我觉得核查每月账目是我的责任。"
+                },
+                {
+                  "gram": "",
+                  "en": "We have some unfinished business to discuss (= we still have something important to discuss).",
+                  "cn": "我们还有一些未了结的事务需要讨论。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THINGS YOU DO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the things that you do or the matters that relate only to you",
+                "cn": "个人事务"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I started on the business of filling out the form.",
+                  "cn": "我开始填表格。"
+                },
+                {
+                  "gram": "",
+                  "en": "What she does with her life is her business.",
+                  "cn": "她如何生活是她自己的事。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

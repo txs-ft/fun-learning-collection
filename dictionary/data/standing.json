@@ -1,0 +1,118 @@
+{
+  "time": 1752141087575,
+  "title": "standing",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈstæn.dɪŋ/",
+        "us": "/ˈstæn.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈstæn.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstand007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈstæn.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sta/stand/standing.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "REPUTATION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "reputation, rank, or position in an area of activity, system, or organization",
+                "cn": "声誉，名声;级别;地位"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As a pathologist of considerable standing, his opinion will have a lot of influence.",
+                  "cn": "作为具有相当声望的病理学家，他的意见举足轻重。"
+                },
+                {
+                  "gram": "",
+                  "en": "A financial scandal would shake the Institute's standing in the international academic community.",
+                  "cn": "一桩财务丑闻会动摇这个机构在国际学术界的地位。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the time for which something has existed",
+                "cn": "存在时间；持续时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "One member, of twelve years' standing on the committee, resigned in protest at the changes.",
+                  "cn": "一名在委员会中任职12年的委员辞职以示对变革的抗议。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈstæn.dɪŋ/",
+        "us": "/ˈstæn.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈstæn.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstand007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈstæn.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sta/stand/standing.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "permanent, rather than formed or created when necessary",
+                "cn": "永久的，长期的;常设的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a standing committee",
+                  "cn": "常委会"
+                },
+                {
+                  "gram": "",
+                  "en": "You know you have a standing invitation to come and stay anytime you're in town.",
+                  "cn": "跟你说，你任何时候到城里来，都欢迎来住。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

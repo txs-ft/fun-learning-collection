@@ -1,0 +1,42 @@
+{
+  "time": 1752140998062,
+  "title": "skateboard",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈskeɪt.bɔːd/",
+        "us": "/ˈskeɪt.bɔːrd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈskeɪt.bɔːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksit/uksitua016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈskeɪt.bɔːrd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/ska/skate/skateboard.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a flat, narrow board with two small wheels under each end, which a person stands on and moves forward by pushing one foot on the ground",
+                "cn": "滑板"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

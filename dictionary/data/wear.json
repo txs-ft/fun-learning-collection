@@ -1,0 +1,243 @@
+{
+  "time": 1752141277823,
+  "title": "wear",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/weər/",
+        "us": "/wer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/weər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwax/ukwaxwo028.mp3"
+        },
+        "us": {
+          "ipa": "/wer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74948.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ON BODY",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to have clothing, jewellery, etc. on your body",
+                "cn": "穿（衣服）;戴（首饰等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Tracey is wearing a simple black dress.",
+                  "cn": "特蕾西身着一袭素净的黑色长裙。"
+                },
+                {
+                  "gram": "",
+                  "en": "What are you wearing to Caroline's wedding?",
+                  "cn": "卡罗琳的婚礼上你准备穿什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "Some musicians don't like to wear rings when they're playing.",
+                  "cn": "有的音乐家不喜欢在演奏时戴戒指。"
+                },
+                {
+                  "gram": "",
+                  "en": "He wears glasses for reading.",
+                  "cn": "他阅读时戴眼镜。"
+                },
+                {
+                  "gram": "",
+                  "en": "She wears very little make-up.",
+                  "cn": "她基本上不化妆。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to show a particular emotion on your face",
+                "cn": "流露，面带（某种表情）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The politician wore a confident smile throughout the interview.",
+                  "cn": "这位政治家在整个采访过程中都面带自信的微笑。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to arrange your hair in a particular way",
+                "cn": "把（头发）梳成（某种发型）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When she's working she wears her hair in a ponytail.",
+                  "cn": "工作时，她把头发梳成一个马尾辫。"
+                },
+                {
+                  "gram": "",
+                  "en": "You should wear your hair up (= so that it does not hang down) more often - it suits you.",
+                  "cn": "你应当更多地把头发梳起来——那很适合你。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WEAKEN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to become weaker, damaged, or thinner because of continuous use",
+                "cn": "磨损；耗损；用旧"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I really like this shirt but it's starting to wear at the collar.",
+                  "cn": "我非常喜欢这件衬衫，但是它的领子已经有些磨破了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The wheel bearings have worn over the years, which is what's causing the noise.",
+                  "cn": "轮子的轴承多年来已经磨损，这就是产生噪声的原因。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to produce something such as a hole or loss of material by continuous use, rubbing, or movement",
+                "cn": "磨破；磨出（洞等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I always seem to wear a hole in the left elbow of my sweaters.",
+                  "cn": "我似乎老是会把毛线衫的左肘处磨出洞来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Over many years, flowing water wore deep grooves into the rock.",
+                  "cn": "多年之后，流水在岩石上冲刷出一道道深深的凹槽。"
+                },
+                {
+                  "gram": "",
+                  "en": "Wind and water slowly wore down the mountain's jagged edges.",
+                  "cn": "风和水慢慢地磨平了这座山的棱角。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALLOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to allow or accept something",
+                "cn": "允许;接受"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd ask my boss for some time off but I don't think she'd wear it.",
+                  "cn": "我想向老板请一段时间的假，但我觉得她可能不会批准。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/weər/",
+        "us": "/wer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/weər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwax/ukwaxwo028.mp3"
+        },
+        "us": {
+          "ipa": "/wer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus74/eus74948.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CLOTHES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "clothes suitable for a particular use or clothes of a particular type",
+                "cn": "（有某种特定用途或某一类型的）衣服"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "casual wear",
+                  "cn": "便装"
+                },
+                {
+                  "gram": "",
+                  "en": "leisure wear",
+                  "cn": "休闲服"
+                },
+                {
+                  "gram": "",
+                  "en": "knitwear",
+                  "cn": "针织品"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "USE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the amount or type of use an object has had or can be expected to have",
+                "cn": "耐用性，经久性"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've had a lot of wear out of these boots - I've had them for five years.",
+                  "cn": "这双靴子我穿了很久——都有5年了。"
+                },
+                {
+                  "gram": "",
+                  "en": "When choosing a wood for flooring, be sure to choose one which is able to withstand hard wear.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

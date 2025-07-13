@@ -1,0 +1,110 @@
+{
+  "time": 1752140831955,
+  "title": "pirate",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpaɪ.rət/",
+        "us": "/ˈpaɪr.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpaɪ.rət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpiq/ukpiqua006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpaɪr.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pir/pirat/pirate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SHIPS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person who sails in a ship and attacks other ships in order to steal from them",
+                "cn": "海盗"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "MOVIES/MUSIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person who illegally copies music, films, computer programs, etc., and sells them",
+                "cn": "非法复制者，侵犯版权者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "software pirates",
+                  "cn": "软件侵权者"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a radio or television station that broadcasts without official permission:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The trailer was being used to house a pirate radio station.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈpaɪ.rət/",
+        "us": "/ˈpaɪr.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpaɪ.rət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpiq/ukpiqua006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpaɪr.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pir/pirat/pirate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to illegally copy a computer program, music, a film, etc. and sell it",
+                "cn": "非法复制，盗印"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

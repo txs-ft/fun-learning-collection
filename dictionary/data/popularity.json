@@ -1,0 +1,48 @@
+{
+  "time": 1752140852531,
+  "title": "popularity",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌpɒp.jəˈlær.ə.ti/",
+        "us": "/ˌpɑː.pjəˈler.ə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌpɒp.jəˈlær.ə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpop/ukpopsi005.mp3"
+        },
+        "us": {
+          "ipa": "/ˌpɑː.pjəˈler.ə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73647.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the fact that something or someone is liked, enjoyed, or supported by many people",
+                "cn": "流行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the increasing popularity of organic food",
+                  "cn": "有机食品的日益受欢迎"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

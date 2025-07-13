@@ -1,0 +1,123 @@
+{
+  "time": 1752141095164,
+  "title": "steal",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/stiːl/",
+        "us": "/stiːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stiːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstaun016.mp3"
+        },
+        "us": {
+          "ipa": "/stiːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/ste/steal/steal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TAKE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to take something without the permission or knowledge of the owner and keep it",
+                "cn": "偷，窃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She admitted stealing the money from her employers.",
+                  "cn": "她承认偷了雇主的钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "The number of cars which are stolen every year has risen.",
+                  "cn": "每年失窃车辆的数量在上升。"
+                },
+                {
+                  "gram": "",
+                  "en": "They were so poor they had to steal in order to eat.",
+                  "cn": "他们非常穷，为了填饱肚子只得去偷。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DO QUICKLY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to do something quickly or without being noticed",
+                "cn": "偷偷做;悄悄进行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She stole a glance at her watch.",
+                  "cn": "她偷偷瞥了一眼自己的手表。"
+                },
+                {
+                  "gram": "",
+                  "en": "He stole out of the room while no one was looking.",
+                  "cn": "他趁没人注意，偷偷溜出了房间。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/stiːl/",
+        "us": "/stiːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stiːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstaun016.mp3"
+        },
+        "us": {
+          "ipa": "/stiːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/ste/steal/steal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BARGAIN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a product that has a very low price, or a price that is much lower than the original cost",
+                "cn": "极廉价的物品;低价"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I picked up a new iron in the sale - it was a steal.",
+                  "cn": "我在大减价时买了个新熨斗——非常便宜。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

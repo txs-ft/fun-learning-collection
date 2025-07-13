@@ -1,5 +1,5 @@
 {
-  "time": 1751350236980,
+  "time": 1752141115069,
   "title": "surround",
   "generalBitmask": 3,
   "allDefinitions": [
@@ -22,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "B1",
@@ -32,27 +32,27 @@
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "Snow-capped mountains surround the city.",
                   "cn": "山顶为积雪覆盖的群山环绕着这座城市。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "Gwen sat at her desk, surrounded by books and papers.",
                   "cn": "格温坐在桌前，周围堆满了书和报纸。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "Mystery still surrounds the exact circumstances of Stalin's death.",
                   "cn": "斯大林去世的确切情况仍是迷雾重重。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "She said that she wanted to die surrounded by the people she loves (= with them all present).",
                   "cn": "她说她希望在她死的时候，她所爱的人会陪伴在自己身边。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "Early this morning, armed police surrounded (= moved into a position so that they were everywhere around) a house which they thought contained an escaped prisoner.",
                   "cn": "今天一大早，武装警察就包围了他们认为藏有一名逃犯的房子。"
                 }
@@ -83,31 +83,31 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
-              "level": null,
+              "level": "",
               "longDef": {
                 "en": "the area or border around something",
                 "cn": "周围地带;围绕物;缘饰"
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "Our bathtub has a tiled surround.",
                   "cn": "我们的浴缸周围铺了瓷砖。"
                 }
               ]
             },
             {
-              "level": null,
+              "level": "",
               "longDef": {
                 "en": "the area that is near and around a place",
                 "cn": "周边，附近"
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "The house is set in lush surrounds and has views of the ocean.",
                   "cn": "小楼绿树环绕，可以看见大海。"
                 }

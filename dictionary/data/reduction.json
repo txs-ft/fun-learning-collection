@@ -1,0 +1,61 @@
+{
+  "time": 1752140904472,
+  "title": "reduction",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/rɪˈdʌk.ʃən/",
+        "us": "/rɪˈdʌk.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈdʌk.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukred/ukredou007.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈdʌk.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/red/reduc/reduction.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKING SMALLER",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the act of making something, or of something becoming, smaller in size, amount, degree, importance, etc.",
+                "cn": "减少；减小；降低；缩小"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a reduction in traffic",
+                  "cn": "交通量的减少"
+                },
+                {
+                  "gram": "",
+                  "en": "huge price reductions",
+                  "cn": "大减价"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a copy of a photograph, picture, etc. that is smaller than the original one",
+                "cn": "缩影（照片或图片的一个拷贝，比原件小）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

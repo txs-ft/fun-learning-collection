@@ -1,0 +1,123 @@
+{
+  "time": 1752139658777,
+  "title": "annual",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈæn.ju.əl/",
+        "us": "/ˈæn.ju.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈæn.ju.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukann/ukannou007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈæn.ju.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ann/annua/annual.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "happening once every year",
+                "cn": "一年一度的;每年的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an annual event/visit/holiday",
+                  "cn": "年度大事／每年一次的访问／每年的假期"
+                },
+                {
+                  "gram": "",
+                  "en": "Companies publish annual reports to inform the public about the previous year's activities.",
+                  "cn": "公司发布年度报告，告知公众上一年的具体业务。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "relating to a period of one year",
+                "cn": "一年的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "annual income/salary/profit",
+                  "cn": "年收入／年薪／年利润"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈæn.ju.əl/",
+        "us": "/ˈæn.ju.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈæn.ju.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukann/ukannou007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈæn.ju.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ann/annua/annual.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BOOK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a book or magazine published once a year, especially for children, with the same title and style but different contents",
+                "cn": "年刊，年报;（尤指）儿童年册"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \nyearbook",
+                "cn": "（学校或其他机构出版的）年刊，年鉴"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "PLANT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a plant that grows, produces seeds, and dies within one year",
+                "cn": "一年生植物"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

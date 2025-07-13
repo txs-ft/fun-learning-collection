@@ -1,0 +1,132 @@
+{
+  "time": 1752140883989,
+  "title": "rainbow",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈreɪn.bəʊ/",
+        "us": "/ˈreɪn.boʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈreɪn.bəʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukraf/ukraffl026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈreɪn.boʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rai/rainb/rainbow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COLOURED LIGHT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an arch (= curved shape) of different colours seen in the sky when rain is falling and the sun is shining",
+                "cn": "彩虹，虹"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The sun came out and we saw a rainbow.",
+                  "cn": "太阳出来了，我们看到了一道彩虹。"
+                },
+                {
+                  "gram": "",
+                  "en": "The tropical butterfly's wings were shimmering with all the colours of the rainbow.",
+                  "cn": "热带蝴蝶的翅膀像彩虹一样闪烁着五彩缤纷的色彩。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈreɪn.bəʊ/",
+        "us": "/ˈreɪn.boʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈreɪn.bəʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukraf/ukraffl026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈreɪn.boʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rai/rainb/rainbow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the section of the Guides in the UK for girls aged around 4 to 7:",
+                "cn": "英国女童军组织是极幼女童军，幼女童军和女童军的管理机构。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Girlguiding UK is the governing body of Rainbows, Brownies, and Guides.",
+                  "cn": "英国女童军组织是极幼女童军，幼女童军和女童军的管理机构。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a meeting of Rainbows:",
+                "cn": "今晚爸爸会去极幼女童军聚会接你们。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Dad will pick you up from Rainbows tonight.",
+                  "cn": "今晚爸爸会去极幼女童军聚会接你们。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a girl who is a member of Rainbows",
+                "cn": "（年龄在4-7岁之间的）极幼女童军成员"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Thousands of Girl Guides, Brownies, and Rainbows attended the concert.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She has been with the Guide Association since the age of five when she was a Rainbow.",
+                  "cn": "她从5岁起就加入了女童军的极幼女童军组织。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

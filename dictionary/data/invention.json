@@ -1,0 +1,77 @@
+{
+  "time": 1752140507467,
+  "title": "invention",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɪnˈven.ʃən/",
+        "us": "/ɪnˈven.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˈven.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukinv/ukinvei004.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˈven.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/inv/inven/invention.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NEW DESIGN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something that has never been made before, or the process of creating something that has never been made before",
+                "cn": "发明，创造"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The world changed rapidly after the invention of the phone.",
+                  "cn": "电话发明后世界的变化日新月异。"
+                },
+                {
+                  "gram": "",
+                  "en": "a most amazing invention",
+                  "cn": "非常了不起的发明"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT TRUE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a story or excuse that is not true, or the act of creating a story or excuse that is not true",
+                "cn": "捏造，编造，虚构的故事"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All that gossip about Linda was just pure invention.",
+                  "cn": "有关琳达的所有流言都纯属虚构。"
+                },
+                {
+                  "gram": "",
+                  "en": "Be careful what you believe - her powers of invention (= ability to think of excuses, etc.) are well known.",
+                  "cn": "注意你该信什么——她编瞎话的本领是出了名的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

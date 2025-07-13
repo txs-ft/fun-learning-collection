@@ -1,0 +1,98 @@
+{
+  "time": 1752140579993,
+  "title": "leaf",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/liːf/",
+        "us": "/liːf/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/liːf/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukldr/ukldriv012.mp3"
+        },
+        "us": {
+          "ipa": "/liːf/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lea/leaf_/leaf.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PLANT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "one of the flat, usually green parts of a plant that are joined at one end to the stem or branch",
+                "cn": "叶，叶片，叶子，树叶"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a palm leaf",
+                  "cn": "棕榈树叶"
+                },
+                {
+                  "gram": "",
+                  "en": "autumn leaves",
+                  "cn": "秋叶"
+                },
+                {
+                  "gram": "",
+                  "en": "He was raking up leaves in his garden.",
+                  "cn": "他在自己的花园里扫集树叶。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "When a plant is in leaf or when it comes into leaf, it has or gets leaves on it:",
+                "cn": "今年树木的叶子长得早。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The trees are in leaf early this year.",
+                  "cn": "今年树木的叶子长得早。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PAPER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a thin sheet of paper",
+                "cn": "（纸张的）页，片，张"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "TABLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an extra part of a table that can be folded away when not being used",
+                "cn": "活动桌板，折叠桌板"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

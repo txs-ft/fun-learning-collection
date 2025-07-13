@@ -1,0 +1,69 @@
+{
+  "time": 1752140086106,
+  "title": "carnival",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɑː.nɪ.vəl/",
+        "us": "/ˈkɑːr.nə.vəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɑː.nɪ.vəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcar/ukcarho017.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɑːr.nə.vəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/car/carni/carnival.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "(a special occasion or period of) public enjoyment and entertainment involving wearing unusual clothes, dancing, and eating and drinking, usually held in the streets of a city",
+                "cn": "狂欢节;嘉年华会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a Caribbean carnival",
+                  "cn": "加勒比海狂欢节"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a real carnival atmosphere in the streets.",
+                  "cn": "街上真是一派狂欢节的气氛。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a place of outside entertainment where there are machines for riding on and games that can be played for prizes",
+                "cn": "露天游乐场，露天游乐会"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a public event, often held outside, where you can take part in competitions and buy small things and food, often organized to collect money for a particular purpose",
+                "cn": "露天游乐筹款会"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "time": 1752140151565,
+  "title": "committee",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kəˈmɪt.i/",
+        "us": "/kəˈmɪt̬.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈmɪt.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcommi013.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈmɪt̬.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70902.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a small group of people chosen to represent a larger organization and either make decisions or collect information for it",
+                "cn": "（代表较大的组织决策或搜集信息的）委员会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She sits on/is on the school's development committee.",
+                  "cn": "她是学校发展委员会的成员。"
+                },
+                {
+                  "gram": "",
+                  "en": "The local council has just set up a committee to study recycling.",
+                  "cn": "当地市政会刚刚成立了一个研究资源再生利用问题的委员会。"
+                },
+                {
+                  "gram": "",
+                  "en": "a committee meeting",
+                  "cn": "委员会会议"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

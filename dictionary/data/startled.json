@@ -1,0 +1,53 @@
+{
+  "time": 1752141092618,
+  "title": "startled",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈstɑː.təld/",
+        "us": "/ˈstɑːr.t̬əld/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈstɑː.təld/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cuk/cuk01/cuk01082.mp3"
+        },
+        "us": {
+          "ipa": "/ˈstɑːr.t̬əld/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cus/cus01/cus01949.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "surprised and slightly frightened",
+                "cn": "吃惊的，受惊吓的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was startled when dozens of strangers showed up at his office.",
+                  "cn": "当几十个陌生人出现在他的办公室时，他吓了一跳。"
+                },
+                {
+                  "gram": "",
+                  "en": "a startled expression",
+                  "cn": "惊愕的表情"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

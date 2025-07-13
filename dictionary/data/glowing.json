@@ -1,0 +1,53 @@
+{
+  "time": 1752140438094,
+  "title": "glowing",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈɡləʊ.ɪŋ/",
+        "us": "/ˈɡloʊ.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡləʊ.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukglo/ukglori014.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡloʊ.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/glo/glowi/glowing.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "praising with enthusiasm",
+                "cn": "热烈赞扬的;热情洋溢的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In her speech, she paid a glowing tribute to her predecessor.",
+                  "cn": "她在发言中热烈赞扬了她的前任。"
+                },
+                {
+                  "gram": "",
+                  "en": "His latest book has received glowing reviews.",
+                  "cn": "他的近作好评如潮。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

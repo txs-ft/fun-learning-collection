@@ -1,0 +1,48 @@
+{
+  "time": 1752140204403,
+  "title": "deerstalker",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈdɪəˌstɔː.kər/",
+        "us": "/ˈdɪrˌstɑː.kɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdɪəˌstɔː.kər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdec/ukdecry017.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdɪrˌstɑː.kɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usd/usdec/usdecol017.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a soft hat with two peaks (= flat curved parts that stick out), one at the back and one at the front, and coverings for the ears that are usually worn turned up",
+                "cn": "猎鹿帽（前后各有一帽舌，两侧有可翻下遮耳的部分）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Sherlock Holmes's deerstalker",
+                  "cn": "夏洛克‧福尔摩斯的猎鹿帽"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "time": 1752141085190,
+  "title": "stack",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/stæk/",
+        "us": "/stæk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stæk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstabl004.mp3"
+        },
+        "us": {
+          "ipa": "/stæk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sta/stack/stack.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PILE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a pile of things arranged one on top of another",
+                "cn": "（码放整齐的）堆，叠，摞"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He chose a cartoon from the stack of DVDs on the shelf.",
+                  "cn": "他从架子上的一摞DVD中挑了盘卡通片。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large amount",
+                "cn": "大量，许多"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't worry, we've got stacks of time.",
+                  "cn": "别担心，我们有的是时间。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a set of shelves in a library that are positioned close together so that a lot of books can be stored on them",
+                "cn": "（图书馆中排列密集的）藏书书架;书库"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What's the best way to find a book in the stacks?",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "My job was to replace books in the stacks.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The stacks are on floors 5-7 of the library.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "A member of staff took us on a tour of the stacks.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Ask at the desk if you wish to see a book that is in the stacks.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AIRCRAFT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of aircraft circling over an airport at different heights waiting for permission to land",
+                "cn": "多架在机场上空盘旋等待降落许可的飞机"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were in the stack for over an hour before we landed.",
+                  "cn": "我们和其它飞机在机场上空盘旋等待了一个多小时后才降落。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPUTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a way of storing data (= information) on a computer so that the last piece of data to be stored is the first one to be found by the computer",
+                "cn": "（信息存储方法）堆栈"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "ACCIDENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a car accident, especially one that causes damage",
+                "cn": "（尤指造成伤害的）车祸"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/stæk/",
+        "us": "/stæk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stæk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstabl004.mp3"
+        },
+        "us": {
+          "ipa": "/stæk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sta/stack/stack.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PUT SOMEWHERE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to arrange things in an ordered pile",
+                "cn": "把…放成整齐的一摞;把…码成堆"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Once the last few people had left the hall, the caretaker began stacking (up) the chairs.",
+                  "cn": "最后几个人一离开大厅，看门人就开始把椅子摞起来。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to fill something with objects",
+                "cn": "码放，摆放"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I got a job stacking shelves in a supermarket.",
+                  "cn": "我在一家超市找到了一份在货架上码货的工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Will you stack the dishwasher and switch it on, please?",
+                  "cn": "请把洗碗机装满然后打开开关好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AIRCRAFT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to circle over an airport waiting for permission to land, or to make an aircraft do this",
+                "cn": "（使）飞机在机场上空盘旋等待降落许可"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The airline uses thousands of tonnes of fuel a year when its planes are stacking above Heathrow and Gatwick.",
+                  "cn": "这家航空公司的飞机在希思罗机场和盖特威克机场上空盘旋等待降落时，每年要消耗数千吨燃料。"
+                },
+                {
+                  "gram": "",
+                  "en": "Planes stacked up at LAX when a radar failure caused problems nationwide.",
+                  "cn": "当雷达故障在全国范围内引发问题时，洛杉矶国际机场的上空有大批的飞机盘旋不能降落。"
+                },
+                {
+                  "gram": "",
+                  "en": "We were stacked up for hours waiting to land.",
+                  "cn": "我们在机场上空盘旋了好几个小时等待降落。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

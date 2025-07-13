@@ -1,0 +1,170 @@
+{
+  "time": 1752140335742,
+  "title": "fish",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/fɪʃ/",
+        "us": "/fɪʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/fɪʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfir/ukfirew013.mp3"
+        },
+        "us": {
+          "ipa": "/fɪʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fis/fish_/fish.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "an animal that lives in water, is covered with scales, and breathes by taking water in through its mouth, or the flesh of these animals eaten as food",
+                "cn": "鱼;鱼肉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Several large fish live in the pond.",
+                  "cn": "池塘里有几条大鱼。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sanjay caught the biggest fish I've ever seen.",
+                  "cn": "桑杰伊捉到的鱼是我见过最大的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't like fish (= don't like to eat fish).",
+                  "cn": "我不喜欢吃鱼。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a strange person:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's a bit of an odd fish, but I think he's basically sound.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/fɪʃ/",
+        "us": "/fɪʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/fɪʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfir/ukfirew013.mp3"
+        },
+        "us": {
+          "ipa": "/fɪʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fis/fish_/fish.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SEARCH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to try to find something, using your fingers to look for it",
+                "cn": "摸找，翻找，搜寻"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She fished in her tool box for the right screwdriver.",
+                  "cn": "她在工具箱里翻找合适的螺丝刀。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to try to get something, without asking directly",
+                "cn": "拐弯抹角地引出；间接探听"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The director was fishing for information about our strategy.",
+                  "cn": "那个主管正拐弯抹角地打听我们的策略。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's always fishing for compliments (= trying to make people say good things about him).",
+                  "cn": "他总是旁敲侧击地想听到恭维话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ANIMAL",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to catch fish from a river, sea, lake, etc., or to try to do this",
+                "cn": "捕（鱼）;钓（鱼）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They're fishing for tuna.",
+                  "cn": "他们在捕金枪鱼。"
+                },
+                {
+                  "gram": "",
+                  "en": "The sea here has been fished intensely over the last ten years.",
+                  "cn": "在过去的10年里，这片海域一直遭到密集捕捞。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If an area of water has been fished out, all or most of the fish in it have been caught:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's no point going to an area that's fished out.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "time": 1752141138163,
+  "title": "therefore",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈðeə.fɔːr/",
+        "us": "/ˈðer.fɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈðeə.fɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthe/ukthera007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈðer.fɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/the/there/therefore.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "for that reason",
+                "cn": "因此，因而，所以"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were unable to get funding and therefore had to abandon the project.",
+                  "cn": "我们无法筹到资金，因此不得不放弃计划。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

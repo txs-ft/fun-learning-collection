@@ -1,0 +1,154 @@
+{
+  "time": 1752140977809,
+  "title": "she",
+  "generalBitmask": 4353,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "strong /ʃiː/",
+        "us": "strong /ʃiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ʃiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksha/ukshari024.mp3"
+        },
+        "us": {
+          "ipa": "strong /ʃiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/she/she__/she.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used as the subject of a verb to refer to a woman, girl, or female animal that has already been mentioned",
+                "cn": "她;（指雌性动物）它"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I asked my mother if she'd lend me some money, but she said no.",
+                  "cn": "我问母亲能否借我点钱，她没有答应。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used instead of \"it\" to refer to a country, ship, or vehicle",
+                "cn": "（代替 it，尤用以指代已提及的国家、轮船或车辆）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "After India became independent, she chose to be a member of the Commonwealth.",
+                  "cn": "印度独立后，自主选择成为英联邦的成员。"
+                },
+                {
+                  "gram": "",
+                  "en": "Look at my new car - isn't she beautiful?",
+                  "cn": "看看我的新车——是不是很漂亮？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "strong /ʃiː/",
+        "us": "strong /ʃiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ʃiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksha/ukshari024.mp3"
+        },
+        "us": {
+          "ipa": "strong /ʃiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/she/she__/she.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a female",
+                "cn": "女性；雌性"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is this kitten a she or a he?",
+                  "cn": "这只小猫是母的还是公的？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/ʃiː-/",
+        "us": "/ʃiː-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃiː-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31427.mp3"
+        },
+        "us": {
+          "ipa": "/ʃiː-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31427.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "female",
+                "cn": "雌性的，母的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a she-wolf",
+                  "cn": "一头母狼"
+                },
+                {
+                  "gram": "",
+                  "en": "An enormous she-bear was hiding there, ready to pounce.",
+                  "cn": "一头巨大的母熊躲在那里，随时准备扑过来。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

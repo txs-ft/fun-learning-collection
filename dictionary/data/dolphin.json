@@ -1,0 +1,42 @@
+{
+  "time": 1752140226612,
+  "title": "dolphin",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈdɒl.fɪn/",
+        "us": "/ˈdɑːl.fɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdɒl.fɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdol/ukdolph001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdɑːl.fɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71360.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a sea mammal that is large, smooth, and grey, with a long, pointed mouth",
+                "cn": "海豚"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

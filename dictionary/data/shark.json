@@ -1,0 +1,77 @@
+{
+  "time": 1752140975305,
+  "title": "shark",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ʃɑːk/",
+        "us": "/ʃɑːrk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃɑːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksha/ukshari003.mp3"
+        },
+        "us": {
+          "ipa": "/ʃɑːrk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sha/shark/shark.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FISH",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a large fish that has sharp teeth and a pointed fin on its back",
+                "cn": "鲨鱼"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a great white shark",
+                  "cn": "大白鲨"
+                },
+                {
+                  "gram": "",
+                  "en": "a basking shark",
+                  "cn": "姥鲨;象鲛"
+                },
+                {
+                  "gram": "",
+                  "en": "The movie \"Jaws\" is about a man-eating shark.",
+                  "cn": "电影《大白鲨》讲的是一条食人鲨。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a dishonest person, especially one who persuades other people to pay too much money for something",
+                "cn": "骗子；（尤指）奸商"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "People who need a place to live can often find themselves at the mercy of local property sharks.",
+                  "cn": "需要住房的人常常会发现自己被当地那些奸诈的房地产商人所摆布。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

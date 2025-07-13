@@ -1,0 +1,124 @@
+{
+  "time": 1752140121635,
+  "title": "city",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsɪt.i/",
+        "us": "/ˈsɪt̬.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɪt.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcir/ukcirrh016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɪt̬.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cit/city_/city.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TOWN",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a large town",
+                "cn": "市，城市"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many of the world's cities have populations of more than five million.",
+                  "cn": "世界上许多城市的人口超过500万。"
+                },
+                {
+                  "gram": "",
+                  "en": "Wellington is the capital city (= centre of government) of New Zealand.",
+                  "cn": "惠灵顿是新西兰首都。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "any town in the UK that has a cathedral (= large, important church)",
+                "cn": "（英国有大教堂的）特许市"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The city of Ely has about 15,000 inhabitants.",
+                  "cn": "伊利市有大约1万5千居民。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the government of a city",
+                "cn": "市政府"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's the city's responsibility to maintain the pavements.",
+                  "cn": "维护人行道是市政府的责任。"
+                },
+                {
+                  "gram": "",
+                  "en": "My father works for the city.",
+                  "cn": "我父亲为市政府工作。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FINANCIAL CENTRE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the business centre of London where the large financial organizations are, such as the Bank of England",
+                "cn": "伦敦商业中心;伦敦城"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He works in the City.",
+                  "cn": "他在伦敦商业中心上班。"
+                },
+                {
+                  "gram": "",
+                  "en": "a City analyst",
+                  "cn": "伦敦商业区分析师"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the financial organizations as a group and the people who work for them",
+                "cn": "（英国）金融界"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The City acted swiftly to the news of a fall in the value of sterling.",
+                  "cn": "金融界对英镑下跌的消息迅速作出反应。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

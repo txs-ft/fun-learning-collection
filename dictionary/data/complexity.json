@@ -1,0 +1,62 @@
+{
+  "time": 1752140158823,
+  "title": "complexity",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kəmˈplek.sə.ti/",
+        "us": "/kəmˈplek.sə.t̬i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəmˈplek.sə.ti/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcompe024.mp3"
+        },
+        "us": {
+          "ipa": "/kəmˈplek.sə.t̬i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70921.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the state of having many parts and being difficult to understand or find an answer to",
+                "cn": "错综复杂，复杂性"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a problem of great complexity",
+                  "cn": "极复杂的难题"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the features of something that make it difficult to understand or find an answer to:",
+                "cn": "此事牵涉到许多错综复杂的情况。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There are a lot of complexities surrounding this issue.",
+                  "cn": "此事牵涉到许多错综复杂的情况。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

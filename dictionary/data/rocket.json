@@ -1,0 +1,125 @@
+{
+  "time": 1752140937817,
+  "title": "rocket",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈrɒk.ɪt/",
+        "us": "/ˈrɑː.kɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈrɒk.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrob/ukrobot009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈrɑː.kɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/roc/rocke/rocket.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DEVICE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a large cylinder-shaped object that moves very fast by forcing out burning gases, used for space travel or as a weapon",
+                "cn": "火箭;火箭发动机;火箭弹"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They launched a rocket to the planet Venus.",
+                  "cn": "他们向金星发射了一枚火箭。"
+                },
+                {
+                  "gram": "",
+                  "en": "The rebels were firing anti-tank rockets.",
+                  "cn": "叛军在发射反坦克火箭弹。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a type of firework that flies up into the air before exploding",
+                "cn": "焰火;烟花;火箭式空中大烟火"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "PLANT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a plant whose long green leaves are used in salads",
+                "cn": "芝麻菜;紫花南芥"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈrɒk.ɪt/",
+        "us": "/ˈrɑː.kɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈrɒk.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrob/ukrobot009.mp3"
+        },
+        "us": {
+          "ipa": "/ˈrɑː.kɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/roc/rocke/rocket.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to rise extremely quickly or make extremely quick progress towards success",
+                "cn": "迅速上升;迅速成功，一举成功"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "House prices in the north are rocketing (up).",
+                  "cn": "北部的房价正在飞涨。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their team rocketed to the top of the League.",
+                  "cn": "他们的球队在联赛上一举领先。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sharon Stone rocketed to fame in the film \"Basic Instinct\".",
+                  "cn": "莎朗．斯通凭借电影《本能》一举成名。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

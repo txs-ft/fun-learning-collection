@@ -1,0 +1,213 @@
+{
+  "time": 1752140366420,
+  "title": "forget",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/fəˈɡet/",
+        "us": "/fɚˈɡet/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/fəˈɡet/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfor/ukfores023.mp3"
+        },
+        "us": {
+          "ipa": "/fɚˈɡet/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71877.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT REMEMBER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to be unable to remember a fact, something that happened, or how to do something",
+                "cn": "忘记，遗忘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm sorry, I've forgotten your name.",
+                  "cn": "对不起，我忘了你的名字。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let me write down that date before I forget it.",
+                  "cn": "在我忘记之前，让我把日期写下来吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "I completely forgot about Jenny's party.",
+                  "cn": "我完全忘记了詹妮的聚会。"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "We had forgotten (that) she doesn't come on Thursdays.",
+                  "cn": "我们都忘了，她星期四都是不来的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm sorry, I was forgetting (= I had forgotten) (that) you would be away in August.",
+                  "cn": "抱歉，我忘了你8月不在。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "She would never forget seeing the Himalayas for the first time.",
+                  "cn": "她永远也不会忘记第一次看到喜马拉雅山时的情景。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "I've forgotten what you do next/how to do it.",
+                  "cn": "我忘了你下一步做什么／怎么做。"
+                },
+                {
+                  "gram": "",
+                  "en": "I never forget a face (= I'm good at remembering people).",
+                  "cn": "我记人很在行。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "including:",
+                "cn": "这是我们放书的地方，包括杂志和报纸。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This is where we keep all the books, not forgetting the magazines and newspapers.",
+                  "cn": "这是我们放书的地方，包括杂志和报纸。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT DO",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to not remember to do something",
+                "cn": "忘记做"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't forget to lock the door.",
+                  "cn": "别忘了锁门。"
+                },
+                {
+                  "gram": "",
+                  "en": "Dad's always forgetting (to take) his pills.",
+                  "cn": "爸爸总是忘记吃药。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT BRING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to not bring something with you because you did not remember it",
+                "cn": "忘记带"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I forgot my keys.",
+                  "cn": "我忘了带钥匙。"
+                },
+                {
+                  "gram": "",
+                  "en": "I forgot (= left) my wallet at home.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "STOP THINKING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to stop thinking about someone or something",
+                "cn": "忘掉，不再想"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He tried to forget her.",
+                  "cn": "他尽量不再想她。"
+                },
+                {
+                  "gram": "",
+                  "en": "It seemed unlikely that the debt would ever be paid off so we just forgot (about) it.",
+                  "cn": "那笔债似乎不太可能偿还，所以我们就不再把它放在心上了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BEHAVE BADLY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to act in a socially unacceptable way because you have lost control of your emotions",
+                "cn": "举止不得体，失态"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was so angry he forgot himself and swore loudly.",
+                  "cn": "他太生气了，就不成体统地破口大骂起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "I do apologize - I forgot myself!",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "I simply forgot myself for a moment - blame it on the wine.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "In all the excitement, I forgot myself and threw my arms around him.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "In his enthusiasm he was apt to forget himself, and he frequently had to apologize later.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "John, forgetting himself, suddenly burst into song.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

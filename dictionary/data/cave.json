@@ -1,0 +1,88 @@
+{
+  "time": 1752140103771,
+  "title": "cave",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/keɪv/",
+        "us": "/keɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/keɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcav/ukcaval003.mp3"
+        },
+        "us": {
+          "ipa": "/keɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cav/cave_/cave.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a large hole in the side of a hill, cliff, or mountain, or one that is underground",
+                "cn": "洞穴;山洞;地洞"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/keɪv/",
+        "us": "/keɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/keɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcav/ukcaval003.mp3"
+        },
+        "us": {
+          "ipa": "/keɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cav/cave_/cave.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to agree to something that you would not agree to before, after someone has persuaded you or threatened you",
+                "cn": "让步;屈服;妥协"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "After protests from customers, the company caved and removed the item from its stores.",
+                  "cn": "在顾客们进行抗议后，公司妥协了，从货架上拿下了这件商品。"
+                },
+                {
+                  "gram": "",
+                  "en": "I knew he'd cave if they offered him more money.",
+                  "cn": "我就知道如果他们给他更多钱，他会妥协的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

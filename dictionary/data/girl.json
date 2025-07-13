@@ -1,0 +1,95 @@
+{
+  "time": 1752140391031,
+  "title": "girl",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɡɜːl/",
+        "us": "/ɡɝːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡɜːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgir/ukgiraf007.mp3"
+        },
+        "us": {
+          "ipa": "/ɡɝːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gir/girl_/girl.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a female child or young woman, especially one still at school",
+                "cn": "（尤指学龄阶段的）女孩，姑娘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Two girls showed us round the classrooms.",
+                  "cn": "两个女孩领着我们参观了教室。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a daughter",
+                "cn": "女儿"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We have two girls.",
+                  "cn": "我们有两个女儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "My little girl is five.",
+                  "cn": "我小女儿5岁了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a woman worker, especially when seen as one of a group",
+                "cn": "（尤指被视作团队一员的）女职员，女工"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "shop/office girls",
+                  "cn": "女店员／女职员"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of female friends:",
+                "cn": "今晚我要和女友们到外面去玩。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm going out with the girls tonight.",
+                  "cn": "今晚我要和女友们到外面去玩。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

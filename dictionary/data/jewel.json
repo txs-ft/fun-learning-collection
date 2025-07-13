@@ -1,0 +1,102 @@
+{
+  "time": 1752397232354,
+  "title": "jewel",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈdʒuː.əl/",
+        "us": "/ˈdʒuː.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒuː.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjet/ukjetsa006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʒuː.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jew/jewel/jewel.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VALUABLE STONE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a precious stone that is used to decorate valuable objects",
+                "cn": "宝石"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was wearing a large gold necklace set with jewels.",
+                  "cn": "她戴着一条很粗的镶宝石的金项链。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small precious stone or a piece of specially cut glass, used in the mechanism of a watch",
+                "cn": "（钟表内的）宝石轴承，钻"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "→ \njewellery mainly UK :",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She wore satin opera gloves and heavy jewels.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BEAUTIFUL/IMPORTANT THING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that is very beautiful or valuable",
+                "cn": "宝贝；珍贵的东西"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many visitors consider the Sistine Chapel to be the jewel of the Vatican.",
+                  "cn": "许多游客认为西斯廷教堂是梵蒂冈的瑰宝。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a very kind or helpful person",
+                "cn": "好心人;乐于助人的人"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

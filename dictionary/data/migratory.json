@@ -1,0 +1,72 @@
+{
+  "time": 1752140615719,
+  "title": "migratory",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/maɪˈɡreɪ.tər.i/",
+        "us": "/ˈmaɪ.ɡrə.tɔːr.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/maɪˈɡreɪ.tər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmid/ukmidsi024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmaɪ.ɡrə.tɔːr.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mig/migra/migratory.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "A migratory bird or animal is one that migrates (= travels to a different place, usually when the season changes)",
+                "cn": "迁徙的（指候鸟或其他动物的季节性迁徙特征）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "migratory birds",
+                  "cn": "候鸟"
+                },
+                {
+                  "gram": "",
+                  "en": "Sea eagles are not migratory, so once extinct, there is no chance of them returning naturally.",
+                  "cn": "海鹰不是候鸟，所以一旦灭绝，就不会有同类从迁徙地自然回归原住地的可能。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "relating to the migration (= travel in large numbers to a different place) of animals, birds, or people",
+                "cn": "（动物、候鸟或人）移居的，迁居的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The satellite tag will track the turtle's migratory route for the first time.",
+                  "cn": "卫星定位器首次可以追踪海龟的洄游路线。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Rio Grande is a major migratory corridor for birds.",
+                  "cn": "格兰德河是候鸟迁徙的主要通道。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

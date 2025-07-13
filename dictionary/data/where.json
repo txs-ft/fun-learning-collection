@@ -1,0 +1,156 @@
+{
+  "time": 1752141285651,
+  "title": "where",
+  "generalBitmask": 40,
+  "allDefinitions": [
+    {
+      "pos": "adverb, conjunction",
+      "defBitmask": 40,
+      "pron": {
+        "uk": "/weər/",
+        "us": "/wer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/weər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel014.mp3"
+        },
+        "us": {
+          "ipa": "/wer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whe/where/where.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to, at, or in what place",
+                "cn": "去哪里;在哪里"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Where does he live?",
+                  "cn": "他住在哪里？"
+                },
+                {
+                  "gram": "",
+                  "en": "\"I put it on your desk.\" \"Where? I can't see it.\"",
+                  "cn": "“我把它放在你书桌上了。”“在哪里？我怎么没看到？”"
+                },
+                {
+                  "gram": "",
+                  "en": "Where are we going?",
+                  "cn": "我们要去哪里？"
+                },
+                {
+                  "gram": "",
+                  "en": "Now where did I put my glasses?",
+                  "cn": "我把眼镜放在哪儿了？"
+                },
+                {
+                  "gram": "",
+                  "en": "Where's the party being held?",
+                  "cn": "聚会在哪儿举行？"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you tell me where Barker Drive is, please?",
+                  "cn": "你能告诉我巴克大街怎么走吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Where did you put my umbrella?",
+                  "cn": "你把我的伞放在哪儿了？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've left my keys somewhere and I don't know where.",
+                  "cn": "我把钥匙放在什么地方了，但我想不起来放哪儿了。"
+                },
+                {
+                  "gram": "",
+                  "en": "You found my diary - where on earth was it?",
+                  "cn": "你找到了我的日记——它到底在哪儿呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've been meaning to ask you where you get your hair cut.",
+                  "cn": "我一直想问你是在什么地方剪的头发。"
+                },
+                {
+                  "gram": "",
+                  "en": "Bradford, where Bren comes from, has a lot of good curry restaurants.",
+                  "cn": "布拉德福德，布伦的家乡，有很多不错的咖喱饭店。"
+                },
+                {
+                  "gram": "",
+                  "en": "She lived in Rome for a couple of years, where she taught English.",
+                  "cn": "她在罗马生活了几年，其间在那里教英语。"
+                },
+                {
+                  "gram": "",
+                  "en": "You see where Mira is standing? Well, he's behind her.",
+                  "cn": "你看到米拉站在哪儿了吗？嗯，他在她的后面。"
+                },
+                {
+                  "gram": "",
+                  "en": "I like to have him next to me where I can keep an eye on him.",
+                  "cn": "我想让他挨着我，这样我就可以顺便照看他了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I read it somewhere - I don't know where (= in which book, newspaper, etc.).",
+                  "cn": "我在什么地方读到过——我不记得是在哪儿了。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used when referring to a particular stage in a process or activity",
+                "cn": "处于某种阶段;到了某种地步"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You reach a point in any project where you just want to get the thing finished.",
+                  "cn": "做任何项目时都会有那么一个阶段，就是只想着赶快把它弄完。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've reached the stage where I just don't care any more.",
+                  "cn": "我已经到了什么也不再在乎的地步了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in what situation",
+                "cn": "处于何种情况"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You're not available on the 12th and Andrew can't make the 20th - so where does that leave us?",
+                  "cn": "你12号没时间，而安德鲁20号不行——那我们还能选哪个时间呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "Where do you see yourself five years from now?",
+                  "cn": "你觉得自己5年之后会是什么样？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

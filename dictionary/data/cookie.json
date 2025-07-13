@@ -1,0 +1,80 @@
+{
+  "time": 1752140175164,
+  "title": "cookie",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkʊk.i/",
+        "us": "/ˈkʊk.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkʊk.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcoo/ukcooke002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkʊk.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/coo/cooki/cookie.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BISCUIT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a small, flat, sweet food made from flour and sugar",
+                "cn": "小甜饼，曲奇饼"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "chocolate-chip cookies",
+                  "cn": "巧克力甜饼"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TYPE OF PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person of the type mentioned",
+                "cn": "…样的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's a smart/tough cookie.",
+                  "cn": "她是个聪明／顽强的人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPUTING",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a piece of information stored on your computer about internet documents that you have looked at",
+                "cn": "“甜饼”记忆块，魔块，网络跟踪器（记录上网用户信息的文件）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

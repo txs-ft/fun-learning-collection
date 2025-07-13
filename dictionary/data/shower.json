@@ -1,0 +1,247 @@
+{
+  "time": 1752140987761,
+  "title": "shower",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ʃaʊər/",
+        "us": "/ˈʃaʊ.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃaʊər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshove010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃaʊ.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/showe/shower.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WASHING DEVICE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a device that releases drops of water through a lot of very small holes and that you stand under to wash your whole body",
+                "cn": "淋浴器"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The shower is broken - you'll have to have a bath.",
+                  "cn": "淋浴器坏了——你得用浴缸洗澡了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Many British homes have a shower attachment fixed to the bath taps.",
+                  "cn": "英国的许多家庭都在浴缸龙头上安装了淋浴器。"
+                },
+                {
+                  "gram": "",
+                  "en": "a shower curtain/cap",
+                  "cn": "浴帘／浴帽"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "an acting of washing using a shower",
+                "cn": "淋浴"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do I have time to have a shower before we go out?",
+                  "cn": "我们出去之前我还有时间冲个澡吗？"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a place, usually in a bathroom, where a shower is situated",
+                "cn": "淋浴间，淋浴室"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's in the shower at the moment. Do you want him to call you back?",
+                  "cn": "他现在正在冲澡。让他给你回电话好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RAIN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a short period of rain or snow",
+                "cn": "阵雨;阵雪"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "showers of rain, hail and sleet",
+                  "cn": "一阵阵的雨、冰雹和雨夹雪"
+                },
+                {
+                  "gram": "",
+                  "en": "You're soaked! Did you get caught in the shower?",
+                  "cn": "你都湿透了！你赶上那阵雨了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "There will be thundery/wintry showers over many parts of the country.",
+                  "cn": "全国大部分地区将有雷阵雨／寒冷的阵雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "Snow showers are expected at the end of the week.",
+                  "cn": "周末将有阵雪。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MASS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a lot of small objects or drops of liquid coming through the air",
+                "cn": "一大批，一连串（从天而降的小颗粒物或液滴）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There was a bang and a shower of sparks.",
+                  "cn": "一声巨响，闪过一片火花。"
+                },
+                {
+                  "gram": "",
+                  "en": "The pipe burst, sending out a shower of water.",
+                  "cn": "管道爆裂了，喷出一阵水花。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large amount of something",
+                "cn": "大量的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She received a shower of praise from her colleagues.",
+                  "cn": "她从同事那里得到了大量的赞美。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PARTY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a party held for a woman just before she gets married or gives birth to a child, when she is given presents for her future home or baby",
+                "cn": "（为即将结婚或分娩的妇女举行的）送礼会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I bought the cutest baby clothes to take to Jacey's baby shower.",
+                  "cn": "我买了最漂亮的婴儿服去参加杰西孩子的送礼会。"
+                },
+                {
+                  "gram": "",
+                  "en": "We went to my cousin's bridal shower yesterday.",
+                  "cn": "我们昨天去参加了我表妹的新娘送礼会。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ʃaʊər/",
+        "us": "/ˈʃaʊ.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃaʊər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksho/ukshove010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃaʊ.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sho/showe/shower.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FALL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to fall down or come out in a shower, or to make something do this",
+                "cn": "（某物）如阵雨般落下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I heard a massive explosion, and seconds later fragments of glass were showering (= falling) down on us.",
+                  "cn": "我听到了巨大的爆炸声，几秒钟后，玻璃碎片纷纷散落在我们身上。"
+                },
+                {
+                  "gram": "",
+                  "en": "She shook the bottle violently and showered us with champagne.",
+                  "cn": "她用力晃动酒瓶，向我们喷洒香槟。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WASH",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to take a shower",
+                "cn": "冲个淋浴"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I shower every morning.",
+                  "cn": "我每天早上都要洗个淋浴。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

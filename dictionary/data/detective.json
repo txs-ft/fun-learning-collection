@@ -1,0 +1,67 @@
+{
+  "time": 1752140214275,
+  "title": "detective",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dɪˈtek.tɪv/",
+        "us": "/dɪˈtek.tɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈtek.tɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdet/ukdetai008.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈtek.tɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/det/detec/detective.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "someone whose job is to discover information about crimes and find out who is responsible for them",
+                "cn": "侦探"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a private detective",
+                  "cn": "私家侦探"
+                },
+                {
+                  "gram": "",
+                  "en": "detective stories",
+                  "cn": "侦探故事"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used as part of the title of particular ranks in the police force",
+                "cn": "警探（用于某些级别的警察头衔）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Detective Sergeant Lewis",
+                  "cn": "刘易斯探长"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "time": 1752140458387,
+  "title": "hat",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/hæt/",
+        "us": "/hæt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/hæt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhas/ukhasty002.mp3"
+        },
+        "us": {
+          "ipa": "/hæt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hat/hat__/hat.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a covering for the head that is not part of a piece of clothing",
+                "cn": "帽子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a straw hat",
+                  "cn": "草帽"
+                },
+                {
+                  "gram": "",
+                  "en": "a woolly hat",
+                  "cn": "羊毛帽"
+                },
+                {
+                  "gram": "",
+                  "en": "a wide-brimmed hat",
+                  "cn": "宽边帽"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to refer to one of the various jobs or responsibilities that someone has",
+                "cn": "职位，职责"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For this movie, she is wearing the hats of director and actress.",
+                  "cn": "在这个电影里，她身兼导演和女主角两职。"
+                },
+                {
+                  "gram": "",
+                  "en": "This is me with my manager's hat on talking.",
+                  "cn": "我这是以经理的身份在讲话。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

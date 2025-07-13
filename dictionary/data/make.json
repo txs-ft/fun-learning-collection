@@ -1,0 +1,603 @@
+{
+  "time": 1752140603129,
+  "title": "make",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/meɪk/",
+        "us": "/meɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/meɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmai/ukmains015.mp3"
+        },
+        "us": {
+          "ipa": "/meɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mak/make_/make.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PRODUCE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to produce something, often using a particular substance or material",
+                "cn": "做;制作;制造"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you want me to make some coffee?",
+                  "cn": "要我煮些咖啡吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He made a chocolate cake.",
+                  "cn": "他做了一个巧克力蛋糕。"
+                },
+                {
+                  "gram": "",
+                  "en": "She makes all her own clothes.",
+                  "cn": "她所有的衣服都是自己做的。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "He made us some coffee./He made some coffee for us.",
+                  "cn": "他为我们煮了些咖啡。"
+                },
+                {
+                  "gram": "",
+                  "en": "The pot is made to withstand high temperatures.",
+                  "cn": "这个罐子是为能耐高温而制作的。"
+                },
+                {
+                  "gram": "",
+                  "en": "He works for a company that makes furniture.",
+                  "cn": "他为一家生产庭院家具的公司工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "The label on the box said \"made in China\".",
+                  "cn": "盒子上的标签写着“中国制造”。"
+                },
+                {
+                  "gram": "",
+                  "en": "Butter is made out of/from milk.",
+                  "cn": "黄油由牛奶制成。"
+                },
+                {
+                  "gram": "",
+                  "en": "earrings made of gold",
+                  "cn": "金制的耳环"
+                },
+                {
+                  "gram": "",
+                  "en": "Her new trainer has promised to make an Olympic athlete of her.",
+                  "cn": "她的新教练许诺将她培养成奥运选手。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "To make a film or television programme is to direct, produce it, or act in it.",
+                "cn": "执导;制作;拍摄;出演"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "John Huston made some great movies.",
+                  "cn": "约翰•休斯顿执导过一些十分优秀的影片。"
+                },
+                {
+                  "gram": "",
+                  "en": "The movie was made by Goldcrest Productions.",
+                  "cn": "这部影片是由金冠制片公司出品的。"
+                },
+                {
+                  "gram": "",
+                  "en": "So why didn't Garbo make any films after 1941?",
+                  "cn": "为何嘉宝1941年后就不再拍电影了？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to cause something",
+                "cn": "造成；引起；导致"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The kids made a real mess in the kitchen.",
+                  "cn": "孩子们将厨房弄得一团糟。"
+                },
+                {
+                  "gram": "",
+                  "en": "The bullet made a hole right through his chest.",
+                  "cn": "子弹射穿了他的胸膛。"
+                },
+                {
+                  "gram": "[ + infinitive without to ]",
+                  "en": "The wind is making my eyes water.",
+                  "cn": "风吹得我眼睛直流泪。"
+                },
+                {
+                  "gram": "",
+                  "en": "What made you change your mind?",
+                  "cn": "什么使你改变了想法？"
+                },
+                {
+                  "gram": "",
+                  "en": "Just seeing Woody Allen's face is enough to make me laugh.",
+                  "cn": "只要看一眼伍迪•艾伦的脸就足以使我发笑。"
+                },
+                {
+                  "gram": "",
+                  "en": "The photograph makes me look about 80!",
+                  "cn": "照片上的我看上去快80岁了！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE TO BE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cause to be, to become, or to appear as",
+                "cn": "使成为；使变成；使显得"
+              },
+              "examples": [
+                {
+                  "gram": "[ + noun ]",
+                  "en": "It's the good weather that makes Spain such a popular tourist destination.",
+                  "cn": "好天气使西班牙成为旅游胜地。"
+                },
+                {
+                  "gram": "[ + past participle ]",
+                  "en": "She had to shout to make herself heard above the sound of the music.",
+                  "cn": "她只有大声喊叫才能盖过音乐声让别人听到她的声音。"
+                },
+                {
+                  "gram": "",
+                  "en": "I can make myself understood in French, but I'm not fluent.",
+                  "cn": "我说法语别人可以懂，但不流利。"
+                },
+                {
+                  "gram": "",
+                  "en": "They went up to the Ambassador and made themselves known (to her).",
+                  "cn": "他们走到大使跟前，（向她）作了自我介绍。"
+                },
+                {
+                  "gram": "[ + adj ]",
+                  "en": "The company accounts have not yet been made public.",
+                  "cn": "公司账务至今尚未公开。"
+                },
+                {
+                  "gram": "",
+                  "en": "The book's advertised as \"navigation made easy\".",
+                  "cn": "这本书的广告宣传词是“航海不再难”。"
+                },
+                {
+                  "gram": "",
+                  "en": "The president has made Henry Paulson his Secretary of the Treasury.",
+                  "cn": "总统已任命亨利·保尔森为财政部长。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll have a steak - no, make that chicken.",
+                  "cn": "我要一份牛排——不，改成鸡肉。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to take action so that you are certain that something happens, is true, etc.:",
+                "cn": "我要确认一下是否关掉了烤箱。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll just make sure I've turned the oven off.",
+                  "cn": "我要确认一下是否关掉了烤箱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FORCE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to force someone or something to do something:",
+                "cn": "如果他不想去，你不能强迫他去。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You can't make him go if he doesn't want to.",
+                  "cn": "如果他不想去，你不能强迫他去。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be forced to do something:",
+                "cn": "囚犯们被强迫挖洞，然后再把它们填上。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The prisoners are made to dig holes and fill them up again.",
+                  "cn": "囚犯们被强迫挖洞，然后再把它们填上。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERFORM",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to perform an action",
+                "cn": "作出…的举动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I have to make a phone call.",
+                  "cn": "我必须打个电话。"
+                },
+                {
+                  "gram": "",
+                  "en": "Somebody has made a donation of £1 million to the charity Oxfam.",
+                  "cn": "有人向乐施会捐赠了100万英镑。"
+                },
+                {
+                  "gram": "",
+                  "en": "I need to make a doctor's appointment.",
+                  "cn": "我需要约一个时间见医生。"
+                },
+                {
+                  "gram": "",
+                  "en": "On foot they could only make about 20 miles a day.",
+                  "cn": "靠步行，他们每天只能走20英里左右。"
+                },
+                {
+                  "gram": "",
+                  "en": "We must make a decision by tomorrow.",
+                  "cn": "到明天为止我们必须作出决定。"
+                },
+                {
+                  "gram": "",
+                  "en": "You're not making any effort.",
+                  "cn": "你一点儿都不努力。"
+                },
+                {
+                  "gram": "",
+                  "en": "Someone has made a mistake/an error.",
+                  "cn": "有人犯了错误／出了差错。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're making good progress.",
+                  "cn": "我们进展顺利。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has made a request for a new car.",
+                  "cn": "她申请要一辆新汽车。"
+                },
+                {
+                  "gram": "",
+                  "en": "We made an offer of £450,000 for the house.",
+                  "cn": "我们出价45万英镑买这座房子。"
+                },
+                {
+                  "gram": "",
+                  "en": "She made a short speech.",
+                  "cn": "她作了简短的发言。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is it time to make a start on the work?",
+                  "cn": "我们可以开始工作了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Can I make a suggestion?",
+                  "cn": "我能否提个建议？"
+                },
+                {
+                  "gram": "",
+                  "en": "We made good time getting across town.",
+                  "cn": "我们开车高速穿过了市区。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a drunk at the door making trouble.",
+                  "cn": "有个醉汉在门口闹事。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If you make room/space/way for something or someone, you move your body or move other things, so that there is space for it or them:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was wondering if I could make room for a grand piano somewhere in my house.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to pull up and tidy the covers on a bed after it has been slept in:",
+                "cn": "她匆忙上楼，飞快地整理了床铺。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She hurried upstairs and quickly made the beds.",
+                  "cn": "她匆忙上楼，飞快地整理了床铺。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOTAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to produce a total when added together",
+                "cn": "等于;合计为"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "12 and 12 make 24.",
+                  "cn": "12加12等于24。"
+                },
+                {
+                  "gram": "",
+                  "en": "Today's earthquake makes five since the beginning of the year.",
+                  "cn": "今天的地震是今年以来的第5次。"
+                },
+                {
+                  "gram": "[ + obj + noun  ]",
+                  "en": "I have 29 different teapots in my collection - if I buy this one that'll make it 30.",
+                  "cn": "我已经收集了29个各式各样的茶壶——如果买下这个，就有30个了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CALCULATE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to calculate as",
+                "cn": "计算;估计"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How much do you make the total?",
+                  "cn": "你算出的总数是多少？"
+                },
+                {
+                  "gram": "",
+                  "en": "I make the answer (to be) 105.6.",
+                  "cn": "我算出的答案是105.6。"
+                },
+                {
+                  "gram": "",
+                  "en": "What do you make the time?/What time do you make it?",
+                  "cn": "你估计现在几点了？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EARN/GET",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to earn or get",
+                "cn": "挣得，赚得；获得"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She makes $100,000 a year as a doctor.",
+                  "cn": "她行医每年收入10万美元。"
+                },
+                {
+                  "gram": "",
+                  "en": "How do you make a living as a painter?",
+                  "cn": "你当画家如何谋生？"
+                },
+                {
+                  "gram": "",
+                  "en": "The company has made huge profits/losses.",
+                  "cn": "公司盈利丰厚／亏损严重。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's very good at making new friends.",
+                  "cn": "他善于结交新朋友。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ARRIVE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to arrive at or reach, especially successfully",
+                "cn": "（尤指成功地）赶到，到达"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She made it to the airport just in time to catch her plane.",
+                  "cn": "她及时赶到机场，搭上了班机。"
+                },
+                {
+                  "gram": "",
+                  "en": "He made it to the bed and then collapsed.",
+                  "cn": "他走到床边便倒下了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you make a meeting at 8 a.m.?/Could you make an 8 a.m. meeting?",
+                  "cn": "你能在早上8点碰面吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GET PLACE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to succeed in getting a place in a team",
+                "cn": "成功加入（一支队伍）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She failed to make the Olympic squad.",
+                  "cn": "她未能加入奥林匹克队。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "APPEAR IN NEWS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to appear as a story in the news",
+                "cn": "成为新闻"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "His story made the papers back home.",
+                  "cn": "他的故事上了家乡的报纸。"
+                },
+                {
+                  "gram": "",
+                  "en": "The civil war in Mozambique made few headlines around the globe.",
+                  "cn": "莫桑比克内战在世界上不是头条新闻。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERFECT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cause to be perfect",
+                "cn": "使完美；完善"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Those little bows around the neck really make the dress!",
+                  "cn": "领口的小蝴蝶结确实为这条连衣裙锦上添花！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/meɪk/",
+        "us": "/meɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/meɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmai/ukmains015.mp3"
+        },
+        "us": {
+          "ipa": "/meɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mak/make_/make.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a type of product or the name of the company that made it",
+                "cn": "（产品的）型号;品牌，牌子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What make is your laptop?",
+                  "cn": "你的笔记本电脑是什么牌子的？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "time": 1752140515044,
+  "title": "it",
+  "generalBitmask": 4353,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "/ɪt/",
+        "us": "/ɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukiso/ukisola019.mp3"
+        },
+        "us": {
+          "ipa": "/ɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/it_/it___/it.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "THING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used as the subject of a verb, or the object of a verb or preposition, to refer to a thing, animal, situation, or idea that has already been mentioned",
+                "cn": "（用作主语或宾语）它，这，那（指上文提到的事物、动物或情况）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Where's my pen? It was on my desk a minute ago.\" \"You left it by the phone.\"",
+                  "cn": "“我的钢笔在哪儿？刚才还在我的桌上。”“你放在电话旁了。”"
+                },
+                {
+                  "gram": "",
+                  "en": "The company was losing money and it had to let people go.",
+                  "cn": "该公司在亏损，所以不得不裁员。"
+                },
+                {
+                  "gram": "",
+                  "en": "The argument was upsetting for us all - I don't want to talk about it.",
+                  "cn": "那场争论使我们大家都心烦——我不想再谈论了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Children who stay away from school do it for different reasons.",
+                  "cn": "孩子逃学有各种原因。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUBJECT/OBJECT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used as the subject or object of a verb to represent a phrase at the end of the sentence",
+                "cn": "（用作主语或宾语）它，这，那（指句末的短语）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's unlikely that she'll arrive on time.",
+                  "cn": "她不太可能准时到来。"
+                },
+                {
+                  "gram": "",
+                  "en": "It costs more if you travel before 9.00.",
+                  "cn": "如果你在9点之前开始行程就会比较贵。"
+                },
+                {
+                  "gram": "",
+                  "en": "I liked it in Scotland.",
+                  "cn": "我喜欢在苏格兰。"
+                },
+                {
+                  "gram": "",
+                  "en": "I find it convenient to be able to do my banking by phone.",
+                  "cn": "我发现电话银行很方便。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME/WEATHER",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to talk about the time, date, weather, or distances",
+                "cn": "（用来指代时间、日期、天气或距离）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What time is it?",
+                  "cn": "现在几点？"
+                },
+                {
+                  "gram": "",
+                  "en": "It was October, so it was quite cold.",
+                  "cn": "那时候是十月，所以很冷。"
+                },
+                {
+                  "gram": "",
+                  "en": "It rained all day.",
+                  "cn": "整天都在下雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's ten miles to Leeds.",
+                  "cn": "距利兹十英里。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/ɪt-/",
+        "us": "/ɪt-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪt-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31258.mp3"
+        },
+        "us": {
+          "ipa": "/ɪt-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31258.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used for describing things or people that are very fashionable, and everyone is interested in them, wants to have them, etc.",
+                "cn": "时尚的;流行的（形容能引起普遍兴趣的某物或某人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The design of this bag makes it the \"it-bag\" for this summer.",
+                  "cn": "这款包的设计使它成为了今夏的潮流。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌaɪˈtiː/",
+        "us": "/ˌaɪˈtiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌaɪˈtiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukad5/ukad5076.mp3"
+        },
+        "us": {
+          "ipa": "/ˌaɪˈtiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usad6/usad6031.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "abbreviation for\ninformation technology",
+                "cn": "信息技术（information technology 的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "time": 1752141229330,
+  "title": "tropical",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈtrɒp.ɪ.kəl/",
+        "us": "/ˈtrɑː.pɪ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtrɒp.ɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktro/uktropi001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtrɑː.pɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tro/tropi/tropical.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "from or relating to the area between the two tropics",
+                "cn": "热带的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "tropical fish",
+                  "cn": "热带鱼"
+                },
+                {
+                  "gram": "",
+                  "en": "a tropical island/region/climate",
+                  "cn": "热带岛屿／地区／气候"
+                },
+                {
+                  "gram": "",
+                  "en": "Leprosy is one of the few tropical diseases which could soon be eradicated.",
+                  "cn": "有几种热带病可以很快彻底根除，麻风病就是其中之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "She specializes in tropical medicine (= the treatment of diseases from the tropical areas of the world).",
+                  "cn": "她专门医治热带病。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Amazon river basin contains the world's largest tropical rainforest.",
+                  "cn": "亚马孙河流域有世界上最大的热带雨林。"
+                },
+                {
+                  "gram": "",
+                  "en": "The hurricane was downgraded to a tropical storm when its speed dropped to 70mph.",
+                  "cn": "当飓风的速度降为每小时70英里时，就减弱为热带风暴。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "extremely hot",
+                "cn": "（天气）极热的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The weather was positively tropical last summer.",
+                  "cn": "去年夏天天气非常热。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

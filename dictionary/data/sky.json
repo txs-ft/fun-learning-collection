@@ -1,0 +1,77 @@
+{
+  "time": 1752141000514,
+  "title": "sky",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/skaɪ/",
+        "us": "/skaɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/skaɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksku/ukskunk002.mp3"
+        },
+        "us": {
+          "ipa": "/skaɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sky/sky__/sky.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the area above the earth, in which clouds, the sun, etc. can be seen",
+                "cn": "天，天空"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a blue/cloudy/dark sky",
+                  "cn": "蓝色／多云／阴暗的天空"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you see those birds high up in the sky?",
+                  "cn": "你能看到高空的那些鸟吗?"
+                },
+                {
+                  "gram": "",
+                  "en": "We looked up at/into the sky at the sound of the plane.",
+                  "cn": "我们听到飞机的声音后抬头仰望天空。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the sky in a particular state or place",
+                "cn": "（某种天气状况下或某地的）天空"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For weeks we had cloudless blue skies.",
+                  "cn": "好几个星期以来，我们这里的天空都是晴朗无云，一片湛蓝。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're off to the sunny skies of Florida.",
+                  "cn": "我们要离开这里去享受佛罗里达晴朗的天空了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

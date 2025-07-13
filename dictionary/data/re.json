@@ -1,0 +1,162 @@
+{
+  "time": 1752140892139,
+  "title": "re",
+  "generalBitmask": 4113,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/riː/",
+        "us": "/riː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/riː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukray/ukrayon013.mp3"
+        },
+        "us": {
+          "ipa": "/riː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/ray/ray__/ray.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(especially in business letters) about; on the subject of",
+                "cn": "（尤用于商务信函中）关于，兹就，事涉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Re your communication of 15 February ...",
+                  "cn": "兹就你2月15日来信…"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in the subject line of an email when it is a reply to another email, followed by the subject of the original message",
+                "cn": "（用于回复电子邮件时的标题行，在被回复的邮件的标题之前）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Re: invoice",
+                  "cn": "回复：invoice"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/reɪ/",
+        "us": "/reɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/reɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrat/ukratio030.mp3"
+        },
+        "us": {
+          "ipa": "/reɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/ray/ray__/ray.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the second note of the sol-fa musical scale",
+                "cn": "来（大调音阶的第二个音）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/riː-/",
+        "us": "/riː-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/riː-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrat/ukratio030.mp3"
+        },
+        "us": {
+          "ipa": "/riː-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/ray/ray__/ray.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to add the meaning \"do again\", especially to verbs",
+                "cn": "（加在动词前表示“再做”）重，又，再"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "rebuild",
+                  "cn": "重建"
+                },
+                {
+                  "gram": "",
+                  "en": "remarry",
+                  "cn": "再婚"
+                },
+                {
+                  "gram": "",
+                  "en": "reusable",
+                  "cn": "可重复使用的"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "returning something to its original state",
+                "cn": "（表示使…恢复原状）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the regreening of our country (= making it green again by planting trees, allowing grass to grow, etc.)",
+                  "cn": "重新造林"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

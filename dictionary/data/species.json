@@ -1,0 +1,53 @@
+{
+  "time": 1752141030038,
+  "title": "species",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈspiː.ʃiːz/",
+        "us": "/ˈspiː.ʃiːz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspiː.ʃiːz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspe/ukspeci007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspiː.ʃiːz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spe/speci/species.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a set of animals or plants in which the members have similar characteristics to each other and can breed with each other",
+                "cn": "（动植物的）种，物种"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Mountain gorillas are an endangered species.",
+                  "cn": "山地大猩猩属于濒危物种。"
+                },
+                {
+                  "gram": "",
+                  "en": "Over a hundred species of insect are found in this area.",
+                  "cn": "这一地区有上百种昆虫。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

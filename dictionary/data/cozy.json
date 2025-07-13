@@ -1,0 +1,42 @@
+{
+  "time": 1752140184776,
+  "title": "cozy",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "adjective, noun, verb",
+      "defBitmask": 7,
+      "pron": {
+        "uk": "/ˈkəʊ.zi/",
+        "us": "/ˈkoʊ.zi/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkəʊ.zi/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcos/ukcossa013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkoʊ.zi/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/coz/cozy_/cozy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "US spelling of \ncosy",
+                "cn": "（cosy的美式拼写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

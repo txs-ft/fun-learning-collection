@@ -1,0 +1,82 @@
+{
+  "time": 1752140826808,
+  "title": "perfectly",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈpɜː.fekt.li/",
+        "us": "/ˈpɝː.fekt.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɜː.fekt.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukper/ukperch021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɝː.fekt.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/per/perfe/perfectly.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in a perfect way",
+                "cn": "完美地，完满地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The jacket fits perfectly, the skirt not so well.",
+                  "cn": "这件短上衣非常合身，裙子却不太合身。"
+                },
+                {
+                  "gram": "",
+                  "en": "They're perfectly suited.",
+                  "cn": "他们俩是天造地设的一对。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to emphasize the word that follows",
+                "cn": "（用于强调所修饰的词）十足地，完全地，彻底地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To be perfectly honest, I don't care any more.",
+                  "cn": "十分坦诚地说，我已不在乎了。"
+                },
+                {
+                  "gram": "",
+                  "en": "You know perfectly well what the matter is.",
+                  "cn": "你很清楚是怎么回事。"
+                },
+                {
+                  "gram": "",
+                  "en": "I made it perfectly clear to him what I meant.",
+                  "cn": "我把我的意思非常清楚明白地告诉了他。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was perfectly happy on my own.",
+                  "cn": "我一个人生活非常幸福。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

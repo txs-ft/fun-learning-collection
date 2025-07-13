@@ -1,0 +1,315 @@
+{
+  "time": 1752140245430,
+  "title": "dry",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/draɪ/",
+        "us": "/draɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/draɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdru/ukdrubb019.mp3"
+        },
+        "us": {
+          "ipa": "/draɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dry/dry__/dry.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT WET",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to describe something that has no water or other liquid in, on, or around it",
+                "cn": "干的，干燥的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I hung his wet trousers on the radiator, but they're not dry yet.",
+                  "cn": "我把他的湿裤子挂在暖气片上了，但现在还没干呢。"
+                },
+                {
+                  "gram": "",
+                  "en": "These plants grow well in dry soil/a dry climate.",
+                  "cn": "这些植物适宜在干旱的土壤里／气候条件下生长。"
+                },
+                {
+                  "gram": "",
+                  "en": "This cake's a bit dry - I think I left it in the oven for too long.",
+                  "cn": "这个蛋糕有点干——估计是让我给烤过头了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to describe weather or periods of time when no rain falls",
+                "cn": "不下雨的，没有雨的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If it's dry tomorrow I'll cut the grass.",
+                  "cn": "如果明天不下雨，我就剪草。"
+                },
+                {
+                  "gram": "",
+                  "en": "It should be a nice, sunny, dry day.",
+                  "cn": "这应该是惬意、明媚、无雨的一天。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a river or other area of water runs dry, the water gradually disappears from it:",
+                "cn": "到这个时候所有的井都已经干枯了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "By this time all the wells had run dry.",
+                  "cn": "到这个时候所有的井都已经干枯了。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "Dry hair or skin does not have enough of the natural oils that make it soft and smooth.",
+                "cn": "（头发或皮肤）干燥的，干性的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a shampoo for dry hair",
+                  "cn": "适用于干性发质的洗发水"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "Dry bread is plain, without butter, jam, etc.",
+                "cn": "（面包）无黄油（或果酱）的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All I was offered was a piece of dry bread and an apple!",
+                  "cn": "他们只给了我一块没有黄油的面包和一个苹果。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BORING",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If a book, talk, subject, etc. is dry, it is not interesting.",
+                "cn": "枯燥乏味的，干巴巴的"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "NO ALCOHOL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "without alcoholic drinks",
+                "cn": "无酒精饮料的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a dry wedding",
+                  "cn": "不喝酒的婚礼"
+                },
+                {
+                  "gram": "",
+                  "en": "a dry bar",
+                  "cn": "无酒精酒吧"
+                },
+                {
+                  "gram": "",
+                  "en": "a dry state (= a place that does not allow alcohol)",
+                  "cn": "禁酒的州"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT SWEET",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "If wine or other alcoholic drinks are dry, they do not taste sweet.",
+                "cn": "（葡萄酒等酒精饮料）无甜味的，干的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "dry cider/martini/sherry/wine",
+                  "cn": "干苹果／马提尼／雪利／葡萄酒"
+                },
+                {
+                  "gram": "",
+                  "en": "On the whole, I like dry wine better than sweet.",
+                  "cn": "总的来讲，我更喜欢干葡萄酒，不喜欢甜葡萄酒。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HUMOUR",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "Dry humour is very funny in a way that is clever and not obvious.",
+                "cn": "不形于色的，不露声色的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a dry sense of humour",
+                  "cn": "不露声色的幽默感"
+                },
+                {
+                  "gram": "",
+                  "en": "a dry wit",
+                  "cn": "不形于色的诙谐"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/draɪ/",
+        "us": "/draɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/draɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31498.mp3"
+        },
+        "us": {
+          "ipa": "/draɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31498.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a place where the conditions are not wet, especially when compared to somewhere where the conditions are wet",
+                "cn": "干爽的地方，干燥的地方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You're soaked - come into the dry.",
+                  "cn": "你都湿透了——快到干的地方来。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/draɪ/",
+        "us": "/draɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/draɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdru/ukdrubb019.mp3"
+        },
+        "us": {
+          "ipa": "/draɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dry/dry__/dry.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to become dry, or to make something become dry",
+                "cn": "（使）变干，（使）干燥;晾干，烘干"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Will this paint dry by tomorrow?",
+                  "cn": "明天油漆会干吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Hang the clothes up to dry.",
+                  "cn": "把衣服挂起来晾干。"
+                },
+                {
+                  "gram": "",
+                  "en": "The fruit is dried in the sun.",
+                  "cn": "水果在阳光照射下变得干巴巴的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to dry plates, knives, forks, etc. after they have been washed:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you dry the dishes, Sam?",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

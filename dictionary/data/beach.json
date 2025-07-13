@@ -1,0 +1,99 @@
+{
+  "time": 1752139955236,
+  "title": "beach",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/biːtʃ/",
+        "us": "/biːtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/biːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbat/ukbattl017.mp3"
+        },
+        "us": {
+          "ipa": "/biːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bea/beach/beach.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "an area of sand or small stones near the sea or another area of water such as a lake",
+                "cn": "海滨，湖滨;海滩，沙滩"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We spent the day on the beach.",
+                  "cn": "我们在海滩度过了一整天。"
+                },
+                {
+                  "gram": "",
+                  "en": "a beach café",
+                  "cn": "海滨咖啡馆"
+                },
+                {
+                  "gram": "",
+                  "en": "a beach towel",
+                  "cn": "沙滩浴巾"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/biːtʃ/",
+        "us": "/biːtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/biːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbat/ukbattl017.mp3"
+        },
+        "us": {
+          "ipa": "/biːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bea/beach/beach.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to pull or force a boat, etc. out of the water onto the land",
+                "cn": "把船从水里拖到岸上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The boat had been beached near the rocks.",
+                  "cn": "船已经被拖到了海滩上的礁石附近。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

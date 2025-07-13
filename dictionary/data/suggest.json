@@ -1,0 +1,121 @@
+{
+  "time": 1752141107614,
+  "title": "suggest",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/səˈdʒest/",
+        "us": "/səˈdʒest/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səˈdʒest/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksug/uksugar002.mp3"
+        },
+        "us": {
+          "ipa": "/səˈdʒest/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sug/sugge/suggest.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MENTION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to mention an idea, possible plan, or action for other people to consider",
+                "cn": "提议;建议"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I suggested an Italian restaurant near the station for the party.",
+                  "cn": "我建议聚会去火车站附近的一家意大利餐馆。"
+                },
+                {
+                  "gram": "",
+                  "en": "Might I suggest a white wine with your salmon, sir?",
+                  "cn": "我建议来一杯白葡萄酒配您的鲑鱼吧，先生？"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "I suggest (that) we wait a while before we make any firm decisions.",
+                  "cn": "我建议我们在作出任何明确而肯定的决定之前先考虑片刻。"
+                },
+                {
+                  "gram": "",
+                  "en": "Liz suggested (that) I try the shop on Mill Road.",
+                  "cn": "莉兹建议我去米尔街的那家店看看。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "I suggested putting the matter to the committee.",
+                  "cn": "我提议把这件事提交委员会讨论。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Can you suggest where I could buy a dozen roses?",
+                  "cn": "你知道有什么地方我可以买一打玫瑰吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHOW/EXPRESS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to communicate or show an idea or feeling without stating it directly or giving proof",
+                "cn": "暗示；间接表明；意味着"
+              },
+              "examples": [
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "There's no absolute proof, but all the evidence suggests (that) he's guilty.",
+                  "cn": "虽然没有确凿的证据，但所有证据都表明他有罪。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are you suggesting (that) I look fat in these trousers?",
+                  "cn": "你言下之意是说我穿这条裤子显得胖？"
+                },
+                {
+                  "gram": "",
+                  "en": "Something about his manner suggested a lack of interest in what we were doing.",
+                  "cn": "他的举止流露出的某种东西表明他对我们正在做的事情并无兴趣。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRODUCE AN IDEA",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to produce an idea in the mind",
+                "cn": "使想到;使联想到"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Does anything suggest itself? (= Do you have any ideas about what we should do?)",
+                  "cn": "你想到什么好主意了吗？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

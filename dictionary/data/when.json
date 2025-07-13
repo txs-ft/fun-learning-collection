@@ -1,0 +1,224 @@
+{
+  "time": 1752141282970,
+  "title": "when",
+  "generalBitmask": 296,
+  "allDefinitions": [
+    {
+      "pos": "adverb, conjunction",
+      "defBitmask": 40,
+      "pron": {
+        "uk": "/wen/",
+        "us": "/wen/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wen/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel011.mp3"
+        },
+        "us": {
+          "ipa": "/wen/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whe/when_/when.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "at what time; at the time at which",
+                "cn": "什么时候，何时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"I did tell you about it.\" \"When? I don't remember.\"",
+                  "cn": "“我确实告诉过你这件事。”“什么时候？我不记得了。”"
+                },
+                {
+                  "gram": "",
+                  "en": "When are you going?",
+                  "cn": "你什么时候走？"
+                },
+                {
+                  "gram": "",
+                  "en": "When's the baby due?",
+                  "cn": "婴儿会在什么时候出生？"
+                },
+                {
+                  "gram": "",
+                  "en": "We'll go when you're ready.",
+                  "cn": "你准备好了我们就出发。"
+                },
+                {
+                  "gram": "",
+                  "en": "Tell me when to start.",
+                  "cn": "告诉我什么时候开始。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ask him when he's next coming home.",
+                  "cn": "问问他下次什么时候回家。"
+                },
+                {
+                  "gram": "",
+                  "en": "When do you expect to have the project completed (by)?",
+                  "cn": "你预计这个项目什么时候完成？"
+                },
+                {
+                  "gram": "",
+                  "en": "She was only 20 when she had her first baby.",
+                  "cn": "她生第一个孩子时只有20岁。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was shocked when I told him.",
+                  "cn": "我告诉他时他非常震惊。"
+                },
+                {
+                  "gram": "",
+                  "en": "I hate it when there's no one in the office.",
+                  "cn": "我讨厌办公室里一个人也没有。"
+                },
+                {
+                  "gram": "",
+                  "en": "I went there when I was a child.",
+                  "cn": "我小的时候去过那里。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was just getting into the bath when the phone rang.",
+                  "cn": "我正要洗澡，电话响了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "/wen/",
+        "us": "/wen/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wen/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel011.mp3"
+        },
+        "us": {
+          "ipa": "/wen/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whe/when_/when.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "what/which time",
+                "cn": "什么时候，何时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Did you know Lucy was back in England?\" \"Is she - since when?\"",
+                  "cn": "“你知道露西已经回到英格兰了吗？”“是吗──什么时候？”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/wen/",
+        "us": "/wen/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wen/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel011.mp3"
+        },
+        "us": {
+          "ipa": "/wen/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whe/when_/when.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CONSIDERING THAT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "considering the fact that",
+                "cn": "当…时;考虑到"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How can you say you don't like something when you've never even tried it!",
+                  "cn": "你连试都没试过，怎么能说不喜欢呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "You can't complain about being lonely when you don't make any effort to meet people.",
+                  "cn": "你自己不主动去认识别人，又怎么能抱怨孤独呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "Why is she training to be a teacher when she doesn't even like children?",
+                  "cn": "她既然连孩子都不喜欢，为什么要去接受培训当老师呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't suppose I can really call myself a vegetarian when I eat fish.",
+                  "cn": "因为我吃鱼，所以我觉得不能称自己为真正的素食主义者。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALTHOUGH",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "despite the fact that",
+                "cn": "尽管;可是;但是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He says he doesn't have any money when in fact he has thousands of dollars in his account.",
+                  "cn": "他说自己没有钱，可实际上他的银行账户里有几千美元。"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't understand how he can say that everything's fine when it's so obvious that it's not.",
+                  "cn": "我不明白他为什么要说一切都很好，实际情况显然并非如此。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "time": 1752140993263,
+  "title": "signal",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsɪɡ.nəl/",
+        "us": "/ˈsɪɡ.nəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɪɡ.nəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksie/uksiege015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɪɡ.nəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sig/signa/signal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACTION",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an action, movement, or sound that gives information, a message, a warning, or an order",
+                "cn": "信号"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When she gave (them) the signal, they all cheered.",
+                  "cn": "她发出信号后，他们都欢呼起来。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "The fireworks were a signal that the festival had started.",
+                  "cn": "焰火是节日开始的信号。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "The police officer gave us the signal to stop.",
+                  "cn": "警察示意我们停下。"
+                },
+                {
+                  "gram": "",
+                  "en": "The signal for a race to start is often the firing of a gun.",
+                  "cn": "赛跑常以发令枪响作为开始的信号。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \nturn signal",
+                "cn": "（车辆）转向灯（同 turn signal）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "WAVE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a series of electrical or radio waves that are sent to a radio or television in order to produce a sound, picture, or message",
+                "cn": "（用于传输声音、图像或其他信息的）电波信号"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "SHOWING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that shows that something else exists or is likely to happen",
+                "cn": "迹象"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The loss is a clear signal of his deteriorating confidence.",
+                  "cn": "比赛输了，这清楚地表明他信心日渐不足。"
+                },
+                {
+                  "gram": "",
+                  "en": "The changing colour of the leaves on the trees is a signal that it will soon be autumn.",
+                  "cn": "树叶颜色的改变表明秋天即将来临。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EQUIPMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "equipment, especially on the side of a railway or road, often with lights, that tells drivers to stop, continue, or go more slowly",
+                "cn": "（尤指铁路或公路上的）信号灯"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a railway signal",
+                  "cn": "铁路信号灯"
+                },
+                {
+                  "gram": "",
+                  "en": "a traffic signal",
+                  "cn": "交通信号灯"
+                },
+                {
+                  "gram": "",
+                  "en": "a road signal",
+                  "cn": "道路信号灯"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈsɪɡ.nəl/",
+        "us": "/ˈsɪɡ.nəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɪɡ.nəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksie/uksiege015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɪɡ.nəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sig/signa/signal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACTION",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to make a movement, sound, flash, etc. that gives information or tells people what to do",
+                "cn": "发信号;示意"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Flashing lights on a parked car usually signal a warning (to other drivers).",
+                  "cn": "停着的车辆上闪烁的车灯通常是警告（其他驾车者）的信号。"
+                },
+                {
+                  "gram": "",
+                  "en": "He signalled left, and turned the lorry slowly.",
+                  "cn": "他打开左转方向灯，然后将卡车缓慢转过去。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was signalling (= giving a signal) with a red flag.",
+                  "cn": "他正用红色旗子发信号。"
+                },
+                {
+                  "gram": "",
+                  "en": "She signalled for help.",
+                  "cn": "她发出了求救信号。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "She signalled to the cars behind her that they were going the wrong way.",
+                  "cn": "她示意后面的车辆走错了路。"
+                },
+                {
+                  "gram": "[ + obj + to infinitive  ]",
+                  "en": "The children's mother signalled them to be quiet.",
+                  "cn": "孩子们的母亲示意他们安静。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "The children's mother signalled to/for them to be quiet.",
+                  "cn": "孩子们的母亲向他们示意保持安静。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to show that you intend or are ready to do something",
+                "cn": "表达，表示;显示"
+              },
+              "examples": [
+                {
+                  "gram": "[ + that ]",
+                  "en": "The union has signalled that the workers will strike.",
+                  "cn": "工会表示工人们将会罢工。"
+                },
+                {
+                  "gram": "",
+                  "en": "The union has signalled the workers' intention to strike.",
+                  "cn": "工会已表示工人们打算罢工。"
+                },
+                {
+                  "gram": "",
+                  "en": "The death of Chairman Mao signalled (= marked) the end of an era in Chinese history.",
+                  "cn": "毛主席的去世标志着中国历史上一个时代的结束。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈsɪɡ.nəl/",
+        "us": "/ˈsɪɡ.nəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɪɡ.nəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksie/uksiege015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɪɡ.nəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sig/signa/signal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "noticeable and unusual",
+                "cn": "显著的；不寻常的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a signal success/failure",
+                  "cn": "重大胜利／失败"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

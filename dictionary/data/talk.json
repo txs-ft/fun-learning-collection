@@ -1,0 +1,198 @@
+{
+  "time": 1752141122385,
+  "title": "talk",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/tɔːk/",
+        "us": "/tɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tɔːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktaj/uktajik017.mp3"
+        },
+        "us": {
+          "ipa": "/tɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tal/talk_/talk.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SAY WORDS",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to say words aloud; to speak to someone",
+                "cn": "讲话，谈话;谈论"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were just talking about Gareth's new girlfriend.",
+                  "cn": "我们刚才在谈论加雷斯的新女友。"
+                },
+                {
+                  "gram": "",
+                  "en": "My little girl has just started to talk.",
+                  "cn": "我的小女儿刚开始说话。"
+                },
+                {
+                  "gram": "",
+                  "en": "She talks to her mother on the phone every week.",
+                  "cn": "她每周都跟母亲通电话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DISCUSS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to discuss something with someone, often to try to find a solution to a disagreement",
+                "cn": "（为了寻求解决分歧的途径而）与…会谈"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The two sides have agreed to talk.",
+                  "cn": "双方同意会谈。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to discuss a particular subject",
+                "cn": "谈论正事／政治（等等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Whenever they're together, they talk politics.",
+                  "cn": "他们一到一起就谈论政治。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LECTURE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to give a lecture on a subject",
+                "cn": "（就某一主题）作报告"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The next speaker will be talking about endangered insects.",
+                  "cn": "下一位讲者将就濒危昆虫作报告。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/tɔːk/",
+        "us": "/tɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tɔːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktaj/uktajik017.mp3"
+        },
+        "us": {
+          "ipa": "/tɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tal/talk_/talk.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a conversation between two people, often about a particular subject",
+                "cn": "交谈"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I asked him to have a talk with his mother about his plan.",
+                  "cn": "我叫他跟他母亲谈谈他的计划。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a speech given to a group of people to teach or tell them about a particular subject",
+                "cn": "演讲;讲座"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He gave a talk about/on his visit to Malaysia.",
+                  "cn": "他就他的马来西亚之行办了一个讲座。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "serious and formal discussions on an important subject, usually intended to produce decisions or agreements",
+                "cn": "商谈;会谈"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Talks were held in Madrid about the fuel crisis.",
+                  "cn": "有关燃料危机的会谈在马德里召开。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the action of talking about what might happen or be true, or the subject people are talking about",
+                "cn": "闲谈;话题"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Talk won't get us anywhere.",
+                  "cn": "闲谈对我们毫无益处。"
+                },
+                {
+                  "gram": "",
+                  "en": "The talk/Her talk was all about the wedding.",
+                  "cn": "那次谈话／她所说的全都是关于婚礼的事。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

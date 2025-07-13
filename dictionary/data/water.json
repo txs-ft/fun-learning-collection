@@ -1,0 +1,301 @@
+{
+  "time": 1752141270442,
+  "title": "water",
+  "generalBitmask": 8195,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈwɔː.tər/",
+        "us": "/ˈwɑː.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈwɔː.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwas/ukwaspi026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈwɑː.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wat/water/water.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a clear liquid, without colour or taste, that falls from the sky as rain and is necessary for animal and plant life",
+                "cn": "水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bottle/drink/glass of water",
+                  "cn": "一瓶／份／杯水"
+                },
+                {
+                  "gram": "",
+                  "en": "bottled/mineral/tap water",
+                  "cn": "瓶装／矿泉／自来水"
+                },
+                {
+                  "gram": "",
+                  "en": "hot/cold water",
+                  "cn": "热／冷水"
+                },
+                {
+                  "gram": "",
+                  "en": "Can I have a drop of water in my whisky, please?",
+                  "cn": "请在我的威士忌里加一点水，好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Is there enough hot water for a bath?",
+                  "cn": "这水洗澡够不够热？"
+                },
+                {
+                  "gram": "",
+                  "en": "The human body is about 50 percent water.",
+                  "cn": "人体约50%是水。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an area of water, such as the sea, a lake, or a swimming pool",
+                "cn": "水域;大片的水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The water's warm - are you coming in?",
+                  "cn": "水挺暖和的——你来游泳吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't like getting my head under (= in) water.",
+                  "cn": "我不喜欢把头浸在水里。"
+                },
+                {
+                  "gram": "",
+                  "en": "Dad, I swam a whole length of the pool under water (= with the whole head and body below the surface of the water)!",
+                  "cn": "爸爸，我潜泳游完了游泳池的一个全程！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the level of an area of water",
+                "cn": "水位"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The river is difficult to cross during periods of high water.",
+                  "cn": "涨水的时候这条河很难过去。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the area of sea near to and belonging to a particular country",
+                "cn": "（某个国家的）领海，海域"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "St Lucia depends on its clean coastal waters for its income.",
+                  "cn": "圣卢西亚岛的收入靠的是其清洁的近海水域。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the water contained in a particular lake, river, or part of the sea",
+                "cn": "（某一湖泊、河流或海洋的）水域"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In the shallow waters of the Gulf of Mexico, oil rigs attract fish.",
+                  "cn": "在墨西哥湾的浅海水域，石油钻塔吸引了大量的鱼群。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the liquid that surrounds a baby inside a pregnant woman's womb",
+                "cn": "羊水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At 3 a.m. her waters broke, and the baby was born soon after.",
+                  "cn": "凌晨3点，她的羊水破了，婴儿也很快就出生了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "water from a spring, especially when used in the past for drinking or swimming in, in order to improve the health",
+                "cn": "泉水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "People used to come to this city to take (= drink or swim in) the waters.",
+                  "cn": "人们过去常来这座城市享用这里的泉水。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈwɔː.tər/",
+        "us": "/ˈwɑː.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈwɔː.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwas/ukwaspi026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈwɑː.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usc/uscld/uscld2s094.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GIVE WATER",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to pour water on to plants or the soil that they are growing in",
+                "cn": "给…浇水;灌溉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've asked my neighbour to water the plants while I'm away.",
+                  "cn": "我已经请邻居在我不在的时候帮忙给那些植物浇水。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to give an animal water to drink",
+                "cn": "给（动物）喂水;饮（动物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The horses had been fed and watered.",
+                  "cn": "已经给马喂过饲料饮过水了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRODUCE LIQUID",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If your mouth waters, it produces a lot of saliva, usually because you can see or smell some food that you would like to eat.",
+                "cn": "流口水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The smell of that bread is making my mouth water!",
+                  "cn": "那种面包的香味让我直流口水！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "When your eyes water, they produce tears but not because you are unhappy.",
+                "cn": "（并非因为难过而）流眼泪"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How do you stop your eyes from watering when you're cutting up onions?",
+                  "cn": "切洋葱时你是如何让眼睛不流泪的呢？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -wɔː.tər/",
+        "us": "/ -wɑː.t̬ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -wɔː.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwas/ukwaspi026.mp3"
+        },
+        "us": {
+          "ipa": "/ -wɑː.t̬ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wat/water/water.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to form adjectives",
+                "cn": "（用于构成形容词）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "freshwater fish",
+                  "cn": "淡水鱼"
+                },
+                {
+                  "gram": "",
+                  "en": "a saltwater lagoon",
+                  "cn": "咸水泻湖"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

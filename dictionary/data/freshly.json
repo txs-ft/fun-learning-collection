@@ -1,0 +1,58 @@
+{
+  "time": 1752140371182,
+  "title": "freshly",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈfreʃ.li/",
+        "us": "/ˈfreʃ.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfreʃ.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfre/ukfrene015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfreʃ.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fre/fresh/freshly.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "recently done",
+                "cn": "刚刚;新近"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "freshly baked bread",
+                  "cn": "刚烤好的面包"
+                },
+                {
+                  "gram": "",
+                  "en": "freshly made sandwiches",
+                  "cn": "新做的三明治"
+                },
+                {
+                  "gram": "",
+                  "en": "freshly washed hair",
+                  "cn": "刚洗过的头发"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

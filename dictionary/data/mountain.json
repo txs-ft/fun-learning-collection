@@ -1,0 +1,96 @@
+{
+  "time": 1752140677328,
+  "title": "mountain",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmaʊn.tɪn/",
+        "us": "/ˈmaʊn.tən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmaʊn.tɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmot/ukmotor019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmaʊn.tən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mou/mount/mountain.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VERY LARGE HILL",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a raised part of the earth's surface, much larger than a hill, the top of which might be covered in snow",
+                "cn": "（高）山，山岳"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Matterhorn is one of the biggest mountains in Europe.",
+                  "cn": "马特豪恩峰是欧洲最雄伟的山峰之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Rockies are a mountain chain/range in the western United States.",
+                  "cn": "落基山脉绵亘于美国西部。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd love to go mountain-climbing.",
+                  "cn": "我想去爬山。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're going to the mountains (= an area where there are mountains) for our holiday.",
+                  "cn": "我们要去山区度假。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LARGE AMOUNT",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a large amount of something:",
+                "cn": "我有大量的工作要做。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've got a mountain of work to do.",
+                  "cn": "我有大量的工作要做。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large amount of food that is stored instead of being sold, so that prices for it do not fall",
+                "cn": "（食品的）大量存库"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a grain mountain",
+                  "cn": "大量积压的谷物"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "time": 1752140980268,
+  "title": "shimmering",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈʃɪm.ər.ɪŋ/",
+        "us": "/ˈʃɪm.ɚ.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʃɪm.ər.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cuk/cuk01/cuk01008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʃɪm.ɚ.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cus/cus01/cus01822.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "reflecting a gentle light that seems to move slightly",
+                "cn": "闪烁的，微微晃动的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We drove across the desert, through the shimmering heat haze.",
+                  "cn": "我们驾车穿过沙漠，穿过涌动的热浪。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "attractive",
+                "cn": "有吸引力的;精彩的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a shimmering new production of \"A Midsummer Night's Dream\"",
+                  "cn": "精彩的全新版《仲夏夜之梦》"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

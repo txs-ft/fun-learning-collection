@@ -1,0 +1,63 @@
+{
+  "time": 1752140667614,
+  "title": "mom",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/mɒm/",
+        "us": "/mɑːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/mɒm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmol/ukmoldo019.mp3"
+        },
+        "us": {
+          "ipa": "/mɑːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73061.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a mother",
+                "cn": "母亲;妈妈"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I miss my mom and dad a lot.",
+                  "cn": "我很想我的爸爸妈妈。"
+                },
+                {
+                  "gram": "[ as form of address ]",
+                  "en": "Aw, Mom, why can't I go?",
+                  "cn": "哦，妈妈，为什么我不能去？"
+                },
+                {
+                  "gram": "",
+                  "en": "All the moms were waiting in the schoolyard.",
+                  "cn": "所有的妈妈们都在学校操场上等着。"
+                },
+                {
+                  "gram": "",
+                  "en": "She loves being a mom.",
+                  "cn": "她喜欢当妈妈。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

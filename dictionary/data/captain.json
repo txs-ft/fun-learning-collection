@@ -1,0 +1,127 @@
+{
+  "time": 1752140081132,
+  "title": "captain",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkæp.tɪn/",
+        "us": "/ˈkæp.tən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæp.tɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcap/ukcapit018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæp.tən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cap/capta/captain.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the leader of a sports team",
+                "cn": "（运动队）队长"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's unusual to have a goalkeeper as (the) captain of a football team.",
+                  "cn": "让守门员当足球队的队长是很少见的。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the person in charge of a ship or an aircraft",
+                "cn": "船长；机长"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This is your captain speaking. We expect to be landing at Osaka Kansai airport in an hour's time.",
+                  "cn": "我是机长。我们预计一小时后在大阪关西国际机场降落。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an officer's rank in the British army or navy, or in the US air force, Marine Corps, Coast Guard, or the US police and fire departments",
+                "cn": "（英国陆军的）上尉；（英国海军的）上校；（美国空军或海军陆战队的）上尉；（美国海岸警卫队的）上校；（美国警察局的）警监；（美国消防署的）中队长"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The captain gave him his orders.",
+                  "cn": "上尉发布了命令。"
+                },
+                {
+                  "gram": "",
+                  "en": "Captain Lane/Alex Lane",
+                  "cn": "兰恩上尉／亚利克斯·兰恩上尉"
+                },
+                {
+                  "gram": "[ as form of address ]",
+                  "en": "Yes, Captain.",
+                  "cn": "是，上尉。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈkæp.tɪn/",
+        "us": "/ˈkæp.tən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæp.tɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcap/ukcapit018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæp.tən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cap/capta/captain.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to lead and be the captain of a team, military group, ship, or aircraft",
+                "cn": "担任队长（或船长、机长）；率领；指挥"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She captained the Canadian ice hockey team for three years.",
+                  "cn": "她曾担任加拿大冰球队的队长3年。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

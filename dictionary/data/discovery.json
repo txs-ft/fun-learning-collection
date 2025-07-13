@@ -1,0 +1,82 @@
+{
+  "time": 1752140221709,
+  "title": "discovery",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dɪˈskʌv.ər.i/",
+        "us": "/dɪˈskʌv.ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈskʌv.ər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdis/ukdisco018.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈskʌv.ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dis/disco/discovery.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FINDING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the process of finding information, a place, or an object, especially for the first time, or the thing that is found",
+                "cn": "（尤指首次）发现（的过程）；被发现的事物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the discovery of electricity",
+                  "cn": "电的发现"
+                },
+                {
+                  "gram": "",
+                  "en": "Leonardo made many scientific discoveries.",
+                  "cn": "莱昂纳多有许多科学发现。"
+                },
+                {
+                  "gram": "",
+                  "en": "a journey/voyage of discovery",
+                  "cn": "发现之旅"
+                },
+                {
+                  "gram": "",
+                  "en": "The discovery of a body in the undergrowth started a murder enquiry.",
+                  "cn": "在灌木丛中发现的尸体引发了一场凶杀案调查。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN LAW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "part of a legal process in which the lawyers from one side in a case give documents relating to their case to the other side, before the trial begins",
+                "cn": "双方律师开庭前交换证据，庭前证据交换"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Among the thousands of documents Litt was able to obtain in discovery from the city was a memo written by a councilman's aide in response to one resident's complaint.",
+                  "cn": "在市政府提供的几千份庭前交换证据文本中，利特律师找到了一份出自一位市议员助理的备忘，是为回应一位居民的投诉而写的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

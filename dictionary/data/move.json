@@ -1,0 +1,465 @@
+{
+  "time": 1752140680177,
+  "title": "move",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/muːv/",
+        "us": "/muːv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/muːv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmou/ukmourn016.mp3"
+        },
+        "us": {
+          "ipa": "/muːv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mov/move_/move.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CHANGE POSITION",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to (cause to) change position",
+                "cn": "（使）改变位置，动;（使）移动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm so cold I can't move my fingers.",
+                  "cn": "我太冷了，手指都动不了了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Will you help me move this table to the back room?",
+                  "cn": "你能帮我把这张桌子搬到后面的房间里吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Can we move (= change the time of) the meeting from 2 p.m. to 3.30 p.m. ?",
+                  "cn": "我们能将会议时间由下午两点改到三点半吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Don't move! Stay right where you are.",
+                  "cn": "别动！就呆在那儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "I thought I could hear someone moving about/around upstairs.",
+                  "cn": "我好像听到楼上有人走动。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you move along/over/up (= go further to the side, back, or front) a little, Tess can sit next to me.",
+                  "cn": "如果你往边上／往后／往前挪一点儿，特丝就能坐在我旁边了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Police officers at the scene of the accident were asking people to move along/on (= to go to a different place).",
+                  "cn": "事故现场的警官让路人走开。"
+                },
+                {
+                  "gram": "",
+                  "en": "Come on, it's time we were moving (= time for us to leave).",
+                  "cn": "快点，我们该走了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let's stay here tonight, then move on (= continue our journey) tomorrow morning.",
+                  "cn": "我们今晚住这儿吧，明早再继续赶路。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to change the position of one of the pieces used in a board game",
+                "cn": "（棋盘游戏中）走棋，走子，（棋子）被移动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In chess, the pieces can only move in certain directions.",
+                  "cn": "下棋必须按棋规所定的方向走子。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHANGE PLACE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to go to a different place to live or work",
+                "cn": "搬家;搬迁;迁移"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're moving to Paris.",
+                  "cn": "我们要搬到巴黎去了。"
+                },
+                {
+                  "gram": "",
+                  "en": "They've bought a new house, but it will need a lot of work before they can move into it/move in.",
+                  "cn": "他们买了套新房子，但搬进去之前还有许多工作要做。"
+                },
+                {
+                  "gram": "",
+                  "en": "I hear Paula has moved in with her boyfriend (= gone to live in his house).",
+                  "cn": "我听说葆拉搬去和她男朋友住了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The couple next door moved away (= went to live somewhere else) last year.",
+                  "cn": "隔壁的那对夫妇去年搬走了。"
+                },
+                {
+                  "gram": "",
+                  "en": "A lot of businesses are moving out of London because it's too expensive.",
+                  "cn": "许多企业因为费用太高而迁出了伦敦。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to leave your home in order to live in a new one:",
+                "cn": "我们下周要搬家。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're moving house next week.",
+                  "cn": "我们下周要搬家。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PROGRESS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to (cause to) progress, change, or happen in a particular way or direction",
+                "cn": "（使）进展；（使）发展"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The judge's decision will allow the case to move forward.",
+                  "cn": "法官的决定将使诉讼得以继续进行。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you want to move ahead in your career, you'll have to work harder.",
+                  "cn": "如果你想在事业上有所发展，就必须更努力地工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Share prices moved up/down slowly yesterday.",
+                  "cn": "昨天股价缓慢上涨／下跌。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sophie has been moved up/down a grade at school.",
+                  "cn": "索菲在学校里跳／留了一级。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's time this company moved into (= started to take advantage of the benefits of) the digital age.",
+                  "cn": "这家公司该实行数字化了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cause someone to take action",
+                "cn": "促使，驱使"
+              },
+              "examples": [
+                {
+                  "gram": "[ + obj + to infinitive  ]",
+                  "en": "I can't imagine what could have moved him to say such a thing.",
+                  "cn": "我想象不出是什么促使他说了这种话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHANGE OPINION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to (cause to) change an opinion or the way in which you live or work",
+                "cn": "（使）改变观点（或做法）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's made up his mind, and nothing you can say will move him on the issue.",
+                  "cn": "他决心已定，你说什么也不能改变他对这件事的看法。"
+                },
+                {
+                  "gram": "",
+                  "en": "More and more people are movingaway from/towards vegetarianism.",
+                  "cn": "越来越多的人不再是／正成为素食主义者。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FEELINGS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to cause someone to have strong feelings, such as sadness, sympathy, happiness, or admiration",
+                "cn": "感动;引起，激起（情感）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She said that she was deeply moved by all the letters of sympathy she had received.",
+                  "cn": "她说她被收到的所有慰问信深深打动了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It was such a sad film that it moved him to tears (= made him cry).",
+                  "cn": "这部电影十分伤感，令他落泪。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SELL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to sell",
+                "cn": "卖掉，使脱手"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "No one wants to buy these toys - we just can't move them.",
+                  "cn": "没人想买这些玩具——根本就卖不出去。"
+                },
+                {
+                  "gram": "",
+                  "en": "This new shampoo is moving really fast.",
+                  "cn": "这种新洗发水销得很快。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BE WITH PEOPLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to spend time with people",
+                "cn": "进行社交活动;交往"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She moves in/among a very small circle of people.",
+                  "cn": "她的社交圈子很小。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUGGEST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to suggest something, especially formally at a meeting or in a law court",
+                "cn": "（在会议上）提出;提议;（向法庭）提出请求，申请"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A vote was just about to be taken when someone stood up and said that they wished to move an amendment.",
+                  "cn": "正要开始表决，有人站起来说他们想提出修正案。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "I move that the proposal be accepted.",
+                  "cn": "我提议接受这项建议。"
+                },
+                {
+                  "gram": "",
+                  "en": "Your Honour, we wish to move for dismissal of the charges.",
+                  "cn": "尊敬的法官大人，我们请求驳回这些指控。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PASS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(used especially by doctors and nurses) to pass the contents of the bowels out of the body",
+                "cn": "（尤为医护人员用语）（使）（肠道）排泄粪便"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The doctor asked him if he'd moved his bowels that day.",
+                  "cn": "医生问他那天是否排过便。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/muːv/",
+        "us": "/muːv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/muːv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmou/ukmourn016.mp3"
+        },
+        "us": {
+          "ipa": "/muːv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mov/move_/move.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CHANGE OF POSITION",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "an act of moving",
+                "cn": "动;动作;移动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She held the gun to his head and said, \"One move and you're dead!\"",
+                  "cn": "她拿着枪对着他的头，说：“动一下你就没命了。”"
+                },
+                {
+                  "gram": "",
+                  "en": "I hate the way my boss watches my every move (= watches everything I do).",
+                  "cn": "我讨厌老板总是监视我的一举一动。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in some board games, a change of the position of one of the pieces used to play the game, or a change of position that is allowed by the rules, or a player's turn to move their piece",
+                "cn": "一步棋；（按规则）棋的可走方法"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It takes a long time to learn all the moves in chess.",
+                  "cn": "要学会棋的各种走法需要花很长时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's your move.",
+                  "cn": "该你走棋了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHANGE OF PLACE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "an occasion when you go to live or work in a different place",
+                "cn": "搬家；迁移"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We've had four moves in three years.",
+                  "cn": "我们3年里搬了4次家。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACTION",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "an action taken to achieve something",
+                "cn": "行动；步骤；措施"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Buying those shares was a good move.",
+                  "cn": "买那些股票是明智之举。"
+                },
+                {
+                  "gram": "",
+                  "en": "This move towards improving childcare facilities has been widely welcomed.",
+                  "cn": "这项改善保育设施的措施受到广泛欢迎。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "The city council is making a move to improve traffic flow in the city.",
+                  "cn": "市议会正采取措施改善市区交通状况。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

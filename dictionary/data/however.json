@@ -1,0 +1,120 @@
+{
+  "time": 1752140489147,
+  "title": "however",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˌhaʊˈev.ər/",
+        "us": "/ˌhaʊˈev.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌhaʊˈev.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhou/ukhouse030.mp3"
+        },
+        "us": {
+          "ipa": "/ˌhaʊˈev.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/how/howev/however.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DEGREE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "despite whatever amount or degree",
+                "cn": "不管怎样，无论如何"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "However hungry I am, I never seem to be able to finish off a whole pizza.",
+                  "cn": "无论有多饿，我似乎都吃不下一整个比萨饼。"
+                },
+                {
+                  "gram": "",
+                  "en": "If Emma likes something she'll buy it however much it costs.",
+                  "cn": "如果埃玛喜欢某个东西，那无论多贵她都会买的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll see you after the show and give you £20 for the tickets, or however much (= whatever) they cost.",
+                  "cn": "演出结束后我们再见面，我会给你20英镑或者是实际的门票钱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to express surprise",
+                "cn": "（用于表示惊讶）究竟怎样，到底如何"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "However did you manage to get him to agree to that?",
+                  "cn": "你究竟是怎样设法让他同意的？"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "in whatever way",
+                "cn": "不管怎样，无论如何"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "However you look at it, it's still a mess.",
+                  "cn": "无论你怎么看，它仍是一团糟。"
+                },
+                {
+                  "gram": "",
+                  "en": "You can do it however you like, it really doesn't matter.",
+                  "cn": "你想怎么做就可以怎么做，真的没什么关系。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DESPITE THIS",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "despite this",
+                "cn": "然而，但是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This is one possible solution to the problem. However, there are others.",
+                  "cn": "这是该问题的一种可能的解决办法，但还有其他的办法。"
+                },
+                {
+                  "gram": "",
+                  "en": "There may, however, be other reasons that we don't know about.",
+                  "cn": "然而，可能还有其他我们不知道的原因。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

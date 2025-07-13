@@ -1,0 +1,72 @@
+{
+  "time": 1752141183641,
+  "title": "tree",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/triː/",
+        "us": "/triː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/triː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktre/uktreac020.mp3"
+        },
+        "us": {
+          "ipa": "/triː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tre/tree_/tree.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a tall plant that has a wooden trunk and branches that grow from its upper part",
+                "cn": "树，树木;乔木"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a plum/apple/chestnut tree",
+                  "cn": "李子／苹果／栗子树"
+                },
+                {
+                  "gram": "",
+                  "en": "an oak/elm/maple tree",
+                  "cn": "橡／榆／枫树"
+                },
+                {
+                  "gram": "",
+                  "en": "We sat under a tree for shade.",
+                  "cn": "我们坐在树下乘凉。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "another type of tall plant, without a wooden trunk",
+                "cn": "（没有木质树干的）树"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "palm trees",
+                  "cn": "棕榈树"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

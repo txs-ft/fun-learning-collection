@@ -1,0 +1,129 @@
+{
+  "time": 1752140897080,
+  "title": "reading",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈriː.dɪŋ/",
+        "us": "/ˈriː.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈriː.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrea/ukreadi003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈriː.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rea/readi/reading.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WRITTEN TEXT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the skill or activity of getting information from books",
+                "cn": "读，阅读;读书"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Reading and tennis are my favourite pastimes.",
+                  "cn": "我最喜欢的业余爱好就是读书和打网球。"
+                },
+                {
+                  "gram": "",
+                  "en": "The diaries make good (bedtime) reading (= are good to read (in bed at night)).",
+                  "cn": "（睡前在床上）读一读这些日记是很好的消遣。"
+                },
+                {
+                  "gram": "",
+                  "en": "These books are compulsory/required reading for students of architecture.",
+                  "cn": "这些是主修建筑学的学生的必读书目。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "an occasion when something written, especially a work of literature, is spoken to an audience",
+                "cn": "（尤指文学著作的）读书会，朗诵会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The society often arranges poetry readings and musical evenings.",
+                  "cn": "该社团经常筹划诗歌朗诵会和音乐晚会。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "UNDERSTANDING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the way in which you understand something",
+                "cn": "理解方法;解读方法;解释"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My reading of the situation is that John wanted any excuse to resign.",
+                  "cn": "我对形势的看法是，约翰正在寻找理由辞职。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PARLIAMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "In a parliament, a reading of a new law is one of the stages of discussion before it is approved",
+                "cn": "（议会批准新法律前的）宣读;（新法律在议会三读阶段中的任何）一读"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Housing Bill was given its second reading in Parliament today.",
+                  "cn": "住宅法案今天在议会进行二读。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEASUREMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the number or amount that a piece of measuring equipment shows",
+                "cn": "读数（一件测量设备所显示的数字或量值）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a thermometer reading",
+                  "cn": "温度计读数"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

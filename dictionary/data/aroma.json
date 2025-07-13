@@ -1,0 +1,53 @@
+{
+  "time": 1752139710568,
+  "title": "aroma",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əˈrəʊ.mə/",
+        "us": "/əˈroʊ.mə/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈrəʊ.mə/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarm/ukarmho009.mp3"
+        },
+        "us": {
+          "ipa": "/əˈroʊ.mə/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aro/aroma/aroma.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a strong, pleasant smell, usually from food or drink",
+                "cn": "（通常指食物、饮料的）香味，香气，芳香"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the aroma of freshly baked bread",
+                  "cn": "新出炉的面包的香味"
+                },
+                {
+                  "gram": "",
+                  "en": "a wine with a light, fruity aroma",
+                  "cn": "散发着淡淡果香的酒"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

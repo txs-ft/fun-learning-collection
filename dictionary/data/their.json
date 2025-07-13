@@ -1,0 +1,62 @@
+{
+  "time": 1752141135684,
+  "title": "their",
+  "generalBitmask": 64,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "/ðeər/",
+        "us": "/ðer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ðeər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthe/uktheat009.mp3"
+        },
+        "us": {
+          "ipa": "/ðer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/the/their/their.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "of or belonging to them",
+                "cn": "他们的;她们的;它们的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He gave them their coats.",
+                  "cn": "他把他们的外衣交给了他们。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to refer to one person in order to avoid saying \"his or her\"",
+                "cn": "（用来指某个人，以代替 his 或 her）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "One of the students has left their book behind.",
+                  "cn": "有个学生遗忘了一本书。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

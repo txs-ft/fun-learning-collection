@@ -1,0 +1,53 @@
+{
+  "time": 1752140500081,
+  "title": "inspired",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ɪnˈspaɪəd/",
+        "us": "/ɪnˈspaɪrd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪnˈspaɪəd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukins/ukinspe006.mp3"
+        },
+        "us": {
+          "ipa": "/ɪnˈspaɪrd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usi/usins/usinsit010.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "excellent, or resulting from inspiration",
+                "cn": "卓越的；凭灵感创作的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an inspired performance/choice",
+                  "cn": "精彩的表演／凭直觉做的选择"
+                },
+                {
+                  "gram": "",
+                  "en": "an inspired suggestion/guess",
+                  "cn": "凭灵感所做的建议／猜测"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "time": 1752139728005,
+  "title": "arrival",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əˈraɪ.vəl/",
+        "us": "/əˈraɪ.vəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈraɪ.vəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarr/ukarriv001.mp3"
+        },
+        "us": {
+          "ipa": "/əˈraɪ.vəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/arr/arriv/arrival.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the fact of arriving somewhere",
+                "cn": "到达;到来;来临"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hundreds gathered to await the boxer's arrival at the airport.",
+                  "cn": "数百人聚在机场等候拳击手的到来。"
+                },
+                {
+                  "gram": "",
+                  "en": "On arrival at the police station, they were taken to an interview room.",
+                  "cn": "一到警察局，他们就被带到一间问讯室。"
+                },
+                {
+                  "gram": "",
+                  "en": "We regret the late arrival of Flight 237.",
+                  "cn": "237次航班晚点，我们对此表示歉意。"
+                },
+                {
+                  "gram": "",
+                  "en": "New arrivals (= people who have just come to a place) were being housed in refugee camps.",
+                  "cn": "新到的人员被安置在难民营中。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sue and Michael are delighted to announce the arrival (= birth) of Emily, born on 21 August.",
+                  "cn": "苏和迈克尔于8月21日喜得爱女埃米莉，特告亲友。"
+                },
+                {
+                  "gram": "",
+                  "en": "The arrival (= introduction) of satellite television changed the face of broadcasting.",
+                  "cn": "卫星电视的问世改变了广播的面貌。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a baby that has recently been born",
+                "cn": "新生婴儿"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Their new arrival was keeping them busy.",
+                  "cn": "宝宝出生后，他们忙得不可开交。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

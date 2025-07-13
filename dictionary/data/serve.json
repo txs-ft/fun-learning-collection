@@ -1,0 +1,316 @@
+{
+  "time": 1752140962984,
+  "title": "serve",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/sɜːv/",
+        "us": "/sɝːv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɜːv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukser/ukseren026.mp3"
+        },
+        "us": {
+          "ipa": "/sɝːv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/ser/serve/serve.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PROVIDE FOOD/DRINK",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to provide food or drinks",
+                "cn": "提供（食物或饮料）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do they serve meals in the bar?",
+                  "cn": "这家酒吧提供饭菜吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Breakfast is served in the restaurant between 7.00 and 11.00.",
+                  "cn": "餐馆早上7点到11点供应早餐。"
+                },
+                {
+                  "gram": "",
+                  "en": "We arrived at the hotel and were served with champagne and canapés.",
+                  "cn": "我们到达宾馆后，宾馆提供了香槟和小吃。"
+                },
+                {
+                  "gram": "",
+                  "en": "All recipes in this book, unless otherwise stated, will serve (= be enough for) four to five people.",
+                  "cn": "本书里的所有食谱，除了特别标明的，都可供4至5人享用。"
+                },
+                {
+                  "gram": "[ + obj + adj  ]",
+                  "en": "Serve the pie warm with ice cream or whipped cream.",
+                  "cn": "趁热上果馅糕点，配上冰淇凌或掼奶油。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WORK",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to work for; to do your duty to",
+                "cn": "（为…）工作;（为…）服务;尽职责"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He served in the army for 22 years.",
+                  "cn": "他服了22年兵役。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has served on the committee for the last 15 years.",
+                  "cn": "15年来，她一直在该委员会任职。"
+                },
+                {
+                  "gram": "",
+                  "en": "He served under Ronald Reagan as Secretary of State.",
+                  "cn": "他在罗纳德‧里根手下担任国务卿。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HELP ACHIEVE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to help achieve something or to be useful as something",
+                "cn": "有助于实现；（对…）有用"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "An official investigation would not serve any useful purpose.",
+                  "cn": "正式调查不会达到什么有益的成效。"
+                },
+                {
+                  "gram": "",
+                  "en": "The judge said that the fine would serve as a warning to other drivers.",
+                  "cn": "法官说此次罚款对其他司机会是一种警告。"
+                },
+                {
+                  "gram": "",
+                  "en": "In the absence of anything better the settee could serve as a bed for a couple of nights.",
+                  "cn": "如果没有更好的选择，长沙发可以当几天床用。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "Nothing serves to explain the violent fighting we have seen recently.",
+                  "cn": "什么都无法解释我们最近所目睹的暴力斗殴。"
+                },
+                {
+                  "gram": "",
+                  "en": "My umbrella will serve for a weapon.",
+                  "cn": "我的伞可以当武器用。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PROVIDE STH NECESSARY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to provide with something that is needed",
+                "cn": "为…提供所需物品，供应"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The report says the police are out of touch with the communities that they serve.",
+                  "cn": "这份报告指出，警方对他们所服务的社区毫不了解。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DEAL WITH CUSTOMER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in a shop, restaurant, or hotel, to deal with a customer by taking their order, showing or selling them goods, etc.",
+                "cn": "接待；招待；为…服务"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Are you being served, madam?",
+                  "cn": "女士，有服务员招待您吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you been served, ma'am?",
+                  "cn": "女士，有服务员招待过您了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "That's the restaurant where they refused to serve John because he was so rude.",
+                  "cn": "就是那家餐馆拒绝接待约翰，因为他太粗鲁。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPEND TIME",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to spend a period of time doing something",
+                "cn": "花费，度过（一段时间）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He served four years in prison for robbery.",
+                  "cn": "他因抢劫坐了4年牢。"
+                },
+                {
+                  "gram": "",
+                  "en": "After he'd served his apprenticeship he set up his own business.",
+                  "cn": "他学徒期满后自立门户。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to spend time in prison",
+                "cn": "服刑;蹲监狱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's serving time for drug offences.",
+                  "cn": "他因毒品犯罪正在服刑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HIT BALL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in sports such as tennis, to hit the ball to the other player as a way of starting the game",
+                "cn": "（在网球等体育运动中）发（球）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Whose turn is it to serve?",
+                  "cn": "轮到谁发球了？"
+                },
+                {
+                  "gram": "",
+                  "en": "That's the third ace you've served this game.",
+                  "cn": "那是你在这局比赛中第3次发球得分。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GIVE DOCUMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to give a legal document to someone, demanding that they go to a law court or that they obey an order",
+                "cn": "将…正式送达"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Less than two weeks ago Gough finally served a writ on Slater, claiming damages for alleged loss of royalties.",
+                  "cn": "不到两个星期以前，高夫终于将传票送达给斯莱特，要求对其所涉及的版税损失作出赔偿。"
+                },
+                {
+                  "gram": "",
+                  "en": "Each person served with a summons will be given six weeks before they have to appear in the Magistrates' Court.",
+                  "cn": "每一个收到传票的人在地方法院出庭之前都有6个星期的时间。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/sɜːv/",
+        "us": "/sɝːv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɜːv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukser/ukseren026.mp3"
+        },
+        "us": {
+          "ipa": "/sɝːv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/ser/serve/serve.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in sports such as tennis, the act of hitting the ball to the other player to start play",
+                "cn": "（在网球等体育运动中）发（球）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's your serve.",
+                  "cn": "该你发球了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Murray broke Federer's serve (= he won a game in which Federer hit the ball first).",
+                  "cn": "穆雷破了费德勒的发球局。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

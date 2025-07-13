@@ -1,0 +1,640 @@
+{
+  "time": 1752140755605,
+  "title": "of",
+  "generalBitmask": 16,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "strong /ɒv/",
+        "us": "strong /ɑːv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ɒv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukodd/ukodd__024.mp3"
+        },
+        "us": {
+          "ipa": "strong /ɑːv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75163.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "POSSESSION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show possession, belonging, or origin",
+                "cn": "（用于表示归属或来历）…的，属于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a friend of mine",
+                  "cn": "我的一位朋友"
+                },
+                {
+                  "gram": "",
+                  "en": "the president of the United States",
+                  "cn": "美国总统"
+                },
+                {
+                  "gram": "",
+                  "en": "employees of the company",
+                  "cn": "这家公司的雇员"
+                },
+                {
+                  "gram": "",
+                  "en": "the colour of his hair",
+                  "cn": "他头发的颜色"
+                },
+                {
+                  "gram": "",
+                  "en": "a habit of mine",
+                  "cn": "我的一个习惯"
+                },
+                {
+                  "gram": "",
+                  "en": "that revolting dog of hers",
+                  "cn": "她那条可恶的狗"
+                },
+                {
+                  "gram": "",
+                  "en": "the love of a good woman",
+                  "cn": "一个善良女人的爱"
+                },
+                {
+                  "gram": "",
+                  "en": "the complete plays of (= written by) Lorca",
+                  "cn": "洛尔卡戏剧全集"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AMOUNT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used after words or phrases expressing amount, number, or a particular unit",
+                "cn": "（用于表示数量、数字或某一单位的词或短语之后）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a kilo of apples",
+                  "cn": "1公斤苹果"
+                },
+                {
+                  "gram": "",
+                  "en": "loads of food",
+                  "cn": "许多食物"
+                },
+                {
+                  "gram": "",
+                  "en": "hundreds of people",
+                  "cn": "数百人"
+                },
+                {
+                  "gram": "",
+                  "en": "most of them",
+                  "cn": "他们中的大多数"
+                },
+                {
+                  "gram": "",
+                  "en": "none of them",
+                  "cn": "他们中没有人"
+                },
+                {
+                  "gram": "",
+                  "en": "both of us",
+                  "cn": "我们俩"
+                },
+                {
+                  "gram": "",
+                  "en": "a third of all people",
+                  "cn": "所有人中的1/3"
+                },
+                {
+                  "gram": "",
+                  "en": "a speck of dust",
+                  "cn": "一粒灰尘"
+                },
+                {
+                  "gram": "",
+                  "en": "a drop of rain",
+                  "cn": "一滴雨"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTAINING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "containing",
+                "cn": "含有…的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bag of sweets",
+                  "cn": "一袋糖果"
+                },
+                {
+                  "gram": "",
+                  "en": "a bottle of beer",
+                  "cn": "一瓶啤酒"
+                },
+                {
+                  "gram": "",
+                  "en": "a book of short stories",
+                  "cn": "一本短篇小说集"
+                },
+                {
+                  "gram": "",
+                  "en": "a class of idiots",
+                  "cn": "一群白痴"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "POSITION",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used in expressions showing position",
+                "cn": "（表示方位）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the top of his head",
+                  "cn": "他的头顶"
+                },
+                {
+                  "gram": "",
+                  "en": "the back of your dress",
+                  "cn": "你衣服的背部"
+                },
+                {
+                  "gram": "",
+                  "en": "on the corner of the street",
+                  "cn": "在街角"
+                },
+                {
+                  "gram": "",
+                  "en": "the front of the queue",
+                  "cn": "队伍的前部"
+                },
+                {
+                  "gram": "",
+                  "en": "I've never been north of Philadelphia.",
+                  "cn": "我从未去过费城以北的地方。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TYPICAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "typical or characteristic of",
+                "cn": "…特有的，具有…特点的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She has the face of an angel.",
+                  "cn": "她有一张天使般的面孔。"
+                },
+                {
+                  "gram": "",
+                  "en": "That guy's got the personality of a dead fish!",
+                  "cn": "那个男人实在是无聊透顶、麻木不仁。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DAYS",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to refer to a particular date in a month",
+                "cn": "（表示某月的某一天）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the eleventh of March",
+                  "cn": "3月11日"
+                },
+                {
+                  "gram": "",
+                  "en": "the first of the month",
+                  "cn": "这个月的1号"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MADE OF",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "made or consisting of; having",
+                "cn": "由…制成的;由…组成的;含有…的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "dresses of lace and silk",
+                  "cn": "蕾丝和丝绸制成的衣裙"
+                },
+                {
+                  "gram": "",
+                  "en": "plates of gold and silver",
+                  "cn": "金银制成的盘子"
+                },
+                {
+                  "gram": "",
+                  "en": "a land of ice and snow",
+                  "cn": "冰天雪地"
+                },
+                {
+                  "gram": "",
+                  "en": "a woman of great charm",
+                  "cn": "极富魅力的女子"
+                },
+                {
+                  "gram": "",
+                  "en": "a subject of very little interest",
+                  "cn": "了无趣味的话题"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WITH ADJECTIVES/VERBS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to connect particular adjectives and verbs with nouns",
+                "cn": "（用于连接特定的形容词和名词）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "fond of swimming",
+                  "cn": "喜爱游泳"
+                },
+                {
+                  "gram": "",
+                  "en": "sick of his excuses",
+                  "cn": "厌烦了他的借口"
+                },
+                {
+                  "gram": "",
+                  "en": "scared of spiders",
+                  "cn": "害怕蜘蛛"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "JUDGMENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used after an adjective when judging someone's behaviour",
+                "cn": "（用于形容词后表示对某人行为的评判）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It was mean of you to mention her weight.",
+                  "cn": "你提到她的体重真是有点太刻薄了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Thank you so much for my present. How thoughtful of you.",
+                  "cn": "谢谢你给我的礼物。你想得真周到。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RELATING TO",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "about; relating to",
+                "cn": "关于；与…有关的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Speaking of Elizabeth, here she is.",
+                  "cn": "说伊丽莎白，伊丽莎白就到。"
+                },
+                {
+                  "gram": "",
+                  "en": "One of the advantages of travelling by train is being able to read.",
+                  "cn": "乘火车旅行的好处之一就是能看书。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let us consider the events of the last five months.",
+                  "cn": "让我们考虑一下过去5个月中发生的事情。"
+                },
+                {
+                  "gram": "",
+                  "en": "Of her childhood we know very little.",
+                  "cn": "我们对她的童年知之甚少。"
+                },
+                {
+                  "gram": "",
+                  "en": "And what of (= tell me about) young Adrian? How is he?",
+                  "cn": "小阿德里安的情况如何？他好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THAT IS/ARE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "that is/are",
+                "cn": "（表示同位）…的…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the problem of homelessness",
+                  "cn": "无家可归的问题"
+                },
+                {
+                  "gram": "",
+                  "en": "a rise of two percent in inflation",
+                  "cn": "通货膨胀率上升2%"
+                },
+                {
+                  "gram": "",
+                  "en": "the skill of negotiating",
+                  "cn": "谈判的技巧"
+                },
+                {
+                  "gram": "",
+                  "en": "the difficulty of bringing up twins",
+                  "cn": "抚养双胞胎的艰难"
+                },
+                {
+                  "gram": "",
+                  "en": "the pain of separation",
+                  "cn": "分离的痛苦"
+                },
+                {
+                  "gram": "",
+                  "en": "At the age of six she could read a newspaper.",
+                  "cn": "6岁时她已能读报。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DONE TO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "done to",
+                "cn": "对…所做的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the massacre of hundreds of innocent people",
+                  "cn": "对数以百计无辜百姓的屠杀"
+                },
+                {
+                  "gram": "",
+                  "en": "the oppression of a nation",
+                  "cn": "对一个民族的压迫"
+                },
+                {
+                  "gram": "",
+                  "en": "the destruction of the rain forest",
+                  "cn": "对雨林的破坏"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FELT BY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "felt or experienced by",
+                "cn": "…感受的;…经历的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the suffering of millions",
+                  "cn": "数百万人的苦难"
+                },
+                {
+                  "gram": "",
+                  "en": "the anguish of the murdered child's parents",
+                  "cn": "被杀孩子的父母的痛苦"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THROUGH",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "through; having as the cause",
+                "cn": "通过;由于，因为"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He died of cancer.",
+                  "cn": "他死于癌症。"
+                },
+                {
+                  "gram": "",
+                  "en": "I didn't have to go there - I did it of my own free will.",
+                  "cn": "我本不必去那里——我这么做完全出于自愿。"
+                },
+                {
+                  "gram": "",
+                  "en": "I want to know how it happened because it certainly didn't happen of itself.",
+                  "cn": "我想知道它是怎么发生的，因为它肯定不是自己就发生了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPARING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used when comparing related things",
+                "cn": "（用于比较）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I liked the green one best of all .",
+                  "cn": "我最喜欢绿色的那个。"
+                },
+                {
+                  "gram": "",
+                  "en": "Worst of all was the food!",
+                  "cn": "最差劲的是食物！"
+                },
+                {
+                  "gram": "",
+                  "en": "He's the best looking of the three brothers.",
+                  "cn": "他是三兄弟中长得最帅的一个。"
+                },
+                {
+                  "gram": "",
+                  "en": "I think that of all his books it's my favourite.",
+                  "cn": "我觉得在他所有的书中我最喜欢这一本。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in saying what the time is",
+                "cn": "（用于表示时间）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's ten (minutes) of five (= ten minutes before five o'clock).",
+                  "cn": "5点差10分。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEPARATE FROM",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in expressions showing distance from something in place or time",
+                "cn": "（表示空间或时间上的距离）离，距"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We live within a mile of the school.",
+                  "cn": "我们住在距学校不到1英里的地方。"
+                },
+                {
+                  "gram": "",
+                  "en": "She came within two seconds of beating the world record.",
+                  "cn": "她离打破世界纪录差了不到两秒。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LOSS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in expressions showing loss",
+                "cn": "（用于表示损失）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They were robbed of all their savings.",
+                  "cn": "他们的全部积蓄都被抢走了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I feel I've been deprived of your company.",
+                  "cn": "我感觉我和你在一起的机会全被剥夺了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DURING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "during",
+                "cn": "在…期间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I like to relax with a pipe of an evening.",
+                  "cn": "我喜欢在晚上抽一斗烟放松放松。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,1280 @@
+{
+  "time": 1752141151894,
+  "title": "time",
+  "generalBitmask": 8195,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/taɪm/",
+        "us": "/taɪm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/taɪm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthu/ukthund015.mp3"
+        },
+        "us": {
+          "ipa": "/taɪm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thy/thyme/thyme.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MINUTES/DAYS/YEARS",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the part of existence that is measured in minutes, days, years, etc., or this process considered as a whole",
+                "cn": "时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He wants to spend more time with his family.",
+                  "cn": "他想多花时间陪家人。"
+                },
+                {
+                  "gram": "",
+                  "en": "Time passes so quickly when you're having fun.",
+                  "cn": "玩得高兴时，时间过得特别快。"
+                },
+                {
+                  "gram": "",
+                  "en": "She grew more and more fascinated by the subject as time went on/by.",
+                  "cn": "随着时间的推移，她对这门学科越来越着迷。"
+                },
+                {
+                  "gram": "",
+                  "en": "The curtains have faded over/with time (= as years have gone past).",
+                  "cn": "年深日久，窗帘已经褪色了。"
+                },
+                {
+                  "gram": "",
+                  "en": "You'll forget her in time (= in the future).",
+                  "cn": "你迟早会忘记她的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Over the course of time (= as years have gone past), holes have formed in the rock.",
+                  "cn": "随着岁月的流逝，岩石上出现了洞眼。"
+                },
+                {
+                  "gram": "",
+                  "en": "When Paula was ill, I took her some magazines to help her pass the time.",
+                  "cn": "葆拉生病时，我给她带去一些杂志帮她消磨时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you'd taken more time with/over (= spent more time doing) this essay, you could have done it much better.",
+                  "cn": "如果你在这篇文章上多花些时间，本可以写得好得多。"
+                },
+                {
+                  "gram": "",
+                  "en": "It takes a long time (= many hours are needed) to get from London to Sydney.",
+                  "cn": "从伦敦到悉尼要花很长时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "We'd save time on our journey (= it would be quicker) if we went by train.",
+                  "cn": "如果我们坐火车去，就会在旅程上节约时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "I only worked there for a short period of time.",
+                  "cn": "我只在那儿工作过很短一段时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "The kitchen clock is gaining/losing time (= is going fast/slow).",
+                  "cn": "厨房的钟快／慢了。"
+                },
+                {
+                  "gram": "",
+                  "en": "My watch has never kept very good time (= been correct).",
+                  "cn": "我的手表从来都不准。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "continuously",
+                "cn": "不停，一直"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I wish you'd stop criticizing me all the time.",
+                  "cn": "我希望你别再没完没了地批评我了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "very quickly or very soon",
+                "cn": "很快，马上，立刻"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The kids ate their dinner in no time.",
+                  "cn": "孩子们很快吃完了饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "We'll be home in next to no time.",
+                  "cn": "我们很快就能回到家。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you say there is or that you have no time to lose, it means that you must do quickly whatever it is that you want to do.",
+                "cn": "没时间耽搁"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Come on, there's no time to lose, we have to get home before John finds out.",
+                  "cn": "赶快，没有时间耽搁了，我们必须在约翰发现之前赶到家。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "always",
+                "cn": "总是，永远"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I will love you for all time.",
+                  "cn": "我会永远爱你。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "that has ever lived or existed",
+                "cn": "有史以来"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's been called the greatest singer of all time.",
+                  "cn": "她被称为有史以来最伟大的演唱家。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SYSTEM",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "the system of recording hours used in different parts of the world",
+                "cn": "（世界各地不同的）计时体系"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Greenwich Mean Time",
+                  "cn": "格林尼治标准时间"
+                },
+                {
+                  "gram": "",
+                  "en": "daylight saving time",
+                  "cn": "夏令时"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME AVAILABLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an amount of time that you have available to do something",
+                "cn": "（可以用来做某事的）时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't know how you find time to do all the things you do.",
+                  "cn": "我不知道你是怎么抽出时间做所有这些事情的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I thought we'd give her a little more time (= allow her more time) to get the job done.",
+                  "cn": "我原以为我们会多给她一点儿时间完成工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd like to visit all the museums but time is short (= there is little time left).",
+                  "cn": "所有的博物馆我都想参观，可时间不够。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "If you have time, you have enough time to do something.",
+                "cn": "有时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We don't have much time before the train leaves.",
+                  "cn": "在火车发车之前我们的时间不多了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you have time for a quick drink after work?",
+                  "cn": "下班后你有没有时间小酌一杯？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd like to learn to sail, but I don't have the time (= I am too busy).",
+                  "cn": "我想学驾帆船，可我没时间。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I don't have time to go to the shops today.",
+                  "cn": "我今天没有时间去商店购物。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to not make good use of the hours, etc. that you have available",
+                "cn": "浪费时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If you'd done your work instead of wasting time on your phone, you'd be finished by now.",
+                  "cn": "如果你当时继续工作而不是浪费时间玩手机，你现在已经完成任务了。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to not have enough hours, etc. available to finish something you are trying to do",
+                "cn": "时间不够"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She ran out of time and didn't finish the last question.",
+                  "cn": "她时间不够，最后一道题没有答完。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to not have enough minutes, etc. available",
+                "cn": "没有足够的时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to continue this discussion but we're all out of time.",
+                  "cn": "我很想继续讨论，但我们的时间不够。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "there are no more minutes, hours, etc. available",
+                "cn": "时间到了"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "OK, everyone, time's up for this week.",
+                  "cn": "好了，各位，这星期的就到这里。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a period of time added to the end of a football match because play was stopped during the game, usually to take care of players who were hurt",
+                "cn": "（足球比赛）伤停补时阶段"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "His goal in the third minute of time added on sealed the match.",
+                  "cn": "他在比赛伤停补时阶段的第三分钟射进一球，决定了比赛的胜利。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERIOD",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a particular period of time for which something has been happening, or that is needed for something",
+                "cn": "一段时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "After a time, it became clear that nobody was interested in coming to the meetings.",
+                  "cn": "过了一阵子，情况变得很明显，没有人想来参加会议。"
+                },
+                {
+                  "gram": "",
+                  "en": "They stayed with us for a short time.",
+                  "cn": "他们跟我们住了很短一段时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "That was the best restaurant I've been to for/in a long time (= a long period has gone past since I went to such a good restaurant).",
+                  "cn": "那是我很长一段时间以来去过的最好的饭店。"
+                },
+                {
+                  "gram": "",
+                  "en": "It was some time ago that I last heard from her.",
+                  "cn": "我最后一次收到她的信已有一段时间了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're going on holiday in two weeks' time (= after two weeks have passed).",
+                  "cn": "我们过两周要去度假。"
+                },
+                {
+                  "gram": "",
+                  "en": "During her time (= while she was) in office, the prime minister introduced a large number of changes.",
+                  "cn": "首相在执政期间推行了多项改革。"
+                },
+                {
+                  "gram": "",
+                  "en": "What do you like doing in your spare/free time (= when you are not working)?",
+                  "cn": "你业余时间喜欢做什么？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to stop work, in order to do something else",
+                "cn": "请假，抽出时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I asked my boss if I could have some time off (from work) to go to the dentist.",
+                  "cn": "我问老板我能不能请一会儿假去看牙医。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "for a short period",
+                "cn": "一些时候，一小段时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For a time, we all thought that Sheila and Frank would get married.",
+                  "cn": "我们一度都认为希拉和弗兰克会结婚。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "for a fairly long period of time",
+                "cn": "相当长一段时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've been doing yoga for some time.",
+                  "cn": "我做瑜伽已有一段时间。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "for a limited period",
+                "cn": "暂时，暂且"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Leave the ironing for the time being - I'll do it later.",
+                  "cn": "暂且先别烫衣服——我晚些时候来做。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PARTICULAR POINT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a particular point in the day, as expressed in hours and minutes or shown on a clock, or a particular point in time",
+                "cn": "时刻;时间点;钟点"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What time is it?",
+                  "cn": "现在几点了？"
+                },
+                {
+                  "gram": "",
+                  "en": "\"What's the time?\" \"It's ten o'clock.\"",
+                  "cn": "“现在什么时间？”“10点钟。”"
+                },
+                {
+                  "gram": "",
+                  "en": "What time do you finishwork?",
+                  "cn": "你什么时候完成工作？"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you got the time? (= Do you know what time it is?)",
+                  "cn": "你知道几点了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He's teaching his daughter to tell the time (= to recognize what time it is by looking at a clock).",
+                  "cn": "他在教女儿看钟表。"
+                },
+                {
+                  "gram": "",
+                  "en": "Did you find out the times of the trains to Kiev?",
+                  "cn": "你查到去基辅的火车的发车时间了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The estimated time of arrival/departure of this flight is 11.15.",
+                  "cn": "这次航班估计在11点15分到达／起飞。"
+                },
+                {
+                  "gram": "",
+                  "en": "Oh dear, is that the (right) time? (= is it really so late?)",
+                  "cn": "哦，天哪，有这么晚了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We always have dinner at the same time every day.",
+                  "cn": "我们每天总是在同一时间吃晚饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was exhausted by the time (= when) I got home.",
+                  "cn": "我到家时已经筋疲力尽了。"
+                },
+                {
+                  "gram": "",
+                  "en": "When would be a good time for me to call you?",
+                  "cn": "我什么时候给你打电话合适？"
+                },
+                {
+                  "gram": "",
+                  "en": "\"What would be the best time of day for us to deliver the table?\" \"Oh, any time will be OK.\"",
+                  "cn": "“我们什么时候送桌子最合适？”“哦，什么时候都行。”"
+                },
+                {
+                  "gram": "",
+                  "en": "Today's temperatures will be normal for the time of year (= will be as they are expected to be in this season).",
+                  "cn": "今天的气温会和往年此时的平均气温一样。"
+                },
+                {
+                  "gram": "",
+                  "en": "Just think, this time (= at the same particular point during) next week we'll be in Aruba.",
+                  "cn": "想想吧，下星期这个时候我们就在阿鲁巴岛了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We regret that at the present time (US also at this time) we are unable to supply the products you ordered.",
+                  "cn": "很遗憾，我们现在无法供应您订的货。"
+                },
+                {
+                  "gram": "",
+                  "en": "The time is fast drawing near/approaching (= it will soon be the time) when we'll have to make a decision.",
+                  "cn": "我们必须下决心的时刻很快就要到了。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "at the particular point when something was thought of or done",
+                "cn": "在当时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It seemed like a good idea at the time.",
+                  "cn": "在当时这似乎是个好主意。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "If two things happen at the same time, they happen together.",
+                "cn": "在同时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We arrived at the same time.",
+                  "cn": "我们同时到达。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "at a person's present age",
+                "cn": "在…的年纪"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At his time of life, he ought to be taking things easy.",
+                  "cn": "他这样年纪应该享享清福了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUITABLE POINT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a particular point of the day, year, etc. that is suitable for a particular activity, or at which something is expected to happen",
+                "cn": "（从事特定活动或某事应该发生的）时间，时候"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "holiday time",
+                  "cn": "假期"
+                },
+                {
+                  "gram": "",
+                  "en": "party time",
+                  "cn": "聚会时间"
+                },
+                {
+                  "gram": "",
+                  "en": "Put your toys away now - it's time for bed.",
+                  "cn": "现在收拾好玩具，该睡觉了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's time (that) I was leaving.",
+                  "cn": "我该动身了。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "Is it time (for us) to go home yet?",
+                  "cn": "该回家了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "This is not the time (= not a suitable moment) to be thinking about buying a house.",
+                  "cn": "现在不是考虑买房子的时候。"
+                },
+                {
+                  "gram": "",
+                  "en": "This is no time (= not a suitable moment) to change your mind.",
+                  "cn": "现在不是你改变主意的时候。"
+                },
+                {
+                  "gram": "",
+                  "en": "I feel that the time has come (= now is a suitable moment) for me to move on.",
+                  "cn": "我觉得是我离开的时候了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The repairs to the road were finished two weeks ahead of time (= sooner than was expected).",
+                  "cn": "道路维修工程提前两星期完成了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why is it that the buses never run on time (= make their journeys in the expected number of hours, etc.)?",
+                  "cn": "为什么公交车从不准点？"
+                },
+                {
+                  "gram": "",
+                  "en": "She's grown old before her time (= sooner than she might have been expected to have done).",
+                  "cn": "她过早地衰老了。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "early enough",
+                "cn": "及早，及时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I got home just in time - it's starting to rain.",
+                  "cn": "我正好及时赶到家——随后就开始下雨了。"
+                },
+                {
+                  "gram": "",
+                  "en": "If we don't hurry up, we won't be in time to catch the train.",
+                  "cn": "如果我们不赶快，就不能及时赶上火车了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We got there in plenty of time (= we arrived early) for the beginning of the game.",
+                  "cn": "我们比赛前早早地就到了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "happening or done at the particular moment that it was expected to happen or be done",
+                "cn": "极为准时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My parents go to the house right on time.",
+                  "cn": "我父母极为准时地到家。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "earlier than a particular moment",
+                "cn": "提前"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Let's meet for lunch. I'll call you ahead of time to decide exactly when and where.",
+                  "cn": "我们见面吃个午饭吧。我会提前打电话跟你定时间和地点。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If it is about time/high time that someone did something, it should have been done sooner or a long time ago.",
+                "cn": "差不多是时候了；早该（做某事）了"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's about time (that) the school improved its food service.",
+                  "cn": "学校早该改善膳食服务了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It is high time for the critics to open their minds to a new approach.",
+                  "cn": "是到了批评者们对新做法采取开放态度的时候了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "said when someone does something or something happens that you think should have been done or have happened much sooner",
+                "cn": "（表示某人早该做某事了或某事早该发生了）早该如此"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"So Ben's finally found a job.\" \"Yeah, it's about time.\"",
+                  "cn": "“这么说，本终于找到工作了。”“对，早就该找到了。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "it is the most suitable moment to do something or for something to happen",
+                "cn": "时机已经成熟"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I haven't told him yet, but I will when the time is right.",
+                  "cn": "我目前还没有告诉他，时机成熟的时候我会的。"
+                },
+                {
+                  "gram": "",
+                  "en": "She felt the time was right to leave.",
+                  "cn": "她觉得是时候该离开了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The time is ripe for investing in new technology.",
+                  "cn": "投资新技术的时机成熟了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OCCASION",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an occasion when something happens, or the experience connected with it",
+                "cn": "次，回;一段经历"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The last time we went to Paris, it rained every day.",
+                  "cn": "上一次我们去巴黎的时候，每天都下雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "Every time/Each time I ask you to do something you say you're busy.",
+                  "cn": "每次我叫你做事，你都说太忙。"
+                },
+                {
+                  "gram": "",
+                  "en": "They go swimming three or four times a week.",
+                  "cn": "他们每周去游泳三四次。"
+                },
+                {
+                  "gram": "",
+                  "en": "There are times when I wish I didn't live where I do.",
+                  "cn": "有时我真希望我不是住在现在的地方。"
+                },
+                {
+                  "gram": "",
+                  "en": "The four-times champion (= the champion on four occasions in the past) was defeated in the second round.",
+                  "cn": "这名曾4度夺冠的选手在比赛的第二轮就被打败了。"
+                },
+                {
+                  "gram": "",
+                  "en": "If I'd known at the time (= then) that she was his former wife, I'd never have said what I did.",
+                  "cn": "我当时要是知道她是他前妻的话，我就不会那样说了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sometimes I enjoy my English classes, but at other times I find them really boring.",
+                  "cn": "有时我很喜欢英语课，但有时也感觉很枯燥。"
+                },
+                {
+                  "gram": "",
+                  "en": "For the umpteenth/hundredth/thousandth time, (= I've told you on many occasions to) stop teasing your sister.",
+                  "cn": "我无数次／上百次／上千次告诉过你，别再戏弄你妹妹了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Did you have a bad/good time (= an unpleasant/enjoyable experience) at the conference?",
+                  "cn": "你会开得好／不好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She had an easy/hard time of it (= a comfortable/uncomfortable experience) with the birth of her second baby.",
+                  "cn": "她生第二个孩子时很顺利／艰难。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "sometimes, but not often",
+                "cn": "偶尔，有时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "From time to time I still think of her.",
+                  "cn": "我偶尔还会想起她。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "again and again",
+                "cn": "一次又一次"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Time after time she gets involved in relationships with the wrong men.",
+                  "cn": "她一次次地与不般配的男人陷入情感纠葛。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "very often",
+                "cn": "屡次，经常"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've told you time and time again - look before you cross the road.",
+                  "cn": "我多次跟你说过——过马路之前要先看一看。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "continuously",
+                "cn": "一直，总是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When you're at the airport, you should make sure you have your luggage with you at all times.",
+                  "cn": "在机场，要把行李一直带在你身边。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "at or during any particular point or moment in the day",
+                "cn": "每次;任何时候"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Only a certain number of people are allowed in the building at any one time.",
+                  "cn": "该建筑任何时候都只允许一定数量的人员进入。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm sorry, but I'm too busy to help you now - I can only do one thing at a time.",
+                  "cn": "对不起，我现在太忙了，不能帮你——我一次只能做一件事。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "sometimes",
+                "cn": "有时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You can be really annoying at times, you know.",
+                  "cn": "要知道，你有时很令人恼火。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "ever",
+                "cn": "在任何时候"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Parking is not allowed here at any time.",
+                  "cn": "这里任何时候都不得停车。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "on many occasions",
+                "cn": "多次"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The times I've told you, ask before you borrow my clothes.",
+                  "cn": "我已经告诉你许多次了，在借用我的衣服之前要先问一声。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HISTORICAL PERIOD",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a period in history",
+                "cn": "历史时期；时代"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"A Tale of Two Cities\" is set at the time of the French Revolution.",
+                  "cn": "小说《双城记》是以法国大革命时期为背景的。"
+                },
+                {
+                  "gram": "",
+                  "en": "In/During medieval times, women thought to be witches were burned at the stake.",
+                  "cn": "中世纪时期，人们把被认为是女巫的女人烧死在火刑柱上。"
+                },
+                {
+                  "gram": "",
+                  "en": "In times gone by, all crops were harvested by hand.",
+                  "cn": "在过去的时代里，所有的农作物都是手工收割的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Times were hard (= living conditions were not good) when I was a boy.",
+                  "cn": "我小时候日子很艰难。"
+                },
+                {
+                  "gram": "",
+                  "en": "He is widely regarded as one of the best writers of modern/our times (= the present or very recent past).",
+                  "cn": "人们普遍认为他是现代／我们这个时代最优秀的作家之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "I never thought it would happen in my time (= before I died).",
+                  "cn": "我怎么也想不到这会在我有生之年发生。"
+                },
+                {
+                  "gram": "",
+                  "en": "We sat and talked about old times (= things that had happened to us in the past.)",
+                  "cn": "我们坐下来谈论往事。"
+                },
+                {
+                  "gram": "",
+                  "en": "Times have changed and many more women now have executive jobs than in the past.",
+                  "cn": "时代已经变了，置身高级管理职位的女性数量比过去多得多了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in the past",
+                "cn": "过去;一度"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At one time, George Eliot lived here.",
+                  "cn": "乔治‧艾略特曾一度住在这里。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "having new ideas, opinions, or ways of living long before most other people do",
+                "cn": "领先时代的，超越时代的"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something is before your time, it happened or existed before you were born or were old enough to remember it.",
+                "cn": "在…出生前;在…记事前"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't remember the Beatles - they were before my time.",
+                  "cn": "我对甲壳虫乐队没有什么印象——那是我出生前的事。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "said to mean that there was a period in the past when something used to happen or be true",
+                "cn": "在过去;想当年"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Time was (when) you could buy a loaf of bread for sixpence.",
+                  "cn": "过去，你花6便士就能买到一条面包。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RACE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "Your time in a race is the number of minutes, hours, etc. you take to complete it.",
+                "cn": "（赛跑中所用的）时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her time for the marathon was just under three hours.",
+                  "cn": "她的马拉松成绩略低于3小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "He ran the 100 metres in record time.",
+                  "cn": "他以创纪录的成绩完成了100米赛跑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MUSIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the number of beats in a bar of music, or the speed at which a piece of music is intended to be played",
+                "cn": "拍子;节奏"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This piece is written in 4/4 time.",
+                  "cn": "这支曲子是四四拍的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Small children often have difficulty singing in time with the music (= at the same speed at which the music is being played).",
+                  "cn": "幼儿唱歌时常常难以与音乐合拍。"
+                },
+                {
+                  "gram": "",
+                  "en": "It seemed to me as if the violins were playing out of time (= at a different speed from the other instruments playing the same piece of music).",
+                  "cn": "我觉得小提琴似乎不合拍。"
+                },
+                {
+                  "gram": "",
+                  "en": "To beat time is to make a regular series of sounds at the same speed as a piece of music is played.",
+                  "cn": "打拍子就是跟着音乐的节奏制造出一系列有规律的声响。"
+                },
+                {
+                  "gram": "",
+                  "en": "Tapping your foot will help you to keep time (= to play the music at the correct speed).",
+                  "cn": "用脚轻叩有助于你跟上节拍。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRISON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to spend a period of time in prison",
+                "cn": "（在监狱）服刑"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's not always easy to find a job after you've done time.",
+                  "cn": "出狱后要找到工作可不容易。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DRINKING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the particular point in the day at which people who are drinking in a bar in the UK have to finish their drinks and leave",
+                "cn": "（英国酒吧的）打烊时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Time, please!\" called the landlord.",
+                  "cn": "“对不起，要打烊了，”店主叫道。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is it time already?",
+                  "cn": "已经到打烊的时间了吗？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/taɪm/",
+        "us": "/taɪm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/taɪm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthu/ukthund015.mp3"
+        },
+        "us": {
+          "ipa": "/taɪm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thy/thyme/thyme.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ARRANGE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to decide that something will happen at a particular time",
+                "cn": "确定…的时间，为…安排时间"
+              },
+              "examples": [
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "We timed our trip to coincide with my cousin's wedding.",
+                  "cn": "我们把旅行安排在表哥结婚的时候。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to arrange something so that it happens at the best possible time",
+                "cn": "掌握好…的时机"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If you time your departure carefully, you should be able to miss the worst of the traffic.",
+                  "cn": "如果精心安排好出发的时间，你应该能够避开交通堵塞最严重的时段。"
+                },
+                {
+                  "gram": "",
+                  "en": "The girls' basketball team won the game with a perfectly timed shot (= one played at exactly the right moment), just before the buzzer.",
+                  "cn": "女子少年篮球队完美地掌握时机，在比赛结束哨响前一刻投篮进球，赢得了这场比赛。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEASURE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to measure how long it takes for something to happen or for someone to do something",
+                "cn": "为…计时，测定…所需的时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Will you time me to see how long it takes me to swim a length?",
+                  "cn": "请你给我测一下游一个单程要花多少时间好吗？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -taɪm/",
+        "us": "/ -taɪm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -taɪm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/ukthu/ukthund015.mp3"
+        },
+        "us": {
+          "ipa": "/ -taɪm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thy/thyme/thyme.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the stated period of time during the year, day, etc.",
+                "cn": "…时间（某年、日等所述时间段）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "springtime",
+                  "cn": "春季"
+                },
+                {
+                  "gram": "",
+                  "en": "Christmas-time",
+                  "cn": "圣诞节的时候"
+                },
+                {
+                  "gram": "",
+                  "en": "daytime",
+                  "cn": "白天"
+                },
+                {
+                  "gram": "",
+                  "en": "night-time",
+                  "cn": "夜晚"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

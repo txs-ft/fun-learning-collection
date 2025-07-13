@@ -1,0 +1,48 @@
+{
+  "time": 1752140445527,
+  "title": "grandpa",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈɡræn.pɑː/",
+        "us": "/ˈɡræn.pɑː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡræn.pɑː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgra/ukgrand019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡræn.pɑː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72075.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a grandfather",
+                "cn": "（外）祖父"
+              },
+              "examples": [
+                {
+                  "gram": "[ as form of address ]",
+                  "en": "I love you, Grandpa.",
+                  "cn": "我爱你，爷爷。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

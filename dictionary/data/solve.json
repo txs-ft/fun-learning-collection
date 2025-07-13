@@ -1,0 +1,68 @@
+{
+  "time": 1752141020400,
+  "title": "solve",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/sɒlv/",
+        "us": "/sɑːlv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɒlv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksol/uksolip013.mp3"
+        },
+        "us": {
+          "ipa": "/sɑːlv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sol/solve/solve.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to find an answer to a problem",
+                "cn": "思索，思考"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "to solve a problem",
+                  "cn": "解决问题"
+                },
+                {
+                  "gram": "",
+                  "en": "to solve a mystery/puzzle",
+                  "cn": "揭开秘密／谜底"
+                },
+                {
+                  "gram": "",
+                  "en": "Just calm down - shouting won't solve anything!",
+                  "cn": "冷静下来——大叫大嚷并不能解决任何问题！"
+                },
+                {
+                  "gram": "",
+                  "en": "This strategy could cause more problems than it solves.",
+                  "cn": "这一策略引发的问题可能会比解决的还多。"
+                },
+                {
+                  "gram": "",
+                  "en": "The police are still no nearer to solving the crime.",
+                  "cn": "警方在侦破此案上依然没有取得任何进展。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "time": 1752139962631,
+  "title": "bee",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/biː/",
+        "us": "/biː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/biː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukazt/ukazt__003.mp3"
+        },
+        "us": {
+          "ipa": "/biː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/b__/b____/b.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INSECT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a yellow and black flying insect that makes honey and can sting you",
+                "cn": "蜜蜂"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A swarm of bees flew into the garden.",
+                  "cn": "一群蜜蜂飞进花园。"
+                },
+                {
+                  "gram": "",
+                  "en": "My arm swelled up where I was stung by a bee.",
+                  "cn": "我手臂上被蜜蜂螫的地方肿了起来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of people who come together in order to take part in a particular activity",
+                "cn": "（为从事某一活动而聚在一起的）一小组人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a sewing bee",
+                  "cn": "缝纫会"
+                },
+                {
+                  "gram": "",
+                  "en": "a spelling bee",
+                  "cn": "拼写组"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

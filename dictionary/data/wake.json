@@ -1,0 +1,117 @@
+{
+  "time": 1752141262153,
+  "title": "wake",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/weɪk/",
+        "us": "/weɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/weɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwai/ukwaist008.mp3"
+        },
+        "us": {
+          "ipa": "/weɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wak/wake_/wake.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to (cause someone to) become awake and conscious after sleeping",
+                "cn": "醒来;叫醒，吵醒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Did you wake at all during the night?",
+                  "cn": "夜里你一点都没醒吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Please wake me early tomorrow.",
+                  "cn": "明天请早点叫醒我。"
+                },
+                {
+                  "gram": "",
+                  "en": "I woke up with a headache.",
+                  "cn": "我醒来时觉得头疼。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jane's hand on my shoulder woke me out of/from a bad dream.",
+                  "cn": "简的手放在我肩上，把我从噩梦中摇醒。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/weɪk/",
+        "us": "/weɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/weɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwai/ukwaist008.mp3"
+        },
+        "us": {
+          "ipa": "/weɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wak/wake_/wake.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WATER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the waves that a moving ship or object leaves behind",
+                "cn": "（航行的船只等留下的）尾流，航迹"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The wake spread out in a v-shape behind the ship.",
+                  "cn": "轮船的航迹呈V字形在船后扩散开来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FUNERAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an occasion when the family and friends of a dead person meet in order to look at the dead body the night before it is buried, or when they meet after a dead person has been buried to drink and talk about the person's life",
+                "cn": "（葬礼前后的）守灵，守夜"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

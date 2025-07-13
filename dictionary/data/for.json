@@ -1,0 +1,715 @@
+{
+  "time": 1752140361283,
+  "title": "for",
+  "generalBitmask": 48,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "strong /fɔːr/",
+        "us": "strong /fɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /fɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfoo/ukfootf026.mp3"
+        },
+        "us": {
+          "ipa": "strong /fɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/for/for__/for.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INTENDED FOR",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "intended to be given to",
+                "cn": "（表示给予的对象）给"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's a phone message for you.",
+                  "cn": "你有一条电话留言。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd better buy something for the new baby.",
+                  "cn": "我最好给刚出生的宝宝买些东西。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a prize for the fastest three runners in each category.",
+                  "cn": "每个组别跑得最快的前3名将会获得奖品。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PURPOSE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "having the purpose of",
+                "cn": "为了"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's a sign there saying \"boats for hire\".",
+                  "cn": "告示牌上写着“小船出租”。"
+                },
+                {
+                  "gram": "",
+                  "en": "This pool is for the use of hotel guests only.",
+                  "cn": "这个游泳池只供酒店客人使用。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm sorry, the books are not for sale.",
+                  "cn": "对不起，这些书不卖。"
+                },
+                {
+                  "gram": "",
+                  "en": "They've invited us for dinner on Saturday.",
+                  "cn": "他们已邀请我们星期六去吃晚饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "Everyone in the office is contributing money for his leaving present.",
+                  "cn": "为了送他一份离职礼物，办公室里每个人都出了钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "I need some money for tonight.",
+                  "cn": "我今晚需要些钱用。"
+                },
+                {
+                  "gram": "",
+                  "en": "Which vitamins should you take for (= in order to cure) skin problems?",
+                  "cn": "治疗皮肤病应该服用哪种维生素？"
+                },
+                {
+                  "gram": "",
+                  "en": "Put those clothes in a pile for washing (= so that they can be washed).",
+                  "cn": "把那些衣服堆在一起，准备拿去洗。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BECAUSE OF",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "because of or as a result of something",
+                "cn": "因为，由于;作为…的结果"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm feeling all the better for my holiday.",
+                  "cn": "因为要去度假，我感觉好多了。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"How are you?\" \"Fine, and all the better for seeing you!\"",
+                  "cn": "“你好吗？”“我很好，见到你就更好了！”"
+                },
+                {
+                  "gram": "",
+                  "en": "She did 15 years in prison for murder.",
+                  "cn": "她因为谋杀罪坐了15年牢。"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't eat meat for various reasons.",
+                  "cn": "我不吃肉，原因很多。"
+                },
+                {
+                  "gram": "",
+                  "en": "I couldn't see for the tears in my eyes.",
+                  "cn": "我眼睛里满是泪水，什么都看不见。"
+                },
+                {
+                  "gram": "",
+                  "en": "The things you do for love!",
+                  "cn": "你出于爱所做的这些事！"
+                },
+                {
+                  "gram": "",
+                  "en": "He's widely disliked in the company for his arrogance.",
+                  "cn": "因为傲慢自大，在公司里大家都讨厌他。"
+                },
+                {
+                  "gram": "",
+                  "en": "She couldn't talk for coughing (= she was coughing too much to talk).",
+                  "cn": "她咳得说不出话来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Scotland is famous for its spectacular countryside.",
+                  "cn": "苏格兰的乡村景色壮丽，远近闻名。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's best remembered for his novels.",
+                  "cn": "他的小说最为知名。"
+                },
+                {
+                  "gram": "",
+                  "en": "I didn't say anything for fear of (= because I was frightened of) offending him.",
+                  "cn": "因为怕冒犯他，所以我什么都不敢说。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "without:",
+                "cn": "如果没有这件救生衣，我就淹死了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If it wasn't for the life jacket, I would have drowned.",
+                  "cn": "如果没有这件救生衣，我就淹死了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME/DISTANCE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show an amount of time or distance",
+                "cn": "（用来表示时间或距离）达，计"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We walked for miles.",
+                  "cn": "我们步行了数英里。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's out of the office for a few days next week.",
+                  "cn": "她下周会有几天不来上班。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm just going to lie down for an hour or so.",
+                  "cn": "我就上床睡个把小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "I haven't played tennis for years.",
+                  "cn": "我已经有好多年没打网球了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OCCASION",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "on the occasion of or at the time of",
+                "cn": "在（某一场合或时间）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What did you buy him for Christmas?",
+                  "cn": "圣诞节你给他买了什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd like an appointment with the doctor for some time this week.",
+                  "cn": "我想这周预约个时间看医生。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're having a party for Jim's 60th birthday.",
+                  "cn": "我们要举办聚会庆祝吉姆的60岁生日。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've booked a table at the restaurant for nine o'clock.",
+                  "cn": "我已经在餐馆订了9点的桌位。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPARING",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "used for comparing one thing with others of the same type",
+                "cn": "（用于同类事物的比较）就…而言"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's very mature for her age.",
+                  "cn": "就她的年龄而言，她非常成熟。"
+                },
+                {
+                  "gram": "",
+                  "en": "For every two people in favour of the law there are three against.",
+                  "cn": "这项法律支持者和反对者的比率为2：3。"
+                },
+                {
+                  "gram": "",
+                  "en": "The winter has been unusually cold for Florida.",
+                  "cn": "在弗罗里达，今年冬天尤其寒冷。"
+                },
+                {
+                  "gram": "",
+                  "en": "It was a difficult decision, especially for a child.",
+                  "cn": "这是困难的决定，尤其是对一个孩子来说。"
+                },
+                {
+                  "gram": "",
+                  "en": "For a man of his wealth he's not exactly generous.",
+                  "cn": "对像他这样身价的人来说，他一点儿都不大方。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RESPONSIBILITY",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "used to say whose responsibility something is",
+                "cn": "（用于表达谁应该）为（某一事件负责）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She knew the driver of the other car was not responsible for her son's death.",
+                  "cn": "她知道另一辆车的司机不应该为她儿子的死亡负责。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUPPORT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in support of or in agreement with",
+                "cn": "支持，拥护;赞同"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I voted for the Greens at the last election.",
+                  "cn": "上次大选我投了绿党的票。"
+                },
+                {
+                  "gram": "",
+                  "en": "Those voting for the motion, 96, and those voting against, 54.",
+                  "cn": "这一动议96票赞成，54票反对。"
+                },
+                {
+                  "gram": "",
+                  "en": "Most of the Republicans voted for the measure.",
+                  "cn": "大部分共和党人投票支持这项提案。"
+                },
+                {
+                  "gram": "",
+                  "en": "So let's hear some applause for these talented young performers.",
+                  "cn": "那么，让我们为这些有才华的年轻表演者鼓掌吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who's for (= who wants to play) tennis?",
+                  "cn": "谁想打网球？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to approve of or support something very much:",
+                "cn": "我不反对改变——我完全赞成。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've got nothing against change - I'm all for it.",
+                  "cn": "我不反对改变——我完全赞成。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HELP",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in order to help someone",
+                "cn": "为了帮助（某人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Let me carry those bags for you.",
+                  "cn": "让我帮你拿那些包。"
+                },
+                {
+                  "gram": "",
+                  "en": "Hello, what can I do for you?",
+                  "cn": "你好，我能为你做些什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "My sister will take care of the dog for us while we're away.",
+                  "cn": "在我们外出期间，我的姐姐会帮我们照顾狗。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN RELATION TO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in relation to someone or something",
+                "cn": "对于，关于；在…方面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her feelings for him had changed.",
+                  "cn": "她对他的情感发生了变化。"
+                },
+                {
+                  "gram": "",
+                  "en": "He felt nothing but contempt for her.",
+                  "cn": "他对她只有蔑视。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got a lot of admiration for people who do that sort of work.",
+                  "cn": "我十分敬佩做那种工作的人。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's quite good-looking but he's too short for me.",
+                  "cn": "他长得很帅，但是对我来说有点太矮了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The ice-cream was a little bit sweet for me.",
+                  "cn": "我觉得这冰激凌有点儿太甜了。"
+                },
+                {
+                  "gram": "",
+                  "en": "That jacket looks a little big for you.",
+                  "cn": "那件外套你穿显得有点儿大。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jackie's already left and, as for me, I'm going at the end of the month.",
+                  "cn": "杰基已经离开了，而我要呆到这个月底。"
+                },
+                {
+                  "gram": "",
+                  "en": "Luckily for me (= I was lucky), I already had another job.",
+                  "cn": "幸运的是，我已经找到了另一份工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "How are you doing for money/time (= do you have enough money/time)?",
+                  "cn": "你手头／时间还宽裕吗？"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "despite:",
+                "cn": "尽管她有种种资历，她还是不能胜任这项工作。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For all her qualifications, she's still useless at the job.",
+                  "cn": "尽管她有种种资历，她还是不能胜任这项工作。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PAYMENT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "(getting) in exchange",
+                "cn": "以…为交换，以…为代价"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How much did you pay for your glasses?",
+                  "cn": "你配这副眼镜花了多少钱？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've sponsored her £1 for every mile that she runs.",
+                  "cn": "她每跑1英里我就捐助1英镑。"
+                },
+                {
+                  "gram": "",
+                  "en": "She sold the house for a lot of money.",
+                  "cn": "她这栋房子卖了一大笔钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "The mechanic said he'd repair my car for £300.",
+                  "cn": "修理工说修好我的车要花300英镑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "REPRESENTING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "being employed by or representing a company, country, etc.",
+                "cn": "受雇于;代表"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She works for a charity.",
+                  "cn": "她为一家慈善机构工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "He swam for the United States in the 2000 Olympics.",
+                  "cn": "他在2000年的奥运会上代表美国参加了游泳比赛。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOWARDS",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "towards; in the direction of",
+                "cn": "往，向"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They looked as if they were heading for the train station.",
+                  "cn": "他们看上去像是朝火车站去了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Just follow signs for the museum.",
+                  "cn": "跟着指向博物馆的标志牌走就行了。"
+                },
+                {
+                  "gram": "",
+                  "en": "This time tomorrow we'll be setting off for the States.",
+                  "cn": "明天这个时候我们将会动身去美国。"
+                },
+                {
+                  "gram": "",
+                  "en": "It says this train is for (= going to stop at) Birmingham and Coventry only.",
+                  "cn": "上面写着这列火车只在伯明翰和考文垂两站停车。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEANING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "showing meaning",
+                "cn": "意思是，表示"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What's the Spanish word for \"vegetarian\"?",
+                  "cn": "西班牙语中 vegetarian（素食主义者）这个词怎么说？"
+                },
+                {
+                  "gram": "",
+                  "en": "What does the \"M.J.\" stand for? Maria José?",
+                  "cn": "M.J.代表什么？代表 Maria José 吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TO GET",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in order to get or achieve",
+                "cn": "为得到，为获取"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I hate waiting for public transport.",
+                  "cn": "我讨厌等公交。"
+                },
+                {
+                  "gram": "",
+                  "en": "I had to run for the bus.",
+                  "cn": "我得去赶公交车了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Did you send off for details of the competition?",
+                  "cn": "你去函索取介绍竞赛详情的资料了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've applied for a job with another computer company.",
+                  "cn": "我已向另一家计算机公司求职。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DUTY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the duty or responsibility of",
+                "cn": "是…的义务（或责任）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As to whether you should marry him - that's for you to decide.",
+                  "cn": "至于你该不该嫁给他，这得由你自己决定。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's not for me to tell her what she should do with her life.",
+                  "cn": "不该由我来告诉她应该过什么样的生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"How many people should I invite to the party?\" \"It's not really for me to say.\"",
+                  "cn": "“我应该请多少人来参加聚会？”“这好像不该由我来说。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN TROUBLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in trouble:",
+                "cn": "等她查出来你就麻烦了！"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You'll be for it when she finds out!",
+                  "cn": "等她查出来你就麻烦了！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "strong /fɔːr/",
+        "us": "strong /fɔːr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /fɔːr/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfoo/ukfootf026.mp3"
+        },
+        "us": {
+          "ipa": "strong /fɔːr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/for/for__/for.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BECAUSE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "because; as",
+                "cn": "因为，由于…的缘故"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She remained silent, for her heart was heavy and her spirits low.",
+                  "cn": "由于心情沉重情绪低落，她一直沉默不语。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

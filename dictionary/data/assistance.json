@@ -1,0 +1,82 @@
+{
+  "time": 1752139775440,
+  "title": "assistance",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əˈsɪs.təns/",
+        "us": "/əˈsɪs.təns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈsɪs.təns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukass/ukassau029.mp3"
+        },
+        "us": {
+          "ipa": "/əˈsɪs.təns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ass/assis/assistance.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "help",
+                "cn": "帮助；协助；援助"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The company needs more financial assistance from the government.",
+                  "cn": "这家公司需要政府提供更多的财政援助。"
+                },
+                {
+                  "gram": "",
+                  "en": "The tow truck driver gave assistance to the stranded motorist.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Can I be of any assistance (= can I help), madam?",
+                  "cn": "这位女士，我可以帮上什么忙吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "A £1 billion investment would be of considerable assistance to the local economy.",
+                  "cn": "10亿英镑的投资将极大帮助本地经济。"
+                },
+                {
+                  "gram": "",
+                  "en": "Teachers can't give pupils any assistance in exams.",
+                  "cn": "考试中老师不能以任何形式帮助学生。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to help someone:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I had several acquaintances in the area but not one of them came to my assistance.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

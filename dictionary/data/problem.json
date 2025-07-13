@@ -1,0 +1,111 @@
+{
+  "time": 1752140866872,
+  "title": "problem",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈprɒb.ləm/",
+        "us": "/ˈprɑː.bləm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈprɒb.ləm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpro/ukprobi002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈprɑː.bləm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pro/probl/problem.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a situation, person, or thing that needs attention and needs to be dealt with or solved",
+                "cn": "（须解决的）问题；疑难问题，困难"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "financial/health problems",
+                  "cn": "财政／健康问题"
+                },
+                {
+                  "gram": "",
+                  "en": "Our main problem is lack of cash.",
+                  "cn": "我们的主要问题是缺乏现金。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm having problems with my computer.",
+                  "cn": "我的电脑出了故障。"
+                },
+                {
+                  "gram": "",
+                  "en": "No one has solved the problem of what to do with radioactive waste.",
+                  "cn": "还没有人能解决如何处理放射性垃圾这个难题。"
+                },
+                {
+                  "gram": "",
+                  "en": "The very high rate of inflation poses/presents (= is) a serious problem for the government.",
+                  "cn": "高通货膨胀率对政府来说是个严重的问题。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who is going to tackle (= deal with) the problem of poverty in the inner cities?",
+                  "cn": "谁将会着手解决旧城区的贫困问题？"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "Did you have any problems (= difficulties) getting here?",
+                  "cn": "你到这儿来有什么困难吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd love to come - the only problem is I've got friends staying that night.",
+                  "cn": "我很想来——只是那天晚上我有朋友在。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a question in mathematics that needs an answer",
+                "cn": "数学习题，数学问题"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were given ten problems to solve.",
+                  "cn": "我们有10道题要做。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a child, family, etc. that is considered to have problems with their behaviour, mental or physical health, etc.:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She spoke like a schoolteacher talking to a problem child.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

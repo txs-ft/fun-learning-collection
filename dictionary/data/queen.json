@@ -1,0 +1,136 @@
+{
+  "time": 1752140879142,
+  "title": "queen",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kwiːn/",
+        "us": "/kwiːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kwiːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukq/ukqua/ukquart015.mp3"
+        },
+        "us": {
+          "ipa": "/kwiːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/q/que/queen/queen.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WOMAN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a woman who rules a country because she has been born into a royal family, or a woman who is married to a king",
+                "cn": "女王;王后"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How long did Queen Victoria reign?",
+                  "cn": "维多利亚女王在位多长时间？"
+                },
+                {
+                  "gram": "",
+                  "en": "The Queen is meeting the prime minister today.",
+                  "cn": "今天女王要接见首相。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "any woman who is considered to be the best at what she does",
+                "cn": "杰出女性，女杰"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's the reigning queen of crime writers.",
+                  "cn": "她是当今首屈一指的犯罪小说作家。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GAMES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the most powerful piece on the board in the game of chess",
+                "cn": "（国际象棋中的）后"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in a set of playing cards, a card with a picture of a queen on it. It is usually worth less than a king.",
+                "cn": "（纸牌中的）王后"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "INSECTS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in a group of insects, a single large female that produces eggs",
+                "cn": "（一群昆虫中产卵的）后，王"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a queen bee",
+                  "cn": "蜂王"
+                },
+                {
+                  "gram": "",
+                  "en": "a queen ant",
+                  "cn": "蚁后"
+                },
+                {
+                  "gram": "",
+                  "en": "a queen wasp",
+                  "cn": "黄蜂王"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GAY MAN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a gay man, especially an older man, whose way of behaving is noticeable and artificial",
+                "cn": "（举止明显像女人的）同性恋男子，（尤指）老同性恋男子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "James is such an old queen.",
+                  "cn": "詹姆斯是一个老同性恋。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

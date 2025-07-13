@@ -1,0 +1,258 @@
+{
+  "time": 1752139655879,
+  "title": "and",
+  "generalBitmask": 32,
+  "allDefinitions": [
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "strong /ænd/",
+        "us": "strong /ænd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /ænd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukana/ukanarc018.mp3"
+        },
+        "us": {
+          "ipa": "strong /ænd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/and/and__/and.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ALSO",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to join two words, phrases, parts of sentences, or related statements together",
+                "cn": "（用于连接两个词、短语、句子成分或相关语句）和，及，又，并"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Ann and Jim",
+                  "cn": "安和吉姆"
+                },
+                {
+                  "gram": "",
+                  "en": "boys and girls",
+                  "cn": "男孩和女孩"
+                },
+                {
+                  "gram": "",
+                  "en": "knives and forks",
+                  "cn": "刀叉"
+                },
+                {
+                  "gram": "",
+                  "en": "We were wet and tired.",
+                  "cn": "我们浑身透湿，精疲力竭。"
+                },
+                {
+                  "gram": "",
+                  "en": "We kissed and hugged each other.",
+                  "cn": "我们两个亲吻拥抱。"
+                },
+                {
+                  "gram": "",
+                  "en": "Tidy up your room. And don't forget to make your bed!",
+                  "cn": "整理一下你的房间。还有，别忘了叠被子！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "together with other similar things:",
+                "cn": "学校、学院等等"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "schools, colleges, and so on",
+                  "cn": "学校、学院等等"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "and everything else:",
+                "cn": "她把全部东西都买了下来——房屋、农场、马匹等等。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She bought the whole lot - house, farm, horses, and all.",
+                  "cn": "她把全部东西都买了下来——房屋、农场、马匹等等。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "too:",
+                "cn": "我也来一点。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like some and all.",
+                  "cn": "我也来一点。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "and everything related to the subject mentioned:",
+                "cn": "她喜欢语法这一类的东西。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She likes grammar and all that.",
+                  "cn": "她喜欢语法这一类的东西。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to mean that either one of two things or both of them is possible:",
+                "cn": "许多学生晚上和／或周末上补习课。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many pupils have extra classes in the evenings and/or at weekends.",
+                  "cn": "许多学生晚上和／或周末上补习课。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THEN",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to join two parts of a sentence, one part happening after the other part",
+                "cn": "然后，接着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I got dressed and had my breakfast.",
+                  "cn": "我穿好衣服，吃了早饭。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "as a result",
+                "cn": "（表示结果）那么，则，结果是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Bring the flowers into a warm room and they'll soon open.",
+                  "cn": "把这些花放到一间暖和的房间里，它们很快就会开的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Stand over there and you'll be able to see it better.",
+                  "cn": "站到那儿去，你就能看得更清楚了。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "With certain verbs, \"and\" can mean \"in order to\".",
+                "cn": "（和某些动词连用，表示目的）为了"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I asked him to go and find my glasses.",
+                  "cn": "我让他去找我的眼镜。"
+                },
+                {
+                  "gram": "",
+                  "en": "Come and see me tomorrow.",
+                  "cn": "明天来见我。"
+                },
+                {
+                  "gram": "",
+                  "en": "Wait and see (= wait in order to see) what happens.",
+                  "cn": "等等看会发生什么事。"
+                },
+                {
+                  "gram": "",
+                  "en": "Try and get (= try to get) some tickets for tonight's performance.",
+                  "cn": "试试看能不能弄到一些今晚演出的票。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FOR EMPHASIS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "If \"and\" is used to join two words that are the same, it makes their meaning stronger.",
+                "cn": "（连接两个同样的词，用于加强意义）接连，又，越来越"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She spends hours and hours (= a very long time) on the phone.",
+                  "cn": "她打起电话来一聊就是好几个小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "The sound grew louder and louder (= very loud).",
+                  "cn": "声音变得越来越大。"
+                },
+                {
+                  "gram": "",
+                  "en": "We laughed and laughed (= laughed a lot).",
+                  "cn": "我们笑个不停。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to express surprise",
+                "cn": "（表示惊讶）竟然，但是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You're a vegetarian and you eat fish?",
+                  "cn": "你是个素食主义者，怎么能吃鱼呢？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

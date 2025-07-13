@@ -1,0 +1,53 @@
+{
+  "time": 1752140932582,
+  "title": "robotics",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/rəʊˈbɒt.ɪks/",
+        "us": "/roʊˈbɑː.t̬ɪks/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rəʊˈbɒt.ɪks/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrob/ukrobot002.mp3"
+        },
+        "us": {
+          "ipa": "/roʊˈbɑː.t̬ɪks/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rob/robot/robotics.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the science of making and using robots (= machines controlled by computers that are used to perform jobs automatically)",
+                "cn": "机器人学;机器人技术"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The field of robotics has seen many exciting developments in the last decade.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Strangely, for the director of a robotics department, he doesn't seem to know what a robot is.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

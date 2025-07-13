@@ -1,0 +1,48 @@
+{
+  "time": 1752140957782,
+  "title": "searching",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈsɜː.tʃɪŋ/",
+        "us": "/ˈsɝː.tʃɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɜː.tʃɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksea/uksear_003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɝː.tʃɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sea/searc/searching.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "intended to find out the often hidden truth about something",
+                "cn": "探究真相的，刨根问底的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I think we need to ask some searching questions about how the money has been spent.",
+                  "cn": "我觉得我们应该刨根问底，问一问那笔钱到底是如何花的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

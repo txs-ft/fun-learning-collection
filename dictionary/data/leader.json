@@ -1,0 +1,113 @@
+{
+  "time": 1752140577379,
+  "title": "leader",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈliː.dər/",
+        "us": "/ˈliː.dɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈliː.dər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukldr/ukldriv007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈliː.dɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lea/leade/leader.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CONTROLLING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person in control of a group, country, or situation",
+                "cn": "领导，领导人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a religious leader",
+                  "cn": "宗教领袖"
+                },
+                {
+                  "gram": "",
+                  "en": "The Russian leader wants to introduce further changes.",
+                  "cn": "俄罗斯领导人希望进一步推行改革。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's a natural leader.",
+                  "cn": "他天生就是个领导。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was elected as leader of the campaign group.",
+                  "cn": "她被推举为竞选小组的领导。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WINNING",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "someone or something that is winning during a race or other situation where people are competing",
+                "cn": "领先者，占优势者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's fallen two laps behind the leaders.",
+                  "cn": "他已经落后领先者两圈了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Microsoft is a world leader in software design.",
+                  "cn": "微软公司在软件设计方面处于世界领先地位。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NEWSPAPER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an \neditorial",
+                "cn": "社论，社评（同 editorial）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "MUSIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the most important violin player in an orchestra",
+                "cn": "首席小提琴手"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

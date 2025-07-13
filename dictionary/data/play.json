@@ -1,0 +1,491 @@
+{
+  "time": 1752140845313,
+  "title": "play",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/pleɪ/",
+        "us": "/pleɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pleɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplate018.mp3"
+        },
+        "us": {
+          "ipa": "/pleɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pla/play_/play.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ENJOY",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "When you play, especially as a child, you spend time doing an enjoyable and/or entertaining activity.",
+                "cn": "（尤指儿童）玩，玩耍"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children spent the afternoon playing with their new toys.",
+                  "cn": "孩子们下午在玩自己的新玩具。"
+                },
+                {
+                  "gram": "",
+                  "en": "My daughter used to play with the kids next door.",
+                  "cn": "我女儿过去常跟隔壁的孩子们玩。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GAME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to take part in a game or other organized activity",
+                "cn": "参加（游戏、比赛等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you want to play cards/football (with us)?",
+                  "cn": "你想（和我们）打牌／踢球吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Irene won't be able to play in the tennis match on Saturday.",
+                  "cn": "艾琳星期六不能参加网球比赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "Which team do you play for?",
+                  "cn": "你为哪支球队效力？"
+                },
+                {
+                  "gram": "",
+                  "en": "Luke plays centre-forward (= plays in that position within the team).",
+                  "cn": "卢克踢中锋。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to compete against a person or team in a game",
+                "cn": "与…比赛"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Who are the Giants playing next week?",
+                  "cn": "下星期巨人队和哪个队比赛？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to hit or kick a ball in a game",
+                "cn": "踢（球），击打（球）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He played the ball back to the goalkeeper.",
+                  "cn": "他把球踢回给守门员。"
+                },
+                {
+                  "gram": "",
+                  "en": "A good pool player takes time deciding which shot to play.",
+                  "cn": "一个优秀的台球选手会从容考虑击哪个球。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "(in a card game) to choose a card from the ones you are holding and put it down on the table",
+                "cn": "出（牌）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She played the ace of spades.",
+                  "cn": "她出了一张黑桃 A。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to perform an entertainment or a particular character in a play, film, etc.",
+                "cn": "扮演，演出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Scottish Opera played to full houses every night.",
+                  "cn": "苏格兰歌剧院每晚演出都爆满。"
+                },
+                {
+                  "gram": "",
+                  "en": "I didn't realize that \"Macbeth\" was playing (= being performed) at the festival.",
+                  "cn": "我没想到《麦克白》正在艺术节上演。"
+                },
+                {
+                  "gram": "",
+                  "en": "In the movie version, Branagh played the hero.",
+                  "cn": "在电影版中，布拉那扮演主人公。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to behave or pretend in a particular way, especially in order to produce a particular effect or result",
+                "cn": "假装，装扮"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "to play dead/dumb",
+                  "cn": "装死／哑巴"
+                },
+                {
+                  "gram": "",
+                  "en": "Would you mind playing host (= entertaining the guests)?",
+                  "cn": "你来招待客人好吗？"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to deceive someone to make them laugh or in order to get an advantage over them",
+                "cn": "开玩笑;搞恶作剧"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She loves playing practical jokes on her friends.",
+                  "cn": "她喜欢对她的朋友们搞恶作剧。"
+                },
+                {
+                  "gram": "",
+                  "en": "When I saw the gun, my first thought was that he must be playing a joke.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "He thought someone was trying to play a joke on him when he received the email.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "One spring, his students played a trick on him by hiding his books.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Sometimes our nervous system can play nasty tricks on the body.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to help to achieve something",
+                "cn": "（在…中）起作用"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My thanks to everyone who has played a part in saving the hospital.",
+                  "cn": "我向参与拯救这家医院的每一个人表示感谢。"
+                },
+                {
+                  "gram": "",
+                  "en": "Better sanitation helped to eradicate malaria, but DDT also played a part.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The government wants us all to play a part in fighting terrorism.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Some of the people who will play a part in rebuilding the country are returning there for the first time in decades.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PRODUCE SOUNDS/PICTURES",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to perform music on an instrument or instruments",
+                "cn": "演奏，弹拨，吹奏（乐器）;播放"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He learned to play the clarinet at the age of ten.",
+                  "cn": "他10岁就开始学习吹奏单簧管。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "Play us a song!/Play a song for us!",
+                  "cn": "给我们奏支曲子吧！"
+                },
+                {
+                  "gram": "",
+                  "en": "On Radio London they play African and South American music as well as rock and pop.",
+                  "cn": "伦敦广播电台不仅播放摇滚和流行音乐，还播放非洲和南美洲的音乐。"
+                },
+                {
+                  "gram": "",
+                  "en": "They could hear a jazz band playing in the distance.",
+                  "cn": "他们可以听到远处的爵士乐队在演奏。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to (cause a machine to) produce sound or a picture",
+                "cn": "（使）演奏;（使）播放"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Play the last few minutes of the video again.",
+                  "cn": "把录像带的最后几分钟再放一遍。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to direct or be directed over or onto something",
+                "cn": "（使）发射（或喷射、照射）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Firefighters played their hoses onto the base of the fire.",
+                  "cn": "消防队员把水龙头对准火源。"
+                },
+                {
+                  "gram": "",
+                  "en": "A fountain was playing (= sending out water) in the courtyard outside.",
+                  "cn": "外面院子里有个喷泉在喷水。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "(of something you see, such as light) to move quickly or be seen for a short time",
+                "cn": "（光等）快速移动，闪现，浮现"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A smile played across/over/on his lips.",
+                  "cn": "他的唇角闪过一丝微笑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RISK MONEY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to risk money, especially on the results of races or business deals, hoping to win more money",
+                "cn": "赌，投机"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He plays the horses/the stock market.",
+                  "cn": "他玩赌马／炒股。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/pleɪ/",
+        "us": "/pleɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pleɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplate018.mp3"
+        },
+        "us": {
+          "ipa": "/pleɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pla/play_/play.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACTING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a piece of writing that is intended to be acted in a theatre or on radio or television",
+                "cn": "剧本;戏剧"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a radio play",
+                  "cn": "广播剧"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Did you see the play (= the performance of the play) on Thursday?\" \"No, I went on Wednesday night.\"",
+                  "cn": "“你星期四去看的那出戏吗？”“不，我星期三去的。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GAME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the activity of taking part in a sport or a game",
+                "cn": "比赛"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Rain stopped play during the final of the National Tennis Championship.",
+                  "cn": "下雨使全国网球锦标赛的决赛中断了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a plan or a small set of actions in a sport",
+                "cn": "打法；比赛中的动作"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The new pitcher made a great play on that throw to first base.",
+                  "cn": "新投手向一垒投出了精彩的一球。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ENJOYMENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "activity that is not serious but done for enjoyment, especially when children enjoy themselves with toys and games",
+                "cn": "玩，玩耍"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The kids don't get much time for play in the evenings.",
+                  "cn": "孩子们晚上没有多少时间玩。"
+                },
+                {
+                  "gram": "",
+                  "en": "We watched the children at play in the park.",
+                  "cn": "我们看着公园里玩耍的孩子们。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVEMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "movement",
+                "cn": "移动，活动;变幻;闪现"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the play of moonlight across the water",
+                  "cn": "水面上月光闪烁"
+                },
+                {
+                  "gram": "",
+                  "en": "the play of emotion across/on his face",
+                  "cn": "他面部表情的变化"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the fact that a rope or a structure is free to move, especially a small distance",
+                "cn": "（尤指小幅度的）伸缩余地；间隙；活动空间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Aircraft wings are designed to have a certain amount of play in them.",
+                  "cn": "飞机的机翼设计得有一定的弹性空间。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

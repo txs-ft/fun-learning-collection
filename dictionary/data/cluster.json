@@ -1,0 +1,72 @@
+{
+  "time": 1752140136626,
+  "title": "cluster",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈklʌs.tər/",
+        "us": "/ˈklʌs.tɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈklʌs.tər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukclo/ukclosu029.mp3"
+        },
+        "us": {
+          "ipa": "/ˈklʌs.tɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clu/clust/cluster.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of similar things that are close together, sometimes surrounding something",
+                "cn": "（同类物聚集的）串，丛，束，群"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Have a look at the cluster of galaxies in this photograph.",
+                  "cn": "看看这张照片上的星系群。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was a cluster of fans around him, asking for autographs.",
+                  "cn": "一大群崇拜者围着他，找他签名。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of two or more consonant sounds that are pronounced together with no vowel sound between them",
+                "cn": "辅音丛（连在一起的两个或以上的辅音）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The /str/ at the beginning of \"stray\" is a cluster.",
+                  "cn": "“stray”这个单词的前三个字母str组成了一个辅音丛。"
+                },
+                {
+                  "gram": "",
+                  "en": "The word \"glimpsed\" ends with the consonant cluster /mpst/.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "time": 1752140764693,
+  "title": "open",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈəʊ.pən/",
+        "us": "/ˈoʊ.pən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈəʊ.pən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukoom/ukoomph016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈoʊ.pən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75227.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT CLOSED",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "not closed or fastened",
+                "cn": "开着的，未关的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an open door/window",
+                  "cn": "开着的门／窗"
+                },
+                {
+                  "gram": "",
+                  "en": "An open suitcase lay on her bed.",
+                  "cn": "一只打开的手提箱摆在她的床上。"
+                },
+                {
+                  "gram": "",
+                  "en": "You left the container open.",
+                  "cn": "你没把包装袋口封上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Someone had left the window wide (= completely) open.",
+                  "cn": "有人把窗户敞开着。"
+                },
+                {
+                  "gram": "",
+                  "en": "He had several nasty open wounds (= those which had not begun to heal).",
+                  "cn": "他有几处严重的未愈合的伤口。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "READY",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "ready to be used or ready to provide a service",
+                "cn": "可用的;开放的;营业的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The supermarket is open till 8.00 p.m.",
+                  "cn": "这家超市一直营业到晚上8点。"
+                },
+                {
+                  "gram": "",
+                  "en": "The road is open now, but it is often blocked by snow in the winter.",
+                  "cn": "这条路现在可以通行，不过在冬天它经常被雪封住。"
+                },
+                {
+                  "gram": "",
+                  "en": "The new hospital was declared open by the mayor.",
+                  "cn": "市长宣布新医院开始启用。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT ENCLOSED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not closed in or covered",
+                "cn": "没有围上的，敞开的;开阔的;无遮盖的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's not a good idea to camp in the middle of an open field (= one which is not covered with trees, bushes, etc.).",
+                  "cn": "在旷野之中宿营可不是个好主意。"
+                },
+                {
+                  "gram": "",
+                  "en": "Suddenly we had left the city behind and were out in open country.",
+                  "cn": "忽然我们离开了都市，进入了开阔的乡野。"
+                },
+                {
+                  "gram": "",
+                  "en": "The survivors were adrift on the open sea (= far from land).",
+                  "cn": "幸存者在外海上漂流。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPUTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a computer document or program is open, it is ready to be read or used.",
+                "cn": "（计算机文件或程序）打开的，已启动的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Make sure you have both files open at the same time.",
+                  "cn": "确保你同时打开两个文档。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AVAILABLE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "available; not limited",
+                "cn": "可利用的；可得到的；没有限制的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There are still several possibilities open to you.",
+                  "cn": "你还有几个不同的选择。"
+                },
+                {
+                  "gram": "",
+                  "en": "The competition is open to anyone over the age of 16.",
+                  "cn": "16岁以上的人都可以参加这场竞赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is the library open to the general public?",
+                  "cn": "这座图书馆向公众开放吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Their whole attitude to these negotiations is open to criticism (= can be criticized).",
+                  "cn": "他们对这些谈判的整个态度应该受到批评。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'd like to think I'm open to (= willing to consider) any reasonable suggestion.",
+                  "cn": "我认为自己是愿意接受任何合理的建议的。"
+                },
+                {
+                  "gram": "",
+                  "en": "An accident would lay the whole issue of safety open (= cause it to be considered).",
+                  "cn": "一起事故会使整个安全问题凸显出来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT SECRET",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "not secret",
+                "cn": "不保密的；公开的；毫不掩饰的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There has been open hostility between them ever since they had that argument last summer.",
+                  "cn": "自从去年夏天他们发生了那场争吵后，两人就一直处于公开的敌对状态。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "honest and not trying to keep things secret",
+                "cn": "坦诚的;坦率的;毫不隐讳的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's very open about his weaknesses.",
+                  "cn": "他对自己的弱点毫不隐瞒。"
+                },
+                {
+                  "gram": "",
+                  "en": "I wish you'd be more open with me, and tell me what you're feeling.",
+                  "cn": "我希望你对我更坦诚一些，把你的感受告诉我。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has an honest, open face.",
+                  "cn": "她有一张真诚坦率的面孔。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT DECIDED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "not decided or certain",
+                "cn": "尚未决定的，正在考虑中的;不确定的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We don't have to make a firm decision yet. Let's leave it open.",
+                  "cn": "我们还不必作出明确的决定，先考虑考虑吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "We can leave our offer open for another week, but we have to have your decision by then.",
+                  "cn": "我们可以再给你一周时间考虑我们的出价，不过到时候我们必须知道你的决定。"
+                },
+                {
+                  "gram": "",
+                  "en": "I want to keep my options open, so I'm not committing myself yet.",
+                  "cn": "我想保留我的选择权，所以暂且不作决定。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈəʊ.pən/",
+        "us": "/ˈoʊ.pən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈəʊ.pən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukoom/ukoomph016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈoʊ.pən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75227.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BEGIN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to (cause to) begin",
+                "cn": "（使）开始"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I would like to open my talk by giving a brief background to the subject.",
+                  "cn": "正式开始讲话之前，我想先简短地介绍一下这个主题的背景。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm going to open an account with another bank.",
+                  "cn": "我打算在另一家银行开一个账户。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Olympic Games open tomorrow.",
+                  "cn": "奥运会明天开幕。"
+                },
+                {
+                  "gram": "",
+                  "en": "A new radio station is due to open (up) next month.",
+                  "cn": "一家新电台预定下个月开播。"
+                },
+                {
+                  "gram": "",
+                  "en": "The film opens (= will be shown for the first time) in New York and Los Angeles next week.",
+                  "cn": "这部电影下周将在纽约和洛杉矶开始上映。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT CLOSED",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to move something to a position that is not closed, or to make something change to a position that is not closed",
+                "cn": "开;开放;打开"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you open the window, please?",
+                  "cn": "请打开窗户好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "You can open your eyes now - here's your present.",
+                  "cn": "你现在可以睁开眼睛了——这是你的礼物。"
+                },
+                {
+                  "gram": "",
+                  "en": "The flowers open (out) in the morning but close again in the afternoon.",
+                  "cn": "这种花早上开，但是到了下午又会合拢。"
+                },
+                {
+                  "gram": "",
+                  "en": "From the kitchen there is a door that opens (out) into the garden.",
+                  "cn": "有一道门从厨房通向花园。"
+                },
+                {
+                  "gram": "",
+                  "en": "That door opens (out) onto the patio.",
+                  "cn": "那扇门通往露台。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Open up (= open the door) - it's the police!\" shouted the police officer, banging on the door.",
+                  "cn": "“开门——警察！”警察一边猛敲门一边喊道。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to remove or separate part of a container or parcel so that you can see or use what it contains",
+                "cn": "开，开启，打开，揭开（包装或容器）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't open a new bottle just for me.",
+                  "cn": "不要为我一个人新开一瓶酒。"
+                },
+                {
+                  "gram": "",
+                  "en": "I couldn't wait to open the letter.",
+                  "cn": "我迫不及待要把信拆开。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "READY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "If a shop or office opens at a particular time of day, it starts to do business at that time.",
+                "cn": "开门，开始营业;开始办公"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The coffee shop opens at ten o'clock.",
+                  "cn": "这家咖啡馆10点钟开门。"
+                },
+                {
+                  "gram": "",
+                  "en": "He opens (up) his coffee shop at ten o'clock.",
+                  "cn": "他的咖啡馆10点钟开始营业。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "If someone, usually someone important, opens a building, event, etc., they officially say that it is ready to be used or to start operating.",
+                "cn": "（通常指要人）宣布开业，宣布投入运营，为…揭幕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The new hospital will be officially opened by the mayor on Tuesday.",
+                  "cn": "这家新医院将在星期二由市长正式宣布投入使用。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AVAILABLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make something available",
+                "cn": "提供；使有…；开放，取消限制"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This research opens (up) the possibility of being able to find a cure for the disease.",
+                  "cn": "这项研究为找到医治这种疾病的方法提供了可能。"
+                },
+                {
+                  "gram": "",
+                  "en": "The country is planning to open (up) its economy to foreign investment.",
+                  "cn": "该国正计划开放经济，欢迎外国投资。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPUTER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "If you open a computer document or program, you make it ready to read or use.",
+                "cn": "打开，启动（计算机文件或程序）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To open a new document, click \"File\" and then click \"New\".",
+                  "cn": "建立新文件时，先点击“文件夹”，然后再点击“新建”。"
+                },
+                {
+                  "gram": "",
+                  "en": "Click the desktop icon to open the Cambridge Advanced Learner's Dictionary.",
+                  "cn": "点击桌面图标，打开《剑桥高阶学习词典》。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈəʊ.pən/",
+        "us": "/ˈoʊ.pən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈəʊ.pən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukoom/ukoomph016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈoʊ.pən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75227.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT ENCLOSED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "somewhere outside, rather than in a building",
+                "cn": "室外，户外;露天;野外"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's good to be (out) in the open after being cooped up in an office all day.",
+                  "cn": "在办公室里关了一整天后来到户外感觉真好。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "time": 1752141146024,
+  "title": "through",
+  "generalBitmask": 28,
+  "allDefinitions": [
+    {
+      "pos": "preposition, adverb",
+      "defBitmask": 24,
+      "pron": {
+        "uk": "/θruː/",
+        "us": "/θruː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/θruː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktho/ukthoug016.mp3"
+        },
+        "us": {
+          "ipa": "/θruː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thr/threw/threw.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PLACE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "from one end or side of something to the other",
+                "cn": "通过;穿越"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They walked slowly through the woods.",
+                  "cn": "他们缓步穿过树林。"
+                },
+                {
+                  "gram": "",
+                  "en": "The boy waded through the water to reach his boat.",
+                  "cn": "男孩涉水来到他的船上。"
+                },
+                {
+                  "gram": "",
+                  "en": "He struggled through the crowd till he reached the front.",
+                  "cn": "他挤过人群来到前面。"
+                },
+                {
+                  "gram": "",
+                  "en": "How long the journey takes will depend on how long it takes to get through the traffic.",
+                  "cn": "旅程要花多长时间将取决于穿过车流要花多长时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her words kept running through my mind/head (= I kept hearing her words in my imagination).",
+                  "cn": "她的话一直在我脑海里回荡。"
+                },
+                {
+                  "gram": "",
+                  "en": "We drove through the tunnel.",
+                  "cn": "我们开车穿过隧道。"
+                },
+                {
+                  "gram": "",
+                  "en": "I saw him drive through a red light (= he did not stop at the red traffic light).",
+                  "cn": "我看见他开车闯红灯。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll put you through (= connect you by phone) (to the sales department).",
+                  "cn": "我给你接通（销售部的）电话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "from the beginning to the end of a period of time",
+                "cn": "自始至终，从头至尾"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It rained all/right through June and into the first half of July.",
+                  "cn": "整个6月和7月的上半月一直在下雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "We sat through two of the speeches and then left.",
+                  "cn": "我们听完整整两个讲话，然后就离开了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She had just enough energy to get through the day.",
+                  "cn": "她硬撑着坚持了一天。"
+                },
+                {
+                  "gram": "",
+                  "en": "She works Monday through Thursday (= from Monday to Thursday).",
+                  "cn": "她周一到周四工作。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/θruː/",
+        "us": "/θruː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/θruː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktho/ukthoug016.mp3"
+        },
+        "us": {
+          "ipa": "/θruː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thr/threw/threw.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "RESULT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "as a result of",
+                "cn": "由于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The company lost the order through production delays.",
+                  "cn": "该公司由于生产延误失去了订单。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "USING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "by; using",
+                "cn": "通过;利用"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I got my car through my brother who works in a garage.",
+                  "cn": "我通过在汽车修理厂工作的兄弟买的车。"
+                },
+                {
+                  "gram": "",
+                  "en": "We sold the bike through advertising in the local paper.",
+                  "cn": "我们通过在地方报纸上登广告卖掉了自行车。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/θruː/",
+        "us": "/θruː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/θruː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktho/ukthoug016.mp3"
+        },
+        "us": {
+          "ipa": "/θruː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/thr/threw/threw.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FINISHED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "having finished using or doing something",
+                "cn": "完成的；结束的；断绝的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've got some work to do but I should be through in an hour if you can wait.",
+                  "cn": "我还有些工作要做，不过1小时内应该可以完成，你看能不能等一下。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are you through with that atlas?",
+                  "cn": "你看完那本地图册了吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUCCESSFUL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to achieve success in an exam, competition, etc. and progress to the next stage or a higher level",
+                "cn": "通过（考试等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's through to the next round of interviews.",
+                  "cn": "她通过了，可参加下一轮面试。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Has she heard about her entrance exams yet?\" \"Yes, she's through.\"",
+                  "cn": "“她知道入学考试的成绩了吗？”“知道，她通过了。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DIRECT",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "A through train or bus goes all the way from one place to another place without the passenger having to change trains or buses.",
+                "cn": "（火车或公共汽车）直达的，中途不停的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

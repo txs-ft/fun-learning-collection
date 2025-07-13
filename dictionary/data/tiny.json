@@ -1,0 +1,63 @@
+{
+  "time": 1752141154310,
+  "title": "tiny",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈtaɪ.ni/",
+        "us": "/ˈtaɪ.ni/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtaɪ.ni/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktim/uktimin027.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtaɪ.ni/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tin/tiny_/tiny.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely small",
+                "cn": "微小的，极小的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a tiny flower",
+                  "cn": "极小的花"
+                },
+                {
+                  "gram": "",
+                  "en": "a tiny helping of food",
+                  "cn": "极少的一份食物"
+                },
+                {
+                  "gram": "",
+                  "en": "a tiny baby",
+                  "cn": "丁点大的婴儿"
+                },
+                {
+                  "gram": "",
+                  "en": "a tiny bit late",
+                  "cn": "稍微迟到一点"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

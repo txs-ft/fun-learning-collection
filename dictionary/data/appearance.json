@@ -1,0 +1,162 @@
+{
+  "time": 1752139703474,
+  "title": "appearance",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əˈpɪə.rəns/",
+        "us": "/əˈpɪr.əns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈpɪə.rəns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukapo/ukapolo026.mp3"
+        },
+        "us": {
+          "ipa": "/əˈpɪr.əns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/app/appea/appearance.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BEING PRESENT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an occasion when someone appears in public",
+                "cn": "（公开）露面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It was his first appearance on television/television appearance as president.",
+                  "cn": "这是他就任总统以来首次在电视上亮相。"
+                },
+                {
+                  "gram": "",
+                  "en": "She will be making a public appearance, signing copies of her latest novel.",
+                  "cn": "她将公开亮相，为自己刚刚出版的小说签名售书。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an occasion when someone goes to court to be officially involved in a trial",
+                "cn": "出庭"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This was the defendant's third court appearance for the same offence.",
+                  "cn": "这是被告因为同一桩罪行第三次出庭受审。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a public performance by an entertainer",
+                "cn": "（艺人的）公开露面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He made his first stage/TV appearance at the age of six.",
+                  "cn": "在6岁时他首次登台演出／在电视上亮相。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be present somewhere for a short time:",
+                "cn": "我真不想参加这个聚会，但是我想还是露个面的好。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I didn't really want to go to the party, but I thought I'd better put in an appearance.",
+                  "cn": "我真不想参加这个聚会，但是我想还是露个面的好。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WAY YOU LOOK",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the way a person or thing looks to other people",
+                "cn": "外表，外观；外貌；样子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a middle-aged man of smart appearance",
+                  "cn": "一个外表整洁的中年男子"
+                },
+                {
+                  "gram": "",
+                  "en": "You can alter/change the whole appearance of a room just by lighting it in a certain way.",
+                  "cn": "只要在灯光上做些文章，整个房间面貌就会焕然一新。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was nothing unusual about/in her physical appearance.",
+                  "cn": "她的外表并没有什么特别之处。"
+                },
+                {
+                  "gram": "",
+                  "en": "The large car outside the house gave the appearance of wealth (= suggested wealthy people lived there).",
+                  "cn": "住宅外面停的那辆大轿车显示出主人很富有。"
+                },
+                {
+                  "gram": "",
+                  "en": "Appearances can be deceptive.",
+                  "cn": "人不可貌相。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "what things look like or seem to be rather than what they actually are:",
+                "cn": "他这个人实际上很难懂，与其外表相去甚远。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was a far more complicated man than outward appearances suggested.",
+                  "cn": "他这个人实际上很难懂，与其外表相去甚远。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "judging from what can be seen:",
+                "cn": "从表面看他们的婚姻很美满，但我觉得在私下里她不会给他好日子过。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To all appearances their marriage is fine, but I think she gives him a bad time in private.",
+                  "cn": "从表面看他们的婚姻很美满，但我觉得在私下里她不会给他好日子过。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

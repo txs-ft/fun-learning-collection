@@ -1,0 +1,72 @@
+{
+  "time": 1752140942741,
+  "title": "ruby",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈruː.bi/",
+        "us": "/ˈruː.bi/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈruː.bi/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukroy/ukroyal027.mp3"
+        },
+        "us": {
+          "ipa": "/ˈruː.bi/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rub/ruby_/ruby.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "RED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a transparent, dark red precious stone, often used in jewellery",
+                "cn": "红宝石"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a ring with a large ruby",
+                  "cn": "一颗大红宝石戒指"
+                },
+                {
+                  "gram": "",
+                  "en": "a ruby necklace/ring",
+                  "cn": "红宝石项链／戒指"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a dark red colour",
+                "cn": "深红色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The colour of the wine is a characteristic dark ruby.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The dress is available in several colours, including chocolate and ruby red.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

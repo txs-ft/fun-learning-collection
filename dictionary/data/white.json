@@ -1,0 +1,257 @@
+{
+  "time": 1752141293243,
+  "title": "white",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/waɪt/",
+        "us": "/waɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/waɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhi/ukwhisk009.mp3"
+        },
+        "us": {
+          "ipa": "/waɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whi/white/white.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COLOUR",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "of a colour like that of snow, milk, or bone",
+                "cn": "白色的;雪白的;乳白的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a white T-shirt",
+                  "cn": "白色的T恤衫"
+                },
+                {
+                  "gram": "",
+                  "en": "white walls",
+                  "cn": "白墙"
+                },
+                {
+                  "gram": "",
+                  "en": "a black and white dog",
+                  "cn": "黑白相间的狗"
+                },
+                {
+                  "gram": "",
+                  "en": "He's white-haired now.",
+                  "cn": "他现在头发都已经白了。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"How do you like your coffee?\" \"White (= with milk or cream) and no sugar, please.\"",
+                  "cn": "“你想要什么样的咖啡？”“请加奶但不要加糖。”"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "having a pale face because you are not well, or you are feeling shocked",
+                "cn": "（因为生病或受到惊吓）面色惨白的，苍白的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was white, and her lips were pale.",
+                  "cn": "她面色苍白，双唇没有血色。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used in the names of various food and drink products, many of which are not pure white but slightly cream, yellow, grey, or transparent",
+                "cn": "（用于食品名称中）白…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "white bread",
+                  "cn": "白面包"
+                },
+                {
+                  "gram": "",
+                  "en": "white chocolate",
+                  "cn": "白巧克力"
+                },
+                {
+                  "gram": "",
+                  "en": "white flour",
+                  "cn": "白面"
+                },
+                {
+                  "gram": "",
+                  "en": "white sugar",
+                  "cn": "白糖"
+                },
+                {
+                  "gram": "",
+                  "en": "white wine",
+                  "cn": "白葡萄酒"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PEOPLE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "belonging to the group of people with skin that is pale in colour, who come from or whose family originally came from Europe",
+                "cn": "白人（的）；白种人（的）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He had a black mother and a white father.",
+                  "cn": "他的母亲是黑人，父亲是白人。"
+                },
+                {
+                  "gram": "",
+                  "en": "a predominantly white neighbourhood",
+                  "cn": "以白人为主的社区"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/waɪt/",
+        "us": "/waɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/waɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhi/ukwhisk009.mp3"
+        },
+        "us": {
+          "ipa": "/waɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whi/white/white.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COLOUR",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a colour like that of snow, milk, or bone",
+                "cn": "白色;雪白;乳白"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In some countries it is traditional for a bride to wear white.",
+                  "cn": "在某些国家的传统中，新娘要穿白色礼服。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "white clothes, either worn for a particular activity or job, or put together to be washed at the same time",
+                "cn": "白色衣服"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a girl in tennis whites",
+                  "cn": "穿着白色网球裙的女孩"
+                },
+                {
+                  "gram": "",
+                  "en": "chef/chef's whites",
+                  "cn": "厨师的白色工作服"
+                },
+                {
+                  "gram": "",
+                  "en": "The medical team was all in hospital whites.",
+                  "cn": "医疗小组都穿着医院的白色工作服。"
+                },
+                {
+                  "gram": "",
+                  "en": "A red sock got put in the wash with the whites!",
+                  "cn": "一只红袜子和一堆白衣服放在一起洗了！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the part of the eye that is white",
+                "cn": "眼白，白眼珠"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't shoot until you see the whites of their eyes (= until the people are very close to you).",
+                  "cn": "直到他们离你很近了再开枪。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the transparent part of an egg that surrounds the yolk and becomes white when cooked",
+                "cn": "蛋清，蛋白"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Beat four egg whites into stiff peaks.",
+                  "cn": "搅打4个蛋清，直到打得稠稠地耸起来为止。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person with skin that is pale in colour, who comes from or whose family originally came from Europe",
+                "cn": "白人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The neighbourhood is populated mainly by whites.",
+                  "cn": "这个社区里住的主要是白人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

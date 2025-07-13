@@ -1,0 +1,127 @@
+{
+  "time": 1752141303700,
+  "title": "yesterday",
+  "generalBitmask": 9,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈjes.tə.deɪ/",
+        "us": "/ˈjes.tɚ.deɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈjes.tə.deɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uky/ukyd_/ukyd___025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈjes.tɚ.deɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/y/yes/yeste/yesterday.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "on the day before today",
+                "cn": "昨天"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He called yesterday while you were out.",
+                  "cn": "昨天你外出时他打电话来了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I saw her yesterday afternoon.",
+                  "cn": "我昨天下午见到她了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈjes.tə.deɪ/",
+        "us": "/ˈjes.tɚ.deɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈjes.tə.deɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uky/ukyd_/ukyd___025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈjes.tɚ.deɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/y/yes/yeste/yesterday.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the day before today",
+                "cn": "昨天"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Is that today's paper?\" \"No, it's yesterday's.\"",
+                  "cn": "“那是今天的报纸吗？”“不，是昨天的。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "two days ago",
+                "cn": "前天"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I called her the day before yesterday.",
+                  "cn": "我前天给她打了电话。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the recent past",
+                "cn": "近日，日前;往昔"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Nobody's interested in yesterday's pop stars.",
+                  "cn": "没人对过气明星感兴趣。"
+                },
+                {
+                  "gram": "",
+                  "en": "These songs are a part of all our yesterdays.",
+                  "cn": "这些歌曲是我们所有往事的一部分。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

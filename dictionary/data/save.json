@@ -1,0 +1,277 @@
+{
+  "time": 1752140947944,
+  "title": "save",
+  "generalBitmask": 19,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/seɪv/",
+        "us": "/seɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/seɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksau/uksauce016.mp3"
+        },
+        "us": {
+          "ipa": "/seɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sav/save_/save.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKE SAFE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to stop someone or something from being killed, injured, or destroyed",
+                "cn": "挽救，搭救，救助"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Wearing seat belts has saved many lives.",
+                  "cn": "使用安全带挽救了许多人的生命。"
+                },
+                {
+                  "gram": "",
+                  "en": "He fell in the river but his friend saved him from drowning.",
+                  "cn": "他掉进了河里，不过他的朋友救了他的命。"
+                },
+                {
+                  "gram": "",
+                  "en": "He had to borrow money to save his business.",
+                  "cn": "他只好借钱挽救自己的企业。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was desperately trying to save their failing marriage.",
+                  "cn": "他拼命努力，试图挽救他们濒临破裂的婚姻。"
+                },
+                {
+                  "gram": "",
+                  "en": "We all need to do our part to save the planet.",
+                  "cn": "我们都需要为拯救这个星球尽一份力。"
+                },
+                {
+                  "gram": "",
+                  "en": "The former tennis champion was now serving to save the match (= to win the next point so that the other player did not win this part of the competition).",
+                  "cn": "前网球冠军正在发球争取挽回败局。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to stop someone from being killed",
+                "cn": "使（某人）免遭杀害；救（某人）的性命"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to help someone escape from a difficult or unpleasant situation",
+                "cn": "帮助（某人）脱离困境（或窘境）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Thanks for helping me with that report - you saved my life!",
+                  "cn": "谢谢你帮助我完成那个报告——你真是帮了我大忙！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "KEEP",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to keep something, especially money, for use in the future",
+                "cn": "保存，储存;储蓄，攒钱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Tom's been saving his pocket money every week.",
+                  "cn": "汤姆每周都把自己的零花钱攒起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're saving (up) for a new car.",
+                  "cn": "我们正在攒钱准备买一辆新车。"
+                },
+                {
+                  "gram": "",
+                  "en": "I save all my old letters in case I want to read them again.",
+                  "cn": "我把过去所有的信件都保存了下来，以便再读。"
+                },
+                {
+                  "gram": "",
+                  "en": "Save me a place at your table, OK?",
+                  "cn": "你坐的那张桌子给我留个位子好吗？"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to put information into a computer's memory or onto a computer disk",
+                "cn": "将（计算机上的信息）存盘，保存"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't forget to save your work regularly.",
+                  "cn": "不要忘记经常存盘。"
+                },
+                {
+                  "gram": "",
+                  "en": "To save, press Control S.",
+                  "cn": "存盘按Control和S键。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT WASTE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to prevent time, money, or effort being wasted or spent",
+                "cn": "节约，节省"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You'll save time if you take the car.",
+                  "cn": "开车会省些时间。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "Thanks for your help - it saved me a lot of work.",
+                  "cn": "谢谢你的帮助——这省了我很多事。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "I'll lend you a bag for your trip - it'll save you buying one.",
+                  "cn": "我借给你一个旅行包——省得你专门再买一个。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you save it for later (= tell me your news later when I am less busy)?",
+                  "cn": "你能等一下（在我不这么忙的时候）再告诉我吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPORT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in football and similar games, to stop the ball from going into the goal when a player on the other team has kicked or hit it",
+                "cn": "（足球等球类运动中）救（球），阻止对方得（分）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/seɪv/",
+        "us": "/seɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/seɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksau/uksauce016.mp3"
+        },
+        "us": {
+          "ipa": "/seɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sav/save_/save.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in football or similar games, when a player stops the ball from going into the goal when it is hit or kicked by a player from the other team",
+                "cn": "（足球等球类运动中）救（球），阻止对方得（分）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The goalkeeper made a great save in the last minute of the game.",
+                  "cn": "守门员在比赛的最后关头有一次精彩的扑救。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/seɪv/",
+        "us": "/seɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/seɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksau/uksauce016.mp3"
+        },
+        "us": {
+          "ipa": "/seɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sav/save_/save.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "but or except for",
+                "cn": "除…外"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They found all the lost documents save one.",
+                  "cn": "除了其中有一份文件没有找到之外，他们找到了所有丢失的文件。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

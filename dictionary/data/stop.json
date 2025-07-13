@@ -1,0 +1,344 @@
+{
+  "time": 1752141097726,
+  "title": "stop",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/stɒp/",
+        "us": "/stɑːp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stɒp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksto/ukstoma022.mp3"
+        },
+        "us": {
+          "ipa": "/stɑːp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sto/stop_/stop.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FINISH",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to finish doing something that you were doing",
+                "cn": "（使）停止;（使）停下;中断"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Once I start eating chocolate, I can't stop.",
+                  "cn": "我一开始吃巧克力，就停不了嘴了。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "Stop shouting - you're giving me a headache!",
+                  "cn": "别再叫了——你搞得我头都疼了！"
+                },
+                {
+                  "gram": "",
+                  "en": "I couldn't stop laughing.",
+                  "cn": "我忍不住笑个没完。"
+                },
+                {
+                  "gram": "",
+                  "en": "Stop it!/Stop that!",
+                  "cn": "住手！"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to not continue to operate",
+                "cn": "（使）停止工作，（使）停止运转"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My watch must have stopped.",
+                  "cn": "我的表一定是停了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The air conditioner has stopped working.",
+                  "cn": "空调停了。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to not move any more or to make someone or something not move any more",
+                "cn": "（使）停止，（使）停下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Stop the car, I want to get out!",
+                  "cn": "把车停下，我要下去！"
+                },
+                {
+                  "gram": "",
+                  "en": "I heard him shout, \"Stop, or I'll shoot!\"",
+                  "cn": "我听到他大叫：“停下，否则我就开枪了！”"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to finish doing something that you do regularly or as a habit",
+                "cn": "戒除，停止（常做的事或习惯）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Apparently she's stopped drinking.",
+                  "cn": "听说她戒酒了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I stopped seeing him last year.",
+                  "cn": "去年我和他分手了。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to pause for a short time while travelling or during an activity",
+                "cn": "中途暂停;逗留"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Does this train stop at Finsbury Park?",
+                  "cn": "本次列车在芬斯伯里公园停吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't you just stop somewhere and ask for directions?",
+                  "cn": "为什么你不找个地方停一下问问路呢？"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I stopped to pick up a letter that I'd dropped.",
+                  "cn": "我停下脚步，捡起我掉在地上的信。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PREVENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to prevent someone from doing something",
+                "cn": "阻止，阻拦"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If she really wants to leave, I don't understand what's stopping her.",
+                  "cn": "如果她真的想走，我不明白有什么事绊住了她。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "They've put barriers up to stop people (from) getting through.",
+                  "cn": "他们筑起了街垒，阻止人们通行。"
+                },
+                {
+                  "gram": "",
+                  "en": "Something must be done to stop the fighting.",
+                  "cn": "必须做点儿什么来制止争斗。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to tell your bank not to deal with a cheque that you have written, so that the money is not paid from your bank account",
+                "cn": "通知银行止付支票"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "STAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to stay in a place",
+                "cn": "停留，逗留"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Are you coming with me or are you stopping here?",
+                  "cn": "你是和我一起走还是就留在这儿？"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't stop - Marc is waiting for me outside.",
+                  "cn": "我不能再呆了——马克在外面等着我呢。"
+                },
+                {
+                  "gram": "",
+                  "en": "Now that you're here, why don't you stop for some tea?",
+                  "cn": "既然你已经来了，为什么不留下来喝杯茶呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've been out every night this week, so I thought I'd stop in (= stay at home) tonight.",
+                  "cn": "这个星期我每个晚上都在外面，所以今晚想呆在家里。"
+                },
+                {
+                  "gram": "",
+                  "en": "We stopped up (= did not go to bed) until two o'clock last night watching the late film.",
+                  "cn": "我们昨晚看晚场电影，一直熬到两点才睡。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BLOCK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to block a hole",
+                "cn": "堵塞，塞住"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We stopped (up) the gap with some rags.",
+                  "cn": "我们用些破布塞住了豁口。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/stɒp/",
+        "us": "/stɑːp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stɒp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksto/ukstoma022.mp3"
+        },
+        "us": {
+          "ipa": "/stɑːp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sto/stop_/stop.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the act of stopping an activity or journey, or a period of time when you stop",
+                "cn": "停止，终止;逗留，停留;停留时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Please remain in your seat until the plane comes to a complete stop.",
+                  "cn": "请在飞机停稳前留在自己的座位上。"
+                },
+                {
+                  "gram": "",
+                  "en": "We'd have been here sooner, but we made several stops along the way.",
+                  "cn": "我们本来可以早点儿到这儿的，但我们中途停了好几次。"
+                },
+                {
+                  "gram": "",
+                  "en": "At the beginning of the project there were a lot of stops and starts.",
+                  "cn": "项目开始的时候，有很多磕磕绊绊。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a place where vehicles, especially buses, stop in order to allow passengers to get off and on",
+                "cn": "（尤指公共汽车的）车站"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bus stop",
+                  "cn": "公交车站"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm getting off at the next stop.",
+                  "cn": "我下一站下车。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is this our stop (= where we must get off)?",
+                  "cn": "我们是这一站下吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "short form of\nfull stop UK",
+                "cn": "句号（full stop的简略说法）"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \nplosive  (= consonant that is made by completely stopping the flow of air)",
+                "cn": "（辅音的）塞音"
+              },
+              "examples": []
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to stop an unpleasant, unwanted activity or habit from continuing",
+                "cn": "制止;使停止"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He used to smoke in bed when I first got to know him, but I soon put a stop to that!",
+                  "cn": "我刚认识他的时候，他总是躺在床上抽烟，但我很快就让他改掉了！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "time": 1752139886177,
+  "title": "baker",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈbeɪ.kər/",
+        "us": "/ˈbeɪ.kɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbeɪ.kər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbag/ukbag__025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbeɪ.kɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bak/baker/baker.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a person who makes bread and cakes, or who sells bread and cakes as a job",
+                "cn": "面包师;糕点师;面包店店员（或店主）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He has to get up at 4 a.m. for his job as a baker.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She was a baker at a local hotel making £10 an hour.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Their grandmother was a wonderful baker.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a shop where bread and cakes are sold and sometimes made",
+                "cn": "面包店"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The village has a butcher, a baker, and a fishmonger.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "time": 1752141110095,
+  "title": "sunrise",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsʌn.raɪz/",
+        "us": "/ˈsʌn.raɪz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsʌn.raɪz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksun/uksunbu021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsʌn.raɪz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/uss/ussun/ussunbl017.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the time in the morning when the sun starts to rise in the sky",
+                "cn": "日出（时分），拂晓，黎明"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They went out at sunrise to go bird-watching.",
+                  "cn": "他们日出的时候就出去观鸟去了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We have to leave before sunup tomorrow.",
+                  "cn": "我们明天得在日出之前离开。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the appearance of the sky when the sun starts to rise",
+                "cn": "晨曦，朝霞"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There was a beautiful sunrise this morning.",
+                  "cn": "今天早上的朝霞很美。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

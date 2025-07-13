@@ -1,0 +1,56 @@
+{
+  "time": 1752140167140,
+  "title": "constellation",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌkɒn.stəˈleɪ.ʃən/",
+        "us": "/ˌkɑːn.stəˈleɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌkɒn.stəˈleɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcon/ukconsp013.mp3"
+        },
+        "us": {
+          "ipa": "/ˌkɑːn.stəˈleɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/con/const/constellation.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "any of the groups of stars in the sky that seem from earth to form a pattern and have been given names",
+                "cn": "星座"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of famous or admired people all together in one place",
+                "cn": "群英荟萃;人才济济;明星群集"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At our annual ceremony we had a whole constellation of movie stars and directors.",
+                  "cn": "在我们的年度庆典上，影星导演济济一堂。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

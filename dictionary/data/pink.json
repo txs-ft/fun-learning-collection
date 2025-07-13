@@ -1,0 +1,174 @@
+{
+  "time": 1752140829553,
+  "title": "pink",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/pɪŋk/",
+        "us": "/pɪŋk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pɪŋk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpil/ukpilot027.mp3"
+        },
+        "us": {
+          "ipa": "/pɪŋk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pin/pink_/pink.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PALE RED",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "of a pale red colour",
+                "cn": "粉红色的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "pretty pink flowers",
+                  "cn": "美丽的粉色花朵"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you been in the sun? Your nose is a bit pink.",
+                  "cn": "你晒太阳了吗？你的鼻子有点儿发红。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SOCIALIST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(slightly) supporting socialist ideas and principles",
+                "cn": "（略）倾向于社会主义的;（稍稍）左倾的"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "GAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "relating to gay people",
+                "cn": "同性恋者的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the growth in the pink economy",
+                  "cn": "与同性恋者相关的经济的增长"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/pɪŋk/",
+        "us": "/pɪŋk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pɪŋk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpil/ukpilot027.mp3"
+        },
+        "us": {
+          "ipa": "/pɪŋk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pin/pink_/pink.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COLOUR",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a pale red colour",
+                "cn": "粉红色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's very fond of pink.",
+                  "cn": "她很喜欢粉红色。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PLANT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small garden plant with sweet-smelling pink, white, or red flowers and narrow, grey-green leaves, or one of its flowers",
+                "cn": "石竹"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/pɪŋk/",
+        "us": "/pɪŋk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pɪŋk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpil/ukpilot027.mp3"
+        },
+        "us": {
+          "ipa": "/pɪŋk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/cald4/cald4us1772.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "When a car engine pinks, it makes a high knocking sound because the fuel is not burning correctly.",
+                "cn": "（汽车发动机）咯噔咯噔地响，发爆声，爆震"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

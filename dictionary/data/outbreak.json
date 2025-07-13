@@ -1,0 +1,53 @@
+{
+  "time": 1752140769598,
+  "title": "outbreak",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈaʊt.breɪk/",
+        "us": "/ˈaʊt.breɪk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈaʊt.breɪk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukoug/ukough_017.mp3"
+        },
+        "us": {
+          "ipa": "/ˈaʊt.breɪk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75331.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a time when something suddenly begins, especially a disease or something else dangerous or unpleasant",
+                "cn": "（尤指疾病、危险或不快之事的）发作，暴发，突然发生"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an outbreak of cholera/food poisoning/rioting/war",
+                  "cn": "霍乱／食物中毒／骚乱／战争的暴发"
+                },
+                {
+                  "gram": "",
+                  "en": "Last weekend saw further thundery outbreaks.",
+                  "cn": "上周末仍然雷声不断。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

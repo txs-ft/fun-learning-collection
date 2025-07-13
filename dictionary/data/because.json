@@ -1,0 +1,63 @@
+{
+  "time": 1752139960146,
+  "title": "because",
+  "generalBitmask": 32,
+  "allDefinitions": [
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/bɪˈkəz/",
+        "us": "/bɪˈkʌz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈkəz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbea/ukbeau_019.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈkʌz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo11/cdo1119usbeca0072.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "for the reason that",
+                "cn": "因为，由于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Why did you do it?\" \"Because Carlos told me to\".",
+                  "cn": "“你为什么做这事？”“因为卡洛斯叫我去做的。”"
+                },
+                {
+                  "gram": "",
+                  "en": "We can't go to Julia's party because we're going away that weekend.",
+                  "cn": "我们不能参加朱莉娅的聚会，因为那个周末我们要外出。"
+                },
+                {
+                  "gram": "",
+                  "en": "Just because I'm lending you my dress for tonight doesn't mean you can borrow it whenever you want to.",
+                  "cn": "我今晚把裙子借给你，但并不意味着你任何时候想借就可以借的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Where've you been, because (= the reason I am asking is that) we haven't seen you recently?",
+                  "cn": "最近我们没有见过你，你是不是外出了？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

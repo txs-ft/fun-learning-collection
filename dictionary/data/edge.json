@@ -1,0 +1,218 @@
+{
+  "time": 1752140252765,
+  "title": "edge",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/edʒ/",
+        "us": "/edʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/edʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukeco/ukecono028.mp3"
+        },
+        "us": {
+          "ipa": "/edʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/edg/edge_/edge.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "OUTER POINT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the outer or furthest point of something",
+                "cn": "边，边缘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He put pink icing around the edge of the cake.",
+                  "cn": "他用粉色的糖霜沿蛋糕边裱花。"
+                },
+                {
+                  "gram": "",
+                  "en": "They built the church on the edge of the village.",
+                  "cn": "他们把教堂建在了村边。"
+                },
+                {
+                  "gram": "",
+                  "en": "A man was standing at the water's edge with a small boy.",
+                  "cn": "一名男子带着个小男孩站在水边。"
+                },
+                {
+                  "gram": "",
+                  "en": "I caught (= hit) my leg on the edge of the table as I walked past.",
+                  "cn": "我经过那张桌子的时候，腿磕在桌边上了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BLADE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the side of a blade that cuts, or any sharp part of an object that could cut",
+                "cn": "刀口;刃;锋利的边缘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Careful with that open can - it's got a very sharp edge.",
+                  "cn": "小心那罐打开的罐头——开口那地方很锋利。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALMOST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the point just before something very different and noticeable happens",
+                "cn": "（变故的）边缘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The company is on the edge of collapse.",
+                  "cn": "公司濒临倒闭。"
+                },
+                {
+                  "gram": "",
+                  "en": "The government had brought the country to the edge of a catastrophe.",
+                  "cn": "这届政府将国家引向了灾难的边缘。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If an unpleasant event pushes someone over the edge, it makes them start to behave in a crazy way:",
+                "cn": "丈夫离她而去，把她逼向疯狂的边缘。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She had been driven over the edge by the separation from her husband.",
+                  "cn": "丈夫离她而去，把她逼向疯狂的边缘。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ADVANTAGE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "an advantage over other people",
+                "cn": "优势；优越之处"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In terms of experience, she definitely had the edge over the other people that we interviewed.",
+                  "cn": "就工作经验而言，她显然要比我们面试过的其他人都胜出一筹。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ANGER/NERVOUSNESS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a small but noticeable amount of anger in someone's voice",
+                "cn": "尖刻的声调;厌烦的声调;愤怒的语气"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's a definite edge to/in her voice when she talks to her husband.",
+                  "cn": "她跟丈夫说话时，语气明显有些气恼。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "nervous and not relaxed:",
+                "cn": "出什么事儿了？你今天上午好像有些心神不宁。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is something wrong? You seem a bit on edge this morning.",
+                  "cn": "出什么事儿了？你今天上午好像有些心神不宁。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/edʒ/",
+        "us": "/edʒ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/edʒ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukeco/ukecono028.mp3"
+        },
+        "us": {
+          "ipa": "/edʒ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/edg/edge_/edge.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move slowly with gradual movements or in gradual stages, or to make someone or something move in this way",
+                "cn": "（使）徐徐移动;（使）缓慢发展"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A long line of traffic edged its way forward.",
+                  "cn": "一条长长的车龙缓缓向前移动。"
+                },
+                {
+                  "gram": "",
+                  "en": "Inflation has edged up to five percent over the last two years.",
+                  "cn": "在过去两年中，通货膨胀慢慢攀升至5%。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

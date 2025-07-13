@@ -1,0 +1,434 @@
+{
+  "time": 1752140590578,
+  "title": "live",
+  "generalBitmask": 14,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/lɪv/",
+        "us": "/lɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/lɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklit/uklitig013.mp3"
+        },
+        "us": {
+          "ipa": "/lɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/liv/live_/live_01_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BE ALIVE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(to continue) to be alive or have life",
+                "cn": "生存;活着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He only lived a few days after the accident.",
+                  "cn": "出事后他只活了几天就死了。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I hope I live to see my grandchildren.",
+                  "cn": "我希望我能活到看见我孙辈的那一天。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her granny lived to the ripe old age of 94.",
+                  "cn": "她奶奶活到了94岁高龄。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can the right to live ever be denied to any human?",
+                  "cn": "人的生存权可以剥夺吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She lived on well into her 90s.",
+                  "cn": "她一直活到了90多岁。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HAVE A HOME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to have your home somewhere",
+                "cn": "住，居住"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Where do you live?",
+                  "cn": "你住在哪里？"
+                },
+                {
+                  "gram": "",
+                  "en": "We live in Kingston.",
+                  "cn": "我们住在京士顿。"
+                },
+                {
+                  "gram": "",
+                  "en": "Some students live on the University campus.",
+                  "cn": "有些学生住在大学校园里。"
+                },
+                {
+                  "gram": "",
+                  "en": "He lives with four other people in a shared house.",
+                  "cn": "他和另外4个人同住在一所房子里。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's still living at home (= with her parents).",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be kept usually in a particular place",
+                "cn": "放，放置，保存"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Where do the knives live in your kitchen?",
+                  "cn": "刀具放在你厨房的什么地方？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm not sure where this bowl lives.",
+                  "cn": "我不知道这只碗该放在哪里。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPEND LIFE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to spend your life in a particular way",
+                "cn": "生活，过活"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "After a while you get used to living alone.",
+                  "cn": "过一段时间你会适应一个人生活的。"
+                },
+                {
+                  "gram": "",
+                  "en": "When you retire, you want to live a comfortable life.",
+                  "cn": "退休的时候，大家都希望能过上舒适的生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "So the couple got married and lived happily ever after.",
+                  "cn": "于是这对情侣结了婚，从此过上了幸福的生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "He simply wants to live (out) (= experience) the rest of his days in peace.",
+                  "cn": "他只想能安度余生。"
+                },
+                {
+                  "gram": "",
+                  "en": "The TV's broken - we'll just have to live without (= not have) it for a while.",
+                  "cn": "电视机坏了 ——这段时间我们只好不看电视了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She certainly lived her life to the full (= was always doing something interesting).",
+                  "cn": "她当然活得非常充实。"
+                },
+                {
+                  "gram": "",
+                  "en": "The US is living beyond its means (= spending more than it earns).",
+                  "cn": "美国人过的是借钱享乐的日子。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "STAY ALIVE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to stay alive, especially by getting enough money to pay for food, a place to stay, clothing, etc.",
+                "cn": "活着;（尤指靠…）过活，生活"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For several years she lived by begging.",
+                  "cn": "她以乞讨为生过了好几年。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has an inheritance to live off (US also live off of) so she doesn't need to work.",
+                  "cn": "她可以靠遗产生活，不必工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "He only agreed to marry her so he could live off her (money).",
+                  "cn": "他同意和她结婚只是为了她的钱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTINUE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(of things that are not alive) to exist or continue to exist",
+                "cn": "（指逝去的事物）继续存在，留存"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The memory of those terrible days lives on.",
+                  "cn": "对那些恐怖的日子的记忆挥之不去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INTERESTING LIFE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to have an interesting life",
+                "cn": "享受生活的乐趣，尽情地享受生活"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I want to live a little before I settle down.",
+                  "cn": "在安定下来之前我要好好享受一下生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you haven't seen Venice, you haven't lived.",
+                  "cn": "如果你没到过威尼斯，就等于白活了一场。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/laɪv/",
+        "us": "/laɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/laɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklit/uklitig012.mp3"
+        },
+        "us": {
+          "ipa": "/laɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/liv/live_/live_01_01.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "HAVING LIFE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "having life",
+                "cn": "活的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Millions of live animals are shipped around the world each year.",
+                  "cn": "每年有数百万只动物被运到世界各地。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was a tank of live lobsters in the restaurant.",
+                  "cn": "饭馆里有一箱活龙虾。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AS IT HAPPENS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(of a performance) broadcast, recorded, or seen while it is happening",
+                "cn": "现场直播的，实况转播的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This evening there will be a live broadcast of the debate.",
+                  "cn": "今晚将现场直播这场辩论。"
+                },
+                {
+                  "gram": "",
+                  "en": "a live recording",
+                  "cn": "现场录音"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ELECTRICITY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(of a wire) carrying or charged with electricity",
+                "cn": "（电线）带电的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a live wire",
+                  "cn": "火线"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ABLE TO EXPLODE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "able to explode",
+                "cn": "可爆炸的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "live rounds of ammunition",
+                  "cn": "数发实弹"
+                },
+                {
+                  "gram": "",
+                  "en": "live shells",
+                  "cn": "实弹"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BURNING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(of a fire, coals, or a match) still burning or able to burn",
+                "cn": "（火、煤炭或火柴）燃烧的，可燃的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There are live coals in the fireplace.",
+                  "cn": "壁炉里的煤还在燃烧。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/laɪv/",
+        "us": "/laɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/laɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklit/uklitig012.mp3"
+        },
+        "us": {
+          "ipa": "/laɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/liv/live_/live_01_01.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "broadcast as it happens; performing or being performed in front of an audience",
+                "cn": "直播的;现场播出的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've got two tickets to see them (perform) live.",
+                  "cn": "我有两张看他们现场演出的门票。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a new system, especially a computer system, goes live, it starts to operate:",
+                "cn": "下个月初我们新的支付系统将开始运行。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Our new payments system will go live at the beginning of next month.",
+                  "cn": "下个月初我们新的支付系统将开始运行。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

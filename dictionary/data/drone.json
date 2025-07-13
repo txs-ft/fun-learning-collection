@@ -1,0 +1,131 @@
+{
+  "time": 1752140242762,
+  "title": "drone",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/drəʊn/",
+        "us": "/droʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/drəʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdri/ukdrive011.mp3"
+        },
+        "us": {
+          "ipa": "/droʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dro/drone/drone.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOISE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a low continuous noise that does not change its note",
+                "cn": "轰鸣声;嗡嗡声"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the drone of an engine",
+                  "cn": "发动机的轰鸣声"
+                },
+                {
+                  "gram": "",
+                  "en": "Outside the tent I could hear the constant drone of insects.",
+                  "cn": "我能听到帐篷外面昆虫发出的持续不断的嗡嗡声。"
+                },
+                {
+                  "gram": "",
+                  "en": "The drone of his voice made me feel sleepy.",
+                  "cn": "他单调低沉的语调让我昏昏欲睡。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AIRCRAFT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an aircraft that does not have a pilot but is controlled by someone on the ground, used especially for dropping bombs or for surveillance (= careful watching of a place)",
+                "cn": "无人驾驶飞机"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The U. S. Border Patrol's unmanned drone helped agents track down their smuggling suspect.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BEE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a male bee",
+                "cn": "雄蜂"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/drəʊn/",
+        "us": "/droʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/drəʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdri/ukdrive011.mp3"
+        },
+        "us": {
+          "ipa": "/droʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dro/drone/drone.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make a low continuous noise that does not change its note",
+                "cn": "发出轰鸣声;发出嗡嗡声"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "An airplane droned in the background.",
+                  "cn": "背景中响起了飞机的轰鸣声。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

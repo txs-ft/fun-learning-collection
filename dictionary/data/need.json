@@ -1,0 +1,373 @@
+{
+  "time": 1752140692983,
+  "title": "need",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/niːd/",
+        "us": "/niːd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/niːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkit/ukkit__028.mp3"
+        },
+        "us": {
+          "ipa": "/niːd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kne/knead/knead.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MUST HAVE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to have to have something, or to want something very much",
+                "cn": "必须，需要"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Babies need constant care.",
+                  "cn": "婴儿时刻都需要人照看。"
+                },
+                {
+                  "gram": "",
+                  "en": "The doctor said I needed an operation.",
+                  "cn": "医生说我需要动手术。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I need to go to the toilet.",
+                  "cn": "我要去一下洗手间。"
+                },
+                {
+                  "gram": "",
+                  "en": "Most people need to feel loved.",
+                  "cn": "大多数人都需要有被爱的感觉。"
+                },
+                {
+                  "gram": "[ + obj + to infinitive  ]",
+                  "en": "I need you to help me choose an outfit.",
+                  "cn": "我需要你帮我选一套衣服。"
+                },
+                {
+                  "gram": "",
+                  "en": "I badly need (= strongly want) a rest from all this.",
+                  "cn": "我迫切需要抛开这一切休息一下。"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't need all this hassle.",
+                  "cn": "我不想要这些麻烦。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "If you say that someone or something needs something else, you mean that they should have it, or would get an advantage from having it.",
+                "cn": "应该，需要"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What you need is a nice hot bowl of soup.",
+                  "cn": "你该好好喝上一碗鲜美的热汤。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "This room needs cleaning.",
+                  "cn": "这个房间需要打扫。"
+                },
+                {
+                  "gram": "[ + past participle ]",
+                  "en": "She needs her hair washed.",
+                  "cn": "她该把头洗洗。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MUST DO",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to have (to)",
+                "cn": "必须，不得不"
+              },
+              "examples": [
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "He needs to lose some weight.",
+                  "cn": "他必须减轻些体重。"
+                },
+                {
+                  "gram": "",
+                  "en": "I need to do some shopping on my way home from work.",
+                  "cn": "我下班回家的路上要买些东西。"
+                },
+                {
+                  "gram": "",
+                  "en": "There needs to be more effort from everyone.",
+                  "cn": "每个人都需要更努力。"
+                },
+                {
+                  "gram": "[ + infinitive without to ]",
+                  "en": "I don't think we need ask him.",
+                  "cn": "我觉得我们没必要问他。"
+                },
+                {
+                  "gram": "",
+                  "en": "Nothing need be done about this till next week.",
+                  "cn": "下周之前在这方面不必做什么。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Need we take your mother?\" \"No, we needn't.\"",
+                  "cn": "“我们要带上你妈妈吗？”“不，不必。”"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "there is no reason for someone or something to do a particular thing",
+                "cn": "（某人）不必做…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You needn't worry - I'm not going to mention it to anyone.",
+                  "cn": "你不用担心——我不会向任何人提起这件事的。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's a wonderful way of getting to see Italy, and it needn't cost very much.",
+                  "cn": "这是游历意大利的好办法，也不需要花很多钱。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used, often when you are angry with someone, to say that they should not do a particular thing or that they have no right to do it",
+                "cn": "（常用于表示气愤） （某人）不该（或无权）做"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He needn't think I'm driving him all the way there!",
+                  "cn": "他别指望我会开车把他一路送到那里！"
+                },
+                {
+                  "gram": "",
+                  "en": "You needn't laugh! It'll be your turn next!",
+                  "cn": "你别笑！下一个就轮到你！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say either that someone did a particular thing although they did not have to, or that someone did not do it because they did not have to",
+                "cn": "（某人）没有必要…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I gave her some extra money - I know I didn't need to but I thought it would be kind.",
+                  "cn": "我多给了她一些钱——我知道没有必要，但我想表示善意。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Did you ask Sophia to help?\" \"I didn't need to - I managed perfectly well on my own.\"",
+                  "cn": "“你请索菲娅帮忙了吗？”“没必要——我自己处理得非常好。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "it was not necessary for someone to have done a particular thing, although they did do it",
+                "cn": "（某人）本不必做…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You needn't have washed all those dishes, you know - I'd have done them myself when I got home.",
+                  "cn": "你本来不用洗那些碗碟的，你知道——我回家后自己会洗的。"
+                },
+                {
+                  "gram": "",
+                  "en": "You needn't have worried about the dinner - it was delicious!",
+                  "cn": "你原本不必为这顿饭担心的——味道棒极了！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/niːd/",
+        "us": "/niːd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/niːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkit/ukkit__028.mp3"
+        },
+        "us": {
+          "ipa": "/niːd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kne/knead/knead.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the state of having to have something that you do not have, especially something that you must have so that you can have a satisfactory life",
+                "cn": "需求，需要;（尤指）生活需求"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Are you in need of help?",
+                  "cn": "你需要帮助吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a growing need for cheap housing in the larger cities.",
+                  "cn": "大城市对廉价住房的需求在不断增长。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the things that a person must have in order to have a satisfactory life",
+                "cn": "（生活）必需品，需要物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Housing and education are basic needs.",
+                  "cn": "住房和教育都是基本需求。"
+                },
+                {
+                  "gram": "",
+                  "en": "They don't have enough food to meet their needs.",
+                  "cn": "他们没有充足的食物满足需要。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a feeling or state of strongly wanting something",
+                "cn": "需求欲，渴求"
+              },
+              "examples": [
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "He seems to have a desperate need to be loved by everyone.",
+                  "cn": "他似乎非常渴望得到每个人的喜爱。"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't know about you but I'm in need of a drink.",
+                  "cn": "我不知道你怎么样，但我想要喝一杯。"
+                },
+                {
+                  "gram": "",
+                  "en": "We have no need of your sympathy.",
+                  "cn": "我们不需要你的同情。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "not having enough money or food",
+                "cn": "（金钱或食物）缺乏，短缺"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You just hope that the money goes to those who are most in need.",
+                  "cn": "你只是希望那些钱会交到最需要的人手里。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the state of being necessary",
+                "cn": "必须，需要"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Help yourself to stationery as the need arises.",
+                  "cn": "需要文具的话，你随便用。"
+                },
+                {
+                  "gram": "",
+                  "en": "If need/needs be (= if necessary), we can take a second car to fit everyone in.",
+                  "cn": "如果需要的话，我们可以再叫辆车，让大家都坐上去。"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't think there's any need for all of us to attend the meeting.",
+                  "cn": "我认为我们没有必要全体出席会议。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "If there is no need to do something, it is not necessary or it is wrong.",
+                "cn": "不必…；不应该…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's no need to buy more food - there's plenty in the fridge.",
+                  "cn": "没有必要去买更多的食物——冰箱里有很多。"
+                },
+                {
+                  "gram": "",
+                  "en": "I understand why she was angry, but there was no need to be so nasty to him.",
+                  "cn": "我明白她为何生气，但也没必要对他这么粗暴无礼。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's no need to yell! Just calm down.",
+                  "cn": "别嚷了！安静点儿。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

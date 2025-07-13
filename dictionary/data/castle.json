@@ -1,0 +1,85 @@
+{
+  "time": 1752140093883,
+  "title": "castle",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɑː.səl/",
+        "us": "/ˈkæs.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɑː.səl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcas/ukcaste003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæs.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cas/castl/castle.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a large strong building, built in the past by a ruler or important person to protect the people inside from attack",
+                "cn": "城堡;堡垒"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "informal for\nrook",
+                "cn": "（国际象棋）车（rook的非正式说法）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈkɑː.səl/",
+        "us": "/ˈkæs.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɑː.səl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcas/ukcaste003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæs.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cas/castl/castle.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in chess, to make a special move that puts your king in a more protected place at the side of the board",
+                "cn": "（国际象棋中）王车易位"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

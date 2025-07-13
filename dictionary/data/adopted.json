@@ -1,0 +1,67 @@
+{
+  "time": 1752139604734,
+  "title": "adopted",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/əˈdɒp.tɪd/",
+        "us": "/əˈdɑːp.tɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈdɒp.tɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukadm/ukadmon009.mp3"
+        },
+        "us": {
+          "ipa": "/əˈdɑːp.tɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usade/usadept030.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CHILD",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "An adopted child has been legally taken by another family to be taken care of as their own child.",
+                "cn": "（被）领养的，（被）收养的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They've got two adopted children and one of their own.",
+                  "cn": "他们有两个领养的孩子和一个亲生的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COUNTRY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "An adopted country is one where someone chooses to live although they were not born there.",
+                "cn": "移居的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Spain is my adopted country.",
+                  "cn": "西班牙是我移居的国家。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

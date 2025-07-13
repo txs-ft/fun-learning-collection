@@ -1,0 +1,175 @@
+{
+  "time": 1752140440724,
+  "title": "glow",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ɡləʊ/",
+        "us": "/ɡloʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡləʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukglo/ukglori012.mp3"
+        },
+        "us": {
+          "ipa": "/ɡloʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/glo/glow_/glow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to produce a continuous light and sometimes heat",
+                "cn": "发光;发热"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A nightlight glowed dimly in the corner of the children's bedroom.",
+                  "cn": "孩子们卧室的角落里有一盏小夜灯发出微光。"
+                },
+                {
+                  "gram": "",
+                  "en": "This substance is so radioactive that it glows in the dark.",
+                  "cn": "这种物质辐射性很强，在黑暗中都可以发出亮光。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to look attractive because you are happy or healthy, especially with eyes that are shining",
+                "cn": "（尤指因为眼睛放出光芒而）容光焕发，喜形于色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children's faces were glowing with excitement.",
+                  "cn": "孩子们兴奋得满脸通红。"
+                },
+                {
+                  "gram": "",
+                  "en": "They came back from their week at the beach, glowing with health.",
+                  "cn": "他们在海边度假一周，回来时个个容光焕发。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be hot or red from exercising:",
+                "cn": "我们在雪中散步回来，我全身上下都热乎乎的。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When we got back from our walk in the snow, my whole body was glowing.",
+                  "cn": "我们在雪中散步回来，我全身上下都热乎乎的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɡləʊ/",
+        "us": "/ɡloʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡləʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukglo/ukglori012.mp3"
+        },
+        "us": {
+          "ipa": "/ɡloʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/glo/glow_/glow.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LIGHT",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "continuous light and/or heat that is produced by something",
+                "cn": "发光;发热;光亮;灼热"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the glow of the fire",
+                  "cn": "火光"
+                },
+                {
+                  "gram": "",
+                  "en": "Neon emits a characteristic red glow.",
+                  "cn": "氖发出独特的红光。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SKIN",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the fact of your face feeling or appearing warm and healthy",
+                "cn": "面部感觉（或显得）温暖健康"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Like all the staff at the health club she had the healthy glow of the young and fit.",
+                  "cn": "和健康俱乐部的所有职员一样，她带着一种年轻健康的光芒。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FEELING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a positive feeling",
+                "cn": "喜悦;满足"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They felt a glow of pride as they watched their daughter collect the award.",
+                  "cn": "看着女儿领奖，他们感到非常自豪。"
+                },
+                {
+                  "gram": "",
+                  "en": "She felt a warm glow of satisfaction.",
+                  "cn": "她感到心满意足，如沐春风。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

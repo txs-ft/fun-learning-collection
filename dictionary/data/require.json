@@ -1,0 +1,68 @@
+{
+  "time": 1752140911717,
+  "title": "require",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/rɪˈkwaɪər/",
+        "us": "/rɪˈkwaɪr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈkwaɪər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrep/ukrepro022.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈkwaɪr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/req/requi/require.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to need something or make something necessary",
+                "cn": "需要;有赖于;要求;规定"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Please call this number if you require any further information.",
+                  "cn": "如需更多信息请拨此电话号码垂询。"
+                },
+                {
+                  "gram": "",
+                  "en": "Skiing at 80 miles per hour requires total concentration.",
+                  "cn": "以每小时80英里的速度滑雪需要全神贯注。"
+                },
+                {
+                  "gram": "[ + obj + to infinitive  ]",
+                  "en": "Bringing up children often requires you to put their needs first.",
+                  "cn": "抚养孩子常得把他们的需要放在首位。"
+                },
+                {
+                  "gram": "",
+                  "en": "You are required by law to stop your car after an accident.",
+                  "cn": "法律规定，发生事故后必须停车。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "The rules require that you bring only one guest to the dinner.",
+                  "cn": "按照规定，你只能带一位客人出席晚宴。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

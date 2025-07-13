@@ -1,0 +1,243 @@
+{
+  "time": 1752397223061,
+  "title": "book",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/bʊk/",
+        "us": "/bʊk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bʊk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbon/ukbonfi028.mp3"
+        },
+        "us": {
+          "ipa": "/bʊk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/boo/book_/book.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TEXT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a written text that can be published in printed or electronic form",
+                "cn": "(纸版或电子版的)书"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Have you read any good books recently?",
+                  "cn": "你最近读到了什么好书吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He has a new book out (= published).",
+                  "cn": "他刚出版了一本新书。"
+                },
+                {
+                  "gram": "",
+                  "en": "She wrote a book on car maintenance.",
+                  "cn": "她写了一本关于汽车保养的书。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a set of pages that have been fastened together inside a cover to be read or written in",
+                "cn": "书，书本;本子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a hardback/paperback book",
+                  "cn": "硬封面/软封面书（精装/简装书）"
+                },
+                {
+                  "gram": "",
+                  "en": "I took a book with me to read on the plane.",
+                  "cn": "我随身带了本书在飞机上看。"
+                },
+                {
+                  "gram": "",
+                  "en": "He writes all his expenses in a little book he carries with him.",
+                  "cn": "他把所有的开销都记在随身带着的一个小本子上。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "one of the parts that a very long book, such as the Bible, is divided into",
+                "cn": "（《圣约》等长篇作品的）卷;篇;部"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the book of Job",
+                  "cn": "《约伯记》"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN COVER",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a number of one type of thing fastened together flat inside a cover",
+                "cn": "簿册;（装订成册的）票据簿"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a book of stamps/tickets/matches",
+                  "cn": "一封邮票／一本票据／一纸板火柴"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY RECORD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the written records of money that a business has spent or received:",
+                "cn": "与以前相比现在管理一所学校更像是在经营一家企业——从法律上讲我们必须保证收支平衡。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Running a school is much more of a business than it used to be, - by law we have to balance our books.",
+                  "cn": "与以前相比现在管理一所学校更像是在经营一家企业——从法律上讲我们必须保证收支平衡。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the situation in which a bookmaker accepts and pays out amounts of money that are risked on a particular result",
+                "cn": "赌局;打赌"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They've already opened/started a book on the result of the next World Cup.",
+                  "cn": "他们已经就下届世界杯赛的结果开设了赌局。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/bʊk/",
+        "us": "/bʊk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bʊk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbon/ukbonfi028.mp3"
+        },
+        "us": {
+          "ipa": "/bʊk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/boo/book_/book.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ARRANGE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to arrange to have a seat, room, performer, etc. at a particular time in the future",
+                "cn": "预订;预约"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to go but I'm booked up (= I have arranged to do other things) until the weekend.",
+                  "cn": "我很想去，但我周末之前的时间已排满了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The hotel/restaurant/theatre is fully booked (= all the rooms/tables/tickets have been taken).",
+                  "cn": "旅馆／饭店／剧院已预订满了。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "I've booked us two tickets to see \"Carmen\"/I've booked two tickets for us to see \"Carmen\".",
+                  "cn": "我已经为我们订了两张《卡门》的票。"
+                },
+                {
+                  "gram": "",
+                  "en": "She'd booked a table for four at their favourite restaurant.",
+                  "cn": "她已在他们最喜欢的餐厅预订了四人桌。"
+                },
+                {
+                  "gram": "",
+                  "en": "Will booked a seat on the evening flight to Los Angeles.",
+                  "cn": "威尔预订了飞往洛杉矶的晚班客机的座位。"
+                },
+                {
+                  "gram": "",
+                  "en": "We were advised to book early if we wanted to get a room.",
+                  "cn": "有人建议我们若想有房间住就早点预订。"
+                },
+                {
+                  "gram": "",
+                  "en": "They booked a jazz band for their wedding.",
+                  "cn": "他们为婚礼预约了一个爵士乐队。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MAKE A RECORD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a police officer, referee, etc. books someone, they write down the person's name in an official record because they have done something wrong.",
+                "cn": "（警方）将…记录在案;（裁判）记名警告"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A football player who is booked twice in a game is sent off the field.",
+                  "cn": "足球比赛中，球员若受到两次警告就会被罚下场。"
+                },
+                {
+                  "gram": "",
+                  "en": "My grandmother was booked for speeding last week.",
+                  "cn": "我奶奶上周因超速行驶被警方记录在案。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "time": 1752141090144,
+  "title": "start",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/stɑːt/",
+        "us": "/stɑːrt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stɑːt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstarg016.mp3"
+        },
+        "us": {
+          "ipa": "/stɑːrt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sta/start/start.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BEGIN",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to begin doing something",
+                "cn": "开始;着手"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When do you start your course/your new job?",
+                  "cn": "你什么时候开始你的课程／新工作？"
+                },
+                {
+                  "gram": "",
+                  "en": "We'll be starting (the session) at six o'clock.",
+                  "cn": "我们将在6点钟开始（议程）。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you start (= begin a new job) on Monday?",
+                  "cn": "星期一你能开始工作吗？"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "They started building the house in January.",
+                  "cn": "他们1月份动工盖这所房子。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I'd just started to write a letter when the phone rang.",
+                  "cn": "我刚开始写信，电话铃就响了。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "If a business or other organization starts, or if someone starts one, it is created and starts to operate.",
+                "cn": "（企业或其他机构）开业，开始运营;创办，开办"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She started her own software company.",
+                  "cn": "她创办了自己的软件公司。"
+                },
+                {
+                  "gram": "",
+                  "en": "A lot of new restaurants have started up in the region.",
+                  "cn": "这个地区有很多家新餐馆开业。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to begin to happen or to make something begin to happen",
+                "cn": "（使）发生；（使）开始"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A new series about wildlife has started on Monday nights.",
+                  "cn": "一档新的野生动物节目已开始在每周一晚上播出。"
+                },
+                {
+                  "gram": "",
+                  "en": "Police believe the fire was started by arsonists.",
+                  "cn": "警方认为这起火灾是有人蓄意纵火。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to begin a set of activities with the thing or person mentioned",
+                "cn": "（从…）开始"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The speaker started with a description of her journey to China.",
+                  "cn": "讲演者讲述了她的中国之行作为开场白。"
+                },
+                {
+                  "gram": "",
+                  "en": "Give me your answers one by one, starting with Lucy.",
+                  "cn": "请一个接一个地回答我的问题，从露西开始。"
+                },
+                {
+                  "gram": "",
+                  "en": "You could start by weeding the flowerbeds.",
+                  "cn": "你开始时可以先给花坛除草。"
+                },
+                {
+                  "gram": "",
+                  "en": "He started his working life as an engineer but later became a teacher.",
+                  "cn": "他刚开始工作时是工程师，但后来做了老师。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to begin to complain or be annoying in some way",
+                "cn": "开始抱怨;开始惹人厌烦"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't start with me - we're not going and that's that!",
+                  "cn": "别烦人——我们不去，没的商量！"
+                },
+                {
+                  "gram": "",
+                  "en": "\"It would help if Richard did some work.\" \"Oh, don't get me started on Richard!\"",
+                  "cn": "“如果理查德做了些工作就好了。”“噢，别提理查德了，说起来我就生气！”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to begin",
+                "cn": "开始"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When can we get started?",
+                  "cn": "我们什么时候能开始？"
+                },
+                {
+                  "gram": "",
+                  "en": "Let's get started on cleaning the house.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "We can't get started until we secure some funding.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "I know the amount of work seems daunting, but it will be fine once we get started.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "This money will enable us to get started on a new bicycle trail linking the two towns.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to have your first child",
+                "cn": "生育第一个孩子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At that point, we were thinking of starting a family.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "He returned to his home town, got married and started a family.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "They asked us if we were planning to start a family soon.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "When she took the job, she put her plans to start a family on hold.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "After starting a family, many of our staff decide to go part-time.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to begin an argument or a fight",
+                "cn": "挑起争论（或打斗）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You could tell the guy wanted to start something, so we just walked away.",
+                  "cn": "看得出这个家伙想挑事，于是我们就走开了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I think they're going to start something if we don't leave right now.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Katie had an angry look on her face and I was worried that she might start something.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "I was on edge all evening, waiting for Wes to start something.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "There's no need to start something just because you disagree with him.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to begin being employed",
+                "cn": "开始上班;参加工作"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He started work at 16 in a bakery.",
+                  "cn": "他16岁开始在当地的一家面包房干活。"
+                },
+                {
+                  "gram": "",
+                  "en": "She didn't really start work until she was 25.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "I'll start paying my parents some rent as soon as I start work.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "If you think uni is tough, wait until you start work!",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She started work as a nutritionist after leaving college.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "at the beginning, or as the first of several things",
+                "cn": "最初，一开始;首先"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We only knew two people in Montreal to start with, but we soon made friends.",
+                  "cn": "起初我们在蒙特利尔只认识两个人，但很快就交到了朋友。"
+                },
+                {
+                  "gram": "",
+                  "en": "To start with, we need better computers - then we need more training.",
+                  "cn": "首先，我们需要更好的电脑——其次，我们需要更多的培训。"
+                },
+                {
+                  "gram": "",
+                  "en": "You wanted to know why I left my job. Well, to start with, I was spending a quarter of my salary on train fares to get there.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "To start with, I'd like to give you all a bit of the background to our proposal.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "It's best to approach a publisher in your own country, at least to start with.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FIRST POINT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to begin at one point and then move to another, in distance or range",
+                "cn": "出发;动身，启程;开始，（自…）起"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The run starts at/from the entrance to the park.",
+                  "cn": "跑步活动的出发地点是公园大门口。"
+                },
+                {
+                  "gram": "",
+                  "en": "We'll need to start (off/out) early because the journey takes six hours.",
+                  "cn": "我们需要早点儿出发，因为路上需要6个小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "Tell me what happened - start at the beginning.",
+                  "cn": "告诉我发生了什么事——从头说起。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ticket prices start at/from €80 and go up to €500.",
+                  "cn": "票价80欧元起，最高500欧元。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE SUDDENLY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move your body suddenly because something has surprised or frightened you",
+                "cn": "突然一惊;吓一跳"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He started at the sound of the phone.",
+                  "cn": "电话铃声把他吓了一跳。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WORK",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to (cause to) begin to work or operate",
+                "cn": "（使）开始工作;开动，启动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm having trouble starting the car.",
+                  "cn": "我的车发动不起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "The engine won't start.",
+                  "cn": "发动机启动不了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/stɑːt/",
+        "us": "/stɑːrt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/stɑːt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksta/ukstarg016.mp3"
+        },
+        "us": {
+          "ipa": "/stɑːrt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sta/start/start.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BEGINNING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the beginning of something",
+                "cn": "开始，开端，开头"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were doubtful about the product's usefulness from the start.",
+                  "cn": "从一开始我们就对这个产品的效用抱有疑问。"
+                },
+                {
+                  "gram": "",
+                  "en": "They announced the start of a new commercial venture.",
+                  "cn": "他们宣布创办一个新的企业。"
+                },
+                {
+                  "gram": "",
+                  "en": "The weather was good at the start (= in the first part) of the week.",
+                  "cn": "本周初天气不错。"
+                },
+                {
+                  "gram": "",
+                  "en": "The event got off to a shaky/poor start with the stage lights failing in the first few minutes.",
+                  "cn": "活动开局不顺／不利，舞台灯光头几分钟就出了问题。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "the act of beginning to do something",
+                "cn": "开始"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We need to make a start on (preparing) the brochure next week.",
+                  "cn": "我们下星期需要开始准备小册子了。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "including all of something, from the beginning to the end",
+                "cn": "从头到尾，自始至终"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The whole party was a disaster from start to finish.",
+                  "cn": "整个过程自始至终糟糕透了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The exercises take about 50 minutes from start to finish.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The performance kept up the same high energy levels from start to finish.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Johnson was in charge of the project from start to finish.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "From start to finish, the investigation into his death was beset by errors and deliberate attempts at sabotage.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "first, or as the first in a set of things",
+                "cn": "首先;第一"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We'll take names and phone numbers for a start, then later on we can get more details.",
+                  "cn": "我们先记下名字和电话号码，之后可以获取更多的细节。"
+                },
+                {
+                  "gram": "",
+                  "en": "For a start, let's see if we can persuade her to go to school every day.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Today we're cooking chilli. Let's all wash our hands for a start.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "For a start, we can contact all the residents in the street and find out what they think about the closure.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "I'm thinking of training as a youth worker, but I'm just volunteering at a youth club for a start.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when giving a first example of something",
+                "cn": "（用来给出第一个例子）首先"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This book is better than her last one. For a start, it's shorter.",
+                  "cn": "这本书比她的上一部好。首先它短一些。"
+                },
+                {
+                  "gram": "",
+                  "en": "Things have certainly changed. For a start, there are more women involved.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Lots of people are against the project. John Edwards, for a start.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "There are ways to make washing clothes more environmentally-friendly. For a start, you can lower the temperature you wash at.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "We are concerned for several reasons. For a start, nobody has ever tried anything like this before.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ADVANTAGE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "an advantage that you have over someone else when you begin something",
+                "cn": "（给予他人的）让先"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We gave the youngest children a five-second start (= in a race).",
+                  "cn": "比赛开始时我们给年龄最小的孩子五秒钟让先。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUDDEN MOVEMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a sudden movement of the body that you make when something has surprised or frightened you",
+                "cn": "突然一惊;吓一跳"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He woke with a start.",
+                  "cn": "他抖了一下，惊醒了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She gave a start as I entered.",
+                  "cn": "我进去时她吓了一跳。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

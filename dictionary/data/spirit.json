@@ -1,0 +1,265 @@
+{
+  "time": 1752141037454,
+  "title": "spirit",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈspɪr.ɪt/",
+        "us": "/ˈspɪr.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspɪr.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspi/ukspino006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspɪr.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spi/spiri/spirit.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WAY OF FEELING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a particular way of thinking, feeling, or behaving, especially a way that is typical of a particular group of people, an activity, a time, or a place",
+                "cn": "精神；（尤指特定人群、活动、时代或地方的）主导精神"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The players have a very strong team spirit (= loyalty to each other).",
+                  "cn": "队员们有很强的团队精神。"
+                },
+                {
+                  "gram": "",
+                  "en": "As rock musicians in the 1960s, they were very much part of the spirit of the age/times.",
+                  "cn": "作为20世纪60年代的摇滚音乐家，他们在很大程度上代表了当时的时代精神。"
+                },
+                {
+                  "gram": "",
+                  "en": "We acted in a spirit of cooperation.",
+                  "cn": "我们遵循合作精神行事。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the way a person is feeling",
+                "cn": "情绪；心境"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've been in high/low spirits (= feeling happy/sad) lately.",
+                  "cn": "最近我情绪很好／不好。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her spirits lifted/rose (= she felt happier) as she read the letter.",
+                  "cn": "她看信之后心情好了起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "The negative reply dashed his spirits (= made him unhappy).",
+                  "cn": "否定的回复使得他情绪低落。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the principle that a law, rule, etc. was created to make stronger, rather than the particular things it says you must or must not do",
+                "cn": "法律／规则等的实质（或精神）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They followed neither the spirit nor the letter of the law.",
+                  "cn": "他们既不遵从法律的实质精神，也不理睬其字面意义。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to show enthusiasm and enjoyment",
+                "cn": "全身心投入;积极热情地参与"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They went to the tennis club a few times but never really got into the spirit of it.",
+                  "cn": "他们去了几次网球俱乐部，但从未真正投身其中。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to approve or encourage someone's positive attitude (= way of thinking) or action",
+                "cn": "（用于表示赞同或鼓励）这就对了，就应该这样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Come on, we can win this game.\" \"That's the spirit.\"",
+                  "cn": "“加把劲，我们能赢这场比赛。”“这就对了。”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT BODY",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "the characteristics of a person that are considered as being separate from the body, and that many religions believe continue to exist after the body dies",
+                "cn": "（独立于肉体的）精神，灵魂；心灵"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Although he's now living in America, I feel he's with me in spirit (= I feel he is present and is influencing me, in a way that is not physical).",
+                  "cn": "虽然他现在生活在美国，但我感觉他和我心灵相通。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the form of a dead person, similar to a ghost, or the feeling that a dead person is present although you cannot see them",
+                "cn": "鬼魂，幽灵"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an evil spirit",
+                  "cn": "恶魔"
+                },
+                {
+                  "gram": "",
+                  "en": "The spirits of long-dead warriors seemed to haunt the area.",
+                  "cn": "死去很久的武士的幽灵似乎经常在这个地区出没。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ENTHUSIASM",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "enthusiasm, energy, or courage",
+                "cn": "热情；活力；勇气"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The orchestra performed The Rite of Spring with great spirit.",
+                  "cn": "管弦乐团以饱满的激情演奏了《春之祭》。"
+                },
+                {
+                  "gram": "",
+                  "en": "The torture failed to break the prisoner's spirit.",
+                  "cn": "严刑拷打未能摧垮囚犯的意志。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALCOHOL",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a strong alcoholic drink",
+                "cn": "烈性酒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Vodka is a type of spirit.",
+                  "cn": "伏特加是一种烈性酒。"
+                },
+                {
+                  "gram": "",
+                  "en": "Spirits are more expensive than beer, but they get you drunk faster.",
+                  "cn": "烈酒比啤酒要贵，但能很快把人灌醉。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "Some types of spirit are alcoholic liquids used especially for cleaning, mixing with paint, etc.",
+                "cn": "（尤用于清洁、混合油漆等的）工业酒精，酒精溶液"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Thin the paint with white spirit.",
+                  "cn": "用石油溶剂油稀释油漆。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈspɪr.ɪt/",
+        "us": "/ˈspɪr.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspɪr.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspi/ukspino006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspɪr.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spi/spiri/spirit.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move someone or something out of or away from a place secretly",
+                "cn": "偷偷带走;神不知鬼不觉地弄走"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Somehow the prisoners managed to spirit news out to the world outside.",
+                  "cn": "囚犯们不知用什么办法把消息送出了监狱。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "time": 1752140164613,
+  "title": "consequently",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈkɒn.sɪ.kwənt.li/",
+        "us": "/ˈkɑːn.sə.kwənt.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɒn.sɪ.kwənt.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcon/ukconsc022.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɑːn.sə.kwənt.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/con/conse/consequently.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "as a result",
+                "cn": "因此;所以"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I spent most of my money in the first week and consequently had very little to eat by the end of the holiday.",
+                  "cn": "我在假期的第一周用掉了大部分钱，因此假期快结束时我都没什么吃的了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

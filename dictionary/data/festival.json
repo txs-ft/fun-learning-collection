@@ -1,0 +1,72 @@
+{
+  "time": 1752140290871,
+  "title": "festival",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈfes.tɪ.vəl/",
+        "us": "/ˈfes.tə.vəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfes.tɪ.vəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfer/ukferre016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfes.tə.vəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fes/festi/festival.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a special day or period, usually in memory of a religious event, with its own social activities, food, or ceremonies",
+                "cn": "节日；节期"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a Jewish/Christian/Hindu festival",
+                  "cn": "犹太教／基督教／印度教节日"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an organized set of special events, such as musical performances",
+                "cn": "（音乐等的）会演，节"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a folk/pop/rock festival",
+                  "cn": "民间音乐／流行音乐／摇滚音乐节"
+                },
+                {
+                  "gram": "",
+                  "en": "The New Orleans Jazz Festival is held every year in the spring.",
+                  "cn": "新奥尔良爵士乐节每年春天举行。"
+                },
+                {
+                  "gram": "",
+                  "en": "the Cannes Film Festival",
+                  "cn": "戛纳电影节"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

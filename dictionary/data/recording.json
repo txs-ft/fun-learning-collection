@@ -1,0 +1,62 @@
+{
+  "time": 1752140901936,
+  "title": "recording",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/rɪˈkɔː.dɪŋ/",
+        "us": "/rɪˈkɔːr.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈkɔː.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrec/ukrecor005.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈkɔːr.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rec/recor/recording.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "speech, music, or moving pictures that have been recorded to be listened to or watched later",
+                "cn": "音像录制品，唱片；录音；录像"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I bought a recording of Maria Callas singing Verdi.",
+                  "cn": "我买了一张玛丽亚．卡拉斯演唱威尔地歌剧的唱片。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the process or business of storing sounds or moving pictures using electronic equipment so that they can be heard or seen later",
+                "cn": "（尤指音乐的）录制，唱片录制业"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a recording studio",
+                  "cn": "录制工作室"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

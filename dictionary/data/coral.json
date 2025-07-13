@@ -1,0 +1,97 @@
+{
+  "time": 1752140177555,
+  "title": "coral",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɒr.əl/",
+        "us": "/ˈkɔːr.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɒr.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcop/ukcop__030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɔːr.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cor/coral/coral.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a substance like rock, formed in the sea by groups of particular types of small animal, often used in jewellery",
+                "cn": "珊瑚"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a coral bracelet/necklace",
+                  "cn": "珊瑚手镯／项链"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a colour between orange and pink",
+                "cn": "珊瑚红，浅橘红"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈkɒr.əl/",
+        "us": "/ˈkɔːr.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɒr.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcop/ukcop__030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɔːr.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cor/coral/coral.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "having a colour between orange and pink",
+                "cn": "珊瑚红色的，浅橘红色的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Paul wore pale grey trousers with a coral T-shirt and black jacket.",
+                  "cn": "保罗穿了条浅灰色长裤，配珊瑚红T恤和黑夹克。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

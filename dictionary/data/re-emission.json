@@ -1,0 +1,53 @@
+{
+  "time": 1752140257784,
+  "title": "re-emission",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌriː.ɪˈmɪʃ.ən/",
+        "us": "/ˌriː.ɪˈmɪʃ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌriː.ɪˈmɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo06/cdo0622ukreem1560.mp3"
+        },
+        "us": {
+          "ipa": "/ˌriː.ɪˈmɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo06/cdo0622usreem1495.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the act of sending out gas, heat, light, etc. for a second, third, etc. time, or an amount of gas, heat, light, etc. that is sent out for a second, third, etc. time",
+                "cn": "（气体、热量、光线等）再发射"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The blinds are positioned away from the occupants to reduce re-emission of heat and allow diffuse daylight to enter the building.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "A resonant photon can escape only after several absorptions and reemissions if the plasma has a finite optical thickness for it.",
+                  "cn": "如果等离子体有一个有限的光学厚度，一个共振光子只要经过几次吸收和再发射后就能逃逸。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

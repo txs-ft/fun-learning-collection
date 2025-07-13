@@ -1,0 +1,150 @@
+{
+  "time": 1752140209255,
+  "title": "delivery",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dɪˈlɪv.ər.i/",
+        "us": "/dɪˈlɪv.ɚ.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈlɪv.ər.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdel/ukdelig016.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈlɪv.ɚ.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75561.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "OF PACKAGE ETC.",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the act of taking goods, letters, parcels, etc. to people's houses or places of work",
+                "cn": "运送，递送，投递"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We get two deliveries of mail (= it is delivered twice) a day.",
+                  "cn": "我们每天会接收到两次邮件。"
+                },
+                {
+                  "gram": "",
+                  "en": "You can pay for the carpet on delivery (= when it is delivered).",
+                  "cn": "地毯可以货到付款。"
+                },
+                {
+                  "gram": "",
+                  "en": "We expect to take delivery of (= receive) our new car next week.",
+                  "cn": "我们预计下周能拿到新车。"
+                },
+                {
+                  "gram": "",
+                  "en": "Your order is out for delivery (= it has been given to the person who will deliver it) and will be with you soon.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Delivery is free on orders over £30.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The price includes next-day delivery anywhere in the UK.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "a delivery van",
+                  "cn": "小货车"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GIVING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the way in which someone speaks in public",
+                "cn": "演讲风格（或方式）;表演风格（或方式）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She did a perfect imitation of his breathless delivery.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Her delivery is deadpan, but hilarious.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in some sports, such as cricket or baseball, the act of throwing the ball towards the person with the bat, in order for that person to try to hit the ball",
+                "cn": "（板球、棒球等运动中的）投球"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That was a good delivery from Thompson.",
+                  "cn": "那是汤姆森投出的一个好球。"
+                },
+                {
+                  "gram": "",
+                  "en": "The pitcher is famous for the speed of his delivery.",
+                  "cn": "那个投手以投球速度快而闻名。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BIRTH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a birth",
+                "cn": "分娩"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her husband was with her for the delivery.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "We want as many mothers as possible to have safe and normal deliveries.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Women who have the infection are at risk of pre-term delivery of their baby.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

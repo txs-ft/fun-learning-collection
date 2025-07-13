@@ -1,0 +1,418 @@
+{
+  "time": 1752140146802,
+  "title": "come",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kʌm/",
+        "us": "/kʌm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kʌm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcombi006.mp3"
+        },
+        "us": {
+          "ipa": "/kʌm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/com/come_/come.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVE TO SPEAKER",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to move or travel towards the speaker or with the speaker",
+                "cn": "（朝向或跟随说话人）来，过来"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Are you coming with me?",
+                  "cn": "你跟我来吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a car coming!",
+                  "cn": "来了辆轿车！"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you come to my party?",
+                  "cn": "你能来参加我的聚会吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Here comes Adam.",
+                  "cn": "亚当来了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's come 500 km (= has travelled 500 km) to be here with us tonight.",
+                  "cn": "她特地从500公里外赶来，是为了今晚和我们在一起。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you're ever in Dublin, come and visit us.",
+                  "cn": "你如果有机会到都柏林，一定要来我们家坐坐。"
+                },
+                {
+                  "gram": "",
+                  "en": "We came by car.",
+                  "cn": "我们是开车来的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Your father will come for (= to collect) you at four o'clock.",
+                  "cn": "你父亲4点来接你。"
+                },
+                {
+                  "gram": "",
+                  "en": "Come forward a bit and stand on the line.",
+                  "cn": "向前来一点儿，站在线上。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've come straight from the airport.",
+                  "cn": "我直接从机场过来的。"
+                },
+                {
+                  "gram": "",
+                  "en": "The door opened and a nurse came into the room.",
+                  "cn": "门开后一位护士走了进来。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "A man's coming to mend the boiler this afternoon.",
+                  "cn": "今天下午有人要来修锅炉。"
+                },
+                {
+                  "gram": "",
+                  "en": "As he came towards me, I could see he'd been crying.",
+                  "cn": "他向我走来时，我看得出他一直在哭。"
+                },
+                {
+                  "gram": "",
+                  "en": "He thought we'd been picking his apples and came after (= chased) us with a stick.",
+                  "cn": "他以为我们在摘他的苹果，所以拿了根棍子来追我们。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "He came rushing over when I fell.",
+                  "cn": "我一倒下，他就冲了过来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE TO LISTENER",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to move or travel in the direction of the person being spoken to",
+                "cn": "（朝向受话人方向）来"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Sal, are you ready?\" \"Coming.\"",
+                  "cn": "“萨尔，好了吗？”“就来。”"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll come and pick you up in the car if you like.",
+                  "cn": "要是你愿意，我开车来接你。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've come for (= come to get) your census form.",
+                  "cn": "我是来取你的人口普查表的。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I've come to read the gas meter.",
+                  "cn": "我是来抄煤气表的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ARRIVE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to get to a particular place",
+                "cn": "来到，抵达"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Has she come yet?",
+                  "cn": "她来了没有？"
+                },
+                {
+                  "gram": "",
+                  "en": "When does the post come?",
+                  "cn": "邮件什么时候送来？"
+                },
+                {
+                  "gram": "",
+                  "en": "Hasn't his train come in yet?",
+                  "cn": "他乘坐的火车还没进站吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LEAVE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to leave a place",
+                "cn": "离开"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I had to come away from the party early.",
+                  "cn": "我不得不早早离开聚会。"
+                },
+                {
+                  "gram": "",
+                  "en": "The police watched him come out of the house.",
+                  "cn": "警察看着他走出那所房子。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DIFFERENT STATE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to change or develop so as to be in a different position or condition",
+                "cn": "改变位置;变成，成为"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Those pictures will have to come down (= be removed from the wall).",
+                  "cn": "那些画都得（从墙上）拿下来。"
+                },
+                {
+                  "gram": "",
+                  "en": "He pulled the knob and it just came off (in his hand).",
+                  "cn": "他拉了一下把手，它就掉下来了。"
+                },
+                {
+                  "gram": "",
+                  "en": "How many times have you come off that horse?",
+                  "cn": "你从那匹马上摔下来多少次了？"
+                },
+                {
+                  "gram": "",
+                  "en": "Two of his teeth came out after he got hit in the face.",
+                  "cn": "他面部被击中以后，掉了两颗牙齿。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you get this cork to come out of the bottle?",
+                  "cn": "你能把瓶塞拔出来吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "When does the heating come on (= start working)?",
+                  "cn": "暖气什么时候来？"
+                },
+                {
+                  "gram": "[ + adj ]",
+                  "en": "A wire has come loose at the back.",
+                  "cn": "后面有一根电线松了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The door came open for no apparent reason.",
+                  "cn": "门不知怎么就开了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HAPPEN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to happen",
+                "cn": "发生"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Spring has come early.",
+                  "cn": "春天来得早。"
+                },
+                {
+                  "gram": "",
+                  "en": "The announcement came at a bad time.",
+                  "cn": "公告来得不是时候。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her resignation came as quite a shock.",
+                  "cn": "她的辞职很让人意外。"
+                },
+                {
+                  "gram": "",
+                  "en": "Come Monday morning (= when it is Monday morning) you'll regret staying up all night.",
+                  "cn": "到周一早上你就会后悔不该整晚熬夜。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm afraid those days are gone and they'll never come again.",
+                  "cn": "恐怕那样的日子一去不复返了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BE ORDERED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to have or achieve a particular position in a race, competition, list, etc.:",
+                "cn": "她在百米赛跑中得了第二。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She came second (US came in second) in the 100 metres.",
+                  "cn": "她在百米赛跑中得了第二。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXIST",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to exist or be available",
+                "cn": "存在，有；可得到，有供应"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do these trousers come in any other colour?",
+                  "cn": "这些裤子有别的颜色的吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Runners come in all shapes and sizes - fat and thin, short and tall.",
+                  "cn": "跑步的人形形色色——有胖有瘦，有高有矮。"
+                },
+                {
+                  "gram": "",
+                  "en": "This cuddly baby doll comes with her own blanket and bottle.",
+                  "cn": "这个可爱的洋娃娃配有毯子和奶瓶。"
+                },
+                {
+                  "gram": "",
+                  "en": "They're the best sunglasses you can buy, but they don't come cheap (= they are expensive).",
+                  "cn": "这是市面上最好的太阳镜，只是价格不菲。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to start to do something:",
+                "cn": "经过这几个月的时间，我开始喜欢上她了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've come to like her over the months.",
+                  "cn": "经过这几个月的时间，我开始喜欢上她了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEX",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to have an orgasm",
+                "cn": "达到性高潮"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kʌm/",
+        "us": "/kʌm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kʌm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcombi006.mp3"
+        },
+        "us": {
+          "ipa": "/kʌm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/com/come_/come.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "semen  (= the liquid containing sperm)",
+                "cn": "精液"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

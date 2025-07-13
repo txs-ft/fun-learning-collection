@@ -1,0 +1,96 @@
+{
+  "time": 1752140443163,
+  "title": "golden",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈɡəʊl.dən/",
+        "us": "/ˈɡoʊl.dən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡəʊl.dən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgod/ukgodpa018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡoʊl.dən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gol/golde/golden.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GOLD",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "made of gold",
+                "cn": "金质的，金的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a golden necklace",
+                  "cn": "金项链"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the colour of gold",
+                "cn": "金色（的）;金黄色（的）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "golden hair/skin",
+                  "cn": "金发／金色的外皮"
+                },
+                {
+                  "gram": "",
+                  "en": "miles of golden beaches",
+                  "cn": "绵延数英里的金色海滩"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPECIAL",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "special, successful, or giving someone an advantage",
+                "cn": "特别的；非常有利的；成功的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the golden days of our youth",
+                  "cn": "我们年轻时的黄金岁月"
+                },
+                {
+                  "gram": "",
+                  "en": "He's got a place at university which gives him a golden opportunity to do research in the subject which interests him.",
+                  "cn": "他在大学里获得了一个职位，这为他研究自己感兴趣的课题提供了绝佳的机会。"
+                },
+                {
+                  "gram": "",
+                  "en": "I like listening to those radio stations that play all the golden oldies (= old popular songs which people still like or which have become liked again).",
+                  "cn": "我喜欢收听那些播放怀旧金曲的广播电台。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

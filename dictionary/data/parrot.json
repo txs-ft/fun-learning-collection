@@ -1,0 +1,83 @@
+{
+  "time": 1752140816961,
+  "title": "parrot",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpær.ət/",
+        "us": "/ˈper.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpær.ət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpar/ukparis028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈper.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/par/parro/parrot.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a tropical bird with a curved beak, often kept as a pet and trained to copy the human voice",
+                "cn": "鹦鹉"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈpær.ət/",
+        "us": "/ˈper.ət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpær.ət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpar/ukparis028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈper.ət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/par/parro/parrot.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to repeat exactly what someone else says, without understanding it or thinking about its meaning",
+                "cn": "鹦鹉学舌般地复述，机械地复述"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She doesn't have an original thought in her head - she just parrots anything that Sara says.",
+                  "cn": "她脑子里没有什么自己的见解，她只会机械地重复萨拉所说的每句话。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

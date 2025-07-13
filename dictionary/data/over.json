@@ -1,0 +1,853 @@
+{
+  "time": 1752140772514,
+  "title": "over",
+  "generalBitmask": 4121,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/ˈəʊ.vər/",
+        "us": "/ˈoʊ.vɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈəʊ.vər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/e/epd/epd32/epd32598.mp3"
+        },
+        "us": {
+          "ipa": "/ˈoʊ.vɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/o/ove/over_/over.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "HIGHER POSITION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "above or higher than something else, sometimes so that one thing covers the other; above",
+                "cn": "在…上方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The sign over the door said \"Exit\".",
+                  "cn": "门上方的牌子上写着“出口”。"
+                },
+                {
+                  "gram": "",
+                  "en": "She held the umbrella over both of us.",
+                  "cn": "她撑着伞，为我们两人挡雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "Helicopters dropped leaflets over the city.",
+                  "cn": "直升机在城市上空散发传单。"
+                },
+                {
+                  "gram": "",
+                  "en": "I put my hands over my eyes/ears because I couldn't bear to watch/listen.",
+                  "cn": "我用手捂住眼睛／耳朵，因为我看／听不下去。"
+                },
+                {
+                  "gram": "",
+                  "en": "I couldn't hear what she was saying over the noise of the planes taking off (= the planes were louder than her voice).",
+                  "cn": "因为飞机起飞时噪声太大，我听不清她在说什么。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COVERING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in a position that is covering something",
+                "cn": "覆盖;在…上部"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Put a clean cloth over the cakes while they cool.",
+                  "cn": "在蛋糕变凉的时候，放一块干净的布在上面。"
+                },
+                {
+                  "gram": "",
+                  "en": "I put a shawl over my shoulders.",
+                  "cn": "我在肩上披了条披肩。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACROSS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "across from one side to the other, especially by going up and then down",
+                "cn": "（越）过;从一边到另一边"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She jumped over the gate.",
+                  "cn": "她跃过大门。"
+                },
+                {
+                  "gram": "",
+                  "en": "The road goes over the mountains, not through a tunnel.",
+                  "cn": "这条路并不是穿过隧道，而是翻山而过。"
+                },
+                {
+                  "gram": "",
+                  "en": "She is always chatting with her neighbour over the garden fence.",
+                  "cn": "她总是和邻居隔着花园的篱笆闲聊。"
+                },
+                {
+                  "gram": "",
+                  "en": "From the top of the tower you could see for miles over the city.",
+                  "cn": "在塔顶上你能俯瞰这个城市，可以看到好几英里远。"
+                },
+                {
+                  "gram": "",
+                  "en": "Tanks travel over the most difficult ground.",
+                  "cn": "坦克能在最难通行的道路上行驶。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FALLING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "falling down from somewhere",
+                "cn": "从…坠落"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The coin rolled over the edge of the table.",
+                  "cn": "硬币从桌边滚了下来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Harold jumped out of the car just before it went over the cliff.",
+                  "cn": "就在汽车从悬崖边翻落下去之前，哈罗德从车里跳了出来。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "falling because of stepping on something",
+                "cn": "因为踩到某物而摔倒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She tripped over a toy lying on the path.",
+                  "cn": "她被小径上的一个玩具绊倒了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MORE THAN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "more than",
+                "cn": "在…以上，多于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Most of the carpets cost/are over $5,000.",
+                  "cn": "这些地毯价格大多在5000美元以上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Children over the age of twelve (= older than twelve) pay the full price.",
+                  "cn": "12岁以上的孩子必须买全票。"
+                },
+                {
+                  "gram": "",
+                  "en": "I value quality of life over money.",
+                  "cn": "我把生活质量看得比金钱更重要。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "increasing to further than a particular limit or point",
+                "cn": "超过"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They are already $25 million over budget.",
+                  "cn": "他们的花费已经超过预算2500万美元了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in addition to:",
+                "cn": "除了通常的福利费以外，他们还收到一笔额外的补助。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They receive extra money over and above the usual welfare payments.",
+                  "cn": "除了通常的福利费以外，他们还收到一笔额外的补助。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OTHER SIDE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "on the other side of",
+                "cn": "在…的另一边"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's a bar over the road we could go to.",
+                  "cn": "我们可以去路那边的一家酒吧。"
+                },
+                {
+                  "gram": "",
+                  "en": "The story continues over the page.",
+                  "cn": "故事转下一页。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONNECTED WITH",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "(referring to a cause of interest, worry, discussion, etc.) connected with or about",
+                "cn": "与…有关，关于，因为"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's no point in arguing over something so unimportant.",
+                  "cn": "争论这样的小事毫无意义。"
+                },
+                {
+                  "gram": "",
+                  "en": "I need time to talk/think over your proposal (= to discuss/consider it carefully).",
+                  "cn": "我需要时间谈谈／考虑考虑你的提议。"
+                },
+                {
+                  "gram": "",
+                  "en": "The legal battle was over who should have custody of the child.",
+                  "cn": "这场法律之争是关于谁应该获得这个孩子的监护权。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DURING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "during something, or while doing something",
+                "cn": "在…期间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was in Seattle over the summer.",
+                  "cn": "整个夏天我都在西雅图。"
+                },
+                {
+                  "gram": "",
+                  "en": "Shall we discuss it over lunch/over a drink?",
+                  "cn": "我们边吃午饭／边喝点什么边讨论这个问题好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "They took/spent an hour over lunch (= their meal lasted an hour).",
+                  "cn": "他们吃午饭花了一个小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's fascinating to watch how a baby changes and develops over time (= as time passes).",
+                  "cn": "看着一个婴儿随着时间流逝而成长真是件奇妙的事。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FEELING BETTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to feel physically or mentally better after an illness or an upsetting experience:",
+                "cn": "得那样的病需要一段时间才能恢复过来。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It takes you a while to get over an illness like that.",
+                  "cn": "得那样的病需要一段时间才能恢复过来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTROL",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "in control of or teaching someone or something",
+                "cn": "（表示控制或管教）在…之上，高于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A good teacher has an easy authority over a class.",
+                  "cn": "出色的老师轻而易举就能让一个班的学生听话。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's a sales manager but she has a regional sales director over (= with a higher rank than) her.",
+                  "cn": "她是位销售经理，可是她上面还有一位地区销售主管。"
+                },
+                {
+                  "gram": "",
+                  "en": "The victory over the French at Waterloo was Wellington's greatest triumph.",
+                  "cn": "在滑铁卢打败法军是威灵顿最大的胜利。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "USING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "using",
+                "cn": "用"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They spoke over the phone.",
+                  "cn": "他们在电话里交谈。"
+                },
+                {
+                  "gram": "",
+                  "en": "We heard the news over the radio.",
+                  "cn": "我们是从收音机里听到这个消息的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MATHEMATICS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "sometimes used when talking about a calculation in which one number is divided by another number",
+                "cn": "除以"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "40 over 7 is roughly 6.",
+                  "cn": "40除以7约等于6。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈəʊ.vər/",
+        "us": "/ˈoʊ.vɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈəʊ.vər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/e/epd/epd32/epd32598.mp3"
+        },
+        "us": {
+          "ipa": "/ˈoʊ.vɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/o/ove/over_/over.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DOWN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "from a higher to a lower position; down",
+                "cn": "（从…）向下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The lamp fell over and broke.",
+                  "cn": "灯掉下来，摔坏了。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was run/knocked over by a taxi.",
+                  "cn": "他被一辆出租车撞倒了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The little boy fell over and started to cry.",
+                  "cn": "小男孩摔倒后哭了起来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACROSS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "across; from one side or place to another",
+                "cn": "越过;从一边（或一地）到另一边（或另一地）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She leaned over and kissed me.",
+                  "cn": "她俯身过来吻了我。"
+                },
+                {
+                  "gram": "",
+                  "en": "A fighter plane flew over.",
+                  "cn": "一架战斗机在空中掠过。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't you come over (= come to my house) for dinner on Thursday?",
+                  "cn": "星期四过来吃晚餐如何？"
+                },
+                {
+                  "gram": "",
+                  "en": "A friend of mine from France is over visiting us this week (= a friend came from France and is staying with us).",
+                  "cn": "这周有个从加拿大来的朋友住在我这儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "Now we're going over to (= there will be a broadcast from) Wembley for commentary on the Cup Final.",
+                  "cn": "现在我们来听听来自温布利体育场的关于杯赛决赛的实况报道。"
+                },
+                {
+                  "gram": "",
+                  "en": "Come over here - it's warmer.",
+                  "cn": "过来——这儿暖和些。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who's that man over there?",
+                  "cn": "那边那个男人是谁？"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to describe the way an object moves or is moved so that a different part of it is facing up",
+                "cn": "翻过，翻转"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She turned another page over.",
+                  "cn": "她又翻了一页。"
+                },
+                {
+                  "gram": "",
+                  "en": "The dog rolled over onto its back.",
+                  "cn": "狗翻过身仰面躺着。"
+                },
+                {
+                  "gram": "",
+                  "en": "The children rolled over and over (= turned over many times) down the gentle slope.",
+                  "cn": "孩子们在缓坡上一次次地滚下来玩。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "changing or exchanging position",
+                "cn": "变换，交换（位置）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would you mind changing/swapping those plates over?",
+                  "cn": "把那些盘子调换一下位置可以吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She changed over to editing from marketing.",
+                  "cn": "她不做营销，改当编辑了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why should we hand over the money to them?",
+                  "cn": "为什么我们要把钱交给他们？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've done everything I can - now it's over to you (= it's your turn to take action).",
+                  "cn": "我能做的都做了——现在该看你的了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HIGHER POSITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "above or higher than something else, sometimes so that one thing covers the other",
+                "cn": "在…上方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A fighter plane flew over.",
+                  "cn": "一架战斗机在空中掠过。"
+                },
+                {
+                  "gram": "",
+                  "en": "A man came to paint over (= cover with paint) the cracks in the wall.",
+                  "cn": "来了一个人用油漆涂盖墙上的裂缝。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MORE THAN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "more than a particular amount or level",
+                "cn": "超过，以上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "People who are 65 years old and over can get half-price tickets.",
+                  "cn": "65岁及以上人群可半价购票。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FINISHED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(especially of an event) finished",
+                "cn": "（尤指事件）结束的，完毕的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll be glad when the competition is over.",
+                  "cn": "竞赛结束我会很高兴。"
+                },
+                {
+                  "gram": "",
+                  "en": "I used to have a thriving business and a happy marriage, but that's all over now.",
+                  "cn": "我曾经生意红火婚姻幸福，但现在全都完了。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "completely finished:",
+                "cn": "她会尽快把棘手的任务处理掉。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She gets unpleasant tasks over and done with as quickly as possible.",
+                  "cn": "她会尽快把棘手的任务处理掉。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXTRA",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "extra; not used",
+                "cn": "额外地；剩余地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I have some euros left over from the last time I was in France.",
+                  "cn": "上回我去法国还剩了些欧元。"
+                },
+                {
+                  "gram": "",
+                  "en": "When all the guests had gone, we realized there was lots of food over.",
+                  "cn": "客人都走了以后，我们发现还剩了很多吃的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AGAIN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "again or repeatedly",
+                "cn": "再，又;重复地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You ruined it - now I'll have to do it over!",
+                  "cn": "你把它弄砸了——现在我得再做一遍！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FINISHED TALKING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "said when you are talking to someone by radio, to mean that you have finished speaking and will wait for their answer",
+                "cn": "（用于无线电通话）完毕，请回话"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"This is flight 595X. Do you read me? Over.\"",
+                  "cn": "“这里是595X航班。你听到了吗？完毕。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "said when you are talking to someone by radio in order to end the conversation, or when you humorously want to say that something is finished:",
+                "cn": "“谢谢，控制塔。通话完毕。”"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Thank you, control tower. Over and out.\"",
+                  "cn": "“谢谢，控制塔。通话完毕。”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈəʊ.vər/",
+        "us": "/ˈoʊ.vɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈəʊ.vər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukova/ukovary007.mp3"
+        },
+        "us": {
+          "ipa": "/ˈoʊ.vɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75392.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in cricket, a set of six bowls (= throws) from the same end of the field",
+                "cn": "（板球中的）一轮投球数"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Simons took three wickets in his opening spell of 10 overs.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/əʊ.vər-/",
+        "us": "/oʊ.vɚ-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əʊ.vər-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uko/ukova/ukovary007.mp3"
+        },
+        "us": {
+          "ipa": "/oʊ.vɚ-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus75/eus75392.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TOO MUCH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "too much or more than usual",
+                "cn": "太，过分"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children got over-excited (= too excited).",
+                  "cn": "孩子们兴奋过头了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MORE THAN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "more than",
+                "cn": "在…以上，超过"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a club for the over-50s",
+                  "cn": "50岁以上人士参加的俱乐部"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ACROSS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "across",
+                "cn": "（越）过；从一边到另一边"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Of course, the overland route is much slower than going by air.",
+                  "cn": "当然，走陆路比坐飞机要慢多了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HIGHER POSITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "above",
+                "cn": "悬于…之上；突出于…之上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was knocked off her bicycle by an overhanging branch.",
+                  "cn": "她被一根垂下来的树枝撞下了自行车。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

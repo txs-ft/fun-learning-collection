@@ -1,0 +1,73 @@
+{
+  "time": 1752139641646,
+  "title": "amazed",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/əˈmeɪzd/",
+        "us": "/əˈmeɪzd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈmeɪzd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukama/ukamalg013.mp3"
+        },
+        "us": {
+          "ipa": "/əˈmeɪzd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usama/usamanu005.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extremely surprised",
+                "cn": "十分惊奇的，惊愕的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was amazed at how calm she felt after the accident.",
+                  "cn": "事故发生后她是如此镇定，这让她自己都觉得惊奇。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was absolutely amazed when I heard he'd been promoted.",
+                  "cn": "听到他升职的消息，我都不敢相信自己的耳朵。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "Mr Graham was amazed to find 46 ancient gold coins inside the pot.",
+                  "cn": "格雷厄姆先生惊奇地发现罐子里有46枚古代金币。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was amazed to hear that Chris had won first prize.",
+                  "cn": "听到克里斯得了第一名我很诧异。"
+                },
+                {
+                  "gram": "",
+                  "en": "We were amazed to discover that we'd been at school together.",
+                  "cn": "我们惊奇地发现原来我们曾经是同学。"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "I'm amazed (that) she didn't complain.",
+                  "cn": "她没有抱怨，这让我很诧异。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

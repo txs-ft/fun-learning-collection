@@ -1,0 +1,302 @@
+{
+  "time": 1752139972877,
+  "title": "between",
+  "generalBitmask": 24,
+  "allDefinitions": [
+    {
+      "pos": "preposition, adverb",
+      "defBitmask": 24,
+      "pron": {
+        "uk": "/bɪˈtwiːn/",
+        "us": "/bɪˈtwiːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈtwiːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbet/ukbetid013.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈtwiːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bet/betwe/between.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SPACE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "in or into the space that separates two places, people, or objects",
+                "cn": "（空间上）在…中间，在…之间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The town lies halfway between Rome and Florence.",
+                  "cn": "此城镇位于罗马和佛罗伦萨的中间。"
+                },
+                {
+                  "gram": "",
+                  "en": "Standing between the two adults was a small child.",
+                  "cn": "站在两个大人之间的是个小孩。"
+                },
+                {
+                  "gram": "",
+                  "en": "She squeezed between the parked cars and ran out into the road.",
+                  "cn": "她在停放的车子间挤来挤去，最后跑到了马路上。"
+                },
+                {
+                  "gram": "",
+                  "en": "There were two houses with a narrow path in between.",
+                  "cn": "一条狭窄的小路从两幢房子之间穿过。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AMOUNT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "If something is between two amounts, it is greater than the first amount but smaller than the second.",
+                "cn": "（数量）介于…之间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She weighs between 55 and 60 kilograms.",
+                  "cn": "她的体重在55公斤到60公斤之间。"
+                },
+                {
+                  "gram": "",
+                  "en": "The competition is open to children between six and twelve years of age.",
+                  "cn": "比赛是为6岁至12岁的孩子而设的。"
+                },
+                {
+                  "gram": "",
+                  "en": "The room was either extremely cold or hot, never anything in between (= in the middle).",
+                  "cn": "这间屋子不是极冷就是极热，从来都没有不冷不热的时候。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "in the period of time that separates two different times or events",
+                "cn": "（时间上）在…中间，在…之间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You shouldn't eat between meals.",
+                  "cn": "你不应该吃零食。"
+                },
+                {
+                  "gram": "",
+                  "en": "There is a break of ten minutes between classes.",
+                  "cn": "课间有10分钟的休息时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "The office is closed for lunch between 12.30 and 1.30.",
+                  "cn": "办公室午饭时间关闭，时间从12点半到1点半。"
+                },
+                {
+                  "gram": "",
+                  "en": "In between sobs, he managed to tell them what had happened.",
+                  "cn": "他泣不成声，呜咽着向他们诉说所发生的一切。"
+                },
+                {
+                  "gram": "",
+                  "en": "He visits his parents every month and sometimes in between.",
+                  "cn": "他每个月都去看望父母，有时候去得更频繁一些。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/bɪˈtwiːn/",
+        "us": "/bɪˈtwiːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈtwiːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbet/ukbetid013.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈtwiːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bet/betwe/between.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SHARED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "among two or more people or things",
+                "cn": "在（两个或两个以上的人或事）之间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The money was divided equally between several worthy causes.",
+                  "cn": "那笔钱被平均分配给几个有价值的项目。"
+                },
+                {
+                  "gram": "",
+                  "en": "We drank two bottles of wine between the four of us.",
+                  "cn": "我们4个人分享了两瓶酒。"
+                },
+                {
+                  "gram": "",
+                  "en": "Trade between the two countries (= their trade with each other) has increased sharply in the past year.",
+                  "cn": "在过去的一年里，两国之间的贸易额急剧增加。"
+                },
+                {
+                  "gram": "",
+                  "en": "There is a great deal of similarity between Caroline and her mother (= they are very similar).",
+                  "cn": "卡罗琳和她的母亲之间有许多相似之处。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OPPOSING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "A discussion, argument, or game between two or more people or groups of people involves both people or groups.",
+                "cn": "（讨论、争论或比赛）发生在…之间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The negotiations between the union and management have broken down.",
+                  "cn": "工会和资方的谈判已经破裂。"
+                },
+                {
+                  "gram": "",
+                  "en": "There has always been a fierce rivalry between the two schools.",
+                  "cn": "这两所学校之间的竞争一直很激烈。"
+                },
+                {
+                  "gram": "",
+                  "en": "Tonight's game is between the New Orleans Saints and the St. Louis Rams.",
+                  "cn": "今晚的比赛在新奥尔良圣徒队和洛杉矶公羊队之间举行。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHOICE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you choose between two things, you choose one thing or the other.",
+                "cn": "在…间（做出选择）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You'll have to choose between a holiday or a new washing machine.",
+                  "cn": "你必须在度假和买洗衣机之间作出选择。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was torn between loyalty to her father and love for her husband (= she could not decide which one to support).",
+                  "cn": "对父亲的感情和对丈夫的爱不能两全，这让她左右为难。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONNECTING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "connecting two or more places, things, or people",
+                "cn": "来往于…之间;连接着…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There is a regular train service between Glasgow and Edinburgh.",
+                  "cn": "在格拉斯哥和爱丁堡之间有定期列车开行。"
+                },
+                {
+                  "gram": "",
+                  "en": "The survey shows a link between asthma and air pollution.",
+                  "cn": "调查表明哮喘病与大气污染有关。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "from one place to another",
+                "cn": "（地点）从…到…;往返于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He commutes daily between Baltimore and Washington, D.C.",
+                  "cn": "他每天往返于巴尔的摩和华盛顿特区之间。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEPARATING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "separating two places or things",
+                "cn": "分隔着;区分开…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The wall between East and West Berlin came down in 1989.",
+                  "cn": "将东西柏林隔开的柏林墙于1989年被推倒了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The report states that the gap between the rich and the poor has increased dramatically over the past decade.",
+                  "cn": "报告表明在过去10年里贫富差距明显增大了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

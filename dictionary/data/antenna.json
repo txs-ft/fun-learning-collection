@@ -1,0 +1,74 @@
+{
+  "time": 1752397220587,
+  "title": "antenna",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ænˈten.ə/",
+        "us": "/ænˈten.ə/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ænˈten.ə/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukano/ukanore028.mp3"
+        },
+        "us": {
+          "ipa": "/ænˈten.ə/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ant/anten/antenna.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ORGAN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "either of a pair of long, thin organs that are found on the heads of insects and crustaceans (= animals with hard outer shells) and are used to feel with",
+                "cn": "触须，触角"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "NOTICING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the natural ability to notice things and understand their importance",
+                "cn": "感觉;直觉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her finely-tuned political antennae helped her to sense problems that less experienced politicians might not detect.",
+                  "cn": "她敏锐的政治嗅觉使她可以意识到一些问题，而经验欠丰的从政者却可能觉察不到。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PART OF RADIO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an \naerial",
+                "cn": "天线"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

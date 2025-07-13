@@ -1,0 +1,232 @@
+{
+  "time": 1752140926751,
+  "title": "ride",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/raɪd/",
+        "us": "/raɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/raɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrhy/ukrhyth029.mp3"
+        },
+        "us": {
+          "ipa": "/raɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rid/ride_/ride.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to sit on something such as a bicycle, motorbike, or horse and travel along on it controlling its movements",
+                "cn": "骑（自行车、摩托车或马等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I learned to ride a bike when I was six.",
+                  "cn": "我6岁学会了骑自行车。"
+                },
+                {
+                  "gram": "",
+                  "en": "I ride my moped to work.",
+                  "cn": "我骑机动自行车去上班。"
+                },
+                {
+                  "gram": "",
+                  "en": "I ride to work on my moped.",
+                  "cn": "我骑机动自行车去上班。"
+                },
+                {
+                  "gram": "",
+                  "en": "The hunters came riding by/past on their horses.",
+                  "cn": "猎人们骑马飞驰而过。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to ride a horse",
+                "cn": "骑马"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can you ride?",
+                  "cn": "你会骑马吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Their daughter is learning to ride.",
+                  "cn": "他们的女儿正在学骑马。"
+                },
+                {
+                  "gram": "",
+                  "en": "He rides well/badly.",
+                  "cn": "他骑术很好／差。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to travel in a vehicle, such as a car, bus, or train",
+                "cn": "乘（车），坐（车）；搭乘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He doesn't have a car so he rides to work on the bus.",
+                  "cn": "他没有私家车，所以就坐公共汽车去上班。"
+                },
+                {
+                  "gram": "",
+                  "en": "We rode the train from San Diego to Portland.",
+                  "cn": "我们从圣地亚哥坐火车到波特兰。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to try to control someone and force them to work",
+                "cn": "驾驭，试图控制（某人）并强迫其工作"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Your boss is riding you much too hard at the moment.",
+                  "cn": "你的老板现在把你管得太严了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/raɪd/",
+        "us": "/raɪd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/raɪd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrhy/ukrhyth029.mp3"
+        },
+        "us": {
+          "ipa": "/raɪd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rid/ride_/ride.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a journey on a horse or bicycle, or in a vehicle",
+                "cn": "（骑马、骑车或乘坐车辆的）旅行，行程"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's a short bus ride to the airport.",
+                  "cn": "坐公共汽车去机场很近。"
+                },
+                {
+                  "gram": "",
+                  "en": "I went for a (horse) ride last Saturday.",
+                  "cn": "上周六我（骑马）去兜了一圈。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you want to come for a ride on my bike?",
+                  "cn": "你想坐我的摩托车去兜兜风吗？"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a free journey in a car to a place where you want to go",
+                "cn": "乘便车;搭乘免费车"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He asked me for a ride into town.",
+                  "cn": "他请求搭我的便车进城。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person who gives you a ride in their car",
+                "cn": "让你搭便车的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Well, I have to go - my ride is here.",
+                  "cn": "好了，我得走了。让我搭车的人已经来了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone's car",
+                "cn": "（某人的）车"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hey, nice ride.",
+                  "cn": "哎，好车。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a machine in an amusement park that people travel in or are moved around by for entertainment",
+                "cn": "（游乐园里）供人乘坐的游乐装置"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We went on all the rides.",
+                  "cn": "我们玩了游乐园里所有的装置。"
+                },
+                {
+                  "gram": "",
+                  "en": "My favourite ride is the Ferris wheel.",
+                  "cn": "我最爱坐摩天轮。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

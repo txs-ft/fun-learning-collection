@@ -1,0 +1,185 @@
+{
+  "time": 1752140201953,
+  "title": "dance",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/dɑːns/",
+        "us": "/dæns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɑːns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdam/ukdamne011.mp3"
+        },
+        "us": {
+          "ipa": "/dæns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dan/dance/dance.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to move the body and feet to music",
+                "cn": "跳（舞），舞蹈"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We danced all night.",
+                  "cn": "我们跳了一夜的舞。"
+                },
+                {
+                  "gram": "",
+                  "en": "We went dancing at a club.",
+                  "cn": "我们去夜总会跳舞了。"
+                },
+                {
+                  "gram": "",
+                  "en": "What kind of music do you like dancing to?",
+                  "cn": "你喜欢伴着哪种曲子跳舞？"
+                },
+                {
+                  "gram": "",
+                  "en": "Who was she dancing with at the party last night?",
+                  "cn": "昨晚舞会上她在和谁跳舞？"
+                },
+                {
+                  "gram": "",
+                  "en": "Can you dance the tango?",
+                  "cn": "你会跳探戈舞吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We played our music and danced the night away.",
+                  "cn": "我们放上音乐，跳了一晚上的舞。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move quickly and lightly",
+                "cn": "（轻快地）舞动;摇曳;跳动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The daffodils were dancing in the breeze.",
+                  "cn": "黄水仙在微风中轻轻舞动。"
+                },
+                {
+                  "gram": "",
+                  "en": "She watched the sunlight dancing on the water.",
+                  "cn": "她注视着水面上的粼粼波光。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dɑːns/",
+        "us": "/dæns/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɑːns/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdam/ukdamne011.mp3"
+        },
+        "us": {
+          "ipa": "/dæns/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dan/dance/dance.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a particular series of movements that you perform to music or the type of music that is connected with it",
+                "cn": "舞蹈，舞步;舞曲"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The band played a slow dance.",
+                  "cn": "乐队演奏了一支舒缓的舞曲。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a social occasion where people dance, especially a formal occasion in a large room",
+                "cn": "（尤指正式的）舞会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They're having an end-of-term dinner-dance.",
+                  "cn": "他们要举办一场期末餐舞会。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the act of moving your feet and body to music",
+                "cn": "舞，跳舞"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We had a dance.",
+                  "cn": "我们跳了一支舞。"
+                },
+                {
+                  "gram": "",
+                  "en": "The bride's father gets the first dance at the wedding.",
+                  "cn": "新娘的父亲在婚礼上跟新娘跳第一支舞。"
+                },
+                {
+                  "gram": "",
+                  "en": "a dance class",
+                  "cn": "舞蹈课"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the art of performing dances, especially as a form of entertainment",
+                "cn": "舞蹈表演;舞蹈艺术"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The performers tell the story through song and dance.",
+                  "cn": "演员们载歌载舞演绎了那个故事。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

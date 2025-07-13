@@ -1,0 +1,259 @@
+{
+  "time": 1752140272799,
+  "title": "every",
+  "generalBitmask": 64,
+  "allDefinitions": [
+    {
+      "pos": "determiner",
+      "defBitmask": 64,
+      "pron": {
+        "uk": "/ˈev.ri/",
+        "us": "/ˈev.ri/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈev.ri/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukeve/ukeve__018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈev.ri/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eve/every/every.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ALL",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used when referring to all the members of a group of three or more",
+                "cn": "（3个或3个以上的人或事物组成的群体中的）每一个，每个；全部，整体"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The police want to interview every employee about the theft.",
+                  "cn": "警方想就盗窃案件与每位员工面谈。"
+                },
+                {
+                  "gram": "",
+                  "en": "The show will be broadcast every weekday morning between 9.00 and 10.00.",
+                  "cn": "这个节目将在周一至周五每天上午9点到10点播出。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're open every day except Sunday.",
+                  "cn": "除了星期天我们每天都开门营业。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've been out every night this week.",
+                  "cn": "这个星期每天晚上我都外出。"
+                },
+                {
+                  "gram": "",
+                  "en": "Every time I go to London I get caught in a traffic jam.",
+                  "cn": "每次我去伦敦都碰上塞车。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ten pence is donated to charity for every bottle sold.",
+                  "cn": "每售出1瓶就会有10便士捐给慈善机构。"
+                },
+                {
+                  "gram": "",
+                  "en": "These paintings may look like the real thing, but (each and) every one of them is a fake.",
+                  "cn": "这些画也许看上去像真的，可实际上全都是赝品。"
+                },
+                {
+                  "gram": "",
+                  "en": "That salmon was very expensive so make sure you eat up every (single) bit.",
+                  "cn": "那鲑鱼肉很贵，一定要全吃了，一点儿都不要剩。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "equally as:",
+                "cn": "在人们心目中，这场战争的反对者和支持者都是一样爱国的。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Opponents of the war are considered every bit as patriotic as supporters.",
+                  "cn": "在人们心目中，这场战争的反对者和支持者都是一样爱国的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "every:",
+                "cn": "我们掌握绝大多数人的情况，但要把所有的逃税者都一一查出来是不可能的。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We catch the majority of people, but hunting down every last tax evader is impossible.",
+                  "cn": "我们掌握绝大多数人的情况，但要把所有的逃税者都一一查出来是不可能的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in all directions:",
+                "cn": "狂风大作，球被吹得四下乱跑，比赛无法正常进行。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The game was hindered by a fierce wind that swept the ball every which way.",
+                  "cn": "狂风大作，球被吹得四下乱跑，比赛无法正常进行。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in all ways:",
+                "cn": "无论从哪方面来看，这部片子都是一部电影杰作。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This movie is in every way a masterpiece of cinematography.",
+                  "cn": "无论从哪方面来看，这部片子都是一部电影杰作。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "all the things that you need or want:",
+                "cn": "将有一位助手到场来照顾你的一切需求。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There'll be an assistant there to see to your every need.",
+                  "cn": "将有一位助手到场来照顾你的一切需求。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "REPEATED",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show that something is repeated regularly",
+                "cn": "（表示有规律地重复发生）每，每隔，每…之中"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Computers can perform millions of calculations every second.",
+                  "cn": "计算机每秒钟能进行数百万次的运算。"
+                },
+                {
+                  "gram": "",
+                  "en": "Every four minutes a car is stolen in this city.",
+                  "cn": "在这座城市，每4分钟就有1辆汽车被盗。"
+                },
+                {
+                  "gram": "",
+                  "en": "Every day in the US 25 people are murdered with handguns.",
+                  "cn": "在美国每天有25人被手枪射杀。"
+                },
+                {
+                  "gram": "",
+                  "en": "Every few kilometres we passed a burned out jeep or truck at the side of the road.",
+                  "cn": "我们每走几公里就能在路边看到一辆被焚毁的吉普车或卡车。"
+                },
+                {
+                  "gram": "",
+                  "en": "The conference takes place every other/second year.",
+                  "cn": "会议每隔一年／两年召开一次。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "sometimes but not often:",
+                "cn": "他们偶尔会聚在一起喝杯啤酒。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Every now and then they'll have a beer together.",
+                  "cn": "他们偶尔会聚在一起喝杯啤酒。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "sometimes but not often:",
+                "cn": "偶尔我也到高档餐厅犒劳自己一下。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Every so often I treat myself to a meal in an expensive restaurant.",
+                  "cn": "偶尔我也到高档餐厅犒劳自己一下。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GREATEST",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the greatest possible or that can be imagined",
+                "cn": "最好的；最大的；最有可能的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to wish you every success in your new job/happiness in your new home.",
+                  "cn": "我衷心祝愿你在新的工作中取得最大成功／在新家里日子过得幸福美满。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has every reason to be unhappy after losing her job and her home.",
+                  "cn": "她失业了，家也没了，完全有理由伤心。"
+                },
+                {
+                  "gram": "",
+                  "en": "You had every opportunity to make a complaint.",
+                  "cn": "你当时完全有机会去投诉。"
+                },
+                {
+                  "gram": "",
+                  "en": "Every effort is being made to minimize civilian casualties.",
+                  "cn": "正在尽最大努力把平民的伤亡降到最低限度。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has every right to be proud of her tremendous achievements.",
+                  "cn": "她完全有权利为自己的巨大成就而感到自豪。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

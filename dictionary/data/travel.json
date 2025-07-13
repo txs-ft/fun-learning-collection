@@ -1,0 +1,204 @@
+{
+  "time": 1752141178444,
+  "title": "travel",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈtræv.əl/",
+        "us": "/ˈtræv.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtræv.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktrap_019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtræv.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/trave/travel.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKE JOURNEY",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to make a journey, usually over a long distance",
+                "cn": "（通常指长途）旅行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Between school and university, she spent a year travelling, mostly in Africa and Asia.",
+                  "cn": "中学毕业后，她在上大学以前花了1年时间旅行，主要是在非洲和亚洲。"
+                },
+                {
+                  "gram": "",
+                  "en": "I travel to work by train.",
+                  "cn": "我乘火车上班。"
+                },
+                {
+                  "gram": "",
+                  "en": "He travelled over 1,000 miles to be at the wedding.",
+                  "cn": "他从1000多英里外过来参加婚礼。"
+                },
+                {
+                  "gram": "",
+                  "en": "As a young man he had travelled (= been to many parts of) the world.",
+                  "cn": "他年轻时周游过世界。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something travels well/badly, it does/does not stay in good condition if it is moved long distances.",
+                "cn": "（食品等）经得起长途运输"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Some wines don't travel well.",
+                  "cn": "一些葡萄酒经不起长途运输。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make a journey without taking a lot of heavy things with you",
+                "cn": "轻装旅行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I always try to travel light.",
+                  "cn": "我总是尽可能轻装旅行。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to move or go from one place to another",
+                "cn": "行进"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Supersonic planes can travel faster than the speed of sound.",
+                  "cn": "超音速飞机的速度比音速快。"
+                },
+                {
+                  "gram": "",
+                  "en": "With wooden-bat baseball, the ball doesn't travel as far as it does with aluminium bats.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Signals at this wavelength can travel easily through buildings.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move very fast",
+                "cn": "飞快移动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That bike can really travel!",
+                  "cn": "那辆自行车可以骑得很快！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈtræv.əl/",
+        "us": "/ˈtræv.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtræv.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktrap_019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtræv.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/trave/travel.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACTIVITY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the activity of travelling",
+                "cn": "旅行;游历"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "air/space travel",
+                  "cn": "航空／航天旅行"
+                },
+                {
+                  "gram": "",
+                  "en": "business travel",
+                  "cn": "出差"
+                },
+                {
+                  "gram": "",
+                  "en": "We share a love of literature, food and travel.",
+                  "cn": "我们都爱好文学、美食和旅游。"
+                },
+                {
+                  "gram": "",
+                  "en": "I heard on the travel news that there'd been an accident.",
+                  "cn": "我从旅游新闻中得知发生了一起事故。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "journeys",
+                "cn": "游览;游历"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a record of her travels in/around the Far East",
+                  "cn": "她在远东游历的记录"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

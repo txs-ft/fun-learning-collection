@@ -1,0 +1,67 @@
+{
+  "time": 1752141226654,
+  "title": "trophy",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈtrəʊ.fi/",
+        "us": "/ˈtroʊ.fi/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtrəʊ.fi/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktri/uktrium029.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtroʊ.fi/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tro/troph/trophy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a prize, such as a gold or silver cup, that is given to the winner of a competition or race, and often returned after a year to be given to the winner of the competition in the following year",
+                "cn": "奖，（流动）奖杯"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's an excellent rider, but he's never won a major trophy.",
+                  "cn": "他是个出色的骑手，但从未赢得过任何一项重要比赛的冠军。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Duchess of Cambridge will be presenting the trophies.",
+                  "cn": "剑桥公爵夫人将颁奖。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "something used as a symbol of success from hunting or war",
+                "cn": "战利品;猎获物;胜利纪念品"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The animal heads on the wall were trophies of his hunting trips.",
+                  "cn": "墙上的动物头是他打猎的战利品。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

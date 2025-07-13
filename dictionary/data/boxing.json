@@ -1,0 +1,53 @@
+{
+  "time": 1752140023194,
+  "title": "boxing",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈbɒk.sɪŋ/",
+        "us": "/ˈbɑːk.sɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbɒk.sɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbou/ukbount024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbɑːk.sɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/box/boxin/boxing.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a sport in which two competitors fight by hitting each other with their hands",
+                "cn": "拳击运动"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many doctors believe that boxing is too dangerous and should be banned.",
+                  "cn": "许多医生认为拳击运动太危险，应该禁止。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's a former world heavyweight boxing champion.",
+                  "cn": "他是一位前世界重量级拳王。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

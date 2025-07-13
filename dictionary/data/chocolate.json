@@ -1,0 +1,91 @@
+{
+  "time": 1752140119254,
+  "title": "chocolate",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈtʃɒk.lət/",
+        "us": "/ˈtʃɑːk.lət/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈtʃɒk.lət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcho/ukchock003.mp3"
+        },
+        "us": {
+          "ipa": "/ˈtʃɑːk.lət/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cho/choco/chocolate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a sweet, usually brown, food made from cacao seeds, that is usually sold in a block and is often used as a flavour for desserts, drinks, etc.",
+                "cn": "巧克力;巧克力糖"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bar of chocolate",
+                  "cn": "一条巧克力"
+                },
+                {
+                  "gram": "",
+                  "en": "milk/dark/white chocolate",
+                  "cn": "牛奶／黑／白巧克力"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a hot drink made from milk or water, powdered chocolate, and sugar",
+                "cn": "巧克力热饮"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was tucked up in bed with a mug of chocolate.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Don't drink anything with caffeine (coffee, tea, cola, or chocolate) close to bedtime.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a dark brown colour",
+                "cn": "巧克力色，深褐色"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The picture shows the top in apricot teamed with the skirt in chocolate.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "That deep chocolate on the walls looks beautiful.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

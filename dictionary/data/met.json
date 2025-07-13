@@ -1,0 +1,134 @@
+{
+  "time": 1752140610503,
+  "title": "met",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/met/",
+        "us": "/met/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/met/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmes/ukmesh_014.mp3"
+        },
+        "us": {
+          "ipa": "/met/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/met/met__/met.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "past simple and past participle of\nmeet",
+                "cn": "（meet的过去式及过去分词）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/met/",
+        "us": "/met/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/met/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmes/ukmesh_014.mp3"
+        },
+        "us": {
+          "ipa": "/met/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usc/uscld/uscld02030.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "informal for\nmeteorological",
+                "cn": "气象的（meteorological 的非正式说法）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmet/",
+        "us": "/ˈmet/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmet/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmes/ukmesh_014.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmet/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/met/met__/met.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for the Metropolitan Opera: an opera company based in New York City",
+                "cn": "（纽约）大都会歌剧院（Metropolitan Opera的缩写）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In his 30 years at the Met, he was regarded as one of the greatest Verdi baritones of his generation.",
+                  "cn": "在大都会歌剧院的30年间，他被认为是他这一代最优秀的男中音。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for\nthe Metropolitan Police UK",
+                "cn": "大伦敦警察局（Metropolitan Police的缩写）"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for \nthe Met Office",
+                "cn": "（英国）国家气象局（Met Office的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

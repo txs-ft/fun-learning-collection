@@ -1,0 +1,48 @@
+{
+  "time": 1752141013148,
+  "title": "software",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsɒft.weər/",
+        "us": "/ˈsɑːft.wer/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɒft.weər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksod/uksodiu014.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɑːft.wer/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sof/softw/software.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the instructions that control what a computer does; computer programs",
+                "cn": "（计算机）软件"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's written a piece of software that does your taxes for you.",
+                  "cn": "他编写了一个为你计算税额的软件。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

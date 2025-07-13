@@ -1,0 +1,42 @@
+{
+  "time": 1752140149137,
+  "title": "comet",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɒm.ɪt/",
+        "us": "/ˈkɑː.mɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɒm.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcombi014.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɑː.mɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus70/eus70892.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an object that moves around the sun, usually at a great distance from it, that is seen on rare occasions from the earth as a bright line in the sky",
+                "cn": "彗星"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

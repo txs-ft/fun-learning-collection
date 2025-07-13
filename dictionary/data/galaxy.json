@@ -1,0 +1,80 @@
+{
+  "time": 1752140381179,
+  "title": "galaxy",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈɡæl.ək.si/",
+        "us": "/ˈɡæl.ək.si/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡæl.ək.si/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukz/ukzzz/ukzzzze018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡæl.ək.si/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usz/uszzz/uszzzzd018.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "one of the independent groups of stars in the universe",
+                "cn": "星系"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a meeting of rich and famous people:",
+                "cn": "人们期待已久的电影首映式今晚举行，一大批影星歌星前来捧场。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Present tonight at the long-awaited opening of this film are a whole galaxy of stars from the acting and musical professions.",
+                  "cn": "人们期待已久的电影首映式今晚举行，一大批影星歌星前来捧场。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the very large group of stars that contains the solar system (= the sun and all the planets, including Earth, that go around it)",
+                "cn": "银河系，银河"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Jupiter is the biggest planet in our solar system, but not the biggest planet in the Galaxy.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "On dark nights with no moon, you can see the Milky Way in the night sky.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Our system is just one of many in the Galaxy that might be able to support life.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

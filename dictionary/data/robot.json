@@ -1,0 +1,85 @@
+{
+  "time": 1752140935267,
+  "title": "robot",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈrəʊ.bɒt/",
+        "us": "/ˈroʊ.bɑːt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈrəʊ.bɒt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrn_/ukrn___030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈroʊ.bɑːt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rob/robot/robot.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MACHINE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a machine controlled by a computer that is used to perform jobs automatically",
+                "cn": "机器人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The surgery can be carried out by robots.",
+                  "cn": "手术可以由机器人来做。"
+                },
+                {
+                  "gram": "",
+                  "en": "a bomb disposal robot",
+                  "cn": "拆弹机器人"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who does things in a very effective way but never shows their emotions",
+                "cn": "像机器一样的人，机械呆板的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He played like a robot - note-perfect, but with no expression or dynamics at all.",
+                  "cn": "他演奏得很机械，虽然每个音都准，但是没有一点感情的表达和变化。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRAFFIC LIGHT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a traffic light",
+                "cn": "自动交通信号灯"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

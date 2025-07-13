@@ -1,0 +1,388 @@
+{
+  "time": 1752140124294,
+  "title": "class",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/klɑːs/",
+        "us": "/klæs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klɑːs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcla/ukclap_020.mp3"
+        },
+        "us": {
+          "ipa": "/klæs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cla/class/class.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TEACHING GROUP",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a group of students who are taught together at school, college, or university",
+                "cn": "班;班级"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Which class are you in this year?",
+                  "cn": "今年你在哪个班？"
+                },
+                {
+                  "gram": "",
+                  "en": "She gave the whole class extra homework for a week.",
+                  "cn": "她给全班额外布置了一星期的家庭作业。"
+                },
+                {
+                  "gram": "",
+                  "en": "My class (= the people in my class) was/were rather noisy this morning.",
+                  "cn": "我的班里今天早上很吵。"
+                },
+                {
+                  "gram": "[ as form of address ]",
+                  "en": "Okay, class, settle down and open your books.",
+                  "cn": "好了，同学们，安静下来，打开书本。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a period of time in which students are taught something",
+                "cn": "（一节）课;课堂"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My last class ends at four o'clock.",
+                  "cn": "我最后一堂课4点结束。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was told off for talking in class.",
+                  "cn": "我因为在课堂上讲话而受到了严厉批评。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who takes/teaches your environmental studies class?",
+                  "cn": "谁教你们环境学？"
+                },
+                {
+                  "gram": "",
+                  "en": "I missed my aerobics class yesterday.",
+                  "cn": "我昨天没去上有氧健身操课。"
+                },
+                {
+                  "gram": "",
+                  "en": "Classes have been cancelled today because of a staff meeting.",
+                  "cn": "因为有全体教工会议，今天的课取消了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of students who successfully finished their studies in a particular year:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The class of 2004 achieved the highest ever SAT scores in this district.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ECONOMIC GROUP",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a group of people within society who have the same economic and social position",
+                "cn": "社会等级；阶级；阶层"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Labour Party has lost a lot of support among the working class.",
+                  "cn": "工党失去了工人阶级中许多人的支持。"
+                },
+                {
+                  "gram": "",
+                  "en": "She belongs to the rich American upper class.",
+                  "cn": "她属于富裕的美国上层阶级。"
+                },
+                {
+                  "gram": "",
+                  "en": "We live in a middle class neighbourhood.",
+                  "cn": "我们住在一个中产阶级居住区。"
+                },
+                {
+                  "gram": "",
+                  "en": "She comes from an upper middle class background.",
+                  "cn": "她出身于中上层阶级家庭。"
+                },
+                {
+                  "gram": "",
+                  "en": "He was a member of the ruling classes.",
+                  "cn": "他是统治阶级中的一员。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's studying the class structure of Japan.",
+                  "cn": "她在研究日本的阶级结构。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RANK",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a group into which goods, services, or people are put according to their standard",
+                "cn": "（货物、服务或人的）等级，类别，级别"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Whenever I travel by train, I always travel first class.",
+                  "cn": "我每次乘火车旅行都坐头等车厢。"
+                },
+                {
+                  "gram": "",
+                  "en": "first/second class mail",
+                  "cn": "一类／二类邮件"
+                },
+                {
+                  "gram": "",
+                  "en": "a business/economy class ticket",
+                  "cn": "商务舱／经济舱的机票"
+                },
+                {
+                  "gram": "",
+                  "en": "When it comes to mathematics, he's in a different class to his peers.",
+                  "cn": "说到数学，他和他的同龄人不在一个级别上。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in the UK, the standard that someone has reached in their university degree",
+                "cn": "（英国大学学位成绩的）等级"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What class of degree did you get?",
+                  "cn": "你得的是几等学位？"
+                },
+                {
+                  "gram": "",
+                  "en": "He graduated with a second-class honours degree in physics.",
+                  "cn": "他以物理学二等优秀学位毕业。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in UK law, a group of illegal drugs classified according to how dangerous they are thought to be and how severe the punishment is for using or selling them, with class A the most dangerous :",
+                "cn": "他被控持有一种A类毒品，即海洛因。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was charged with possession of a class A drug, namely heroin.",
+                  "cn": "他被控持有一种A类毒品，即海洛因。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be the best at a particular activity:",
+                "cn": "作为一名长跑选手，她是一流的。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As a long-distance runner, she's in a class of her own.",
+                  "cn": "作为一名长跑选手，她是一流的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be something of such a high quality that nothing can be compared to it:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In New York, it is clear that Dominican hair salons are in a class of their own.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be much better at doing something than you:",
+                "cn": "我没法跟他对弈。他水平比我高多了！"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I can't play chess with him. He's completely out of my class!",
+                  "cn": "我没法跟他对弈。他水平比我高多了！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "STYLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the quality of being stylish or fashionable",
+                "cn": "风度;时髦;优雅"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's got real class.",
+                  "cn": "她的确风姿优雅。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BIOLOGY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of related plants or animals, in the general classification of plants and animals",
+                "cn": "（植物或动物分类的）纲"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/klɑːs/",
+        "us": "/klæs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klɑːs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcla/ukclap_020.mp3"
+        },
+        "us": {
+          "ipa": "/klæs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cla/class/class.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to consider someone or something to belong to a particular group because of their qualities",
+                "cn": "把…归类；把…分级"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm 17, but I'm still classed as a child when I travel by bus.",
+                  "cn": "我17岁了，可是乘公共汽车时仍然被视为儿童。"
+                },
+                {
+                  "gram": "",
+                  "en": "I would class her among/with the top ten American novelists.",
+                  "cn": "我会将她列为美国最好的10位小说家之一。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/klɑːs/",
+        "us": "/klæs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klɑːs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcla/ukclap_020.mp3"
+        },
+        "us": {
+          "ipa": "/klæs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cla/class/class.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "very good",
+                "cn": "极好的;优秀的;出色的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a class act",
+                  "cn": "出色的行为"
+                },
+                {
+                  "gram": "",
+                  "en": "He's a class golfer.",
+                  "cn": "他是位一流的高尔夫球手。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

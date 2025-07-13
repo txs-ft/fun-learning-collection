@@ -1,0 +1,183 @@
+{
+  "time": 1752139720471,
+  "title": "around",
+  "generalBitmask": 24,
+  "allDefinitions": [
+    {
+      "pos": "preposition, adverb",
+      "defBitmask": 24,
+      "pron": {
+        "uk": "/əˈraʊnd/",
+        "us": "/əˈraʊnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarm/ukarmho014.mp3"
+        },
+        "us": {
+          "ipa": "/əˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aro/aroun/around.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SURROUNDING OR TURNING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in a position or direction surrounding, or in a direction going along the edge of or from one part to another (of)",
+                "cn": "四处，周围；围绕，（环）绕；掉转"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We sat around the table.",
+                  "cn": "我们围着桌子坐着。"
+                },
+                {
+                  "gram": "",
+                  "en": "He put his arm around her.",
+                  "cn": "他用胳膊搂着她。"
+                },
+                {
+                  "gram": "",
+                  "en": "A crowd had gathered around the scene of the accident.",
+                  "cn": "事故现场围了一群人。"
+                },
+                {
+                  "gram": "",
+                  "en": "She had a scarf around her neck.",
+                  "cn": "她脖子上围了一条围巾。"
+                },
+                {
+                  "gram": "",
+                  "en": "The moon goes around the earth.",
+                  "cn": "月亮围绕地球转。"
+                },
+                {
+                  "gram": "",
+                  "en": "I walked around the side of the building.",
+                  "cn": "我从楼的一侧绕了过去。"
+                },
+                {
+                  "gram": "",
+                  "en": "The children were dancing around the room.",
+                  "cn": "孩子们在房间里来回跳舞。"
+                },
+                {
+                  "gram": "",
+                  "en": "I spent a year travelling around Africa and Asia.",
+                  "cn": "我用了一年时间周游了非洲和亚洲。"
+                },
+                {
+                  "gram": "",
+                  "en": "The museum's collection includes works of art from all around the world.",
+                  "cn": "这个博物馆的馆藏包括来自世界各地的艺术品。"
+                },
+                {
+                  "gram": "",
+                  "en": "She passed a plate of biscuits around (= from one person to another).",
+                  "cn": "她端出一盘饼干让大家传着分享。"
+                },
+                {
+                  "gram": "",
+                  "en": "This virus has been going around (= from one person to another).",
+                  "cn": "这种病毒已经传播开来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN THIS PLACE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "positioned or moving in or near a place, often without a clear direction, purpose, or order",
+                "cn": "（在…）附近，在（…）近处；到处，四处；随便"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He always leaves his clothes lying around (on the floor).",
+                  "cn": "他总是随手把衣服（往地板上）一扔。"
+                },
+                {
+                  "gram": "",
+                  "en": "She went into town and spent two hours just walking around.",
+                  "cn": "她进了城，四处转悠了两个小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let's take the children to the park so they can run around for a while.",
+                  "cn": "我们把孩子们带到公园去让他们到处跑跑吧。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/əˈraʊnd/",
+        "us": "/əˈraʊnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukarm/ukarmho014.mp3"
+        },
+        "us": {
+          "ipa": "/əˈraʊnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aro/aroun/around.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "APPROXIMATELY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "approximately",
+                "cn": "大约，大概，左右"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "around six feet tall",
+                  "cn": "大约6英尺高"
+                },
+                {
+                  "gram": "",
+                  "en": "around two months ago",
+                  "cn": "大约两个月前"
+                },
+                {
+                  "gram": "",
+                  "en": "around four o'clock",
+                  "cn": "4点左右"
+                },
+                {
+                  "gram": "",
+                  "en": "She earns around $40,000 a year.",
+                  "cn": "她一年大约挣4万美元。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

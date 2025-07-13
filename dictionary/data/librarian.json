@@ -1,0 +1,53 @@
+{
+  "time": 1752140584875,
+  "title": "librarian",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/laɪˈbreə.ri.ən/",
+        "us": "/laɪˈbrer.i.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/laɪˈbreə.ri.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklib/ukliber021.mp3"
+        },
+        "us": {
+          "ipa": "/laɪˈbrer.i.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lib/libra/librarian.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who works in a library, is trained in the organization or running of libraries, or is in charge of a library",
+                "cn": "图书管理员，图书馆馆员"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The young librarian is great at finding titles children will like.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The Central Library saves money by hiring clerks paid by the hour rather than trained librarians.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

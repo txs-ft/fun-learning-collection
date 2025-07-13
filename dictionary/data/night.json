@@ -1,0 +1,194 @@
+{
+  "time": 1752140702936,
+  "title": "night",
+  "generalBitmask": 513,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/naɪt/",
+        "us": "/naɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/naɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkne/ukkneel012.mp3"
+        },
+        "us": {
+          "ipa": "/naɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kni/knigh/knight.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DARK PERIOD",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the part of every 24-hour period when it is dark because there is very little light from the sun",
+                "cn": "夜晚，夜间，黑夜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It gets cold at night.",
+                  "cn": "夜间天气转凉。"
+                },
+                {
+                  "gram": "",
+                  "en": "I slept really badly last night.",
+                  "cn": "我昨晚睡得很不好。"
+                },
+                {
+                  "gram": "",
+                  "en": "I spent the night at Ted's.",
+                  "cn": "我在特德家里过的夜。"
+                },
+                {
+                  "gram": "",
+                  "en": "He took the night ferry/train.",
+                  "cn": "他搭乘了夜班渡轮／火车。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EVENING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the period of time between the late afternoon and going to bed; the evening",
+                "cn": "晚上（指傍晚至就寝前的时段）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Let's go out on Saturday night.",
+                  "cn": "我们周六晚上出去玩好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "We've eaten out every night this week.",
+                  "cn": "我们这个星期每天晚上都出去吃饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's a singer in a bar by night and a secretary by day.",
+                  "cn": "她晚上在酒吧唱歌，白天则从事秘书工作。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the evening on which a special event happens",
+                "cn": "（特殊活动之）夜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When's the last night of your show?",
+                  "cn": "你什么时候演最后一场？"
+                },
+                {
+                  "gram": "",
+                  "en": "The first/opening night of her new movie was a great success.",
+                  "cn": "她的新电影的首映相当成功。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used as another way of saying good night, usually by or to children:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Night-night, Daddy.\" \"Good night, honey. Sleep well!\"",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "on one evening recently:",
+                "cn": "我前几天晚上在健身房见到了娜奥米。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I saw Naomi at the gym the other night.",
+                  "cn": "我前几天晚上在健身房见到了娜奥米。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an evening spent at a restaurant, theatre, etc. rather than staying at home:",
+                "cn": "我这个周末需要跟女生朋友们出去玩一玩。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I need a night out with the girls this weekend.",
+                  "cn": "我这个周末需要跟女生朋友们出去玩一玩。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "exclamation",
+      "defBitmask": 512,
+      "pron": {
+        "uk": "/naɪt/",
+        "us": "/naɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/naɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukk/ukkne/ukkneel012.mp3"
+        },
+        "us": {
+          "ipa": "/naɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/k/kni/knigh/knight.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a friendly way of saying goodbye when you leave someone in the evening or before going to bed or to sleep",
+                "cn": "（晚上与人分别时礼貌地道别用语）晚安"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Night, sweetheart! Sleep well!",
+                  "cn": "甜心，晚安！好好睡！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

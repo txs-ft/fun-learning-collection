@@ -1,0 +1,414 @@
+{
+  "time": 1752141235239,
+  "title": "under",
+  "generalBitmask": 4120,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/ˈʌn.dər/",
+        "us": "/ˈʌn.dɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʌn.dər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukund/ukundef004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʌn.dɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/und/under/under.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LOWER POSITION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "in or to a position below or lower than something else, often so that one thing covers the other",
+                "cn": "在（或到）下面；在（或到）下方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He hid under the bed.",
+                  "cn": "他躲在床底下。"
+                },
+                {
+                  "gram": "",
+                  "en": "In AD 79 the city of Pompei was buried under a layer of ash seven metres deep.",
+                  "cn": "公元79年，庞贝古城被湮没在7米深的火山灰下。"
+                },
+                {
+                  "gram": "",
+                  "en": "She put the thermometer under my tongue.",
+                  "cn": "她把温度计放到我的舌头下面。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was holding a folder under her arm (= between her upper arm and the side of her body).",
+                  "cn": "她腋下夹着一个文件夹。"
+                },
+                {
+                  "gram": "",
+                  "en": "They stood under a tree (= below its branches) to avoid getting wet.",
+                  "cn": "他们站在树下避雨。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a piece of land is under a particular type of plant, that plant is growing on the whole of that area.",
+                "cn": "（土地）被…植物覆盖的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The main fields are under wheat.",
+                  "cn": "主要的农田都种了麦子。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a book, article, or piece of information is under a particular title, you can find it below or following that title in a list, book, library, etc.",
+                "cn": "（书、文章或信息）属于…类别，在…项下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Books on Ansel Adams will probably be under Art or Photography.",
+                  "cn": "关于安塞尔·亚当斯的书很可能属于艺术或摄影类。"
+                },
+                {
+                  "gram": "",
+                  "en": "Custard? That comes under Desserts.",
+                  "cn": "蛋奶甜羹？应该在甜点类中找。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LESS THAN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "less than",
+                "cn": "少于；低于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All items cost/are under a pound.",
+                  "cn": "所有物品价格均低于1英镑。"
+                },
+                {
+                  "gram": "",
+                  "en": "The discount applies only to children under (the age of) ten (= younger than ten).",
+                  "cn": "折扣仅面向10岁以下儿童。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you get under 50 percent, you fail the exam.",
+                  "cn": "如果考分低于总分的一半，你就没有及格。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPERIENCING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "happening during, as a result of, or according to a particular situation, event, rule, etc.",
+                "cn": "在…情况下;由于;根据"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The work was completed under very difficult conditions.",
+                  "cn": "这项工作是在极端困难的情况下完成的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Now that the deadline is approaching we all feel under pressure.",
+                  "cn": "由于最后期限就要到了，我们都感受到了压力。"
+                },
+                {
+                  "gram": "",
+                  "en": "The chair broke under his weight (= because he was too heavy for it).",
+                  "cn": "他太重了，椅子承受不住被压坏了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Under the current rules, you need the agreement of at least 6 out of 10 committee members.",
+                  "cn": "根据现有的规则，你必须取得委员会十位成员中至少六人的同意。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in the process of being attacked, considered, discussed, etc.",
+                "cn": "遭受攻击／正在考虑／正在讨论（等等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The town is under fire (= is being attacked) from the air.",
+                  "cn": "该城正遭受空袭。"
+                },
+                {
+                  "gram": "",
+                  "en": "The proposals are now under consideration by the Board of Governors.",
+                  "cn": "理事会正在考虑这些提议。"
+                },
+                {
+                  "gram": "",
+                  "en": "The situation is still not under control.",
+                  "cn": "局势仍然没有得到控制。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "treated in the way mentioned",
+                "cn": "处于镇静剂／麻醉剂的作用之下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The patient is being kept under heavy sedation.",
+                  "cn": "病人正处于服药后的深度镇静状态。"
+                },
+                {
+                  "gram": "",
+                  "en": "She'll have to go under anaesthetic for the operation.",
+                  "cn": "手术前必须给她施行麻醉。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's been under the doctor for a viral infection.",
+                  "cn": "她因病毒感染接受了医生治疗。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to believe something, often wrongly",
+                "cn": "（常指错误地）以为／相信"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was under the mistaken belief that I was in charge.",
+                  "cn": "他误以为是我在负责。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTROL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "controlled or governed by a particular person, organization, or force",
+                "cn": "受…的控制（或管理）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's a Colonel, with hundreds of soldiers under him (= obeying his orders).",
+                  "cn": "他是一名上校，手下有数百名士兵。"
+                },
+                {
+                  "gram": "",
+                  "en": "I wonder what Britain was like under the Romans (= during the time when the Romans controlled Britain).",
+                  "cn": "我想知道英国在罗马人统治时期是什么样子。"
+                },
+                {
+                  "gram": "",
+                  "en": "People born under (= during the period of) the zodiac sign Pisces are supposed to be dreamy and artistic.",
+                  "cn": "有人认为，双鱼座的人爱幻想、有艺术细胞。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to have been ordered to do something",
+                "cn": "奉命，受命"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They're under strict orders not to discuss the situation.",
+                  "cn": "他们被严令不得讨论时局。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's under doctor's orders (= has been told by a doctor) to cut down on fatty food and to drink no alcohol for at least six months.",
+                  "cn": "医生告诫他要在至少半年的时间内少吃油腻食物、滴酒不沾。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NAME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "using a particular name, especially one that is not your real name",
+                "cn": "用，以（尤指假名）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He writes under the name (of) John le Carré.",
+                  "cn": "他用约翰•勒•卡雷这个名字创作。"
+                },
+                {
+                  "gram": "",
+                  "en": "For his own safety, he has to operate under a false name/an alias.",
+                  "cn": "为了自身安全，他不得不使用假名／化名。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈʌn.dər/",
+        "us": "/ˈʌn.dɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈʌn.dər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uku/ukund/ukundef004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈʌn.dɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/und/under/under.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "below the surface of something",
+                "cn": "在下面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Because I'm a bad swimmer, I often go under and swallow a lot of water.",
+                  "cn": "因为游泳水平很差，我经常沉到水下，呛很多水。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/ʌn.dər-/",
+        "us": "/ʌn.dɚ-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʌn.dər-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukl30/ukl30223.mp3"
+        },
+        "us": {
+          "ipa": "/ʌn.dɚ-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usl/usl30/usl30211.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "not enough or not done as well or as much as is necessary",
+                "cn": "不足，不够"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "undercooked potatoes",
+                  "cn": "没煮熟的土豆"
+                },
+                {
+                  "gram": "",
+                  "en": "underprivileged children",
+                  "cn": "贫困儿童"
+                },
+                {
+                  "gram": "",
+                  "en": "We're all overworked and underpaid.",
+                  "cn": "我们全都超时工作，但薪水却很低。"
+                },
+                {
+                  "gram": "",
+                  "en": "His boss says he's under-performing (= not doing as well as he should) at work.",
+                  "cn": "老板说他在工作中表现欠佳。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "below",
+                "cn": "下面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "underwear",
+                  "cn": "内衣"
+                },
+                {
+                  "gram": "",
+                  "en": "an underpass",
+                  "cn": "地下通道"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "time": 1752140179965,
+  "title": "corrupt",
+  "generalBitmask": 6,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/kəˈrʌpt/",
+        "us": "/kəˈrʌpt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈrʌpt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcor/ukcorru002.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈrʌpt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cor/corru/corrupt.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BAD",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "dishonestly using your position or power to get an advantage, especially for money",
+                "cn": "贪赃舞弊的;以权谋私的;腐败的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Both companies are under investigation for corrupt practices.",
+                  "cn": "两家公司都在接受腐败行为调查。"
+                },
+                {
+                  "gram": "",
+                  "en": "The whole system was corrupt - every official she approached wanted money before helping her.",
+                  "cn": "整个体系都腐败了——她接触的所有官员在帮她之前都索要钱财。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "morally bad",
+                "cn": "堕落的，道德败坏的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a corrupt society",
+                  "cn": "道德败坏的社会"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ON COMPUTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "When information on a computer becomes corrupt, it cannot be used because it has changed and become wrong.",
+                "cn": "（计算机上的信息）被破坏的，有错误的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "corrupt data",
+                  "cn": "损坏的数据"
+                },
+                {
+                  "gram": "",
+                  "en": "a corrupt file",
+                  "cn": "被破坏的文件"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kəˈrʌpt/",
+        "us": "/kəˈrʌpt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kəˈrʌpt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcor/ukcorru002.mp3"
+        },
+        "us": {
+          "ipa": "/kəˈrʌpt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cor/corru/corrupt.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKE BAD",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to make someone or something become dishonest or immoral",
+                "cn": "腐蚀…;使腐化堕落;使道德败坏"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The study claimed that violence on television corrupts the minds of children.",
+                  "cn": "研究称电视上的暴力镜头腐蚀了孩子们的思想。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ON COMPUTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to change information on a computer so that it is wrong and cannot be used",
+                "cn": "损坏（计算机上的信息）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Most of the data on the hard drive was corrupted when the power went out.",
+                  "cn": "硬盘上的大多数数据在停电时损坏了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "time": 1752140083689,
+  "title": "carbon",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɑː.bən/",
+        "us": "/ˈkɑːr.bən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɑː.bən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcar/ukcarap010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɑːr.bən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/car/carbo/carbon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SUBSTANCE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a chemical element that exists in its pure form as diamond or graphite, and is an important part of other substances such as coal and oil, as well as being contained in all plants and animals",
+                "cn": "碳"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "DOCUMENT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \ncarbon copy",
+                "cn": "复写本"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

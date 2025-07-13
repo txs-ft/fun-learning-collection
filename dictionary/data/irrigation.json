@@ -1,0 +1,53 @@
+{
+  "time": 1752140509852,
+  "title": "irrigation",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌɪr.ɪˈɡeɪ.ʃən/",
+        "us": "/ˌɪr.əˈɡeɪ.ʃən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌɪr.ɪˈɡeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukirr/ukirres011.mp3"
+        },
+        "us": {
+          "ipa": "/ˌɪr.əˈɡeɪ.ʃən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72604.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the practice of supplying land with water so that crops and plants will grow",
+                "cn": "灌溉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an irrigation system",
+                  "cn": "灌溉系统"
+                },
+                {
+                  "gram": "",
+                  "en": "Dirty irrigation water can spread animal pathogens to fruits and vegetables.",
+                  "cn": "肮脏的灌溉水可能将动物病原体传播到水果和蔬菜上。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "time": 1752140065781,
+  "title": "building",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈbɪl.dɪŋ/",
+        "us": "/ˈbɪl.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbɪl.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbud/ukbuddh027.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbɪl.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bui/build/building.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a structure with walls and a roof, such as a house or factory",
+                "cn": "建筑物;房屋"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The once-empty site was now covered with buildings.",
+                  "cn": "一度空荡荡的地方现在布满了建筑物。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the process or business of making structures such as houses or factories",
+                "cn": "修建，建造;建筑业"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "building costs",
+                  "cn": "建筑造价"
+                },
+                {
+                  "gram": "",
+                  "en": "He started off in the building trade before opening his own restaurant.",
+                  "cn": "在开餐馆以前他做建筑生意起家。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "time": 1752140338210,
+  "title": "five",
+  "generalBitmask": 128,
+  "allDefinitions": [
+    {
+      "pos": "number",
+      "defBitmask": 128,
+      "pron": {
+        "uk": "/faɪv/",
+        "us": "/faɪv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/faɪv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfis/ukfistf012.mp3"
+        },
+        "us": {
+          "ipa": "/faɪv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/fiv/five_/five.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the number 5",
+                "cn": "（数字）5"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Five, four, three, two, one, blast-off!",
+                  "cn": "5，4，3，2，1，点火！"
+                },
+                {
+                  "gram": "",
+                  "en": "I work five days a week.",
+                  "cn": "我一週工作5天。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

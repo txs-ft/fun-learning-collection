@@ -1,0 +1,42 @@
+{
+  "time": 1752141034919,
+  "title": "Spinning",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈspɪn.ɪŋ/",
+        "us": "/ˈspɪn.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈspɪn.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/ca2/ca2uk/ca2uk079.mp3"
+        },
+        "us": {
+          "ipa": "/ˈspɪn.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/ca2/ca2us/ca2us095.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a brand name for a form of exercise that is done inside a building on a machine like a bicycle that you ride very fast without moving forward",
+                "cn": "动感单车，时速单骑（一种室内健身运动）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

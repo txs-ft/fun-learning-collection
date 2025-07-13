@@ -1,5 +1,5 @@
 {
-  "time": 1751350170596,
+  "time": 1752140899535,
   "title": "recommend",
   "generalBitmask": 2,
   "allDefinitions": [
@@ -22,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "B1",
@@ -32,17 +32,17 @@
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "I can recommend the chicken in mushroom sauce - it's delicious.",
                   "cn": "我可以向您推荐蘑菇汁鸡肉——这道菜非常可口。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "She has been recommended for promotion.",
                   "cn": "已经有人推荐给她升职。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "The headmistress agreed to recommend the teachers' proposals to the school governors.",
                   "cn": "女校长同意把这位老师的建议提请学校董事们考虑。"
                 },
@@ -57,7 +57,7 @@
                   "cn": "我建议你把自己的感受写下来。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "The city has much/little to recommend it (= it has many/few pleasant qualities).",
                   "cn": "这座城市可圈可点的地方很多／几乎没有。"
                 }

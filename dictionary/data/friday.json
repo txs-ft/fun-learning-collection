@@ -1,0 +1,73 @@
+{
+  "time": 1752140373556,
+  "title": "Friday",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈfraɪ.deɪ/",
+        "us": "/ˈfraɪ.deɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfraɪ.deɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfri/ukfrica004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfraɪ.deɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71924.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the day of the week after Thursday and before Saturday",
+                "cn": "星期五"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Shall we go to the theatre on Friday?",
+                  "cn": "我们星期五去看戏怎么样？"
+                },
+                {
+                  "gram": "",
+                  "en": "I leave work early on Fridays.",
+                  "cn": "我星期五较早下班。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're going to Paris for the weekend next Friday.",
+                  "cn": "下个星期五我们将去巴黎度周末。"
+                },
+                {
+                  "gram": "",
+                  "en": "I haven't spoken to him since last Friday.",
+                  "cn": "自从上星期五以来我都没有和他说过话。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our next meeting is on the 5th, which is a Friday.",
+                  "cn": "我们下一次会议是在5号，星期五。"
+                },
+                {
+                  "gram": "",
+                  "en": "Friday morning/afternoon/evening/night",
+                  "cn": "星期五上午/下午/傍晚/晚上"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "time": 1752140481358,
+  "title": "holding",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈhəʊl.dɪŋ/",
+        "us": "/ˈhoʊl.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhəʊl.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhob/ukhobno030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhoʊl.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/ush/ushoa/ushoaxe022.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that you own such as shares in a company or buildings, or land that you rent and farm",
+                "cn": "私人股份;私人建筑;租用的农田"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To ensure security the investment fund has holdings in many companies.",
+                  "cn": "为确保资金安全，投资基金会持有多家公司的股份。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈhəʊl.dɪŋ/",
+        "us": "/ˈhoʊl.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhəʊl.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhob/ukhobno030.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhoʊl.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/ush/ushoa/ushoaxe022.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "In football, if a midfield player has a holding role, their main job is to help the defence rather than attack an opponent's goal.",
+                "cn": "（足球比赛中的前卫为了协助防守而非参与进攻而担当）控制球的（角色）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Without a holding midfielder, the two centre backs can be left exposed.",
+                  "cn": "如果没有控球前卫，两名后卫将会易受攻击。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

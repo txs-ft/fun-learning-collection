@@ -1,0 +1,72 @@
+{
+  "time": 1752141162406,
+  "title": "touched",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/tʌtʃt/",
+        "us": "/tʌtʃt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/tʌtʃt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktor/uktortu025.mp3"
+        },
+        "us": {
+          "ipa": "/tʌtʃt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tou/touch/touched.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GRATEFUL",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "grateful for something kind that someone has done",
+                "cn": "受感动的，受触动的;感激的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was very touched by all the cards my friends sent me when I was in hospital.",
+                  "cn": "我住院期间朋友们送的问候卡令我非常感动。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "He was touched that you remembered his birthday.",
+                  "cn": "他很感激你记得他的生日。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "STRANGE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "behaving in an unusual and strange way",
+                "cn": "行为怪异的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You must think I'm a bit touched, hanging around in graveyards.",
+                  "cn": "我老在墓地转悠，你一定觉得我有点儿不正常吧。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "time": 1752140356064,
+  "title": "fluffy",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈflʌf.i/",
+        "us": "/ˈflʌf.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈflʌf.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukflu/ukfluct008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈflʌf.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/f/flu/fluff/fluffy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SOFT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "soft and like wool or fur",
+                "cn": "毛茸茸的；覆有绒毛的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "fluffy toys",
+                  "cn": "毛绒玩具"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "light and full of air",
+                "cn": "松软的；蓬松的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Beat the eggs and sugar together until they are fluffy.",
+                  "cn": "搅打鸡蛋和糖直到松软为止。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "time": 1752140605731,
+  "title": "map",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/mæp/",
+        "us": "/mæp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/mæp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukman/ukmanuf009.mp3"
+        },
+        "us": {
+          "ipa": "/mæp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/map/map__/map.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a drawing of the earth's surface, or part of that surface, showing the shape and position of different countries, political borders, natural features such as rivers and mountains, and artificial features such as roads and buildings",
+                "cn": "地图"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a map of the world",
+                  "cn": "世界地图"
+                },
+                {
+                  "gram": "",
+                  "en": "a map of Paris",
+                  "cn": "巴黎地图"
+                },
+                {
+                  "gram": "",
+                  "en": "a road map",
+                  "cn": "公路图"
+                },
+                {
+                  "gram": "",
+                  "en": "We need a large-scale map showing all the footpaths that we can walk along.",
+                  "cn": "我们需要一张大比例尺地图，上面要标出所有能走的小路。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm terrible at map reading (= understanding maps).",
+                  "cn": "我一点儿也看不懂地图。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a drawing that gives you a particular type of information about a particular area",
+                "cn": "（提供特定区域特定信息的）图"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He bought a map showing the population distribution of Scotland.",
+                  "cn": "他买了一张苏格兰人口分布图。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that shows the position of stars in the sky or the features on the surface of planets",
+                "cn": "（标明恒星位置或行星表面特征的）天体图"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a celestial map",
+                  "cn": "天体图"
+                },
+                {
+                  "gram": "",
+                  "en": "a map of Mars",
+                  "cn": "火星地形图"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a very simple drawing that shows a direction of travel between one place and another",
+                "cn": "示意图"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll draw you a quick map if you're worried about finding the hotel.",
+                  "cn": "如果你担心找不到那家旅馆，我给你画张简单的示意图。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/mæp/",
+        "us": "/mæp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/mæp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukman/ukmanuf009.mp3"
+        },
+        "us": {
+          "ipa": "/mæp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/map/map__/map.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to represent an area of land in the form of a map",
+                "cn": "绘制…的地图;在地图上标示出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Parts of the mountainous region in the north of the country have still not been mapped.",
+                  "cn": "人们还未为这个国家北部的部分山区绘制地图。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

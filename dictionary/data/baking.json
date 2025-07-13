@@ -1,0 +1,123 @@
+{
+  "time": 1752139895120,
+  "title": "baking",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈbeɪ.kɪŋ/",
+        "us": "/ˈbeɪ.kɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbeɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo11/cdo1121ukbaki0569.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbeɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo11/cdo1121usbaki0460.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the activity of making things such as cakes, bread, and biscuits by cooking them inside an oven",
+                "cn": "烘焙糕点"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I use palm sugar in baking, and I really like the taste.",
+                  "cn": "我在烘焙糕点时使用棕榈糖，我非常喜欢这种味道。"
+                },
+                {
+                  "gram": "",
+                  "en": "The show led to a huge rise in the popularity of baking.",
+                  "cn": "该节目导致糕点烘焙的普及率大幅上升。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the process or fact of something being cooked inside an oven",
+                "cn": "烘焙过程"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The pastry may puff up during baking.",
+                  "cn": "糕点在烘烤过程中可能会膨胀。"
+                },
+                {
+                  "gram": "",
+                  "en": "After baking, the cheesecake is chilled and topped with cream.",
+                  "cn": "烘烤后，将芝士蛋糕冷藏并在上面涂上奶油。"
+                },
+                {
+                  "gram": "",
+                  "en": "a baking dish",
+                  "cn": "烤盘"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈbeɪ.kɪŋ/",
+        "us": "/ˈbeɪ.kɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈbeɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo11/cdo1121ukbaki0569.mp3"
+        },
+        "us": {
+          "ipa": "/ˈbeɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo11/cdo1121usbaki0460.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "very hot",
+                "cn": "酷热"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's really baking out there.",
+                  "cn": "那里真的很热。"
+                },
+                {
+                  "gram": "",
+                  "en": "They worked all day under a baking hot sun.",
+                  "cn": "他们在烈日下工作了一整天。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "time": 1752140131765,
+  "title": "cloud",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/klaʊd/",
+        "us": "/klaʊd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klaʊd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukclo/ukclosu008.mp3"
+        },
+        "us": {
+          "ipa": "/klaʊd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clo/cloud/cloud.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "IN SKY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a grey or white mass in the sky, made up of very small floating drops of water",
+                "cn": "云"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you think those are rain clouds on the horizon?",
+                  "cn": "你看天边那些云是雨云吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The sky was a perfect blue - not a cloud in sight.",
+                  "cn": "天空一片湛蓝——万里无云。"
+                },
+                {
+                  "gram": "",
+                  "en": "Dark clouds massed on the horizon.",
+                  "cn": "天边阴云密布。"
+                },
+                {
+                  "gram": "",
+                  "en": "There was so much cloud, we couldn't see anything.",
+                  "cn": "云层太厚，我们什么也看不见。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MASS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a mass of something such as dust or smoke that looks like a cloud",
+                "cn": "一团（尘土、烟雾等）;云状物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "On the eastern horizon, a huge cloud of smoke from burning oil tanks stretched across the sky.",
+                  "cn": "在东方的地平线上，着火的储油罐冒出的浓烟弥漫在天际。"
+                },
+                {
+                  "gram": "",
+                  "en": "The initial cloud of tear gas had hardly cleared before shots were fired.",
+                  "cn": "催泪瓦斯的第一团烟雾刚散尽，射击就开始了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPUTING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a computer network where files and programs can be stored, especially the internet",
+                "cn": "（网络）云"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All the photographs are kept on the cloud rather than on hard drives.",
+                  "cn": "所有的照片都存在网络云里，而不是硬盘上。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/klaʊd/",
+        "us": "/klaʊd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/klaʊd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukclo/ukclosu008.mp3"
+        },
+        "us": {
+          "ipa": "/klaʊd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/clo/cloud/cloud.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something transparent clouds, or if something clouds it, it becomes difficult to see through.",
+                "cn": "（使）变得模糊，（使）变得黯然"
+              },
+              "examples": []
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to make someone confused, or make something more difficult to understand",
+                "cn": "使迷惑;使不清楚;使难以理解"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When it came to explaining the lipstick on his collar, he found that drink had clouded (= confused) his memory.",
+                  "cn": "等到要他解释衣领上的口红印时，他才意识到当时酒喝得太多，什么都记不清了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

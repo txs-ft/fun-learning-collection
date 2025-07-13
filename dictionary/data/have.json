@@ -1,0 +1,508 @@
+{
+  "time": 1752397824987,
+  "title": "have",
+  "generalBitmask": 49154,
+  "allDefinitions": [
+    {
+      "pos": "auxiliary verb",
+      "defBitmask": 16384,
+      "pron": {
+        "uk": "strong /hæv/",
+        "us": "strong /hæv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /hæv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhav/ukhave_001.mp3"
+        },
+        "us": {
+          "ipa": "strong /hæv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hav/have_/have.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used with the past participle of other verbs to form the present perfect and past perfect",
+                "cn": "（与动词的过去分词连用，构成现在完成时和过去完成时）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've heard that story before.",
+                  "cn": "我以前听过那个故事。"
+                },
+                {
+                  "gram": "",
+                  "en": "Diane's already gone.",
+                  "cn": "黛安娜已经走了。"
+                },
+                {
+                  "gram": "",
+                  "en": "John hasn't phoned.",
+                  "cn": "约翰没有打过电话。"
+                },
+                {
+                  "gram": "",
+                  "en": "I haven't visited London before.",
+                  "cn": "我以前没去过伦敦。"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you seen Roz?",
+                  "cn": "你见过罗兹吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Has she been invited?",
+                  "cn": "她接到邀请了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "They still hadn't had any news when I spoke to them yesterday.",
+                  "cn": "昨天我和他们交谈时他们仍没有收到任何消息。"
+                },
+                {
+                  "gram": "",
+                  "en": "Had I known (= if I had known) you were coming, I'd have booked a larger room.",
+                  "cn": "要是知道你会来，我会订一个大一点的房间。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "strong /hæv/",
+        "us": "strong /hæv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /hæv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhav/ukhave_001.mp3"
+        },
+        "us": {
+          "ipa": "strong /hæv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hav/have_/have.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "POSSESS",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to own",
+                "cn": "有，拥有"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They have a beautiful home.",
+                  "cn": "他们有一个漂亮的家。"
+                },
+                {
+                  "gram": "",
+                  "en": "He has plenty of money but no style.",
+                  "cn": "他有很多钱但没有品位。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got two brothers.",
+                  "cn": "我有两个兄弟。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you have time to finish the report today?",
+                  "cn": "你今天有时间写完报告吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got a suggestion/an idea.",
+                  "cn": "我有个建议／主意。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to do one good thing, although you do other bad or silly things:",
+                "cn": "至少他还干了件好事，把煤气关了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "At least he had the good sense to turn the gas off.",
+                  "cn": "至少他还干了件好事，把煤气关了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BE ILL",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "If you have a particular illness, you suffer from it.",
+                "cn": "生（病）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Have you ever had measles?",
+                  "cn": "你出过麻疹没有？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got a cold.",
+                  "cn": "我感冒了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DO",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to perform the action mentioned",
+                "cn": "做（提到的事）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "have a wash/bath/shower",
+                  "cn": "冲澡／洗澡／洗淋浴"
+                },
+                {
+                  "gram": "",
+                  "en": "I had a swim.",
+                  "cn": "我游了会儿泳。"
+                },
+                {
+                  "gram": "",
+                  "en": "We had a short walk after lunch.",
+                  "cn": "午饭后我们散了一小会儿步。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've never done it before but I'd like to have a try (= to try).",
+                  "cn": "我以前从没做过，但我想试一试。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't you have a rest?",
+                  "cn": "你为什么不休息一下？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EAT/DRINK",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to eat or drink something",
+                "cn": "吃;喝"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I had prawns and rice for lunch.",
+                  "cn": "我午饭吃的是大虾和米饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "Can I have a drink of water?",
+                  "cn": "我能喝口水吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "When are we having dinner?",
+                  "cn": "我们什么时候吃晚饭？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RECEIVE/ALLOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to receive, accept, or allow something to happen",
+                "cn": "收到;接受，允许"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Here, have some more coffee.",
+                  "cn": "来，再喝点咖啡。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "My mother's having visitors (to stay) next week.",
+                  "cn": "我母亲下星期有客人（来住）。"
+                },
+                {
+                  "gram": "",
+                  "en": "Let me have the book back next week.",
+                  "cn": "下星期把这本书还给我。"
+                },
+                {
+                  "gram": "",
+                  "en": "In the end they solved their problems and she had him back (= allowed him to come and live with her again).",
+                  "cn": "最后他们解决了问题，她允许他回到自己身边。"
+                },
+                {
+                  "gram": "",
+                  "en": "I looked in all the shops for Worcestershire sauce but there was none to be had (= none that anyone could obtain).",
+                  "cn": "我跑遍了所有的商店，可都没有伍斯特酱卖。"
+                },
+                {
+                  "gram": "",
+                  "en": "I kept telling him that you were French but he wouldn't have it (= would not accept that it was true).",
+                  "cn": "我反复跟他说你是法国人，可是他就是不肯相信。"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "I won't have those kids running all over my flowerbeds (= I refuse to allow them to do this).",
+                  "cn": "我不允许那些孩子在我的花坛上跑来跑去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MAKE HAPPEN",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to cause something to happen or someone to do something",
+                "cn": "引起，使"
+              },
+              "examples": [
+                {
+                  "gram": "[ + past participle ]",
+                  "en": "We're having the house painted next month.",
+                  "cn": "下个月我们要油漆房子。"
+                },
+                {
+                  "gram": "[ + infinitive without to ]",
+                  "en": "If you wait, I'll have someone collect it for you.",
+                  "cn": "如果你等一会儿的话，我会让人帮你去取的。"
+                },
+                {
+                  "gram": "[ + obj + -ing verb  ]",
+                  "en": "The film soon had us crying.",
+                  "cn": "电影开演后不久就让我们感动得哭了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Gus will have it working in no time.",
+                  "cn": "盖伊很快就会让它运转起来的。"
+                },
+                {
+                  "gram": "",
+                  "en": "She had her parents down (= invited them to stay) for a week in the summer.",
+                  "cn": "夏天，她把父母接来住了一个星期。"
+                },
+                {
+                  "gram": "",
+                  "en": "We had the boat out (= went out in the boat) for the first time this week.",
+                  "cn": "这是我们本周第一次乘船出游。"
+                },
+                {
+                  "gram": "",
+                  "en": "We often have friends over/round (= invite them to come) on a Saturday night.",
+                  "cn": "周六晚上我们经常邀请朋友来家里作客。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUFFER",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to suffer something that someone does to you",
+                "cn": "遭受…，被…"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She had her car stolen (= it was stolen) last week.",
+                  "cn": "她的汽车上周被盗了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPERIENCE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to experience something",
+                "cn": "经历"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're having a wonderful time here in Venice.",
+                  "cn": "我们在威尼斯过得很愉快。"
+                },
+                {
+                  "gram": "",
+                  "en": "We didn't have any difficulty/problem finding the house.",
+                  "cn": "我们没费什么周折就找到了这座房子。"
+                },
+                {
+                  "gram": "",
+                  "en": "He hasn't been having much luck recently.",
+                  "cn": "他最近的运气不太好。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BABY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to give birth to a baby",
+                "cn": "生，生育"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Elaine had a baby girl yesterday.",
+                  "cn": "伊莱恩昨天生了个女儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "My mother had me at home.",
+                  "cn": "我母亲是在家里生下我的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be pregnant:",
+                "cn": "我听说他妻子怀孕了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I hear his wife's having a baby.",
+                  "cn": "我听说他妻子怀孕了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEX",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to have sex with someone",
+                "cn": "和…有性关系"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He asked me how many men I'd had.",
+                  "cn": "他问我与多少男人有过性关系。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "modal verb",
+      "defBitmask": 32768,
+      "pron": {
+        "uk": "strong /hæv/",
+        "us": "strong /hæv/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /hæv/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhav/ukhave_001.mp3"
+        },
+        "us": {
+          "ipa": "strong /hæv/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hav/have_/have.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to need to or be forced:",
+                "cn": "我明天得去旧金山出差。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I have to go to San Francisco tomorrow on business.",
+                  "cn": "我明天得去旧金山出差。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "used to say that something must be true:",
+                "cn": "那个总数一定是对的，我已经查过两次了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That total has to be right - I've checked it twice.",
+                  "cn": "那个总数一定是对的，我已经查过两次了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

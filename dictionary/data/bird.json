@@ -1,0 +1,101 @@
+{
+  "time": 1752139977667,
+  "title": "bird",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/bɜːd/",
+        "us": "/bɝːd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɜːd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbip/ukbipla004.mp3"
+        },
+        "us": {
+          "ipa": "/bɝːd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/bir/bird_/bird.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CREATURE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a creature with feathers and wings, usually able to fly",
+                "cn": "鸟；禽"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "caged/wild birds",
+                  "cn": "笼中鸟／野鸟"
+                },
+                {
+                  "gram": "",
+                  "en": "wading birds",
+                  "cn": "涉禽"
+                },
+                {
+                  "gram": "",
+                  "en": "Most birds lay eggs in the spring.",
+                  "cn": "大多数鸟都在春天产卵。"
+                },
+                {
+                  "gram": "",
+                  "en": "Penguins and ostriches are flightless birds (= they cannot fly).",
+                  "cn": "企鹅和鸵鸟都不会飞。"
+                },
+                {
+                  "gram": "",
+                  "en": "We watched a flock of birds fly over the field.",
+                  "cn": "我们看着一群鸟飞过田野。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a particular type of person",
+                "cn": "某类人；家伙"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's a tough old bird.",
+                  "cn": "他是一个固执的老家伙。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a young woman",
+                "cn": "年轻女人，妞"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is that Lee's new bird?",
+                  "cn": "那是李新认识的妞吗？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

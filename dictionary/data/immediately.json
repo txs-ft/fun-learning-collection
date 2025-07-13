@@ -1,0 +1,137 @@
+{
+  "time": 1752140494156,
+  "title": "immediately",
+  "generalBitmask": 40,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ɪˈmiː.di.ət.li/",
+        "us": "/ɪˈmiː.di.ət.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪˈmiː.di.ət.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimm/ukimmac010.mp3"
+        },
+        "us": {
+          "ipa": "/ɪˈmiː.di.ət.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/imm/immed/immediately.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "now or without waiting or thinking",
+                "cn": "立即，马上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We really ought to leave immediately.",
+                  "cn": "我们真的应该马上就走。"
+                },
+                {
+                  "gram": "",
+                  "en": "The purpose of the meeting wasn't immediately obvious.",
+                  "cn": "会议的目的并不明确。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "close to something or someone in distance or time",
+                "cn": "（距离或时间上）接近，紧接"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Milton Street is on the left, immediately after the bank.",
+                  "cn": "米尔顿大街在左边，一过银行就是。"
+                },
+                {
+                  "gram": "",
+                  "en": "They moved in immediately before Christmas.",
+                  "cn": "他们在圣诞节前不久才搬进来。"
+                },
+                {
+                  "gram": "",
+                  "en": "We heard a loud crash from the room immediately above us.",
+                  "cn": "我们听到从正上方的房间传来了一声巨响。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "closely or directly",
+                "cn": "紧接地;直接地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The people most immediately affected by the drought are the farmers themselves.",
+                  "cn": "受干旱影响最直接的是农民自身。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 1
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/ɪˈmiː.di.ət.li/",
+        "us": "/ɪˈmiː.di.ət.li/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪˈmiː.di.ət.li/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimm/ukimmac010.mp3"
+        },
+        "us": {
+          "ipa": "/ɪˈmiː.di.ət.li/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/cald4/cald4us1202.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "as soon as",
+                "cn": "一…就"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Immediately she'd gone, the boys started to mess about.",
+                  "cn": "她一走开，男孩们便闹成一团。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll call you immediately I hear anything.",
+                  "cn": "我一有什么消息就给你打电话。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 1
+    }
+  ]
+}

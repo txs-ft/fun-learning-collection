@@ -1,0 +1,184 @@
+{
+  "time": 1752140593102,
+  "title": "local",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈləʊ.kəl/",
+        "us": "/ˈloʊ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈləʊ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukloa/ukload_024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈloʊ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/loc/local/local.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "from, existing in, serving, or responsible for a small area, especially of a country",
+                "cn": "当地的，本地的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a local accent",
+                  "cn": "当地口音"
+                },
+                {
+                  "gram": "",
+                  "en": "local issues",
+                  "cn": "当地的问题"
+                },
+                {
+                  "gram": "",
+                  "en": "a local newspaper/radio station",
+                  "cn": "地方报纸／电台"
+                },
+                {
+                  "gram": "",
+                  "en": "Most of the local population depend on fishing for their income.",
+                  "cn": "当地人大多靠打鱼为生。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our children all go to the local school.",
+                  "cn": "我们的孩子都在当地的学校上学。"
+                },
+                {
+                  "gram": "",
+                  "en": "Many local shops will be forced to close if the new supermarket is built.",
+                  "cn": "如果兴建这个新的超市，那么许多当地的商店都将被迫关闭。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "limited to a particular part of the body",
+                "cn": "局部的，部分的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a local anaesthetic",
+                  "cn": "局部麻醉"
+                },
+                {
+                  "gram": "",
+                  "en": "local swelling",
+                  "cn": "局部肿胀"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈləʊ.kəl/",
+        "us": "/ˈloʊ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈləʊ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukloa/ukload_024.mp3"
+        },
+        "us": {
+          "ipa": "/ˈloʊ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/loc/local/local.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a person who lives in the particular small area that you are talking about",
+                "cn": "当地人，本地人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The café is popular with both locals and visitors.",
+                  "cn": "这家咖啡馆很受当地人和游客的青睐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUB",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a pub near to where a person lives, especially if they often go there to drink",
+                "cn": "（尤指经常去的）家附近的酒馆"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The George is my local.",
+                  "cn": "乔治酒馆是我常去的邻近小酒馆。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VEHICLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a train or bus that makes all or most of the stops along its route, allowing passengers to get on or off",
+                "cn": "（指火车或汽车的）慢车"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the 12.24 local to Poughkeepsie",
+                  "cn": "12点24分到波基普西的慢车"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ORGANIZATION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a division within a union representing people from a particular area",
+                "cn": "（尤指全国性工会组织的）当地分支机构"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

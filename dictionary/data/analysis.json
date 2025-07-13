@@ -1,0 +1,58 @@
+{
+  "time": 1752139650186,
+  "title": "analysis",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/əˈnæl.ə.sɪs/",
+        "us": "/əˈnæl.ə.sɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈnæl.ə.sɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukamu/ukamusi025.mp3"
+        },
+        "us": {
+          "ipa": "/əˈnæl.ə.sɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/ana/analy/analysis.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the act of studying or examining something in detail, in order to discover or understand more about it, or your opinion and judgment after doing this",
+                "cn": "分析"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Our financial experts conducted an independent analysis of the investment plan's performance.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "I was interested in Clare's analysis of the situation.",
+                  "cn": "克莱尔对于局势的分析让我很感兴趣。"
+                },
+                {
+                  "gram": "",
+                  "en": "Some of these arguments need further analysis.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 1
+    }
+  ]
+}

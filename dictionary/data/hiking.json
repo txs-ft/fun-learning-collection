@@ -1,0 +1,48 @@
+{
+  "time": 1752140473265,
+  "title": "hiking",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈhaɪ.kɪŋ/",
+        "us": "/ˈhaɪ.kɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhaɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukb02/ukb02555.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhaɪ.kɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usb/usb02/usb02555.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the activity of going for long walks in the countryside",
+                "cn": "（在乡村的）长途徒步旅行，远足，健行"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're going hiking in the Sierra Nevada.",
+                  "cn": "下周末我们要去内华达山脉远足。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

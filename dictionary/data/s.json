@@ -1,0 +1,314 @@
+{
+  "time": 1752140945349,
+  "title": "S, s",
+  "generalBitmask": 8197,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/es/",
+        "us": "/es/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/es/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrut/ukrutte008.mp3"
+        },
+        "us": {
+          "ipa": "/es/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/s__/s____/s.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LETTER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the 19th letter of the English alphabet",
+                "cn": "（英语字母表的第19个字母）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "SOUTH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "written abbreviation for\nsouth",
+                "cn": "南方（south 的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/es/",
+        "us": "/es/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/es/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cal/cald4/cald4uk1353.mp3"
+        },
+        "us": {
+          "ipa": "/es/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/cald4/cald4us2004.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SOUTH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "written abbreviation for \nsouth  or \nsouthern",
+                "cn": "南的;南方的（south或southern的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "SMALL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "written abbreviation for small, used to show the size of a piece of clothing",
+                "cn": "小号的（用来标明服装尺寸，small 的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/es/",
+        "us": "/es/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/es/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrut/ukrutte008.mp3"
+        },
+        "us": {
+          "ipa": "/es/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/s__/s____/s.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "written abbreviation for\nsecond",
+                "cn": "秒（second 的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -s/",
+        "us": "/ -s/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -s/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrut/ukrutte008.mp3"
+        },
+        "us": {
+          "ipa": "/ -s/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/s__/s____/s.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to form the plural of nouns",
+                "cn": "（用于构成名词的复数）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "books",
+                  "cn": "书"
+                },
+                {
+                  "gram": "",
+                  "en": "sandwiches",
+                  "cn": "三明治"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -s/",
+        "us": "/ -s/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -s/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cal/cald4/cald4uk1355.mp3"
+        },
+        "us": {
+          "ipa": "/ -s/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/cald4/cald4us2006.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show that the following thing belongs to the people or things named",
+                "cn": "（用来构成复数名词的所有格）…的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the girls' books",
+                  "cn": "女孩子们的书"
+                },
+                {
+                  "gram": "",
+                  "en": "employees' rights",
+                  "cn": "雇员们的权利"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -s/",
+        "us": "/ -s/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -s/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cal/cald4/cald4uk1356.mp3"
+        },
+        "us": {
+          "ipa": "/ -s/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cal/cald4/cald4us2007.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show that the following thing belongs to the person or thing named",
+                "cn": "（用来构成所有格）…的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the cat's tail",
+                  "cn": "猫的尾巴"
+                },
+                {
+                  "gram": "",
+                  "en": "Patricia's dress",
+                  "cn": "帕特里茜娅的裙子"
+                },
+                {
+                  "gram": "",
+                  "en": "today's paper",
+                  "cn": "今天的报纸"
+                },
+                {
+                  "gram": "",
+                  "en": "the children's shoes",
+                  "cn": "孩子们的鞋"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the house belonging to the stated person",
+                "cn": "（某人的）家"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The boys are at Katy's.",
+                  "cn": "男孩子们在凯蒂家。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the shop belonging to the stated person",
+                "cn": "（某人的）的商店"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I got it at the greengrocer's.",
+                  "cn": "它是我从蔬菜水果店里买到的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

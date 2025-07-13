@@ -1,0 +1,209 @@
+{
+  "time": 1752140824407,
+  "title": "people",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpiː.pəl/",
+        "us": "/ˈpiː.pəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpiː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpen/ukpente010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpiː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/peo/peopl/people.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "men, women, and children",
+                "cn": "人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many people never do any exercise.",
+                  "cn": "许多人从来不做任何运动。"
+                },
+                {
+                  "gram": "",
+                  "en": "We've invited 30 people to our party.",
+                  "cn": "我们邀请了30个人来参加聚会。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to refer to everyone, or informally to the group that you are speaking to",
+                "cn": "人们;大家"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "People will think you've gone mad.",
+                  "cn": "人们会以为你疯了。"
+                },
+                {
+                  "gram": "",
+                  "en": "People like to be made to feel important.",
+                  "cn": "人们都喜欢被别人看重。"
+                },
+                {
+                  "gram": "",
+                  "en": "Now that we've discussed our problems, are people happy with the decisions we've made?",
+                  "cn": "我们既已讨论完存在的问题，大家对所作的决定还满意吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "men and women who are involved in a particular type of work",
+                "cn": "（某行业或领域的）人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We'll have to get the people at the city council to look at these plans.",
+                  "cn": "我们必须请市政会的人来查看一下这些计划。"
+                },
+                {
+                  "gram": "",
+                  "en": "Most of her friends are media people.",
+                  "cn": "她的大部分朋友都是传媒界人士。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "the large number of ordinary men and women who do not have positions of power in society",
+                "cn": "人民，平民，民众，老百姓"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She claims to be the voice of the people.",
+                  "cn": "她自称是老百姓的代言人。"
+                },
+                {
+                  "gram": "",
+                  "en": "The president has lost the support of the people.",
+                  "cn": "总统失去了人民的支持。"
+                },
+                {
+                  "gram": "",
+                  "en": "the people's Princess",
+                  "cn": "平民王妃"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the people someone is related to",
+                "cn": "家人，亲人，家属"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her people come from Scotland originally.",
+                  "cn": "她家人原籍苏格兰。"
+                },
+                {
+                  "gram": "",
+                  "en": "I prefer to live with my people.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "His people have been in the fishing industry for generations.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Where do your people come from originally?",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "We married and I moved to live with her people.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpiː.pəl/",
+        "us": "/ˈpiː.pəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpiː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpen/ukpente010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpiː.pəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/peo/peopl/people.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "all the men, women, and children who live in a particular country, or who have the same culture or language",
+                "cn": "一国人民;民族"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The French are known as a food-loving people.",
+                  "cn": "法国人是众所周知的热爱美食的民族。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a society",
+                "cn": "社会"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Customs similar to this one are found among many peoples of the world.",
+                  "cn": "类似这样的风俗在世界上的许多民族中都能见到。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

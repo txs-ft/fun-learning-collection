@@ -1,0 +1,72 @@
+{
+  "time": 1752140774945,
+  "title": "painting",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpeɪn.tɪŋ/",
+        "us": "/ˈpeɪn.t̬ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpeɪn.tɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpai/ukpaink011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpeɪn.t̬ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pai/paint/painting.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a picture made using paint",
+                "cn": "（使用颜料的）绘画，油画"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The walls are covered in oil paintings.",
+                  "cn": "墙上挂满了油画。"
+                },
+                {
+                  "gram": "",
+                  "en": "an exhibition of 19th-century French painting",
+                  "cn": "19世纪法国绘画作品展"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the skill or activity of making a picture or putting paint on a wall",
+                "cn": "绘画;（上）油漆"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We were taught painting and drawing at art college.",
+                  "cn": "我们在美术学院学过绘画和素描。"
+                },
+                {
+                  "gram": "",
+                  "en": "When we bought the house, we had to do a lot of painting and redecorating.",
+                  "cn": "我们买下这幢房子的时候，不得不好好油漆装修一番。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

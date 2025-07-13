@@ -1,0 +1,87 @@
+{
+  "time": 1752140219346,
+  "title": "discover",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/dɪˈskʌv.ər/",
+        "us": "/dɪˈskʌv.ɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈskʌv.ər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdis/ukdisco016.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈskʌv.ɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dis/disco/discover.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to find information, a place, or an object, especially for the first time",
+                "cn": "（尤指首次）发现，找到"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Who discovered America?",
+                  "cn": "谁发现了美洲？"
+                },
+                {
+                  "gram": "",
+                  "en": "We searched all morning for the missing papers and finally discovered them in a drawer.",
+                  "cn": "我们一上午都在找那些失踪的文件，最后终于在一个抽屉里找到了。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "Scientists have discovered how to predict an earthquake.",
+                  "cn": "科学家们找到了预测地震的方法。"
+                },
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "She discovered (that) her husband was having an affair.",
+                  "cn": "她发现丈夫有外遇。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "Following a routine check-up, Mrs Mason was discovered to have heart disease.",
+                  "cn": "例行体检发现梅森夫人患有心脏病。"
+                },
+                {
+                  "gram": "[ + obj + -ing verb  ]",
+                  "en": "The boss discovered him stealing money from the cash register.",
+                  "cn": "老板发现他从钱箱里偷钱。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to notice that a person has a special ability or quality and to help them to become successful",
+                "cn": "发现并培养（人才）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Los Angeles is full of young actors working as waiters, hoping to be discovered by a movie agent.",
+                  "cn": "有很多年轻的演员在洛杉矶做服务员，他们希望能够被电影星探发现提携。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

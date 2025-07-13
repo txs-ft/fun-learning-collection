@@ -1,0 +1,101 @@
+{
+  "time": 1752139652924,
+  "title": "ancient",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈeɪn.ʃənt/",
+        "us": "/ˈeɪn.ʃənt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈeɪn.ʃənt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukana/ukanarc016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈeɪn.ʃənt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/anc/ancie/ancient.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "of or from a long time ago, having lasted for a very long time",
+                "cn": "古代的；古老的；年代久远的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "ancient civilizations/rights/laws",
+                  "cn": "古代文明／自古有之的权利／古代法律"
+                },
+                {
+                  "gram": "",
+                  "en": "ancient monuments/ruins/woodlands",
+                  "cn": "古碑／古代遗址／古老的林地"
+                },
+                {
+                  "gram": "",
+                  "en": "the ancient kingdoms of Mexico",
+                  "cn": "墨西哥的古代王国"
+                },
+                {
+                  "gram": "",
+                  "en": "People have lived in this valley since ancient times.",
+                  "cn": "自古就有人居住在这个山谷里。"
+                },
+                {
+                  "gram": "",
+                  "en": "History, ancient and modern, has taught these people an intense distrust of their neighbours.",
+                  "cn": "古今历史都让这些人对邻国产生了极度不信任的思想。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "very old",
+                "cn": "非常老旧的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's got an ancient laptop.",
+                  "cn": "他有一台老掉牙的电脑。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to refer to the period in European history from the earliest known societies to the end of the Roman Empire",
+                "cn": "（指欧洲历史上罗马帝国灭亡以前的）古代的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the ancient Egyptians/Greeks/Romans",
+                  "cn": "古埃及人／希腊人／罗马人"
+                },
+                {
+                  "gram": "",
+                  "en": "The ancient Britons inhabited these parts of England before the Roman invasion.",
+                  "cn": "在古罗马人入侵之前，古英国人居住在英格兰的这些地区。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

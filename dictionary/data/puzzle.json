@@ -1,0 +1,118 @@
+{
+  "time": 1752140876747,
+  "title": "puzzle",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpʌz.əl/",
+        "us": "/ˈpʌz.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpʌz.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukput/ukputz_002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpʌz.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/puz/puzzl/puzzle.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a situation that is difficult to understand",
+                "cn": "令人费解的情况;难题;谜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Scientists have been trying to solve this puzzle for years.",
+                  "cn": "多年来科学家们一直试图解开这个谜。"
+                },
+                {
+                  "gram": "",
+                  "en": "The situation remains a puzzle to all of us.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a game or toy in which you have to fit separate pieces together",
+                "cn": "测验智力的游戏（或玩具）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The building blocks are like the pieces of a puzzle.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "a jigsaw puzzle",
+                  "cn": "智力拼图玩具"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈpʌz.əl/",
+        "us": "/ˈpʌz.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpʌz.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukput/ukputz_002.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpʌz.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/puz/puzzl/puzzle.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to cause someone to feel confused and slightly worried because they cannot understand something",
+                "cn": "（使）感到迷惑;（使）感到为难，（使）感到困窘"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The findings of the survey puzzle me - they're not at all what I would have expected.",
+                  "cn": "调查的结果使我感到迷惑——它们根本不像我原本预料的那样。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "It puzzles me why she said that.",
+                  "cn": "我想不通她为什么那么说。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

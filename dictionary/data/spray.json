@@ -1,0 +1,151 @@
+{
+  "time": 1752141040247,
+  "title": "spray",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/spreɪ/",
+        "us": "/spreɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spreɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspo/ukspotl016.mp3"
+        },
+        "us": {
+          "ipa": "/spreɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spr/spray/spray.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LIQUID",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a mass of very small drops of liquid carried in the air",
+                "cn": "浪花;水花;飞沫"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can you feel the spray from the sea/waterfall?",
+                  "cn": "你能感觉到海上的浪花／瀑布溅起的水雾吗？"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a liquid that is forced out of a special container under pressure so that it becomes a mass of small liquid drops like a cloud",
+                "cn": "喷雾;喷雾状液体"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a quick spray of perfume/polish",
+                  "cn": "快速喷洒出的香水／上光剂"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a mass of small drops of liquid spread onto plants and crops, etc. from a special piece of equipment, or the piece of equipment itself",
+                "cn": "（洒在植物、庄稼等上的）喷剂;喷雾器"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Farmers use a lot of chemical sprays on crops.",
+                  "cn": "农场主们在庄稼上施了很多化学喷剂。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FLOWERS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a single small branch or stem with leaves and flowers on it",
+                "cn": "一枝小花"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All the wedding guests wore sprays of carnations.",
+                  "cn": "所有参加婚礼的来宾都戴着康乃馨花枝。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/spreɪ/",
+        "us": "/spreɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spreɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspo/ukspotl016.mp3"
+        },
+        "us": {
+          "ipa": "/spreɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spr/spray/spray.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to spread liquid in small drops over an area",
+                "cn": "喷洒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She sprayed herself with perfume.",
+                  "cn": "她往身上喷了些香水。"
+                },
+                {
+                  "gram": "",
+                  "en": "Vandals had sprayed graffiti on the wall.",
+                  "cn": "破坏公物的人在墙上乱涂乱画。"
+                },
+                {
+                  "gram": "",
+                  "en": "The pipe burst and water was spraying everywhere.",
+                  "cn": "水管爆裂，水喷得到处都是。"
+                },
+                {
+                  "gram": "",
+                  "en": "Rush hour commuters were sprayed with bullets by a gunman in a car.",
+                  "cn": "交通高峰时段，一辆车上的持枪歹徒对上下班的人们一通扫射。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

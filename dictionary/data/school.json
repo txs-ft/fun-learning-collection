@@ -1,0 +1,320 @@
+{
+  "time": 1752140953039,
+  "title": "school",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/skuːl/",
+        "us": "/skuːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/skuːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksch/ukschol005.mp3"
+        },
+        "us": {
+          "ipa": "/skuːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sch/schoo/school.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "EDUCATION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a place where children go to be educated",
+                "cn": "（中、小）学校"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a primary/secondary school",
+                  "cn": "小／中学"
+                },
+                {
+                  "gram": "",
+                  "en": "an elementary/a middle/a high school",
+                  "cn": "小学／初中／高中"
+                },
+                {
+                  "gram": "",
+                  "en": "Milton Road School",
+                  "cn": "密尔顿路小学"
+                },
+                {
+                  "gram": "",
+                  "en": "They're building a new school in the town.",
+                  "cn": "他们正在镇里建一座新学校。"
+                },
+                {
+                  "gram": "",
+                  "en": "She drives the kids to school every morning.",
+                  "cn": "她每天早上开车送孩子上学。"
+                },
+                {
+                  "gram": "",
+                  "en": "I went to school with (= I went to the same school at the same time as) Luke's brother.",
+                  "cn": "我和卢克的弟弟在同一所学校念书。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was at school with Luke's brother.",
+                  "cn": "我和卢克的弟弟在同一所学校念书。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is Emily in/at school today or is she still ill?",
+                  "cn": "埃米莉今天上学了吗？还是病还没好？"
+                },
+                {
+                  "gram": "",
+                  "en": "What did you learn at school today",
+                  "cn": "你今天在学校学了什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "Which school do you go to (formal attend)?",
+                  "cn": "你在哪所学校上学？"
+                },
+                {
+                  "gram": "",
+                  "en": "school lunches/uniform/buildings",
+                  "cn": "学校餐／校服／建筑"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the period of your life during which you go to school, or the teaching and learning activities which happen at school",
+                "cn": "上学期间，读书阶段;上学"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Most children start/begin school at the age of five.",
+                  "cn": "大部分儿童在5岁开始上学。"
+                },
+                {
+                  "gram": "",
+                  "en": "What do you want to do when you leave school (= finish studying at school)?",
+                  "cn": "你毕业后想做什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "I love/hate school.",
+                  "cn": "我喜欢／讨厌上学。"
+                },
+                {
+                  "gram": "",
+                  "en": "My sister teaches school (= teaches children in a school) in New York City.",
+                  "cn": "我妹妹在纽约市教书。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the time during the day when children are studying in school",
+                "cn": "上课（或上学）时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "before/after school",
+                  "cn": "上学前／放学后"
+                },
+                {
+                  "gram": "",
+                  "en": "School starts at 9 a.m. and finishes at 3.30 p.m.",
+                  "cn": "学校上午9点开始上课，下午3：30放学。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "all the children and teachers at a school",
+                "cn": "全校师生"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The whole school is/are delighted about Joel's success in the championships.",
+                  "cn": "全校师生都为乔尔在锦标赛中的胜利感到高兴。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a part of a college or university specializing in a particular subject or group of subjects",
+                "cn": "（高等院校的）学院，系"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the School of Oriental and African Studies",
+                  "cn": "亚非学院"
+                },
+                {
+                  "gram": "",
+                  "en": "She went to medical school in Edinburgh.",
+                  "cn": "她去爱丁堡医学院读书。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a place where people can study a particular subject either some of the time or all of the time",
+                "cn": "（尤指成人）专科学校;训练班"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a driving/dancing school",
+                  "cn": "驾校／舞蹈训练班"
+                },
+                {
+                  "gram": "",
+                  "en": "the London Business School",
+                  "cn": "伦敦商学院"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a college or university or the time that a student spends there",
+                "cn": "大学"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We first met in graduate school (= while doing a second or third university degree).",
+                  "cn": "我们第一次见面是在读研究生的时候。"
+                },
+                {
+                  "gram": "",
+                  "en": "We went to school together in Atlanta.",
+                  "cn": "我们在亚特兰大一起上大学。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GROUP",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of painters, writers, poets, etc. whose work is similar, especially similar to that of a particular leader",
+                "cn": "学派，流派"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the Flemish School",
+                  "cn": "佛兰芒派"
+                },
+                {
+                  "gram": "",
+                  "en": "the Impressionist school of painting",
+                  "cn": "印象画派"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEA CREATURES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large number of fish or other sea creatures swimming in a group",
+                "cn": "鱼群;海生动物群"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a school of dolphins/whales",
+                  "cn": "一群海豚／鲸"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/skuːl/",
+        "us": "/skuːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/skuːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksch/ukschol005.mp3"
+        },
+        "us": {
+          "ipa": "/skuːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sch/schoo/school.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to train a person or animal to do something",
+                "cn": "培养;训练"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It takes a lot of patience to school a dog/horse.",
+                  "cn": "训练狗／马需要很强的耐心。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "You must school yourself to be tolerant.",
+                  "cn": "你必须学会宽容。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to teach a child",
+                "cn": "教育（孩子）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her children are well schooled in correct behaviour.",
+                  "cn": "她的孩子受到了很好的行为教育。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

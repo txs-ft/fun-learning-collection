@@ -1,0 +1,171 @@
+{
+  "time": 1752397241744,
+  "title": "spread",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/spred/",
+        "us": "/spred/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/spred/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukspo/ukspotl018.mp3"
+        },
+        "us": {
+          "ipa": "/spred/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/spr/sprea/spread.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ACT OF SPREADING",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the development or growth of something so that it covers a larger area or affects a larger number of people",
+                "cn": "扩散，蔓延"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The spread of the disease in the last few years has been alarming.",
+                  "cn": "近几年这种疾病的广泛传播着实令人担忧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RANGE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the area or range covered by something",
+                "cn": "涉及区域;范围"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The survey found a wide spread of opinion over the proposed new building.",
+                  "cn": "调查广泛征集了对于拟议中的新建筑的意见。"
+                },
+                {
+                  "gram": "",
+                  "en": "Few other corporate roles require such a broad spread of knowledge and experience.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN NEWSPAPER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large article or advertisement covering one or more pages in a newspaper or magazine",
+                "cn": "整版（或横贯几版的）文章（或广告）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The magazine recently ran a spread on Oregon beaches, mountains, hotels and restaurants.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "There's a double-page spread on the latest fashions.",
+                  "cn": "有一篇横贯两版的文章介绍最新的时尚。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SOFT FOOD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a soft food for putting on bread and biscuits",
+                "cn": "涂在面包（或饼干）上的食物;酱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "cheese/chocolate/fish spread",
+                  "cn": "奶酪／巧克力／鱼酱"
+                },
+                {
+                  "gram": "",
+                  "en": "There's bread and various spreads for tea.",
+                  "cn": "茶点有面包和各种抹酱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LAND",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a \nranch  or other large area of land or water",
+                "cn": "大牧场，大农场"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "MEAL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a meal, especially one for a special occasion with a lot of different dishes arranged on a table",
+                "cn": "（尤指丰盛的）饭菜，酒席"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Sheila laid on (= made) a magnificent spread for us.",
+                  "cn": "希拉为我们准备了丰盛的饭菜。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DIFFERENCE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the difference between two amounts, such as two prices or interest rates",
+                "cn": "差异，差距；（价格或利率等之间的）差额"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The issue was priced at a spread of 115 basis points above Treasury bonds.",
+                  "cn": "这一期的价格定在比财政部债券高115点的位置。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "time": 1752140595491,
+  "title": "lullaby",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈlʌl.ə.baɪ/",
+        "us": "/ˈlʌl.ə.baɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈlʌl.ə.baɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/ukluc/uklucki020.mp3"
+        },
+        "us": {
+          "ipa": "/ˈlʌl.ə.baɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lul/lulla/lullaby.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a quiet song that is sung to children to help them go to sleep",
+                "cn": "摇篮曲，催眠曲"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

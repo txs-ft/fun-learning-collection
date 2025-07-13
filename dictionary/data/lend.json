@@ -1,0 +1,115 @@
+{
+  "time": 1752140582512,
+  "title": "lend",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/lend/",
+        "us": "/lend/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/lend/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklei/ukleisu008.mp3"
+        },
+        "us": {
+          "ipa": "/lend/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/len/lend_/lend.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "GIVE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to give something to someone for a short period of time, expecting it to be given back",
+                "cn": "借出，借给"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She doesn't like lending her books.",
+                  "cn": "她不喜欢把书借给别人。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "If you need a coat I can lend you one/lend one to you.",
+                  "cn": "你如果需要外衣，我可以借给你一件。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "If a bank or other organization lends money, it gives money to someone who agrees that they will pay the money back in the future, usually with extra money added to the original amount.",
+                "cn": "贷（款），放贷（给某人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The bank refuses to lend to students.",
+                  "cn": "银行拒绝向学生们发放贷款。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "The bank agreed to lend him $5,000.",
+                  "cn": "银行同意贷给他5000美元。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ADD TO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something lends a particular quality to something else, it adds that quality to it.",
+                "cn": "增添，添加"
+              },
+              "examples": [
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "Vases of flowers all around the room lent the place a cheerful look/lent a cheerful look to the place.",
+                  "cn": "几瓶花给这个房间增添了一些欢乐的气氛。"
+                },
+                {
+                  "gram": "",
+                  "en": "These events lend support to the view that the law is inadequate.",
+                  "cn": "这些事件进一步证明了法律还不健全的观点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something lends itself to something else, it is suitable for that thing or can be considered in that way:",
+                "cn": "小说复杂而充满想象力的风格无法翻译出来。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The novel's complex, imaginative style does not lend itself to translation.",
+                  "cn": "小说复杂而充满想象力的风格无法翻译出来。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "time": 1752140921613,
+  "title": "revolutionize",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˌrev.əˈluː.ʃən.aɪz/",
+        "us": "/ˌrev.əˈluː.ʃən.aɪz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌrev.əˈluː.ʃən.aɪz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrev/ukrevie019.mp3"
+        },
+        "us": {
+          "ipa": "/ˌrev.əˈluː.ʃən.aɪz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rev/revol/revolutionize.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to completely change something so that it is much better",
+                "cn": "使发生革命性剧变;在…方面引起突破性变革"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Newton's discoveries revolutionized physics.",
+                  "cn": "牛顿的发现使物理学发生了革命性剧变。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 2
+    }
+  ]
+}

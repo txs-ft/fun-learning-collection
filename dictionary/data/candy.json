@@ -1,0 +1,53 @@
+{
+  "time": 1752140078653,
+  "title": "candy",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkæn.di/",
+        "us": "/ˈkæn.di/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkæn.di/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcan/ukcandy001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkæn.di/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/can/candy/candy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a sweet food made from sugar or chocolate, or a piece of this",
+                "cn": "糖果;巧克力;一块糖（或巧克力）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a candy bar",
+                  "cn": "条形糖"
+                },
+                {
+                  "gram": "",
+                  "en": "a box of candy",
+                  "cn": "一盒糖果"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

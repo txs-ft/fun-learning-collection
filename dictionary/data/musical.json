@@ -1,0 +1,102 @@
+{
+  "time": 1752140685166,
+  "title": "musical",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈmjuː.zɪ.kəl/",
+        "us": "/ˈmjuː.zɪ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmjuː.zɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmun/ukmunif026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmjuː.zɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mus/music/musical.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "related to or connected with music",
+                "cn": "音乐的；用于音乐的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "musical instruments",
+                  "cn": "乐器"
+                },
+                {
+                  "gram": "",
+                  "en": "Mozart's musical compositions include symphonies and operas.",
+                  "cn": "莫扎特的音乐创作包括交响乐和歌剧。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "If you are musical, you have a skill in or a great liking for music.",
+                "cn": "有音乐天赋的;爱好音乐的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Joe's family all play instruments - they're very musical.",
+                  "cn": "乔的家人都会演奏乐器——他们都很有音乐天赋。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmjuː.zɪ.kəl/",
+        "us": "/ˈmjuː.zɪ.kəl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmjuː.zɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmun/ukmunif026.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmjuː.zɪ.kəl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/mus/music/musical.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a play or film in which part of the story is sung to music",
+                "cn": "音乐剧;音乐（影）片"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

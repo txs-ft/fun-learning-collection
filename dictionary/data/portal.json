@@ -1,0 +1,53 @@
+{
+  "time": 1752140857208,
+  "title": "portal",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈpɔː.təl/",
+        "us": "/ˈpɔːr.t̬əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈpɔː.təl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpor/ukporta004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈpɔːr.t̬əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/por/porta/portal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WAY TO GET STH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a website or page on the internet that allows people, especially a group of people who are interested in a particular subject, to get useful information and to find other websites",
+                "cn": "门户网页;门户网站"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A number of large access providers offer portals to the Web for their own users.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "There are a huge number of knit and crochet resources online, from trade association portals to blogs.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

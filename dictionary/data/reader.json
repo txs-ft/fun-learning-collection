@@ -1,0 +1,142 @@
+{
+  "time": 1752140894643,
+  "title": "reader",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈriː.dər/",
+        "us": "/ˈriː.dɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈriː.dər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukray/ukrayon028.mp3"
+        },
+        "us": {
+          "ipa": "/ˈriː.dɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rea/reade/reader.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PERSON WHO READS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "someone who reads for pleasure, especially a person who reads a lot",
+                "cn": "（尤指大量阅读的）读者，爱读书的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's a great/voracious reader (= reads many books).",
+                  "cn": "他博览群书。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's an avid reader of historical novels.",
+                  "cn": "她特别喜欢看历史小说。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "someone who reads a particular newspaper or magazine",
+                "cn": "（某种报刊的）读者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We asked our readers to write in and give us their views.",
+                  "cn": "我们请读者们给我们来信说说他们的观点。"
+                },
+                {
+                  "gram": "",
+                  "en": "She described him as a typical Guardian reader.",
+                  "cn": "她把他描述为一个典型的《卫报》读者。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person whose job is to advise a publishing company if a particular book should be published",
+                "cn": "（为出版公司提供书籍出版建议的）出版顾问，审稿人"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "SIMPLE BOOK",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a book containing a simple story that is designed for children who are learning to read or people who are learning a language",
+                "cn": "（儿童学习认字的）读本，读物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There are readers at five different levels, from beginner to upper intermediate.",
+                  "cn": "有五种不同层次的读本：从初级到中高级。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DEVICE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a device that helps you to read very small writing, or a machine that can recognize printed material",
+                "cn": "显微阅读器，阅读用放大镜;电子阅读器，电子识读机"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a microfilm/microfiche reader",
+                  "cn": "微缩胶片阅读机"
+                },
+                {
+                  "gram": "",
+                  "en": "an optical character reader",
+                  "cn": "光符识读器"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TEACHER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a teacher, at British universities, just under the rank of professor",
+                "cn": "（英国大学仅次于教授的）准教授"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Alan is a Reader in History at Dublin University.",
+                  "cn": "艾伦是都柏林大学的历史学准教授。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

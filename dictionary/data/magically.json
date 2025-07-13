@@ -1,0 +1,48 @@
+{
+  "time": 1752140597837,
+  "title": "magically",
+  "generalBitmask": 8,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ˈmædʒ.ɪ.kəl.i/",
+        "us": "/ˈmædʒ.ɪ.kəl.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmædʒ.ɪ.kəl.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmad/ukmade_013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmædʒ.ɪ.kəl.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usm/usmac/usmacro014.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "USING MAGIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in a way that uses or seems to use magic",
+                "cn": "施展魔术地，施了魔法地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Clean clothes don't just magically appear.",
+                  "cn": "干净衣服不会像变魔术般地凭空消失的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 0
+    }
+  ]
+}

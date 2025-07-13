@@ -1,0 +1,67 @@
+{
+  "time": 1752140345810,
+  "title": "floating",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈfləʊ.tɪŋ/",
+        "us": "/ˈfloʊ.t̬ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈfləʊ.tɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukfli/ukflirt006.mp3"
+        },
+        "us": {
+          "ipa": "/ˈfloʊ.t̬ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usf/usfle/usfleet026.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "not fixed in one position, place, or level",
+                "cn": "流动的;浮动的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The city has a large floating population (= people who move around a lot).",
+                  "cn": "这座城市有大量的流动人口。"
+                },
+                {
+                  "gram": "",
+                  "en": "The bank has offered us a loan with a floating interest rate.",
+                  "cn": "这家银行向我们提供了浮动利率贷款。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to refer to a part of the body that is out of its usual position, or not connected to another part of the body",
+                "cn": "（身体部位）浮游的，浮动的，不在正常位置的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a floating rib",
+                  "cn": "浮肋"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

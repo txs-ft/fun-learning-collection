@@ -1,0 +1,225 @@
+{
+  "time": 1752397234652,
+  "title": "minute",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈmɪn.ɪt/",
+        "us": "/ˈmɪn.ɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɪn.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmin/ukminim019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɪn.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73026.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "one of the 60 parts that an hour is divided into, consisting of 60 seconds",
+                "cn": "分，分钟"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a 20-minute bus ride",
+                  "cn": "乘公共汽车20分钟的车程"
+                },
+                {
+                  "gram": "",
+                  "en": "It takes me 20 minutes to get to work.",
+                  "cn": "我上班路上要花20分钟。"
+                },
+                {
+                  "gram": "",
+                  "en": "The train leaves at three minutes to eight, so we'd better get there a few minutes before then.",
+                  "cn": "火车7点57分发车，我们最好提前几分钟到。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used in spoken English to mean a very short time",
+                "cn": "片刻，一会儿，瞬间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Hang on/Wait a minute - I just have to get my bag.",
+                  "cn": "等一下——我去拿我的包。"
+                },
+                {
+                  "gram": "",
+                  "en": "Just a minute - I'll be with you when I've finished this.",
+                  "cn": "稍等一下——我做完这个就来见你。"
+                },
+                {
+                  "gram": "",
+                  "en": "I won't be a minute (= I will be ready soon).",
+                  "cn": "我很快就好了。"
+                },
+                {
+                  "gram": "",
+                  "en": "When you've got a minute, I'd like a brief word with you.",
+                  "cn": "等你有空我想和你说句话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MESSAGE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the written record of what was said at a meeting:",
+                "cn": "你能作一下会议记录吗，丹尼尔？"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you take/do (= write) the minutes, Daniel?",
+                  "cn": "你能作一下会议记录吗，丹尼尔？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "an official message from one person to another in an organization",
+                "cn": "（机构中的）正式通告，通知单"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've just received a minute from Clark authorizing the purchase of six more computers.",
+                  "cn": "我刚从克拉克那里接到一份正式通告，批准再买6台电脑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ANGLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "any of the 60 parts that the degrees of any angle are divided into",
+                "cn": "（角的度量单位）分"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈmɪn.ɪt/",
+        "us": "/ˈmɪn.ɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmɪn.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmin/ukminim019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmɪn.ɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus73/eus73026.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make a written record of what is said at a meeting",
+                "cn": "把…写进议事录，把…写进会议记录"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The chairman is minuted as having said that profits had fallen to an all-time low.",
+                  "cn": "根据会议记录，董事长说利润已降到历史最低点。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/maɪˈnjuːt/",
+        "us": "/maɪˈnuːt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/maɪˈnjuːt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmin/ukminim020.mp3"
+        },
+        "us": {
+          "ipa": "/maɪˈnuːt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/min/minut/minute_02_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "extremely small",
+                "cn": "微小的，极小的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a minute amount/quantity",
+                  "cn": "微量／少量"
+                },
+                {
+                  "gram": "",
+                  "en": "I've never seen a man with such tiny hands - they're minute!",
+                  "cn": "我从没见过手长得这么小的男人——他的手太小了！"
+                },
+                {
+                  "gram": "",
+                  "en": "The documentary showed an eye operation in minute detail (= showing every small detail).",
+                  "cn": "这部纪录片纤毫毕现地展示了一次眼科手术的过程。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

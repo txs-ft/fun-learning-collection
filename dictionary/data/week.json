@@ -1,0 +1,172 @@
+{
+  "time": 1752141280368,
+  "title": "week",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/wiːk/",
+        "us": "/wiːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wiːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwax/ukwaxwo015.mp3"
+        },
+        "us": {
+          "ipa": "/wiːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wea/weak_/weak.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a period of seven days, especially either from Monday to Sunday or from Sunday to Saturday",
+                "cn": "星期，周（尤指从星期一到星期日或从星期日到星期六）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "last/this/next week",
+                  "cn": "上／本／下周"
+                },
+                {
+                  "gram": "",
+                  "en": "We go to the cinema about once a week.",
+                  "cn": "我们大约一周去看一次电影。"
+                },
+                {
+                  "gram": "",
+                  "en": "Will you be going to next week's class?",
+                  "cn": "你下周去上课吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "It usually takes about four weeks to get the forms processed.",
+                  "cn": "处理这些表格通常需要4周左右的时间。"
+                },
+                {
+                  "gram": "",
+                  "en": "Don't do anything strenuous for a week or two.",
+                  "cn": "一两周之内不要干任何重活儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "It'll be weeks (= several weeks) before the flood damage is cleaned up.",
+                  "cn": "清理洪水造成的破坏要好几周时间。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "the five days from Monday to Friday, the usual working period for many people",
+                "cn": "工作周（星期一到星期五）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're usually too tired to go out much during the week.",
+                  "cn": "工作日期间我们通常很累，没有精力去参加太多的社交活动。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "one week after the day mentioned",
+                "cn": "（从某天算起的）一周"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The first performance of the play is a week (from) today/tomorrow.",
+                  "cn": "这出戏的首演将在从今天／明天算起的一周后举行。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our holiday starts a week on Saturday.",
+                  "cn": "我们的假期将从下周六开始。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has to go back to see the doctor Friday week.",
+                  "cn": "她得在下周五去复诊。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "one week before the day mentioned",
+                "cn": "（某天之前的）一周"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It was his birthday a week ago last Friday.",
+                  "cn": "上星期五是他的生日。"
+                },
+                {
+                  "gram": "",
+                  "en": "The problems with the TV started a week last Monday.",
+                  "cn": "从上星期一开始电视就出问题了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the amount of hours spent working during a week or the number of days on which a person works",
+                "cn": "每周的工作小时数；每周的工作天数"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A lot of farm workers work a six-day week.",
+                  "cn": "很多农场的工人每周工作6天。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "each week during a period of time",
+                "cn": "每一周"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We could see his health deteriorate week by week.",
+                  "cn": "每一周我们都能看到他的健康状况在恶化。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "regularly or continuously for many weeks",
+                "cn": "一周又一周地;一连数周"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I go to aerobics three times a week, week in, week out.",
+                  "cn": "我一连几个星期每星期都去做三次有氧健身操。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

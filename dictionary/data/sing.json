@@ -1,0 +1,97 @@
+{
+  "time": 1752140995737,
+  "title": "sing",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/sɪŋ/",
+        "us": "/sɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksin/uksineq007.mp3"
+        },
+        "us": {
+          "ipa": "/sɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sin/sing_/sing.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKE MUSIC",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to make musical sounds with the voice, usually a tune with words",
+                "cn": "唱歌；演唱"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The children sang two songs by Schubert at the school concert.",
+                  "cn": "在学校音乐会上，孩子们演唱了舒伯特的两首歌曲。"
+                },
+                {
+                  "gram": "",
+                  "en": "We were woken early by the sound of the birds singing.",
+                  "cn": "我们很早就被鸟儿的鸣唱声唤醒。"
+                },
+                {
+                  "gram": "",
+                  "en": "Your grandmother would like you to sing for/to her.",
+                  "cn": "你祖母想让你给她唱首歌。"
+                },
+                {
+                  "gram": "[ + two objects ]",
+                  "en": "Will you sing us a song/sing a song to us?",
+                  "cn": "你能为我们唱首歌吗?"
+                },
+                {
+                  "gram": "",
+                  "en": "She sang her baby to sleep every night.",
+                  "cn": "她每天晚上唱歌哄孩子入睡。"
+                },
+                {
+                  "gram": "",
+                  "en": "Pavarotti is singing Rodolfo (= singing the part of Rodolfo) in \"La Bohème\" at La Scala this week.",
+                  "cn": "帕瓦罗蒂本周将在拉斯卡拉剧院扮演歌剧《波希米亚人》中的鲁道夫。"
+                },
+                {
+                  "gram": "",
+                  "en": "You need to sing up (= sing louder).",
+                  "cn": "请你大声点儿唱。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to make or be filled with a (high) ringing sound",
+                "cn": "呜呜作响，发嗡嗡声"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A bullet sang past the top of the soldier's head.",
+                  "cn": "一颗子弹从士兵头顶嗖的一声飞过。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

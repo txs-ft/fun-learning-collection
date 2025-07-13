@@ -1,0 +1,621 @@
+{
+  "time": 1752141298626,
+  "title": "with",
+  "generalBitmask": 16,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/wɪð/",
+        "us": "/wɪð/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wɪð/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwis/ukwispy012.mp3"
+        },
+        "us": {
+          "ipa": "/wɪð/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wit/with_/with.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COMPANY",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to say that people or things are in a place together or are doing something together",
+                "cn": "和…一起；和；跟随；同"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was with Sylvia at the time.",
+                  "cn": "那时我和西尔维娅在一起。"
+                },
+                {
+                  "gram": "",
+                  "en": "He lives with his grandmother.",
+                  "cn": "他和奶奶一起生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's impossible to work with.",
+                  "cn": "没法和他一起工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm going to France with a couple of friends.",
+                  "cn": "我要和几位朋友一起去法国。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ingrid Bergman starred with Humphrey Bogart in the movie \"Casablanca\".",
+                  "cn": "英格丽‧褒曼同汉弗莱‧博加特联袂主演了电影《卡萨布兰卡》。"
+                },
+                {
+                  "gram": "",
+                  "en": "I left my books with Sandra.",
+                  "cn": "我把书交给了桑德拉。"
+                },
+                {
+                  "gram": "",
+                  "en": "Ice cream with your apple pie?",
+                  "cn": "苹果派要不要配上冰激凌？"
+                },
+                {
+                  "gram": "",
+                  "en": "Mix the butter with the sugar and then add the egg.",
+                  "cn": "把黄油和糖搅在一起，然后加鸡蛋。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll be with you (= I will give you my attention) in a second.",
+                  "cn": "我马上就过来。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's staying with her parents (= at their house) for a few months.",
+                  "cn": "她要在父母的家里住几个月。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's been with the department (= working in it) since 2010.",
+                  "cn": "他从2010年就开始在这个部门工作了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "METHOD",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "using something",
+                "cn": "用，使用；以；借"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was shot at close range with a pistol.",
+                  "cn": "他被手枪近距离击中。"
+                },
+                {
+                  "gram": "",
+                  "en": "She wiped her lipstick off with a tissue.",
+                  "cn": "她用纸巾擦掉了口红。"
+                },
+                {
+                  "gram": "",
+                  "en": "Join the two pieces together with glue.",
+                  "cn": "用胶把这两块粘在一起。"
+                },
+                {
+                  "gram": "",
+                  "en": "Please handle this package with care.",
+                  "cn": "这个包裹请轻拿轻放。"
+                },
+                {
+                  "gram": "",
+                  "en": "They set up a business with the help of a bank loan.",
+                  "cn": "他们用一笔银行贷款开了家公司。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DESCRIPTION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "having or including something",
+                "cn": "拥有，有"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a tall woman with dark hair",
+                  "cn": "高个黑发女子"
+                },
+                {
+                  "gram": "",
+                  "en": "He's married with three children.",
+                  "cn": "他结了婚，并有了3个孩子。"
+                },
+                {
+                  "gram": "",
+                  "en": "They were divided into two groups, with no girls in one group and no boys in the other.",
+                  "cn": "他们被分成了两组，一组没有女孩，一组没有男孩。"
+                },
+                {
+                  "gram": "",
+                  "en": "He spoke with a soft Irish accent.",
+                  "cn": "他讲话时带有轻柔的爱尔兰口音。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're an international company with offices in Paris, New York, and Sydney.",
+                  "cn": "我们是一家跨国公司，在巴黎、纽约和悉尼都有办事处。"
+                },
+                {
+                  "gram": "",
+                  "en": "Two coffees please, one with milk and one without.",
+                  "cn": "请来两杯咖啡，一杯加奶，一杯不加。"
+                },
+                {
+                  "gram": "",
+                  "en": "He arrived in Los Angeles with nothing but the clothes he was wearing.",
+                  "cn": "他到了洛杉矶，除了衣服之外一无所有。"
+                },
+                {
+                  "gram": "",
+                  "en": "He woke up with a terrible headache.",
+                  "cn": "他醒来后头痛欲裂。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was second in the race with a time of 14.2 seconds.",
+                  "cn": "我在赛跑中得了第二名，成绩是14.2秒。"
+                },
+                {
+                  "gram": "",
+                  "en": "With a bit of luck, we should be back in time for dinner.",
+                  "cn": "要是运气好的话，我们还可以及时赶回来吃晚饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "Both their children graduated with degrees in economics.",
+                  "cn": "他们的两个孩子获得的都是经济学学位。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used at the beginning of various phrases written at the end of a letter",
+                "cn": "（用于信末祝辞中）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "With best wishes from Charles.",
+                  "cn": "致以美好的祝愿，查尔斯。"
+                },
+                {
+                  "gram": "",
+                  "en": "With love, Roberta.",
+                  "cn": "爱你的罗伯塔。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "including",
+                "cn": "包括"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "With your contribution, that makes a total of £45.",
+                  "cn": "算上你的捐款，一共是45英镑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RELATIONSHIP",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "relating to or in the case of a person or thing",
+                "cn": "关于；对于；至于；对…来说"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How are things with you?",
+                  "cn": "你过得怎么样？"
+                },
+                {
+                  "gram": "",
+                  "en": "Russia has just drawn up a trade agreement with Norway.",
+                  "cn": "俄罗斯刚刚与挪威草拟了一份贸易合约。"
+                },
+                {
+                  "gram": "",
+                  "en": "This hasn't got anything to do with you (= this is not something you should be interested in).",
+                  "cn": "这与你毫不相干。"
+                },
+                {
+                  "gram": "",
+                  "en": "The government's policies have not been popular with (= among) the voters.",
+                  "cn": "政府的政策并不受选民的欢迎。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's very careless with his money.",
+                  "cn": "在金钱方面，他很不小心。"
+                },
+                {
+                  "gram": "",
+                  "en": "She talked a lot about her relationship with Charlotte.",
+                  "cn": "她说了很多有关自己与夏洛特之间的恋情。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTAINING/COVERING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to show what is on or in something",
+                "cn": "在…上；在…中"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She laid the table with the best china.",
+                  "cn": "她在桌子上摆了最精美的瓷器。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her blouse was spattered with blood.",
+                  "cn": "她的短衫溅上了血。"
+                },
+                {
+                  "gram": "",
+                  "en": "The room was littered with toys.",
+                  "cn": "房间里玩具扔得到处都是。"
+                },
+                {
+                  "gram": "",
+                  "en": "The trucks were laden with food and medicine.",
+                  "cn": "那些卡车满载着食品和药品。"
+                },
+                {
+                  "gram": "",
+                  "en": "She filled the jug up with cream.",
+                  "cn": "她把罐子里装满了奶油。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "because of or caused by someone or something",
+                "cn": "因为;作为…的结果"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He winced with pain.",
+                  "cn": "他疼得皱眉。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was trembling with fear.",
+                  "cn": "我吓得直发抖。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's been at home with a bad cold for the past week.",
+                  "cn": "她上周因重感冒在家休息。"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't work with all that noise going on.",
+                  "cn": "噪声一直那么大，我根本没法工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Hopes were dashed in the war-torn capital with the news that no aid would be arriving that week.",
+                  "cn": "有消息说那一周所有的救援物资都难以送达遭受战火蹂躏的首都，人们的希望破灭了。"
+                },
+                {
+                  "gram": "",
+                  "en": "With exams approaching, it's a good idea to review your class notes.",
+                  "cn": "随着考试的临近，复习一下你的课堂笔记是个不错的主意。"
+                },
+                {
+                  "gram": "",
+                  "en": "(What) with all the excitement and confusion, I forgot to say goodbye to her.",
+                  "cn": "在兴奋和混乱的状态下，我忘了和她道别。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OPPOSITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "against something",
+                "cn": "反对;与…对立"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I ended up having an argument with her.",
+                  "cn": "我最终和她吵了一架。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has fought a constant battle with depression throughout her career.",
+                  "cn": "在整个职业生涯中，她都在不停地与抑郁症作斗争。"
+                },
+                {
+                  "gram": "",
+                  "en": "The two countries went to war with one another over oil prices.",
+                  "cn": "两国因为石油价格而交战。"
+                },
+                {
+                  "gram": "",
+                  "en": "A truck had collided with a car.",
+                  "cn": "一辆卡车与一辆小汽车相撞。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SEPARATION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used with words showing separation",
+                "cn": "（与表示分离的词连用）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd rather not part with my cash.",
+                  "cn": "我不愿意花钱。"
+                },
+                {
+                  "gram": "",
+                  "en": "He decided to put his failed marriage behind him and make a clean break with the past.",
+                  "cn": "他决定忘掉自己失败的婚姻，与过去彻底绝断。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AND",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "and, or followed by",
+                "cn": "和;还有;连同"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like a steak and fries with apple pie for dessert.",
+                  "cn": "我想要牛排和炸薯条，甜点要苹果派。"
+                },
+                {
+                  "gram": "",
+                  "en": "$200 is payable immediately with a further $100 payable on delivery.",
+                  "cn": "马上付200美元，另外100美元交货时付清。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPARISON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in comparisons",
+                "cn": "（用于比较）同…相比"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I have nothing in common with my brother.",
+                  "cn": "我和我兄弟没什么相似之处。"
+                },
+                {
+                  "gram": "",
+                  "en": "This cake's very light compared with the last one you made.",
+                  "cn": "这个蛋糕比你上次做的要松软多了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUPPORT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "supporting someone or something",
+                "cn": "支持"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If you want to go for a promotion, I'll be with you all the way.",
+                  "cn": "如果你想去争取提升，我会一直支持你。"
+                },
+                {
+                  "gram": "",
+                  "en": "You have to decide where you stand on this issue - you're either with me or against me.",
+                  "cn": "你得决定在这件事上的立场——要么支持我，要么反对我。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DIRECTION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in the same direction as something",
+                "cn": "与…同方向"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The wind was with me on the home stretch and I ran well.",
+                  "cn": "在赛跑的最后冲刺阶段赶上了顺风，所以我跑得很好。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TIME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "at the same rate or time as something",
+                "cn": "随着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This wine will improve with age.",
+                  "cn": "这种酒会随着时间变得更加醇厚。"
+                },
+                {
+                  "gram": "",
+                  "en": "Stopping distances for cars vary with the speed they are travelling at.",
+                  "cn": "汽车的刹车距离根据当时车速的高低而不尽相同。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "UNDERSTANDING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to understand what someone is saying",
+                "cn": "理解（某人）的话"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You look puzzled - are you with me?",
+                  "cn": "你看起来很迷惑——听懂我说什么了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm sorry, I'm not with you.",
+                  "cn": "对不起，我没听懂你的话。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DESPITE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "despite something",
+                "cn": "虽然，尽管"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "With all her faults, she's still a really good friend.",
+                  "cn": "尽管有那么多缺点，她仍然是个真正的好朋友。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPRESSIONS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to express a wish or instruction",
+                "cn": "（用于表示祝愿或指令）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Away with you! (= Go away!)",
+                  "cn": "滚开！"
+                },
+                {
+                  "gram": "",
+                  "en": "Off to bed with you! (= Go to bed!)",
+                  "cn": "快上床睡觉！"
+                },
+                {
+                  "gram": "",
+                  "en": "On with the show! (= Let it continue.)",
+                  "cn": "继续演出吧！"
+                },
+                {
+                  "gram": "",
+                  "en": "Down with school! (= We don't want/like it.)",
+                  "cn": "不要上学！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

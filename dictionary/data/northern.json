@@ -1,0 +1,53 @@
+{
+  "time": 1752140705480,
+  "title": "northern",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈnɔː.ðən/",
+        "us": "/ˈnɔːr.ðɚn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnɔː.ðən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknor/uknorma013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnɔːr.ðɚn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/nor/north/northern.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in or from the north part of an area",
+                "cn": "在北部的;从北部的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "northern Europe",
+                  "cn": "北欧"
+                },
+                {
+                  "gram": "",
+                  "en": "the Northern Hemisphere",
+                  "cn": "北半球"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

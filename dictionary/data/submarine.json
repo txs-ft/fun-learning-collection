@@ -1,0 +1,88 @@
+{
+  "time": 1752141104949,
+  "title": "submarine",
+  "generalBitmask": 5,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌsʌb.məˈriːn/",
+        "us": "/ˌsʌb.məˈriːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌsʌb.məˈriːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksub/uksubhe023.mp3"
+        },
+        "us": {
+          "ipa": "/ˌsʌb.məˈriːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sub/subma/submarine.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a ship that can travel underwater",
+                "cn": "潜艇"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a nuclear submarine",
+                  "cn": "核潜艇"
+                },
+                {
+                  "gram": "",
+                  "en": "a submarine base/commander",
+                  "cn": "潜艇基地／指挥官"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˌsʌb.məˈriːn/",
+        "us": "/ˌsʌb.məˈriːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌsʌb.məˈriːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksub/uksubhe023.mp3"
+        },
+        "us": {
+          "ipa": "/ˌsʌb.məˈriːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sub/subma/submarine.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "existing below the surface of the sea",
+                "cn": "海面下的，海底的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 2
+    }
+  ]
+}

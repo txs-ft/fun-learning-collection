@@ -1,0 +1,327 @@
+{
+  "time": 1752140752669,
+  "title": "number",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈnʌm.bər/",
+        "us": "/ˈnʌm.bɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnʌm.bər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknum/uknumbe001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnʌm.bɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/num/numbe/number.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SYMBOL",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "(a sign or symbol representing) a unit that forms part of the system of counting and calculating",
+                "cn": "数字"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "25, 300, and a billion are all numbers.",
+                  "cn": "25、300和10亿都是数字。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's very good with numbers (= good at adding, subtracting, etc.).",
+                  "cn": "她非常擅长数字运算。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a number that is used to mark a particular example of something",
+                "cn": "号码;…号"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They live at number 34 Orchard Street.",
+                  "cn": "他们住在果园街34号。"
+                },
+                {
+                  "gram": "",
+                  "en": "Please write your credit card number on this form.",
+                  "cn": "请把你的信用卡号写在这张表格上。"
+                },
+                {
+                  "gram": "",
+                  "en": "What's our flight number?",
+                  "cn": "我们的航班号是多少？"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a phone number",
+                "cn": "电话号码"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I gave him my number.",
+                  "cn": "我把自己的电话号码给了他。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AMOUNT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "an amount or total",
+                "cn": "数目；总数"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The number of people killed in traffic accidents fell last month.",
+                  "cn": "上个月，死于交通事故的人数有所下降。"
+                },
+                {
+                  "gram": "",
+                  "en": "There has been an increasing number of cases of the disease.",
+                  "cn": "患这种病的人数持续上升。"
+                },
+                {
+                  "gram": "",
+                  "en": "A small number of children are educated at home.",
+                  "cn": "少数孩子在家接受教育。"
+                },
+                {
+                  "gram": "",
+                  "en": "A large number of invitations has been sent.",
+                  "cn": "大量请柬已经发出。"
+                },
+                {
+                  "gram": "",
+                  "en": "Letters of complaint were surprisingly few in number (= there were not many of them).",
+                  "cn": "投诉信出乎意料地少。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a number of a particular description",
+                "cn": "数量"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Small numbers of children are educated at home.",
+                  "cn": "少数孩子在家接受教育。"
+                },
+                {
+                  "gram": "",
+                  "en": "Large numbers of invitations were sent.",
+                  "cn": "大量请柬已经发出。"
+                },
+                {
+                  "gram": "",
+                  "en": "Newspapers are produced in vast numbers.",
+                  "cn": "报纸发行量巨大。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "several of a particular type of thing",
+                "cn": "几个，若干"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I decided not to go, for a number of reasons.",
+                  "cn": "我决定不去，有几个理由。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a group of people",
+                "cn": "一群人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "On the trip, one of our number fell ill.",
+                  "cn": "旅行期间，我们当中有个人病倒了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PARTICULAR THING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a particular copy of a magazine",
+                "cn": "（杂志的）期，号"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you have last week's number of the New Yorker?",
+                  "cn": "你有上周的那期《纽约客》杂志吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "He's got all the back numbers (= previous copies) of the magazine.",
+                  "cn": "他保存了这本杂志过去的所有刊本。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a piece of clothing, especially a dress, that you admire",
+                "cn": "（令人欣赏的）衣服，（尤指）连衣裙"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She was wearing a stylish Dior number.",
+                  "cn": "她身穿一条时尚的迪奥长裙。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a person with a particular characteristic",
+                "cn": "具有…特征的人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's a real sexy number, don't you think?",
+                  "cn": "他真性感，你不觉得吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a short tune or song",
+                "cn": "短曲;短歌"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Sing one of those romantic numbers.",
+                  "cn": "唱一支那种情歌吧。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that is often said",
+                "cn": "常说之事"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He tried the usual/that old number about how his wife didn't understand him.",
+                  "cn": "他又故技重施，诉说妻子如何不理解他。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈnʌm.bər/",
+        "us": "/ˈnʌm.bɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnʌm.bər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknum/uknumbe001.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnʌm.bɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/num/numbe/number.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "WRITE SYMBOL",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to give something a number in a series and usually to write this number on it",
+                "cn": "给…编号;给…标号码"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All the folders have been carefully numbered and filed away.",
+                  "cn": "所有文件夹都被精心编号归档。"
+                },
+                {
+                  "gram": "",
+                  "en": "Number the pages from one to ten.",
+                  "cn": "从1到10标上页码。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AMOUNT",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "If people or things number a particular amount, there are this many of them.",
+                "cn": "（数量）多达，共计有"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "After the hurricane the homeless numbered over 200,000.",
+                  "cn": "飓风过后，无家可归者总计超过20万人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

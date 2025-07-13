@@ -1,0 +1,113 @@
+{
+  "time": 1752140465737,
+  "title": "he",
+  "generalBitmask": 257,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "strong /hiː/",
+        "us": "strong /hiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /hiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhav/ukhave_030.mp3"
+        },
+        "us": {
+          "ipa": "strong /hiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/he_/he___/he.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used as the subject of a verb to refer to a man, boy, or male animal that has already been mentioned",
+                "cn": "他（用于指代男人、男孩或雄性动物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't ask Andrew, he won't know.",
+                  "cn": "不要问安德鲁，他不会知道的。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's no need to be frightened - he's a very friendly dog.",
+                  "cn": "不必害怕——它是只非常温顺的狗。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to refer to a person whose gender is not known or not important in that situation",
+                "cn": "他（用于指代性别未知的人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The modern traveller can go where he likes.",
+                  "cn": "现代旅行者可以去他想去的任何地方。"
+                },
+                {
+                  "gram": "",
+                  "en": "As soon as the baby is born, he'll start to take an interest in the world around him.",
+                  "cn": "婴儿一出生，就会对他周围的世界产生兴趣。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/hiː/",
+        "us": "/hiː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/hiː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhav/ukhave_030.mp3"
+        },
+        "us": {
+          "ipa": "/hiː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/he_/he___/he.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a male",
+                "cn": "男性；雄性"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How can you tell whether the fish is a he or a she?",
+                  "cn": "你怎么知道这条鱼是雄的还是雌的？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

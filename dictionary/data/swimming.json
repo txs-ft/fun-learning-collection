@@ -1,0 +1,53 @@
+{
+  "time": 1752141117435,
+  "title": "swimming",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈswɪm.ɪŋ/",
+        "us": "/ˈswɪm.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈswɪm.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukswe/uksweet018.mp3"
+        },
+        "us": {
+          "ipa": "/ˈswɪm.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/swi/swimm/swimming.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the activity or sport of swimming",
+                "cn": "游泳，游水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The doctor recommended swimming as the best all-round exercise.",
+                  "cn": "医生认为游泳是最好的全方位运动。"
+                },
+                {
+                  "gram": "",
+                  "en": "a swimming instructor/lesson",
+                  "cn": "游泳教练/课程"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

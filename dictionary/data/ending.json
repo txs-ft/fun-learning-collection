@@ -1,0 +1,67 @@
+{
+  "time": 1752140262662,
+  "title": "ending",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈen.dɪŋ/",
+        "us": "/ˈen.dɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈen.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukenc/ukencum013.mp3"
+        },
+        "us": {
+          "ipa": "/ˈen.dɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/end/endin/ending.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "STORY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the last part of a story",
+                "cn": "（故事的）结尾，结局"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "People want love stories with happy endings.",
+                  "cn": "人们希望爱情故事的结局是有情人终成眷属。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WORD",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a part added to the end of a word",
+                "cn": "（单词）词尾"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "To make the plural of \"dog\", you add the plural ending -s.",
+                  "cn": "要把 dog 这个词变成复数形式，需在其后加表示复数的词尾 s。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "time": 1752140194533,
+  "title": "crown",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kraʊn/",
+        "us": "/kraʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kraʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcro/ukcrowe002.mp3"
+        },
+        "us": {
+          "ipa": "/kraʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cro/crown/crown.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "HEAD COVERING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a circular decoration for the head, usually made of gold and jewels (= precious stones), and worn by a king or queen at official ceremonies",
+                "cn": "王冠，皇冠;冕"
+              },
+              "examples": []
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the act of winning a sports competition",
+                "cn": "冠军"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He plans to defend his Olympic crown.",
+                  "cn": "他计划卫冕奥运会冠军。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOP PART",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the top part of a head, hat, or hill",
+                "cn": "（头、帽或山的）顶部"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A pink ribbon had been tied around the crown of the hat.",
+                  "cn": "帽子顶部系着一条粉色的缎带。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOOTH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an artificial piece used to cover a damaged tooth",
+                "cn": "（受损牙齿的）人造冠"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "COIN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a British coin that is no longer used",
+                "cn": "克朗（英国旧币）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kraʊn/",
+        "us": "/kraʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kraʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcro/ukcrowe002.mp3"
+        },
+        "us": {
+          "ipa": "/kraʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cro/crown/crown.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "HEAD COVERING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to put a crown on someone's head in an official ceremony that makes that person king or queen",
+                "cn": "为…加冕;立…为君主"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Queen Elizabeth II was crowned (queen) (= made queen in a special ceremony) in 1953.",
+                  "cn": "伊丽莎白女王二世于1953年加冕。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If an event or achievement crowns something, it is the best or most successful part of it.",
+                "cn": "使达到顶峰；使圆满"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an acting career crowned by her final Oscar-winning performance",
+                  "cn": "以最终赢得奥斯卡奖而达到顶峰的演艺生涯"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TOP PART",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something crowns something else, it is on or around the top of it.",
+                "cn": "加顶于;覆盖…的顶部"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The church was crowned with golden domes.",
+                  "cn": "教堂顶部是金色的穹顶。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to hit someone on the head",
+                "cn": "打…的头部"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "TOOTH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to fit a crown (= tooth covering)",
+                "cn": "给牙镶齿冠"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's had her two front teeth crowned.",
+                  "cn": "她给两颗门牙镶了齿冠。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/kraʊn/",
+        "us": "/kraʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kraʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31495.mp3"
+        },
+        "us": {
+          "ipa": "/kraʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31495.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the royal governing power of a country that has a king or queen",
+                "cn": "王权，君权;王国政府"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

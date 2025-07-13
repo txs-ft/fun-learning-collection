@@ -1,0 +1,234 @@
+{
+  "time": 1752141175712,
+  "title": "train",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/treɪn/",
+        "us": "/treɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/treɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktract028.mp3"
+        },
+        "us": {
+          "ipa": "/treɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/train/train.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VEHICLE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods",
+                "cn": "火车，列车"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a goods/freight/passenger train",
+                  "cn": "一列货运／客运列车"
+                },
+                {
+                  "gram": "",
+                  "en": "the train to/from Bristol",
+                  "cn": "开往／发自布里斯托尔的列车"
+                },
+                {
+                  "gram": "",
+                  "en": "a train journey/station",
+                  "cn": "乘火车旅行／火车站"
+                },
+                {
+                  "gram": "",
+                  "en": "Did you come by train?",
+                  "cn": "你是乘火车来的吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She caught/took the train to Edinburgh.",
+                  "cn": "她赶上了去爱丁堡的火车／她乘火车去爱丁堡。"
+                },
+                {
+                  "gram": "",
+                  "en": "Hurry up, or we'll miss (= arrive too late for) the train.",
+                  "cn": "快点，不然我们就赶不上火车了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SERIES",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a series of connected thoughts or events",
+                "cn": "思路／一连串事件"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What amazing train of thought led you from Napoleon to global warming?",
+                  "cn": "是怎样的思路使你从拿破仑想到全球变暖？"
+                },
+                {
+                  "gram": "",
+                  "en": "The book describes the train of events that led up to the assassination.",
+                  "cn": "这本书描述了导致暗杀的一连串事件。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a line of animals, people, or things moving along together",
+                "cn": "（行进中的）行列，队列"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a wagon train",
+                  "cn": "马车队"
+                },
+                {
+                  "gram": "",
+                  "en": "a mule/camel train",
+                  "cn": "骡／骆驼队"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PART OF DRESS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the part of a long dress that spreads out onto the floor behind the person wearing it",
+                "cn": "拖裙，裙裾"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an elaborate wedding dress with a long train",
+                  "cn": "拖着长长的裙裾且做工精细的婚纱"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/treɪn/",
+        "us": "/treɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/treɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukt/uktra/uktract028.mp3"
+        },
+        "us": {
+          "ipa": "/treɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/t/tra/train/train.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PREPARE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to prepare someone or yourself for a job, activity, or sport, by learning skills and/or by mental or physical exercise",
+                "cn": "训练，培训;锻炼"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She trained as a pilot.",
+                  "cn": "她接受过飞行训练。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "John trained to be an accountant.",
+                  "cn": "约翰接受训练成为一名会计。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I had to train myself to be more assertive at work.",
+                  "cn": "我必须锻炼自己，使自己在工作中更加自信。"
+                },
+                {
+                  "gram": "",
+                  "en": "She trained hard for the race, sometimes running as much as 60 miles a week.",
+                  "cn": "她为参加赛跑比赛而刻苦训练，有时一周能跑60英里。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm trying to train my kids to pick up after themselves.",
+                  "cn": "我正尝试着训练我的孩子自己收拾东西。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AIM",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to aim or point a gun, camera, light, etc. at someone or something",
+                "cn": "把（枪、相机、光等）对准，将…瞄准"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "With five guns suddenly trained on him, he was understandably nervous.",
+                  "cn": "5把枪突然对准他时，他感到紧张也就不足为奇了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DIRECT GROWTH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to direct the growth of a plant in a particular direction by cutting it and tying it",
+                "cn": "（通过修剪、捆扎）使（植物）朝特定方向生长;修整"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The vines were trained over an arch, providing shade as well as fruit.",
+                  "cn": "葡萄藤被修整得在拱门上方生长，不仅结出果实，还能遮阴。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "time": 1752141288162,
+  "title": "which",
+  "generalBitmask": 320,
+  "allDefinitions": [
+    {
+      "pos": "determiner, pronoun",
+      "defBitmask": 320,
+      "pron": {
+        "uk": "/wɪtʃ/",
+        "us": "/wɪtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel030.mp3"
+        },
+        "us": {
+          "ipa": "/wɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whi/which/which.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "QUESTION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "(used in questions and structures in which there is a fixed or limited set of answers or possibilities) what one or ones",
+                "cn": "（用于答案数目固定或有限的问题中）哪个;哪些"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Which party would you prefer to go to - Anna's or Dan's ?",
+                  "cn": "你更想去哪个聚会——安娜的还是丹的？"
+                },
+                {
+                  "gram": "",
+                  "en": "Which doctor did you see - Seward?",
+                  "cn": "你看的是哪一位医生——苏厄德医生吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Which time suits you better - 12.30 or one o'clock?",
+                  "cn": "哪个时间你更方便——12点半还是1点？"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Jacinta was there with her boyfriend.\" \"Which one? She has several.\"",
+                  "cn": "“雅辛塔和她的男朋友在那边。”“哪个男朋友？她有好几个。”"
+                },
+                {
+                  "gram": "",
+                  "en": "Which is mine? The smaller one?",
+                  "cn": "哪个是我的？小一点的这个？"
+                },
+                {
+                  "gram": "",
+                  "en": "See if you can guess which one is me in my old school photo.",
+                  "cn": "看看你能否看出上学时的老照片中哪个是我。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's either Spanish or Portuguese that she speaks, but I've forgotten which.",
+                  "cn": "她说的要么是西班牙语，要么是葡萄牙语，我忘了是哪一种了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Which of the desserts did you have?",
+                  "cn": "你吃的是哪一种甜点？"
+                },
+                {
+                  "gram": "",
+                  "en": "Which of your parents do you feel closer to?",
+                  "cn": "你觉得跟父母哪一方更亲近？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ADDS INFORMATION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to add extra information to a previous clause, in writing usually after a comma",
+                "cn": "（用于为前边的从句补充额外信息，书面英语中通常用于逗号之后）那个，那些，那种情况"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That bar on Milton Street, which by the way is very nice, is owned by Trevor's brother.",
+                  "cn": "米尔顿大街上的那家酒吧，顺便提一句那里非常棒，是特雷弗的哥哥开的。"
+                },
+                {
+                  "gram": "",
+                  "en": "She says it's Charlotte's fault, which is stupid, and that she blames her.",
+                  "cn": "她说那是夏洛特的错，真是一派胡言，竟然还责怪她。"
+                },
+                {
+                  "gram": "",
+                  "en": "Anyway, that evening, which I'll tell you more about later, I ended up staying at Rachel's place.",
+                  "cn": "总之，那天夜里我住在了雷切尔那里，我以后会告诉你更多那天晚上的事。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's the third in a sequence of three books, the first of which I really enjoyed.",
+                  "cn": "这是那套系列书里的第三本，该系列共有三本，我非常喜欢其中的第一本。"
+                },
+                {
+                  "gram": "",
+                  "en": "He showed me round the town, which was very kind of him.",
+                  "cn": "他带我参观了这个城镇，他真是太好了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The picking of the fruit, for which work they receive no money, takes about a week.",
+                  "cn": "采摘水果，这项工作没有工资，大约花1周时间。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "/wɪtʃ/",
+        "us": "/wɪtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/wɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwhe/ukwheel030.mp3"
+        },
+        "us": {
+          "ipa": "/wɪtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/whi/which/which.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "USED TO REFER",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used as the subject or object of a verb to show what thing or things you are referring to, or to add information about the thing just mentioned. It is usually used for things, not people",
+                "cn": "（用作动词的主语或宾语，指代所提及的事物，或为刚提到的事物补充信息，通常不用于指人）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "These are principles which we all believe in.",
+                  "cn": "这些是我们所有人都坚信的原则。"
+                },
+                {
+                  "gram": "",
+                  "en": "You know that little Italian restaurant - the one which I mentioned in my letter?",
+                  "cn": "你知道那个意大利小餐馆——就是我在信里提到过的那个？"
+                },
+                {
+                  "gram": "",
+                  "en": "Is that the film in which he kills his mother?",
+                  "cn": "这是那部他杀死了自己妈妈的电影吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The death of his son was an experience from which he never fully recovered.",
+                  "cn": "他再也没能从儿子死亡的打击中完全恢复过来。"
+                },
+                {
+                  "gram": "",
+                  "en": "It isn't a subject to which I devote a great deal of thought.",
+                  "cn": "这不是个让我花费很多心思去思考的问题。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

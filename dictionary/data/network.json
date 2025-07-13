@@ -1,0 +1,142 @@
+{
+  "time": 1752140700471,
+  "title": "network",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈnet.wɜːk/",
+        "us": "/ˈnet.wɝːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnet.wɜːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknep/ukneptu025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnet.wɝːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/net/netwo/network.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a large system consisting of many similar parts that are connected together to allow movement or communication between or along the parts, or between the parts and a control centre",
+                "cn": "网络，网状系统"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a television network",
+                  "cn": "电视网"
+                },
+                {
+                  "gram": "",
+                  "en": "a road/rail network",
+                  "cn": "公路／铁路网"
+                },
+                {
+                  "gram": "",
+                  "en": "Massive investment is needed to modernize the country's phone network.",
+                  "cn": "使全国电话网络实现现代化需要巨额投资。"
+                },
+                {
+                  "gram": "",
+                  "en": "We could reduce our costs by developing a more efficient distribution network.",
+                  "cn": "我们可以通过发展更为高效的分销系统来降低成本。"
+                },
+                {
+                  "gram": "",
+                  "en": "a network of spies/a spy network",
+                  "cn": "间谍网"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a number of computers that are connected together so that they can share information",
+                "cn": "计算机网络"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We've just spent £1.9 million on improving our computer network.",
+                  "cn": "我们刚刚花了190万英镑来改善我们的计算机网路。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈnet.wɜːk/",
+        "us": "/ˈnet.wɝːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈnet.wɜːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukn/uknep/ukneptu025.mp3"
+        },
+        "us": {
+          "ipa": "/ˈnet.wɝːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/n/net/netwo/network.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "COMPUTERS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to connect computers together so that they can share information",
+                "cn": "使（计算机）联网"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Our computer system consists of about 20 personal computers networked to a powerful file-server.",
+                  "cn": "我们的计算机系统由大约20台个人电脑组成，这些电脑与一台功能强大的文件服务器联网。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEET PEOPLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to meet people who might be useful to know, especially in your job",
+                "cn": "（尤指工作中）建立关系网，建立人脉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't really enjoy these conferences, but they're a good opportunity to network.",
+                  "cn": "我其实并不喜欢参加这些会议，不过这倒是建立关系网的好机会。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

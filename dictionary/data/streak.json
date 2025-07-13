@@ -1,0 +1,223 @@
+{
+  "time": 1752141102602,
+  "title": "streak",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/striːk/",
+        "us": "/striːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/striːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukstr/ukstrat012.mp3"
+        },
+        "us": {
+          "ipa": "/striːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/str/strea/streak.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MARK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a long, thin mark that is easily noticed because it is very different from the area surrounding it",
+                "cn": "条纹;条痕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The window cleaner left dirty streaks on the windows.",
+                  "cn": "擦窗工人在窗户上留下了条条污痕。"
+                },
+                {
+                  "gram": "",
+                  "en": "I dye my hair to hide my grey streaks.",
+                  "cn": "我染发是为了遮住花白的头发。"
+                },
+                {
+                  "gram": "",
+                  "en": "Meteors produce streaks of light as they burn up in the earth's atmosphere.",
+                  "cn": "流星在地球大气层中燃烧时会产生一道光痕。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHARACTERISTIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an often unpleasant characteristic that is very different from other characteristics",
+                "cn": "（常指不好的）特点，个性特征"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her stubborn streak makes her very difficult to work with sometimes.",
+                  "cn": "她固执的性格有时候使人很难和她共事。"
+                },
+                {
+                  "gram": "",
+                  "en": "You need to have a competitive streak when you're working in marketing.",
+                  "cn": "你做营销工作时需要有竞争意识。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SHORT PERIOD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a short period of good or bad luck",
+                "cn": "一阵好运；一阵霉运"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I just hope my lucky streak continues until the world championships.",
+                  "cn": "我只是希望我的好运能延续到世界锦标赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their longest losing streak has been three games.",
+                  "cn": "他们最低迷的时候连输过3场。"
+                },
+                {
+                  "gram": "",
+                  "en": "After winning a couple of bets, he thought he was on a winning streak.",
+                  "cn": "下注赢了几回后，他以为自己红运正当头。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SERIES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that happens or is done over a period of time without a break",
+                "cn": "一阵子，一连串，一系列"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The thunderstorm ended a streak of 90 days without any rain.",
+                  "cn": "这场暴风雨结束了连续90天没有下雨的情况。"
+                },
+                {
+                  "gram": "",
+                  "en": "She asked me if I would start a streak with her on Snapchat.",
+                  "cn": "她问我愿不愿意在 Snapchat上跟她聊一阵。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/striːk/",
+        "us": "/striːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/striːk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukstr/ukstrat012.mp3"
+        },
+        "us": {
+          "ipa": "/striːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/str/strea/streak.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MOVE FAST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move somewhere extremely quickly, usually in a straight line",
+                "cn": "（通常指沿直线）飞奔，疾驰"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The motorbike streaked off down the street.",
+                  "cn": "摩托车沿街疾驰而去。"
+                },
+                {
+                  "gram": "",
+                  "en": "Did you see that bird streak past the window?",
+                  "cn": "你看见掠过窗外的那只鸟了吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RUN NAKED",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to run naked through a public place in order to attract attention or to express strong disapproval of something",
+                "cn": "（在公共场所）裸奔"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "MARK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to have long, thin noticeable lines of a different colour",
+                "cn": "带有条纹;带有条痕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Doesn't Chris look good with her hair streaked?",
+                  "cn": "克里斯的头发挑染后看起来不错吧？"
+                },
+                {
+                  "gram": "",
+                  "en": "Her clothes were streaked with mud.",
+                  "cn": "她的衣服上全是一条条的泥道。"
+                },
+                {
+                  "gram": "",
+                  "en": "White marble is frequently streaked with grey, black, or green.",
+                  "cn": "白色的大理石上经常有灰色、黑色或绿色的条纹。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

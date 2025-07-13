@@ -1,0 +1,58 @@
+{
+  "time": 1752140468533,
+  "title": "headlight",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈhed.laɪt/",
+        "us": "/ˈhed.laɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈhed.laɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhea/ukhead_021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈhed.laɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus72/eus72173.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large, powerful light at the front of a vehicle, usually one of two",
+                "cn": "（车辆的）头灯，前灯"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I could see a car's headlights coming towards me.",
+                  "cn": "我看见一辆车的前灯离我越来越近。"
+                },
+                {
+                  "gram": "",
+                  "en": "It was foggy, and all the cars had their headlights on.",
+                  "cn": "天气雾蒙蒙的，所有的车都开着前灯。"
+                },
+                {
+                  "gram": "",
+                  "en": "to dip your headlights (= make them shine downwards)",
+                  "cn": "把前灯调成近光"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "time": 1752141295808,
+  "title": "who",
+  "generalBitmask": 257,
+  "allDefinitions": [
+    {
+      "pos": "pronoun",
+      "defBitmask": 256,
+      "pron": {
+        "uk": "/huː/",
+        "us": "/huː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/huː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo02/cdo0216whouk2279.mp3"
+        },
+        "us": {
+          "ipa": "/huː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/who/who__/who.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "QUESTIONS",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used especially in questions as the subject or object of a verb, when asking which person or people, or when asking what someone's name is",
+                "cn": "谁，什么人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Who did this?",
+                  "cn": "这是谁做的？"
+                },
+                {
+                  "gram": "",
+                  "en": "Who's she?",
+                  "cn": "她是谁？"
+                },
+                {
+                  "gram": "",
+                  "en": "Who are all those people?",
+                  "cn": "那些人是谁？"
+                },
+                {
+                  "gram": "",
+                  "en": "She asked me if I knew who had got the job.",
+                  "cn": "她问我是否知道谁获得了那份工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who (also formal whom) do you want to talk to?",
+                  "cn": "您要找哪位？"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't know who to ask to the party.",
+                  "cn": "我不知道该邀请谁参加聚会。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used with verbs that relate to knowing, when you want to say that something is not known",
+                "cn": "（与表示“知道”的动词连用，表示不知道）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Are they going to get married?\" \"Who knows?\" (= It is not possible to know at the moment.)",
+                  "cn": "“他们是要结婚了吗？”“谁知道呢。”"
+                },
+                {
+                  "gram": "",
+                  "en": "Who can tell what will happen now?",
+                  "cn": "谁知道会发生什么呢？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "USED TO REFER",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used as the subject or object of a verb to show which person you are referring to, or to add information about a person just mentioned. It is used for people, not things",
+                "cn": "（用作动词的主语或宾语，表示所提及的人，或附加所提及的人的信息）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I think it was your dad who phoned.",
+                  "cn": "我觉得打电话的人是你爸爸。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's one of those people who love to be the centre of attention.",
+                  "cn": "她是那种喜欢引人注意的人。"
+                },
+                {
+                  "gram": "",
+                  "en": "He called James, who was a good friend as well as the family doctor.",
+                  "cn": "他打电话给詹姆斯，詹姆斯既是家庭医生又是他的好朋友。"
+                },
+                {
+                  "gram": "",
+                  "en": "The other people who (also that) live in the house are really friendly.",
+                  "cn": "住在这所房子里的其他人十分友好。"
+                },
+                {
+                  "gram": "",
+                  "en": "This is Gabriel, who I told you about.",
+                  "cn": "这是加布里埃尔，我跟你说起过他。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌdʌb.əl.juː.eɪtʃˈəʊ/",
+        "us": "/ˌdʌb.əl.juː.eɪtʃˈoʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌdʌb.əl.juː.eɪtʃˈəʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31522.mp3"
+        },
+        "us": {
+          "ipa": "/ˌdʌb.əl.juː.eɪtʃˈoʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31522.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for\nthe World Health Organization",
+                "cn": "世界卫生组织（the World Health Organization的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 5,
+      "stressIndex": 4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "time": 1752140247804,
+  "title": "during",
+  "generalBitmask": 16,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/ˈdʒʊə.rɪŋ/",
+        "us": "/ˈdʊr.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdʒʊə.rɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdun/ukdunny019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdʊr.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dur/durin/during.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "THROUGH",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "from the beginning to the end of a particular period",
+                "cn": "在…期间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They work during the night and sleep by day.",
+                  "cn": "他们夜里干活儿，白天睡觉。"
+                },
+                {
+                  "gram": "",
+                  "en": "There were huge advances in aviation technology during the Second World War.",
+                  "cn": "在第二次世界大战期间航空技术有了长足的发展。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AT SOME TIME IN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "at some time between the beginning and the end of a period",
+                "cn": "在…期间的某个时候"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I woke up several times during the night.",
+                  "cn": "夜里我醒了好几次。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

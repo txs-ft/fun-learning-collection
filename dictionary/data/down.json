@@ -1,0 +1,771 @@
+{
+  "time": 1752140229691,
+  "title": "down",
+  "generalBitmask": 4127,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/daʊn/",
+        "us": "/daʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdou/ukdoubl024.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dow/down_/down.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LOWER POSITION",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in or towards a low or lower position, from a higher one",
+                "cn": "在下面；向下，朝下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is this lift going down?",
+                  "cn": "这部电梯是向下开的吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Don't look down! You'll get dizzy.",
+                  "cn": "别朝下看！你会头晕的。"
+                },
+                {
+                  "gram": "",
+                  "en": "The sun's going down and it'll be dark soon.",
+                  "cn": "太阳要落下去了，天很快就要黑了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The space capsule came down in the ocean.",
+                  "cn": "太空舱落入了海里。"
+                },
+                {
+                  "gram": "",
+                  "en": "I bent down to look under the bed.",
+                  "cn": "我弯下腰朝床底下看了看。"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "moving from above and onto a surface",
+                "cn": "（坐、躺、放）下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Just as I was sitting down to watch TV, the phone rang.",
+                  "cn": "我正准备坐下看电视的时候，电话铃响了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't you lie down on the sofa for a while?",
+                  "cn": "你为什么不在沙发上躺一会儿呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "This box is really heavy - can we put it down (on the floor) for a minute?",
+                  "cn": "这个箱子确实很重——我们把它放下（搁到地板上）歇一会儿好吗?"
+                },
+                {
+                  "gram": "",
+                  "en": "Get down off that table immediately!",
+                  "cn": "你这个傻丫头，马上从桌子上下来！"
+                },
+                {
+                  "gram": "",
+                  "en": "The terrorists forced everybody to lie face down (= with the front part of the body below) on the floor.",
+                  "cn": "恐怖分子强迫大家面朝下趴在地板上。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "firmly in place or into position",
+                "cn": "牢固地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I put the loose floorboard back and nailed it down.",
+                  "cn": "我把松动的地板块放回去用钉子钉牢。"
+                },
+                {
+                  "gram": "",
+                  "en": "He held my arms down by my sides.",
+                  "cn": "他把我的胳膊按在我身体的两侧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LOWER LEVEL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in or towards a lower level, a smaller amount, or a simpler state",
+                "cn": "（水平等）由高到低地；（数量等）由大到小地；（情况等）由复杂变简单地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The rate of inflation is finally going down.",
+                  "cn": "通货膨胀率终于下降了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Turn the TV down - it's way too loud!",
+                  "cn": "把电视机的声音关小一点——实在太吵了！"
+                },
+                {
+                  "gram": "",
+                  "en": "The nurse bandaged my sprained ankle to keep the swelling down (= to limit the swelling).",
+                  "cn": "护士把我扭伤的脚踝抱起来以控制肿胀。"
+                },
+                {
+                  "gram": "",
+                  "en": "If you wait a few months, the price will come down.",
+                  "cn": "如果你等上几个月，价格就会降下来。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Cavaliers were 20 points down (= losing by 20 points) at half-time.",
+                  "cn": "半场结束时克里夫兰骑士队落后20分。"
+                },
+                {
+                  "gram": "",
+                  "en": "The number of students at this school has gone down from 500 last year to 410.",
+                  "cn": "这所学校的学生人数从去年的500人降到了410人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DESTROY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you burn, cut, or knock something or someone down, you cause it, him, or her to fall to the ground, usually damaged, destroyed, or injured.",
+                "cn": "（因破坏性力量倒、垮、塌）下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The house burned down many years ago.",
+                  "cn": "许多年以前这座房子就被烧毁了。"
+                },
+                {
+                  "gram": "",
+                  "en": "These trees will have to be cut down to make way for the new road.",
+                  "cn": "为了修建新公路，不得不将这些树砍掉。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was knocked down by a car and killed instantly.",
+                  "cn": "她被车撞倒后当即死亡。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN WRITING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in writing or on paper",
+                "cn": "以书面形式;写在纸上"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll write it down now so I won't forget.",
+                  "cn": "我现在要写下来以免忘了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Do you have it down in writing/on paper, or was it just a verbal agreement?",
+                  "cn": "你有书面的东西吗？还是只是口头协议？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got/put you down for (= have written that you want) three tickets each.",
+                  "cn": "我已经记下了你们每人要3张票。"
+                },
+                {
+                  "gram": "",
+                  "en": "The police officers were taking down the names of witnesses.",
+                  "cn": "警官们正在记录证人的姓名。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FAR",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used, especially with prepositions, to emphasize that a place is at some distance from you or from somewhere considered to be central",
+                "cn": "在远方，去远处"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll meet you down at the gym after work.",
+                  "cn": "下班后我会到俱乐部找你。"
+                },
+                {
+                  "gram": "",
+                  "en": "He has a house down by the harbour.",
+                  "cn": "他在港湾那边有一座房子。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm going down to the shop to buy some milk.",
+                  "cn": "我要去商店买些牛奶。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in or towards the south",
+                "cn": "在南部；向南方"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's much warmer down (in the) south.",
+                  "cn": "南方要暖和许多。"
+                },
+                {
+                  "gram": "",
+                  "en": "My parents live down in Florida, but they come up to Chicago every summer.",
+                  "cn": "我父母住在南方的佛罗里达，但他们每年夏天都要来芝加哥。"
+                },
+                {
+                  "gram": "",
+                  "en": "We're moving down to London.",
+                  "cn": "我们要南下搬到伦敦去了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OLDER TO YOUNGER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "from an older person to a younger one",
+                "cn": "传下去（地），传给下一代（地）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The necklace has been passed/handed down through seven generations.",
+                  "cn": "这条项链已经传了7代人了。"
+                },
+                {
+                  "gram": "",
+                  "en": "These myths have come down to us from prehistoric times.",
+                  "cn": "这些神话从史前一直流传至今。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EATING",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "inside your stomach",
+                "cn": "進肚子里"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You'll feel better once you've got some hot soup down you.",
+                  "cn": "喝点热汤你就会感觉舒服一些。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's getting weak because he can't keep anything down.",
+                  "cn": "什么食物他吃了就吐，因此他的身体变得越来越虚弱了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "at the time of buying",
+                "cn": "购买时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I gave him $1,000 down, and paid the rest in instalments.",
+                  "cn": "我付给他1000英镑，其余货款分期支付。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/daʊn/",
+        "us": "/daʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdou/ukdoubl024.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dow/down_/down.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LOWER POSITION",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "in or towards a low or lower position, from a higher one",
+                "cn": "在下面；向下，朝下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I slid down the hill.",
+                  "cn": "我顺着山坡滑了下来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Aikiko fell down some stairs and broke her wrist.",
+                  "cn": "爱子在楼梯上滑了一跤，腕部骨折了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALONG",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "along",
+                "cn": "沿着，顺"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We drove down the highway as far as Atlanta.",
+                  "cn": "我们沿着高速公路一直开到了亚特兰大。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her office is down the corridor on the right.",
+                  "cn": "她的办公室在走廊那头的右侧。"
+                },
+                {
+                  "gram": "",
+                  "en": "They sailed the boat down the river (= towards the sea).",
+                  "cn": "他们沿着这条河驾船驶向大海。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to",
+                "cn": "到，向，朝"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I went down the pub with my mates.",
+                  "cn": "我和同伴去了酒吧。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/daʊn/",
+        "us": "/daʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdou/ukdoubl024.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dow/down_/down.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LOWER POSITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cause something or someone to fall to the ground",
+                "cn": "使跌倒，使倒下；使掉下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We downed three enemy planes with our missiles.",
+                  "cn": "我们用导弹击落了3架敌机。"
+                },
+                {
+                  "gram": "",
+                  "en": "The ice storm has downed trees and power lines all over the region.",
+                  "cn": "冰暴在整个地区击倒树木，刮落电线。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EAT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to eat or drink something quickly",
+                "cn": "一口气吃下;一口气喝下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He'd downed four beers before I'd finished one.",
+                  "cn": "我一杯啤酒还没喝完，他就已经一口气喝下四杯了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DEFEAT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to defeat someone, especially in sport",
+                "cn": "（尤指在比赛中）打败，击败，战胜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The Yankees downed the Red Sox 7–0.",
+                  "cn": "扬基队以7-0的比分打败了红袜队。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/daʊn/",
+        "us": "/daʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdou/ukdoubl024.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dow/down_/down.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "UNHAPPY",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "unhappy; unable to feel excited or energetic about anything",
+                "cn": "不高兴的;情绪低落的，提不起精神的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's been really down since her husband left.",
+                  "cn": "自从丈夫去世后她一直抑郁寡欢。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've been (feeling) a little bit down this week.",
+                  "cn": "这周我有点情绪低落。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT IN OPERATION",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "(of a system or machine, especially a computer) not in operation or not working, usually only for a limited period of time",
+                "cn": "（尤指计算机等机器或系统）停止运转"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The network will be down for an hour for routine maintenance.",
+                  "cn": "网络将停止运行1小时以进行日常维护。"
+                },
+                {
+                  "gram": "",
+                  "en": "The whole system's gone down.",
+                  "cn": "整个系统都停止运行了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/daʊn/",
+        "us": "/daʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdou/ukdoubl024.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dow/down_/down.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FEATHERS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "small soft feathers, especially those from a young bird",
+                "cn": "羽绒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "goose/duck down",
+                  "cn": "鹅／鸭绒"
+                },
+                {
+                  "gram": "",
+                  "en": "a down jacket/pillow/sleeping bag (= a jacket/pillow/sleeping bag filled with down)",
+                  "cn": "羽绒上衣／枕头／睡袋"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "very soft thin hair",
+                "cn": "绒毛"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "DISLIKE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to dislike someone, often unfairly:",
+                "cn": "你为什么不喜欢他？我觉得他非常不错。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Why do you have a down on him? I think he seems really nice.",
+                  "cn": "你为什么不喜欢他？我觉得他非常不错。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/daʊn-/",
+        "us": "/daʊn-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdou/ukdoubl024.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dow/down_/down.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "at or towards the end or the lower or worse part",
+                "cn": "下"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "downhill",
+                  "cn": "朝山下"
+                },
+                {
+                  "gram": "",
+                  "en": "downriver",
+                  "cn": "顺流而下"
+                },
+                {
+                  "gram": "",
+                  "en": "down-market",
+                  "cn": "低端的"
+                },
+                {
+                  "gram": "",
+                  "en": "the downside",
+                  "cn": "不利方面"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/daʊn/",
+        "us": "/daʊn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/cdo/cdo03/cdo0318ukdown0449.mp3"
+        },
+        "us": {
+          "ipa": "/daʊn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318usdown1496.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a county (= an area with its own local government) in the southeast of Northern Ireland",
+                "cn": "唐郡"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Tommy visited Peter in Newry, County Down, just a few weeks ago.",
+                  "cn": "就在几周前，汤米去唐郡的纽里看望了彼得。"
+                },
+                {
+                  "gram": "",
+                  "en": "He married a girl from the Co Down town where he grew up.",
+                  "cn": "他娶了个女孩，来自他成长的故乡--唐郡镇。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

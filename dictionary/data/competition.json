@@ -1,0 +1,111 @@
+{
+  "time": 1752140156417,
+  "title": "competition",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˌkɒm.pəˈtɪʃ.ən/",
+        "us": "/ˌkɑːm.pəˈtɪʃ.ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌkɒm.pəˈtɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcom/ukcompa028.mp3"
+        },
+        "us": {
+          "ipa": "/ˌkɑːm.pəˈtɪʃ.ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/com/compe/competition.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a situation in which someone is trying to win something or be more successful than someone else",
+                "cn": "竞争"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Competition for jobs is intense.",
+                  "cn": "求职的竞争非常激烈。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a lot of competition between computer companies.",
+                  "cn": "计算机公司间的竞争很激烈。"
+                },
+                {
+                  "gram": "",
+                  "en": "The two companies are in competition with each other.",
+                  "cn": "两家公司相互竞争。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "There's fierce competition to get into that school.",
+                  "cn": "进入那所学校要经过激烈的竞争。"
+                },
+                {
+                  "gram": "",
+                  "en": "Foreign competition (= similar products from other countries) had reduced their sales.",
+                  "cn": "来自国外的竞争使他们的销售额有所下降。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why are you jealous of her? She's no competition!",
+                  "cn": "你为什么要嫉妒她？她根本不是你的对手！"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an organized event in which people try to win a prize by being the best, fastest, etc.",
+                "cn": "竞赛，比赛"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a swimming/chess competition",
+                  "cn": "游泳／国际象棋比赛"
+                },
+                {
+                  "gram": "",
+                  "en": "She's entered a crossword competition.",
+                  "cn": "她参加了纵横填字比赛。"
+                },
+                {
+                  "gram": "",
+                  "en": "You don't need to eat so quickly! It's not a competition.",
+                  "cn": "你不必吃得这么快！又不是比赛。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the person or people you are trying to be better than",
+                "cn": "竞争对手，竞争者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The competition on the track looked fierce and her heart sank.",
+                  "cn": "跑道上的对手看起来很厉害，她的心不禁一沉。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 4,
+      "stressIndex": 2
+    }
+  ]
+}

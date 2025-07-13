@@ -1,0 +1,42 @@
+{
+  "time": 1752140608145,
+  "title": "melting",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈmel.tɪŋ/",
+        "us": "/ˈmel.tɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmel.tɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmel/ukmelod008.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmel.tɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usm/usmeg/usmega_020.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "A melting look or voice makes you feel sympathy or love.",
+                "cn": "（指神情或嗓音）令人同情的;惹人怜爱的"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

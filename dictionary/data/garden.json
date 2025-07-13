@@ -1,0 +1,91 @@
+{
+  "time": 1752140383754,
+  "title": "garden",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈɡɑː.dən/",
+        "us": "/ˈɡɑːr.dən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈɡɑː.dən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgan/ukganja019.mp3"
+        },
+        "us": {
+          "ipa": "/ˈɡɑːr.dən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gar/garde/garden.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a piece of land next to and belonging to a house, where flowers and other plants are grown, and often containing an area of grass",
+                "cn": "（住宅旁的）花园"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "garden tools/furniture",
+                  "cn": "园艺工具／花园用家具"
+                },
+                {
+                  "gram": "",
+                  "en": "a garden shed",
+                  "cn": "花园中的棚屋"
+                },
+                {
+                  "gram": "",
+                  "en": "The house has a large back garden, and a small front garden.",
+                  "cn": "这座房子后面有个大花园，前面还有个小花园。"
+                },
+                {
+                  "gram": "",
+                  "en": "The children were playing in the garden.",
+                  "cn": "孩子们在花园里玩。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a piece of land, usually in a yard next to a house, where you grow flowers and vegetables",
+                "cn": "（住宅旁的）园子，菜园，花园"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a vegetable/flower garden",
+                  "cn": "菜园／花园"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a public park with flowers, plants, and places to sit",
+                "cn": "公园"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the Botanical Gardens",
+                  "cn": "植物园"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

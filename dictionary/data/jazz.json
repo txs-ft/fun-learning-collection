@@ -1,0 +1,93 @@
+{
+  "time": 1752140517625,
+  "title": "jazz",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dʒæz/",
+        "us": "/dʒæz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dʒæz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjau/ukjaund016.mp3"
+        },
+        "us": {
+          "ipa": "/dʒæz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jaz/jazz_/jazz.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a type of modern music originally developed by African-Americans, with a rhythm in which the strong notes often come before the beat. Jazz is usually improvised (= invented as it is played).",
+                "cn": "爵士乐;爵士乐曲"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dʒæz/",
+        "us": "/dʒæz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dʒæz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukj/ukjau/ukjaund016.mp3"
+        },
+        "us": {
+          "ipa": "/dʒæz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/j/jaz/jazz_/jazz.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a brand name for a type of apple that is a cross (= a mixture of two things combined) between a Royal Gala and a Braeburn",
+                "cn": "爵士苹果：由皇家佳丽与布瑞本这两种新西兰品种的苹果杂交得到的新品种"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Jazz are juicy and great in salads.",
+                  "cn": "爵士苹果多汁，非常适合做沙拉。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jazz apples have a reddish colour that is broken up by patches of greenish-yellow or orange.",
+                  "cn": "爵士苹果呈红色，中间有黄绿色或橙色斑块。"
+                },
+                {
+                  "gram": "",
+                  "en": "Jazz apples were developed in New Zealand in the 1980s and introduced on the market in 2000.",
+                  "cn": "爵士苹果于 1980 年代在新西兰开发，并于2000年投放市场。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

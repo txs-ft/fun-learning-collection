@@ -1,0 +1,385 @@
+{
+  "time": 1752140450751,
+  "title": "great",
+  "generalBitmask": 4109,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ɡreɪt/",
+        "us": "/ɡreɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡreɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgra/ukgranu029.mp3"
+        },
+        "us": {
+          "ipa": "/ɡreɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gra/grate/grate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BIG",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "large in amount, size, or degree",
+                "cn": "大量的；巨大的；强烈的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an enormous great hole",
+                  "cn": "巨大的洞"
+                },
+                {
+                  "gram": "",
+                  "en": "The issue is of great importance to voters.",
+                  "cn": "对选民们来说这个问题意义重大。"
+                },
+                {
+                  "gram": "",
+                  "en": "The improvement in water standards over the last 50 years has been very great.",
+                  "cn": "过去50年中，水质有了很大的提高。"
+                },
+                {
+                  "gram": "",
+                  "en": "A great many people would agree.",
+                  "cn": "很多人会表示赞同。"
+                },
+                {
+                  "gram": "",
+                  "en": "The great majority of (= almost all) people would agree.",
+                  "cn": "绝大多数人都会表示赞同。"
+                },
+                {
+                  "gram": "",
+                  "en": "It gives us great pleasure to announce the engagement of our daughter Maria.",
+                  "cn": "我们非常高兴地宣布我们的女儿玛丽亚订婚了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It is with great sorrow that I inform you of the death of our director.",
+                  "cn": "我万分悲痛地通知您我们院长逝世的消息。"
+                },
+                {
+                  "gram": "",
+                  "en": "I have great sympathy for you.",
+                  "cn": "我对你深表同情。"
+                },
+                {
+                  "gram": "",
+                  "en": "I spent a great deal of time there.",
+                  "cn": "我在那儿度过了很长时间。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in names, especially to mean large or important",
+                "cn": "（用在名称中，尤用于表示大或重要）大"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a Great Dane (= large type of dog)",
+                  "cn": "大丹犬"
+                },
+                {
+                  "gram": "",
+                  "en": "Catherine the Great",
+                  "cn": "叶卡捷琳娜大帝（指叶卡捷琳娜二世）"
+                },
+                {
+                  "gram": "",
+                  "en": "the Great Wall of China",
+                  "cn": "中国万里长城"
+                },
+                {
+                  "gram": "",
+                  "en": "the Great Bear (= group of stars)",
+                  "cn": "大熊星座"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "larger in number or amount than:",
+                "cn": "X必须大于等于10。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "X must be equal to or greater than 10.",
+                  "cn": "X必须大于等于10。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FAMOUS",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "famous, powerful, or important as one of a particular type",
+                "cn": "卓越的，伟大的，杰出的，重大的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a great politician/leader/artist/man/woman",
+                  "cn": "伟大的政治家／领导人／艺术家／人／女性"
+                },
+                {
+                  "gram": "",
+                  "en": "This is one of Rembrandt's greatest paintings.",
+                  "cn": "这是伦勃朗最杰出的油画作品之一。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who do you think is the greatest modern novelist?",
+                  "cn": "你认为谁是最伟大的现代小说家？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXTREME",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "extreme",
+                "cn": "极大的;极度的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "great success/difficulty",
+                  "cn": "巨大的胜利／极度困难"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GOOD",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "very good",
+                "cn": "美妙的，好极的，很棒的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a great idea",
+                  "cn": "好主意"
+                },
+                {
+                  "gram": "",
+                  "en": "We had a great time last night at the party.",
+                  "cn": "昨晚聚会上我们玩得开心极了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's great to see you after all this time!",
+                  "cn": "分开那么长时间，再见到你真是太高兴了！"
+                },
+                {
+                  "gram": "",
+                  "en": "\"I'll lend you the car if you like.\" \"Great! Thanks a lot!\"",
+                  "cn": "“你要是想开的话，我可以把车借给你。”“那太好了！多谢！”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"What's your new teacher like?\" \"Oh, he's great.\"",
+                  "cn": "“你的新老师怎么样？”“噢，他棒极了。”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"How are you feeling now?\" \"Great.\"",
+                  "cn": "“现在你的感觉怎样？”“好极了。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to mean that something is very bad",
+                "cn": "（用于表示某事非常糟糕）真绝"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Oh great ! That's all I need - more bills!",
+                  "cn": "嘿，真绝！我最需要的就是这个——又来账单了！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb, adjective",
+      "defBitmask": 12,
+      "pron": {
+        "uk": "/ɡreɪt/",
+        "us": "/ɡreɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡreɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgra/ukgranu029.mp3"
+        },
+        "us": {
+          "ipa": "/ɡreɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gra/grate/grate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to emphasize the meaning of another word",
+                "cn": "（表示强调）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a great big spider",
+                  "cn": "巨型蜘蛛"
+                },
+                {
+                  "gram": "",
+                  "en": "a great long queue",
+                  "cn": "排得特别长的队"
+                },
+                {
+                  "gram": "",
+                  "en": "You great idiot!",
+                  "cn": "你这个大傻瓜！"
+                },
+                {
+                  "gram": "",
+                  "en": "Pat's a great friend of mine.",
+                  "cn": "帕特是我非常要好的朋友。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɡreɪt/",
+        "us": "/ɡreɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡreɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgra/ukgranu029.mp3"
+        },
+        "us": {
+          "ipa": "/ɡreɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gra/grate/grate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a famous person in a particular area of activity",
+                "cn": "伟人，大人物，名人"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "former tennis great Arthur Ashe",
+                  "cn": "前网坛名将阿瑟‧阿希"
+                },
+                {
+                  "gram": "",
+                  "en": "Woody Allen, one of the all-time greats of the cinema",
+                  "cn": "伍迪‧艾伦，有史以来最伟大的电影巨擘之一"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/ɡreɪt-/",
+        "us": "/ɡreɪt-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɡreɪt-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukg/ukgra/ukgranu029.mp3"
+        },
+        "us": {
+          "ipa": "/ɡreɪt-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/g/gra/grate/grate.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used with a word for a family member to mean one generation away from that member",
+                "cn": "（与表示家庭成员的词连用，表示更高或更低一辈）曾"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "your great-grandmother (= the grandmother of one of your parents)",
+                  "cn": "你的（外）曾祖母"
+                },
+                {
+                  "gram": "",
+                  "en": "your great-grandson (= the grandson of your child)",
+                  "cn": "你的曾（外）孙"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

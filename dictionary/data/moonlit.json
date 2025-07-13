@@ -1,0 +1,48 @@
+{
+  "time": 1752140672340,
+  "title": "moonlit",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈmuːn.lɪt/",
+        "us": "/ˈmuːn.lɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈmuːn.lɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmoo/ukmooni005.mp3"
+        },
+        "us": {
+          "ipa": "/ˈmuːn.lɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usm/usmon/usmonta015.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "able to be seen because of the light of the moon",
+                "cn": "月光照耀下的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bright, moonlit night",
+                  "cn": "月色明亮的夜晚"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "time": 1752141005651,
+  "title": "so",
+  "generalBitmask": 45,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/səʊ/",
+        "us": "/soʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksev/ukseven010.mp3"
+        },
+        "us": {
+          "ipa": "/soʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sew/sew__/sew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "VERY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "very, extremely, or to such a degree",
+                "cn": "很，非常，这么，那么"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The house is so beautiful.",
+                  "cn": "这房子太漂亮了！"
+                },
+                {
+                  "gram": "",
+                  "en": "Thank you for being so patient.",
+                  "cn": "谢谢你这么耐心。"
+                },
+                {
+                  "gram": "",
+                  "en": "Don't be so stupid!",
+                  "cn": "不要这么傻了！"
+                },
+                {
+                  "gram": "",
+                  "en": "I didn't know she had so many children!",
+                  "cn": "我不知道她有这么多孩子！"
+                },
+                {
+                  "gram": "",
+                  "en": "You can only do so much to help (= there is a limit to how much you can help).",
+                  "cn": "你只能帮忙到这个地步。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's ever so kind and nice.",
+                  "cn": "她向来这样和蔼可亲。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm so tired (that) I could sleep in this chair!",
+                  "cn": "我太累了，连坐在这椅子上都能睡着！"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm not so desperate as to agree to that.",
+                  "cn": "我并不急着非同意不可。"
+                },
+                {
+                  "gram": "",
+                  "en": "The word itself is so rare as to be almost obsolete.",
+                  "cn": "这个词本身就十分罕见，几乎要被淘汰了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used before a noun or before \"not\" to emphasize what is being said",
+                "cn": "（用在名词或 not 前表示强调）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Don't wear that - it's so last year (= it was fashionable last year but not now).",
+                  "cn": "别穿那个了——去年才流行那个呢，现在早过时了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm sorry, but she is so not a size 10 (= she is very much larger than a size 10).",
+                  "cn": "对不起，但适合她的尺码绝对要比10号大很多。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used at the end of a sentence to mean to a very great degree",
+                "cn": "（放在句末表示程度高）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is that why you hate him so?",
+                  "cn": "这就是你如此痛恨他的原因吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "You worry so!",
+                  "cn": "你太多虑了！"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SAME WAY",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used usually before the verbs \"have\", \"be\", or \"do\", and other auxiliary verbs to express the meaning \"in the same way\" or \"in a similar way\"",
+                "cn": "（通常用于 have，be，do 等助动词前）同样，像这样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"I've got an enormous amount of work to do.\" \"So have I.\"",
+                  "cn": "“我有很多很多工作要做。”“我也一样。”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"I'm allergic to nuts.\" \"So is my brother.\"",
+                  "cn": "“我对坚果过敏。”“我弟弟也是。”"
+                },
+                {
+                  "gram": "",
+                  "en": "Neil left just after midnight and so did Roz.",
+                  "cn": "尼尔午夜刚过就走了，罗兹也走了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Just as you like to have a night out with the lads, so I like to go out with the girls now and again.",
+                  "cn": "就像你喜欢和小伙子晚上出去一样，我偶尔也喜欢和女孩子一起出去。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MENTIONED EARLIER",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to avoid repeating a phrase mentioned earlier",
+                "cn": "（用于代替先前提到的短语以避免重复）这样，如此"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"I hope they stay together.\" \"I hope so too.\"",
+                  "cn": "“我希望他们在一起。”“我也希望如此。”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Do you think he's upset?\" \"I don't think so.\"",
+                  "cn": "“你认为他不高兴了吗？”“我想没有。”"
+                },
+                {
+                  "gram": "",
+                  "en": "James is coming tonight, or so he said.",
+                  "cn": "詹姆斯今晚要来，至少他是这么说的。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used to say that a situation mentioned earlier is correct or true",
+                "cn": "是这样，像那样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Is it true that we're not getting a pay increase this year?\" \"I'm afraid so.\"",
+                  "cn": "“我们今年真的不会加薪吗？”“恐怕是这样的。”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"Anthony and Mia don't get along very well.\" \"Is that so?\"",
+                  "cn": "“安东尼和米娅相处得不怎么好。”“真是那样吗？”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"The forecast says it might rain.\" \"If so, we'll have the party inside.\"",
+                  "cn": "“天气预报说可能要下雨。”“如果真是那样的话，我们就在室内聚会。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say that a fact that has just been stated is certainly true",
+                "cn": "的确如此，的确这样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"My eyes are slightly different colours.\" \"So they are.\"",
+                  "cn": "“我两眼的颜色略有差别。”“的确如此。”"
+                },
+                {
+                  "gram": "",
+                  "en": "\"That's her brother - he looks like James Dean.\" \"So he does.\"",
+                  "cn": "“那是她弟弟——看上去像詹姆斯•迪恩。”“的确如此。”"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used instead of repeating an adjective that has already been mentioned",
+                "cn": "（用于代替已提到过的形容词以避免重复）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's reasonable to work with - more so than I was led to believe.",
+                  "cn": "她是个能与之共事的人——比人们告诉我的要好。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's fairly bright - well, certainly more so than his brother.",
+                  "cn": "他挺聪明的——嗯，绝对比他弟弟聪明。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used, especially by children, to argue against a negative statement",
+                "cn": "（尤为儿语）偏偏，就是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"You didn't even see the movie.\" \"I did so!\"",
+                  "cn": "“你根本没有看过这部电影。”“我就是看过！”"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to act in the way mentioned",
+                "cn": "（按照所提到的）这么做"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Parents must take responsibility for their children. Failure to do so could mean a fine or a jail sentence.",
+                  "cn": "父母必须为他们的子女负责，如果不这样的话可能意味着罚款或监禁。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN THIS WAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in this way, or like this",
+                "cn": "以这种方式，这样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The pillars, which are outside the building, are so placed in order to provide the maximum space inside.",
+                  "cn": "建筑物外面的柱子如此排列是为了能提供最大的室内空间。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've so arranged my trip that I'll be home on Friday night.",
+                  "cn": "我这样安排自己的旅程就能在星期五晚上到家。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when you are showing how something is done",
+                "cn": "（用于示范如何做）就这样"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Just fold this piece of paper back, so, and make a crease here.",
+                  "cn": "把这张纸反折，就这样，在这儿折一条痕。"
+                },
+                {
+                  "gram": "",
+                  "en": "Gently fold in the eggs like so.",
+                  "cn": "就这样轻轻拌入鸡蛋。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when you are representing the size of something",
+                "cn": "（用于表示大小）这么，那么"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"How tall is he next to you?\" \"Oh, about so big,\" she said, indicating the level of her neck.",
+                  "cn": "“他到你哪儿？”“哦，大约这么高。”她在自己的脖子上比划了一下说道。"
+                },
+                {
+                  "gram": "",
+                  "en": "\"The table that I liked best was about so wide,\" she said, holding her arms out a metre and a half.",
+                  "cn": "“我最喜欢的桌子大约有这么宽。”她说着，张开双臂至一米半的间距。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "/səʊ/",
+        "us": "/soʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksev/ukseven010.mp3"
+        },
+        "us": {
+          "ipa": "/soʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sew/sew__/sew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SENTENCE BEGINNING",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used at the beginning of a sentence to connect it with something that has been said or has happened previously",
+                "cn": "（放在句首，表示和已说过或已发生过的事相联系）如此，这样，那么"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "So, there I was standing at the edge of the road with only my underwear on ...",
+                  "cn": "就这样，我站在路边，只穿着内衣……"
+                },
+                {
+                  "gram": "",
+                  "en": "So, just to finish what I was saying earlier...",
+                  "cn": "那么，就把我刚才所说的内容讲完……"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used as a way of making certain that you or someone else understand something correctly, often when you are repeating the important points of a plan",
+                "cn": "（用于进行确认）那么，这么说"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "So we leave on the Thursday and get back the next Tuesday, is that right?",
+                  "cn": "这么说，我们星期四出发，下一个星期二回来，对吗？"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used to refer to a discovery that you have just made",
+                "cn": "（表示发现）这就是，原来是"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "So that's what he does when I'm not around!",
+                  "cn": "那就是我不在的时候他所干的事！"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used as a short pause, sometimes to emphasize what you are saying",
+                "cn": "（表示停顿，有时用于强调所说的内容）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "So, here we are again - just you and me.",
+                  "cn": "瞧，我们又在一起了——就你和我。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used before you introduce a subject of conversation that is of present interest, especially when you are asking a question",
+                "cn": "（表示引出谈话内容，尤用于提问）那么"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "So, who do you think is going to win the election?",
+                  "cn": "那么，你认为谁会赢得大选？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show that you agree with something that someone has just said, but you do not think that it is important",
+                "cn": "（表示某人所说的内容并不重要）是呀，没错"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "So the car's expensive - well, I can afford it.",
+                  "cn": "没错，这辆车的确很贵——可我买得起。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "THEREFORE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "and for that reason; therefore",
+                "cn": "所以，因此"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My knee started hurting so I stopped running.",
+                  "cn": "我的膝盖开始疼痛，因此我停下来不再跑了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was lost so I bought a street map.",
+                  "cn": "我迷路了，所以买了一张街道地图。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction, adverb",
+      "defBitmask": 40,
+      "pron": {
+        "uk": "/səʊ/",
+        "us": "/soʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksev/ukseven010.mp3"
+        },
+        "us": {
+          "ipa": "/soʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sew/sew__/sew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used before you give an explanation for the action that you have just mentioned",
+                "cn": "为了，以便"
+              },
+              "examples": [
+                {
+                  "gram": "[ + (that) ]",
+                  "en": "I deliberately didn't have lunch so (that) I would be hungry tonight.",
+                  "cn": "我特意没吃午饭，为的就是让自己今晚能感到饿。"
+                },
+                {
+                  "gram": "",
+                  "en": "Leave the keys out so (that) I remember to take them with me.",
+                  "cn": "把钥匙放在外面，好让我记得带。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "in order to",
+                "cn": "为了，以便"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I always keep fruit in the fridge so as to keep flies off it.",
+                  "cn": "我总是把水果放在冰箱里，以防虫子叮咬。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "in order not to",
+                "cn": "为了不，以便不"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He did not switch on the light so as not to disturb her.",
+                  "cn": "为了不打扰她，他没有开灯。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/səʊ/",
+        "us": "/soʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksev/ukseven010.mp3"
+        },
+        "us": {
+          "ipa": "/soʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sew/sew__/sew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "perfectly tidy and well arranged",
+                "cn": "非常整齐的，井井有条的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's a perfectionist - everything has to be just so.",
+                  "cn": "他是个完美主义者——一切都必须是一丝不乱的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/səʊ/",
+        "us": "/soʊ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/səʊ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/e/epd/epd25/epd25996.mp3"
+        },
+        "us": {
+          "ipa": "/soʊ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sew/sew__/sew.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the musical note \nsoh",
+                "cn": "索（大调音阶的第五音，同 soh）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

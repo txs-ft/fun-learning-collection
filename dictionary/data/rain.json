@@ -1,0 +1,133 @@
+{
+  "time": 1752140887087,
+  "title": "rain",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/reɪn/",
+        "us": "/reɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/reɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukraf/ukraffl025.mp3"
+        },
+        "us": {
+          "ipa": "/reɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rai/rain_/rain.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "drops of water from clouds",
+                "cn": "雨;雨水"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Rain is forecast for tomorrow.",
+                  "cn": "预报明天会下雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "Come inside out of the rain.",
+                  "cn": "进屋来，别在雨里淋着。"
+                },
+                {
+                  "gram": "",
+                  "en": "We had heavy/light rain all day.",
+                  "cn": "我们这儿倾盆大雨／毛毛细雨整整下了一天。"
+                },
+                {
+                  "gram": "",
+                  "en": "We got caught in pouring/torrential (= a lot of) rain without either raincoats or umbrellas.",
+                  "cn": "我们既没带雨衣也没带伞，正赶上大雨滂沱，淋成了落汤鸡。"
+                },
+                {
+                  "gram": "",
+                  "en": "There will be showers of rain/rain showers (= short periods of rain) in the east.",
+                  "cn": "东部地区将有阵雨。"
+                },
+                {
+                  "gram": "",
+                  "en": "It looks like rain (= as if rain is going to fall).",
+                  "cn": "天看起来好像要下雨。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the season of the year in tropical countries when there is a lot of rain:",
+                "cn": "村民们正在等待雨季的到来，那时稻子才能生长。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Villagers are now waiting for the rains to come so that the rice will grow.",
+                  "cn": "村民们正在等待雨季的到来，那时稻子才能生长。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/reɪn/",
+        "us": "/reɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/reɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukraf/ukraffl025.mp3"
+        },
+        "us": {
+          "ipa": "/reɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rai/rain_/rain.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "If it rains, water falls from the sky in small drops.",
+                "cn": "下雨，降雨"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I think it's starting to rain.",
+                  "cn": "我觉得要下雨了。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's raining hard/heavily (= a large amount of rain is falling).",
+                  "cn": "正下着瓢泼大雨。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "time": 1752140206855,
+  "title": "defy",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/dɪˈfaɪ/",
+        "us": "/dɪˈfaɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈfaɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdef/ukdeftl005.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈfaɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/def/defy_/defy.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to refuse to obey a person, decision, law, situation, etc.",
+                "cn": "对抗;违抗;反抗"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It is rare to see children openly defying their teachers.",
+                  "cn": "很少看见孩子公然跟老师作对。"
+                },
+                {
+                  "gram": "",
+                  "en": "A few workers have defied the majority decision and gone into work despite the strike.",
+                  "cn": "几个工人不顾大多数人的罢工决定自己去上工了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The fact that aircraft don't fall out of the sky always seems to me to defy (= act against) the law of gravity.",
+                  "cn": "我总认为飞机没有从天上掉下来，是不符合万有引力定律的。"
+                },
+                {
+                  "gram": "",
+                  "en": "A forest fire raging in southern California is defying (= is not changed by) all attempts to control it.",
+                  "cn": "尽管采取了各种措施，加利福尼亚南部的一场森林大火依然在肆虐。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to be extreme or very strange and therefore impossible to believe, describe, or explain:",
+                "cn": "机场一片混乱，难以用语言形容。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The chaos at the airport defies description.",
+                  "cn": "机场一片混乱，难以用语言形容。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to tell someone to do something that you think will be impossible:",
+                "cn": "我倒要看看你能不能拿出证据来证实你的指控。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I defy you to prove your accusations.",
+                  "cn": "我倒要看看你能不能拿出证据来证实你的指控。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "time": 1752140916565,
+  "title": "result",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/rɪˈzʌlt/",
+        "us": "/rɪˈzʌlt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈzʌlt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukres/ukrestr005.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈzʌlt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/res/resul/result.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "EFFECT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something that happens or exists because of something else",
+                "cn": "结果；后果"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The road has been widened, but the result is just more traffic.",
+                  "cn": "道路被拓宽，但结果车流量却更大了。"
+                },
+                {
+                  "gram": "",
+                  "en": "His broken leg is the direct result of his own carelessness.",
+                  "cn": "他自己的粗心大意直接导致他摔断了腿。"
+                },
+                {
+                  "gram": "",
+                  "en": "I tried to repaint the kitchen walls with disastrous results.",
+                  "cn": "我试图重新粉刷一下厨房的墙，结果却弄得一塌糊涂。"
+                },
+                {
+                  "gram": "",
+                  "en": "To ensure good/the best results, use Italian tomatoes and fresh basil.",
+                  "cn": "为了保证做好后口味好／最佳，要用意大利西红柿和新鲜的罗勒。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "because of something:",
+                "cn": "由于最近销售量滑坡，利润下降了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Profits have declined as a result of the recent drop in sales.",
+                  "cn": "由于最近销售量滑坡，利润下降了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a good or pleasing effect",
+                "cn": "成效；成果"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We've spent a lot of money on advertising and we're beginning to see the results.",
+                  "cn": "我们已经花了很多钱来做广告，我们的付出现在开始见成效了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's an excellent coach who knows how to get results.",
+                  "cn": "她是个优秀的教练，知道如何取得好的训练效果。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "OF TEST",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the information you get from something such as a scientific experiment or medical test",
+                "cn": "（科学实验或医学检查的）结果"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The results of the opinion poll showed that most women supported this action.",
+                  "cn": "民意调查结果显示，大多数女性支持这一行动。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the mark you receive after you have taken an exam or test",
+                "cn": "（考试或测试的）成绩"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I finished my exams yesterday, but I won't know/get the results until August.",
+                  "cn": "我昨天考完试，但是考试成绩要到8月份才能知道。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ANSWER",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the answer to a calculation in mathematics",
+                "cn": "（计算的）结果，答案"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We used different methods of calculation, but we both got the same result.",
+                  "cn": "我们俩用了不同的计算方法，但是得出的结果都一样。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN COMPETITION",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the score or number of votes, showing the success or failure of the people involved, in a sports competition, election, etc.",
+                "cn": "（选举的）结果；（比赛的）成绩，比分"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the results of the local elections",
+                  "cn": "地方选举结果"
+                },
+                {
+                  "gram": "",
+                  "en": "the football results",
+                  "cn": "足球比赛的比分"
+                },
+                {
+                  "gram": "",
+                  "en": "We were expecting to win, so a draw was a disappointing result for us.",
+                  "cn": "我们期望赢得比赛，所以平局的结果令我们失望。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a win in a sports competition",
+                "cn": "（体育比赛中）胜局，获胜"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The team needs a result to go through to the semifinals.",
+                  "cn": "这支球队必须要赢得一场比赛才能打进半决赛。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPANY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the amount of a company's sales, profit, etc. during a particular period:",
+                "cn": "航空公司报告第一季度财务成绩显著改善。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Airlines reported significantly better financial results for the first quarter.",
+                  "cn": "航空公司报告第一季度财务成绩显著改善。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/rɪˈzʌlt/",
+        "us": "/rɪˈzʌlt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈzʌlt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukres/ukrestr005.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈzʌlt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/res/resul/result.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to happen or exist because something else has happened",
+                "cn": "（因为…）发生；（随…）产生"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Teachers were not fully prepared for the major changes in the exam system, and chaos resulted.",
+                  "cn": "老师们对考试制度的重大变化没有做好充分准备，因此出现了混乱的局面。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

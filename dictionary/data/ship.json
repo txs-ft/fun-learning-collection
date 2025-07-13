@@ -1,0 +1,155 @@
+{
+  "time": 1752140982631,
+  "title": "ship",
+  "generalBitmask": 8195,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ʃɪp/",
+        "us": "/ʃɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukshi/ukshine014.mp3"
+        },
+        "us": {
+          "ipa": "/ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/shi/ship_/ship.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a large boat for travelling on water, especially across the sea",
+                "cn": "（尤指航海的）大船，海轮，轮船，舰"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a sailing ship",
+                  "cn": "大帆船"
+                },
+                {
+                  "gram": "",
+                  "en": "a merchant/naval ship",
+                  "cn": "商船／军舰"
+                },
+                {
+                  "gram": "",
+                  "en": "They boarded (= went on to) a ship that was sailing (= leaving) the next day.",
+                  "cn": "他们登上了一艘第二天启航的船。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ʃɪp/",
+        "us": "/ʃɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukshi/ukshine014.mp3"
+        },
+        "us": {
+          "ipa": "/ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/shi/ship_/ship.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to send something, usually a large object or a large quantity of objects or people, to a place far away",
+                "cn": "运输，运送"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We ship books out to New York every month.",
+                  "cn": "我们每个月都往纽约运书。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -ʃɪp/",
+        "us": "/ -ʃɪp/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/ukshi/ukshine014.mp3"
+        },
+        "us": {
+          "ipa": "/ -ʃɪp/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/shi/ship_/ship.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "having the rank, position, skill, or relationship of the stated type",
+                "cn": "（表示头衔、地位、技巧或关系）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "lordship",
+                  "cn": "贵族身份"
+                },
+                {
+                  "gram": "",
+                  "en": "partnership",
+                  "cn": "合伙关系"
+                },
+                {
+                  "gram": "",
+                  "en": "craftsmanship",
+                  "cn": "手艺"
+                },
+                {
+                  "gram": "",
+                  "en": "friendship",
+                  "cn": "友谊"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

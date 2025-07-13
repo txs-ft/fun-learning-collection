@@ -1,0 +1,166 @@
+{
+  "time": 1752141119838,
+  "title": "system",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈsɪs.təm/",
+        "us": "/ˈsɪs.təm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsɪs.təm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksyn/uksynta015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsɪs.təm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sys/syste/system.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SET",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a set of connected things or devices that operate together",
+                "cn": "（协同工作的）系统"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a central heating system",
+                  "cn": "中央供暖系统"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "a set of computer equipment and programs used together for a particular purpose",
+                "cn": "（计算机）系统"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The system keeps crashing and no one is able to figure out why.",
+                  "cn": "系统老是崩溃，谁也不知道是为什么。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a set of organs or structures in the body that have a particular purpose",
+                "cn": "（人体的）系统"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the immune system",
+                  "cn": "免疫系统"
+                },
+                {
+                  "gram": "",
+                  "en": "the nervous system",
+                  "cn": "神经系统"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the way that the body works, especially the way that it digests food and passes out waste products",
+                "cn": "人体的活动方式（尤指消化和排泄方式）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A run in the morning is good for the system - it wakes the body up and gets everything going.",
+                  "cn": "晨跑对身体很好——它能唤醒整个身体，使各个部分运转起来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "METHOD",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a way of doing things",
+                "cn": "方法，方式；体制，制度"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We'll have to develop a better filing system.",
+                  "cn": "我们必须设计出一套适当的归档方法。"
+                },
+                {
+                  "gram": "",
+                  "en": "Under this system, many people were prevented from voting.",
+                  "cn": "在这一体制下，很多人无法投票。"
+                },
+                {
+                  "gram": "",
+                  "en": "The legal system operates very differently in the US and Britain.",
+                  "cn": "美国和英国的法制体系相去甚远。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "a particular method of counting, measuring, or weighing things",
+                "cn": "（计算或度量衡）体系"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the metric system of measuring and weighing",
+                  "cn": "公制度量体系"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the intentional and organized use of a system",
+                "cn": "条理，体系"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There doesn't seem to be any system to the books on these shelves - they're certainly not in alphabetical order.",
+                  "cn": "这些架子上的书摆放得似乎没有任何条理——它们肯定不是按字母顺序放置的。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "unfair laws and rules that prevent people from being able to improve their situation",
+                "cn": "（不公平的）法律规定，现行体制，现有制度"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He has his own ways of beating the system, making sure that he has good relationships with influential people.",
+                  "cn": "他对付当前的制度自有一套办法，就是和有权有势的人搞好关系。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "time": 1752139965056,
+  "title": "began",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/bɪˈɡæn/",
+        "us": "/bɪˈɡæn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈɡæn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbee/ukbeer_016.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈɡæn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/beg/began/began_begin.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "past simple of\nbegin",
+                "cn": "（begin 的过去式）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

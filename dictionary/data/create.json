@@ -1,0 +1,82 @@
+{
+  "time": 1752140189622,
+  "title": "create",
+  "generalBitmask": 2,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/kriˈeɪt/",
+        "us": "/kriˈeɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/kriˈeɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcre/ukcream004.mp3"
+        },
+        "us": {
+          "ipa": "/kriˈeɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cre/creat/create.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MAKE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to make something new, or invent something",
+                "cn": "创造;创建;创作;发明"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Charles Schulz created the characters \"Snoopy\" and \"Charlie Brown\".",
+                  "cn": "查尔斯‧舒尔茨创作了漫画人物史努比和查理‧布朗。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Bible says that God created the world.",
+                  "cn": "《圣经》上说是上帝创造了世界。"
+                },
+                {
+                  "gram": "",
+                  "en": "He created a wonderful meal from very few ingredients.",
+                  "cn": "他用很少的几种食材做了一顿美餐。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's important to create a good impression when you meet a new client.",
+                  "cn": "会见新客户时，给对方留个好印象至关重要。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BE ANGRY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to show that you are angry",
+                "cn": "生气，发怒"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If she sees you with an ice cream she'll only start creating.",
+                  "cn": "要是看到你在吃冰激凌，她就会大发雷霆。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

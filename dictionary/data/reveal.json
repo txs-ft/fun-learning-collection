@@ -1,0 +1,113 @@
+{
+  "time": 1752140919189,
+  "title": "reveal",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/rɪˈviːl/",
+        "us": "/rɪˈviːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈviːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrev/ukrev__005.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈviːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rev/revea/reveal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to make known or show something that is surprising or that was previously secret",
+                "cn": "揭露;泄露;透露"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He was jailed for revealing secrets to the Russians.",
+                  "cn": "他因为向俄国人泄密而被监禁。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "Her biography revealed that she was not as rich as everyone thought.",
+                  "cn": "她的自传透露她并非像大家所想象的那样富有。"
+                },
+                {
+                  "gram": "[ + question word ]",
+                  "en": "He would not reveal where he had hidden her chocolate eggs.",
+                  "cn": "他就是不说他把她的巧克力蛋藏在哪里了。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to allow something to be seen that, until then, had been hidden",
+                "cn": "使显露；展现；显示"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A gap in the clouds revealed the Atlantic far below.",
+                  "cn": "从云缝中可以看到远在下方的大西洋。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/rɪˈviːl/",
+        "us": "/rɪˈviːl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/rɪˈviːl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukr/ukrev/ukrev__005.mp3"
+        },
+        "us": {
+          "ipa": "/rɪˈviːl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/r/rev/revea/reveal.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "an occasion at the end of a television programme, etc. when something that has been hidden or kept secret until then is shown to the audience",
+                "cn": "（电视节目最后的）揭示"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The final reveal of the new kitchen was a huge success.",
+                  "cn": "最后大揭示的新厨房非常成功。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "time": 1752140950475,
+  "title": "scared",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/skeəd/",
+        "us": "/skerd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/skeəd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksca/ukscamp022.mp3"
+        },
+        "us": {
+          "ipa": "/skerd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sca/scare/scared.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "frightened or worried",
+                "cn": "惊恐的，恐惧的，害怕的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's scared of spiders.",
+                  "cn": "他害怕蜘蛛。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm scared of telling her what really happened.",
+                  "cn": "我害怕告诉她事情的真相。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's scared to tell her what really happened.",
+                  "cn": "他不敢告诉她事情的真相。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was scared (= very worried) (that) you might not be there.",
+                  "cn": "我怕你不在那儿。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was scared stiff (= extremely frightened).",
+                  "cn": "我吓得要死。"
+                },
+                {
+                  "gram": "",
+                  "en": "She had a scared look on her face.",
+                  "cn": "她脸上露出恐惧的神情。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

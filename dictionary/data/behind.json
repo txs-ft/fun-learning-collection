@@ -1,0 +1,225 @@
+{
+  "time": 1752139967794,
+  "title": "behind",
+  "generalBitmask": 25,
+  "allDefinitions": [
+    {
+      "pos": "preposition, adverb",
+      "defBitmask": 24,
+      "pron": {
+        "uk": "/bɪˈhaɪnd/",
+        "us": "/bɪˈhaɪnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbeg/ukbegui014.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/beh/behin/behind.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "at the back (of)",
+                "cn": "在（…的）后面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Look behind you!",
+                  "cn": "朝后看！"
+                },
+                {
+                  "gram": "",
+                  "en": "I hung my coat behind the door.",
+                  "cn": "我把大衣挂在门后了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Alex led, and I followed along behind.",
+                  "cn": "亚历克斯带头，我紧随其后。"
+                },
+                {
+                  "gram": "",
+                  "en": "As hard as she tried, she always fell behind the other swimmers in the races.",
+                  "cn": "比赛中不管怎样努力，她总是落在其他游泳选手的后面。"
+                },
+                {
+                  "gram": "",
+                  "en": "I knew that behind (= hidden by) her smile was sadness.",
+                  "cn": "我知道她在用微笑掩饰着内心的忧伤。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/bɪˈhaɪnd/",
+        "us": "/bɪˈhaɪnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbeg/ukbegui014.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/beh/behin/behind.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PLACE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in the place where someone or something was before",
+                "cn": "（遗留）在后面；（留）在原处"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was annoyed to discover that I'd left my bag behind.",
+                  "cn": "发现自己把包落下了，我很气恼。"
+                },
+                {
+                  "gram": "",
+                  "en": "After the party a few people stayed behind to help clean up.",
+                  "cn": "晚会结束后，一些客人留下来帮助收拾打扫。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SLOWER",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "slower or later than someone else, or than you should be",
+                "cn": "比…迟，比…慢，落后于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The old woman was behind with (= late paying) the rent.",
+                  "cn": "老妇人迟迟未交房租。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/bɪˈhaɪnd/",
+        "us": "/bɪˈhaɪnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbeg/ukbegui014.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/beh/behin/behind.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "responsible for or the cause of",
+                "cn": "是…背后的原因"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He wondered what was behind his neighbour's sudden friendliness.",
+                  "cn": "他疑惑为何邻居的态度突然友好起来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Marie Curie was the woman behind enormous changes in the science of chemistry.",
+                  "cn": "居里夫人使整个化学领域发生了巨变。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/bɪˈhaɪnd/",
+        "us": "/bɪˈhaɪnd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukb/ukbeg/ukbegui014.mp3"
+        },
+        "us": {
+          "ipa": "/bɪˈhaɪnd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/beh/behin/behind.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the part of the body on which a person sits",
+                "cn": "屁股"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He tripped and fell on his behind.",
+                  "cn": "他绊了一跤，一屁股摔在地上。"
+                },
+                {
+                  "gram": "",
+                  "en": "Why don't you get off your behind (= stand up) and do something!",
+                  "cn": "你为何不起来干点儿什么！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

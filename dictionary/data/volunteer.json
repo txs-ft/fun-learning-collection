@@ -1,5 +1,5 @@
 {
-  "time": 1751350300297,
+  "time": 1752141259531,
   "title": "volunteer",
   "generalBitmask": 3,
   "allDefinitions": [
@@ -22,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "B2",
@@ -32,17 +32,17 @@
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "The health clinic is relying on volunteers to run the office and answer the phones.",
                   "cn": "这家健康门诊依靠志愿者来负责办公室的日常工作和接听电话。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "Since it would be a highly dangerous mission, the Lieutenant asked for volunteers.",
                   "cn": "由于那项任务非常危险，所以中尉请大家自告奋勇。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "It's a volunteer army with no paid professionals.",
                   "cn": "这是一支志愿军，没有领军饷的职业军人。"
                 }
@@ -73,7 +73,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "C1",
@@ -88,31 +88,31 @@
                   "cn": "紧急时刻，很多员工都自愿周末加班。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "He volunteered for the army (= he joined even though he did not have to).",
                   "cn": "他自愿参军。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "I volunteered myself for the position of Health and Safety Representative.",
                   "cn": "我自告奋勇担任卫生与安全代表一职。"
                 },
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "My friends volunteered me to do the talking.",
                   "cn": "我的朋友们推举我去讲话。"
                 }
               ]
             },
             {
-              "level": null,
+              "level": "",
               "longDef": {
                 "en": "to give information without being asked",
                 "cn": "主动提供（信息）"
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "If I were you, I wouldn't volunteer any details of what happened.",
                   "cn": "要是我的话，我不会主动说出所发生事情的任何细节。"
                 },

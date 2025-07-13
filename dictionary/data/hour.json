@@ -1,0 +1,173 @@
+{
+  "time": 1752140486562,
+  "title": "hour",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/aʊər/",
+        "us": "/aʊr/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aʊər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukh/ukhot/ukhotfo020.mp3"
+        },
+        "us": {
+          "ipa": "/aʊr/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/h/hou/hour_/hour.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a period of 60 minutes",
+                "cn": "小时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The exam lasted an hour and a half.",
+                  "cn": "考试持续了一个半小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "There are 24 hours in a day.",
+                  "cn": "1天有24小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "How many hours' sleep do you need?",
+                  "cn": "你需要睡多少个小时？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll be back in an hour's/two hours' time (= after one/two hours).",
+                  "cn": "我会在一小时／两小时之后回来。"
+                },
+                {
+                  "gram": "",
+                  "en": "My hometown is an hour from Houston/an hour away (= it takes an hour to travel there).",
+                  "cn": "我家乡离休斯顿有一小时的路程。"
+                },
+                {
+                  "gram": "",
+                  "en": "He gets paid by the hour (= gets a particular amount of money for each hour he works).",
+                  "cn": "他拿的是按小时计酬的工资。"
+                },
+                {
+                  "gram": "",
+                  "en": "Trains leave every hour on the hour (= at exactly one o'clock, two o'clock, etc.).",
+                  "cn": "火车每小时整点发车。"
+                },
+                {
+                  "gram": "",
+                  "en": "Buses leave at ten minutes past/to the hour (= at ten past/to one o'clock, two o'clock, etc.).",
+                  "cn": "公共汽车每整点过10分／差10分发一班车。"
+                },
+                {
+                  "gram": "",
+                  "en": "War was declared at eighteen hundred hours/18.00 hours (= at six o'clock in the evening).",
+                  "cn": "宣战时间是晚上6点。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the period of time when a particular activity happens or when a shop or public building is open",
+                "cn": "（用于做某事的）时间;（商店或公共场所）开放时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I try to spend my lunch hour walking.",
+                  "cn": "我试着把午餐时间用在步行上。"
+                },
+                {
+                  "gram": "",
+                  "en": "office/working hours",
+                  "cn": "办公／工作时间"
+                },
+                {
+                  "gram": "",
+                  "en": "Our opening hours are from 8.00 to 6.00.",
+                  "cn": "我们的开放时间是8点到6点。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "a particular time during the day or night",
+                "cn": "（白天或夜里的）某个时间，某个时刻"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Who could be calling us at this unearthly/ungodly hour (= so late at night)?",
+                  "cn": "谁会在夜里这么晚给我们打电话？"
+                },
+                {
+                  "gram": "",
+                  "en": "He returned in the early/small hours (= at night, after midnight).",
+                  "cn": "他凌晨才回来。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to describe how many hours in the day you work or what part of the day you work:",
+                "cn": "她是名护士，所以经常要上早班、值夜班。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's a nurse so she often works unsocial hours.",
+                  "cn": "她是名护士，所以经常要上早班、值夜班。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "for a very long time:",
+                "cn": "我等了他很长时间。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I waited for him for hours.",
+                  "cn": "我等了他很长时间。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "repeatedly during the day and the night:",
+                "cn": "他们整天不停地给我打电话。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They keep calling me at all hours (of the day and night).",
+                  "cn": "他们整天不停地给我打电话。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

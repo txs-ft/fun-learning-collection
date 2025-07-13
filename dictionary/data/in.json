@@ -1,0 +1,1102 @@
+{
+  "time": 1752140497695,
+  "title": "in",
+  "generalBitmask": 12317,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/ɪn/",
+        "us": "/ɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimp/ukimpro019.mp3"
+        },
+        "us": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/in_/in___/in.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "INSIDE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "inside a container, place, or area, or surrounded or closed off by something",
+                "cn": "在（…）里面，在（…）内"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is Mark still in bed?",
+                  "cn": "马克还在睡觉吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I got stuck in a traffic jam for half an hour.",
+                  "cn": "我堵车堵了半个小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "They live in a charming old house.",
+                  "cn": "他们住在一幢可爱的老屋内。"
+                },
+                {
+                  "gram": "",
+                  "en": "How much is that coat on display in the window (= in the space behind the window of the shop)?",
+                  "cn": "橱窗内展示的那件大衣多少钱？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got a pain in my back.",
+                  "cn": "我背疼。"
+                },
+                {
+                  "gram": "",
+                  "en": "What's that in your hand?",
+                  "cn": "你手里拿的是什么东西？"
+                },
+                {
+                  "gram": "",
+                  "en": "I've got something in (= on the surface of) my eye.",
+                  "cn": "我眼睛里进了东西。"
+                },
+                {
+                  "gram": "",
+                  "en": "They used to live in Paris, but now they're somewhere in Austria.",
+                  "cn": "他们以前住在巴黎，但现在住在奥地利的某个地方。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's always looking at himself in the mirror (= at the image of his face produced by the mirror).",
+                  "cn": "他老是在镜子前照来照去。"
+                },
+                {
+                  "gram": "",
+                  "en": "I never know what's going on in her head (= what she's thinking about).",
+                  "cn": "我从来不知道她在想什么。"
+                },
+                {
+                  "gram": "",
+                  "en": "My daughter's in hospital (US in the hospital) having her tonsils out.",
+                  "cn": "我女儿在住院切除扁桃体。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is Erika still in school (= does she still go to school)?",
+                  "cn": "埃丽卡还上学吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INTO",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "into something",
+                "cn": "到…里面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Come on, we're late - get in the car.",
+                  "cn": "快点儿，我们迟到了——快上车。"
+                },
+                {
+                  "gram": "",
+                  "en": "Put the milk back in the fridge when you've finished with it.",
+                  "cn": "喝完牛奶后把它放回冰箱。"
+                },
+                {
+                  "gram": "",
+                  "en": "They threw him in the swimming pool.",
+                  "cn": "他们把他扔进了游泳池。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PART",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "forming a part of something",
+                "cn": "在…中，在…内"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He used to be the lead singer in a rock band.",
+                  "cn": "他曾是一支摇滚乐队的主唱。"
+                },
+                {
+                  "gram": "",
+                  "en": "There are too many spelling mistakes in this essay.",
+                  "cn": "这篇文章中的拼写错误太多。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've been waiting in this queue for ages.",
+                  "cn": "我在这个队伍里排了很长时间了。"
+                },
+                {
+                  "gram": "",
+                  "en": "What do you look for in a relationship?",
+                  "cn": "你想从情爱关系中得到什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "I can see a future champion in Joely (= I think that Joely might become a champion).",
+                  "cn": "我觉得乔利将来会成为冠军。"
+                },
+                {
+                  "gram": "",
+                  "en": "Talent like hers is rare in someone so young.",
+                  "cn": "像她这样年轻又有如此才能者实属罕见。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DURING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "during part or all of a period of time",
+                "cn": "在…期间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We're going to Italy in April.",
+                  "cn": "我们将在4月去意大利。"
+                },
+                {
+                  "gram": "",
+                  "en": "Some trees lose their leaves in (the) autumn.",
+                  "cn": "有些树秋天落叶。"
+                },
+                {
+                  "gram": "",
+                  "en": "I started working here in 2009.",
+                  "cn": "我从2009年开始在这儿工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Life in the 19th century was very different from what it is now.",
+                  "cn": "19世纪时的生活与现在大不相同。"
+                },
+                {
+                  "gram": "",
+                  "en": "Bye, see you in the morning (= tomorrow morning).",
+                  "cn": "再见，明早见。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was a brilliant gymnast in her youth (= when she was young).",
+                  "cn": "她年轻时是个优秀的体操运动员。"
+                },
+                {
+                  "gram": "",
+                  "en": "How many civilians died in the Vietnam War?",
+                  "cn": "越南战争中有多少平民死亡？"
+                },
+                {
+                  "gram": "",
+                  "en": "This is the first cigarette I've had in three years.",
+                  "cn": "这是我3年来抽的第一支烟。"
+                },
+                {
+                  "gram": "",
+                  "en": "I haven't had a decent night's sleep in years/ages (= for a long time).",
+                  "cn": "我很久没有好好睡过一觉了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "between the two times mentioned:",
+                "cn": "我7点30分吃早饭，下午1点吃午饭，有时在这之间吃一点儿零食。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I have breakfast at 7.30, lunch at 1.00, and sometimes a snack in between.",
+                  "cn": "我7点30分吃早饭，下午1点吃午饭，有时在这之间吃一点儿零食。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NO MORE THAN",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "needing or using no more time than a particular amount of time",
+                "cn": "在…之内"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Can you finish the job in two weeks?",
+                  "cn": "你能在两周内完成这项工作吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She could get that essay done in a couple of hours if she really tried.",
+                  "cn": "如果她真的尽力的话，她可在几小时内完成那篇文章。"
+                },
+                {
+                  "gram": "",
+                  "en": "They completed the journey in record time (= faster than ever done before).",
+                  "cn": "他们完成行程耗时之短前所未有。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BEFORE THE END",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "before or at the end of a particular period",
+                "cn": "在…结束之前;在…结束之时"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Dinner will be ready in ten minutes.",
+                  "cn": "晚饭将在10分钟后准备好。"
+                },
+                {
+                  "gram": "",
+                  "en": "We'll all be dead in a hundred years so there's no point worrying about it.",
+                  "cn": "百年后我们都已死去，因此为此担心是没有必要的。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm just setting off, so I should be with you in half an hour.",
+                  "cn": "我正要出发，所以我半小时后应该会到你那里。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPERIENCING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "experiencing a situation or condition, or feeling an emotion",
+                "cn": "处于…中;处于…状态"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We watched in horror as they pulled the bodies from the wreckage.",
+                  "cn": "我们惊恐地看着他们把尸体从残骸中拖了出来。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's living in luxury in the south of France.",
+                  "cn": "他正在法国南部过着奢侈的生活。"
+                },
+                {
+                  "gram": "",
+                  "en": "She left in a bit of a hurry.",
+                  "cn": "她离开时有点儿匆忙。"
+                },
+                {
+                  "gram": "",
+                  "en": "You're in great danger.",
+                  "cn": "你很危险。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could I have a word with you in private?",
+                  "cn": "我能私下与你谈谈吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Have you ever been in love?",
+                  "cn": "你谈过恋爱吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Your car's in very good condition, considering how old it is.",
+                  "cn": "鉴于你的汽车这么旧，车况算是很不错的了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXPRESSED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "expressed or written in a particular way",
+                "cn": "（表达或书写的方式）用，以"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Cheques should be written in ink.",
+                  "cn": "支票要用墨水笔填写。"
+                },
+                {
+                  "gram": "",
+                  "en": "She usually paints in watercolour.",
+                  "cn": "她通常用水彩画画。"
+                },
+                {
+                  "gram": "",
+                  "en": "They spoke in Russian the whole time.",
+                  "cn": "他们一直用俄语交谈。"
+                },
+                {
+                  "gram": "",
+                  "en": "He always talks in a whisper.",
+                  "cn": "他说话时声音总是那么小。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "RESULT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "used when referring to something that is done as a result of something else",
+                "cn": "（表示一事为另一事的结果）作为"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to do something for you in return/exchange for everything you've done for me.",
+                  "cn": "我想为你做些事来报答你为我所做的一切。"
+                },
+                {
+                  "gram": "",
+                  "en": "The changes are in response to demand from our customers.",
+                  "cn": "这些变化是应我们顾客的要求而作出的。"
+                },
+                {
+                  "gram": "",
+                  "en": "He refused to say anything in reply to the journalists' questions.",
+                  "cn": "他拒绝对记者的提问作任何回答。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ARRANGEMENT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "used to show how things or people are arranged or divided",
+                "cn": "（表示组织或划分方式）以，按照"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We all sat down in a circle.",
+                  "cn": "我们大家围坐成一圈。"
+                },
+                {
+                  "gram": "",
+                  "en": "The desks were arranged in rows of ten.",
+                  "cn": "课桌每10张排成一排。"
+                },
+                {
+                  "gram": "",
+                  "en": "Discounts are available to people travelling in large groups.",
+                  "cn": "多人组团旅游享有折扣。"
+                },
+                {
+                  "gram": "",
+                  "en": "Sometimes customers buy books in twos and threes, but rarely in larger quantities than that.",
+                  "cn": "有时顾客会一次买两三本书，但很少超过这个数。"
+                },
+                {
+                  "gram": "",
+                  "en": "Cut the potatoes in two.",
+                  "cn": "把土豆切成两半。"
+                },
+                {
+                  "gram": "",
+                  "en": "People are dying in their thousands from cold and starvation.",
+                  "cn": "成千上万的人死于寒冷和饥饿。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AGE/TEMPERATURE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used when referring approximately to someone's age or the weather temperature",
+                "cn": "（表示年龄、气温）在…左右"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Nowadays many women are in their late thirties when they have their first child.",
+                  "cn": "如今许多妇女生第一胎时都已经接近40岁了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Temperatures will be in the mid-twenties (= about 25 degrees).",
+                  "cn": "气温将在25度左右。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INVOLVED",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "involved or connected with a particular subject or activity",
+                "cn": "参与；从事；与…有关"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I never knew you were in publishing.",
+                  "cn": "我以前从不知道你在出版界工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "a degree in philosophy",
+                  "cn": "哲学学位"
+                },
+                {
+                  "gram": "",
+                  "en": "advances in medical science",
+                  "cn": "医学的进步"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WEARING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "wearing",
+                "cn": "穿着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you recognize that man in the grey suit?",
+                  "cn": "你能认出那个穿着灰色西装的男人吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Pat can't resist men in uniform.",
+                  "cn": "帕特抗拒不了穿制服的男人的魅力。"
+                },
+                {
+                  "gram": "",
+                  "en": "You look nice in green (= green clothes).",
+                  "cn": "你穿绿色衣服很好看。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPARING AMOUNTS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to compare one part of an amount of something with the total amount of it",
+                "cn": "（表示比率）每…中"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Apparently one in ten people/one person in ten has problems with reading.",
+                  "cn": "据说10个人中有1个阅读有问题。"
+                },
+                {
+                  "gram": "",
+                  "en": "The basic rate of income tax is 25 pence in (US on) the pound.",
+                  "cn": "所得税基本税率是每英镑25便士。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHARACTERISTIC",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show which characteristic or part of a person or thing is being described",
+                "cn": "在…方面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The new version is worse in every respect - I much preferred the original.",
+                  "cn": "新版本在各方面都较差——我更喜欢原来的版本。"
+                },
+                {
+                  "gram": "",
+                  "en": "Are the two bags equal in weight?",
+                  "cn": "两个包同样重吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She's deaf in her left ear.",
+                  "cn": "她左耳失聪。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show when doing one thing is the cause of another thing happening",
+                "cn": "因为，由于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "In refusing (= because she refused) to work abroad, she missed an excellent job opportunity.",
+                  "cn": "由于拒绝去国外工作，她错过了一个极好的工作机会。"
+                },
+                {
+                  "gram": "",
+                  "en": "The government banned tobacco advertising and, in doing so (= because of this), contributed greatly to the nation's health.",
+                  "cn": "政府禁止烟草广告，这样做对国民的健康大有裨益。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "because:",
+                "cn": "这项研究非常重要，因为它证实了攻击行为和酗酒之间的联系。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This research is important in that it confirms the link between aggression and alcohol.",
+                  "cn": "这项研究非常重要，因为它证实了攻击行为和酗酒之间的联系。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/ɪn/",
+        "us": "/ɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimp/ukimpro019.mp3"
+        },
+        "us": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/in_/in___/in.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "FROM OUTSIDE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "from outside, or towards the centre",
+                "cn": "从外面;朝中间;朝里"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you bring the clothes in for me?",
+                  "cn": "你能帮我把衣服拿进来吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The roof of their house caved in during a hurricane.",
+                  "cn": "他们的屋顶在飓风来袭时坍塌了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Cut the pastry into a square and turn in the corners.",
+                  "cn": "把油酥面团切成一个小方块，然后把四角向内叠起。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to often be staying in a particular place especially to receive treatment or for legal reasons:",
+                "cn": "自从那次事故之后，她成了医院的常客。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She's been in and out of hospitals ever since the accident.",
+                  "cn": "自从那次事故之后，她成了医院的常客。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "AT PLACE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "at home or at work",
+                "cn": "在家；在工作"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When did you get home? I never heard you come in.",
+                  "cn": "你是什么时候回家的？我一直就没听见你进来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Mr Ellis isn't in this week.",
+                  "cn": "埃利斯先生这个星期不工作。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INSIDE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "within an object, area, or substance",
+                "cn": "在（某个物体，地区或实物）里面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We've been shut in all day.",
+                  "cn": "我们被关了一整天。"
+                },
+                {
+                  "gram": "",
+                  "en": "Has the soup got any salt in?",
+                  "cn": "这汤放盐了吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TRANSPORT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "having arrived at the place where people can get on or off",
+                "cn": "到达（上下车地点）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What time is Roz's flight due in?",
+                  "cn": "罗兹的航班该什么时候到？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GIVEN",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "given or sent to someone official in order to be read",
+                "cn": "交给，呈上，递交"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "When does your essay have to be in?",
+                  "cn": "你的文章要什么时候交？"
+                },
+                {
+                  "gram": "",
+                  "en": "Remember to get your application in by the end of the week.",
+                  "cn": "别忘了在周末前递交申请。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COAST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "towards the coast, beach, or harbour",
+                "cn": "接近，抵达（海岸、沙滩或港口）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The tide comes in very quickly here and you can soon find yourself stranded.",
+                  "cn": "这儿的潮水涨得很快，马上你就会发现自己被困住了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We stood watching the ship come in.",
+                  "cn": "我们站在那儿看船进港。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPLETION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to refer to an activity that makes something complete",
+                "cn": "（表示完成某事物的活动）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Just pencil in the answer unless you're sure it's correct.",
+                  "cn": "如果对答案不是很确定就先用铅笔填。"
+                },
+                {
+                  "gram": "",
+                  "en": "The text is finished, but the pictures will have to be pasted in later.",
+                  "cn": "文字完成了，但之后还得把图片贴上去。"
+                },
+                {
+                  "gram": "",
+                  "en": "Would you mind filling in a questionnaire about what you watch on television?",
+                  "cn": "请填写一份关于你收看的电视节目的调查问卷好吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPORT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If the ball is in during a game of tennis or a similar sport, it has not gone outside the edges of the area on which the game is played.",
+                "cn": "（网球等）在界内"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I won that point, I'm telling you! The ball was definitely in!",
+                  "cn": "我敢说，我赢了那一分！球肯定在界内！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "taking your turn to play, especially taking your turn to hit the ball",
+                "cn": "轮到上场（尤指击球）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Who's in next for our team?",
+                  "cn": "我们队下一个轮到谁？"
+                },
+                {
+                  "gram": "",
+                  "en": "It started to rain just as our team was going in to bat.",
+                  "cn": "刚轮到我们队击球就下起了雨。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ɪn/",
+        "us": "/ɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimp/ukimpro019.mp3"
+        },
+        "us": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/in_/in___/in.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "fashionable or popular",
+                "cn": "时髦的，流行的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "High heels are in this season.",
+                  "cn": "本季高跟鞋很流行。"
+                },
+                {
+                  "gram": "",
+                  "en": "The new jazz club seems to be the in place to go at the moment.",
+                  "cn": "这家新的爵士乐俱乐部好像是当前的热门去处。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɪn/",
+        "us": "/ɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimp/ukimpro019.mp3"
+        },
+        "us": {
+          "ipa": "/ɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/in_/in___/in.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "written abbreviation for \ninch",
+                "cn": "英寸（inch的缩写）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "prefix",
+      "defBitmask": 4096,
+      "pron": {
+        "uk": "/ɪn-/",
+        "us": "/ɪn-/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪn-/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uki/ukimp/ukimpro019.mp3"
+        },
+        "us": {
+          "ipa": "/ɪn-/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/i/in_/in___/in.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to add the meaning \"not\", \"lacking\", or \"the opposite of\" to adjectives and to words formed from adjectives",
+                "cn": "（加在形容词及由形容词转化而来的词前）不，无，非"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "incomplete/incompletely",
+                  "cn": "不完全的／不完全地"
+                },
+                {
+                  "gram": "",
+                  "en": "illegal/illegally",
+                  "cn": "非法的／非法地"
+                },
+                {
+                  "gram": "",
+                  "en": "impossible/impossibly",
+                  "cn": "不可能的／不可能地"
+                },
+                {
+                  "gram": "",
+                  "en": "irregular/irregularly",
+                  "cn": "不规则的／不规则地"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˌaɪˈen/",
+        "us": "/ˌaɪˈen/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˌaɪˈen/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/c/ces/cespu/cespuk000547.mp3"
+        },
+        "us": {
+          "ipa": "/ˌaɪˈen/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/ces/cespu/cespus000547.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "abbreviation for intranasal: through the nose",
+                "cn": "鼻内的（intranasal的缩写）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "IN drug delivery offers advantages such as ease of administration and rapid onset of action.",
+                  "cn": "鼻内给药的优点是给药容易效果迅速。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "suffix",
+      "defBitmask": 8192,
+      "pron": {
+        "uk": "/ -ɪn/",
+        "us": "/ -ɪn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ -ɪn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/uka31/uka31248.mp3"
+        },
+        "us": {
+          "ipa": "/ -ɪn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usa31/usa31248.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to form a noun which describes an activity in which many people take part",
+                "cn": "（构成名词，描述某种很多人可以参加的活动）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a sit-in/phone-in",
+                  "cn": "静坐示威／热线电话直播节目"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

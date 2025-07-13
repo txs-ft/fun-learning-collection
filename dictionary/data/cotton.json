@@ -1,0 +1,86 @@
+{
+  "time": 1752140182459,
+  "title": "cotton",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkɒt.ən/",
+        "us": "/ˈkɑː.t̬ən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkɒt.ən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcos/ukcossa021.mp3"
+        },
+        "us": {
+          "ipa": "/ˈkɑː.t̬ən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cot/cotto/cotton.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the threads that grow around the seeds of a tall plant grown especially in the US, China, and South Asia",
+                "cn": "棉，棉花"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bale of cotton",
+                  "cn": "一大包棉花"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "thread or cloth made from the fibres of the cotton plant",
+                "cn": "棉线；棉布"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a shirt made of pure cotton",
+                  "cn": "纯棉衬衫"
+                },
+                {
+                  "gram": "",
+                  "en": "She looked pretty in a simple cotton dress.",
+                  "cn": "她穿着朴素的棉布连衣裙，看上去很漂亮。"
+                },
+                {
+                  "gram": "",
+                  "en": "a reel of cotton (= thread)",
+                  "cn": "一卷棉线"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "cotton in the form of a soft mass, usually used for cleaning your skin",
+                "cn": "（通常用于清洁皮肤的）药棉，脱脂棉"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "cotton pads",
+                  "cn": "化妆棉"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

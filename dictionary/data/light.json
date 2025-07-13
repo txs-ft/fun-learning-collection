@@ -1,0 +1,508 @@
+{
+  "time": 1752140587646,
+  "title": "light",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/laɪt/",
+        "us": "/laɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/laɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklif/uklifes006.mp3"
+        },
+        "us": {
+          "ipa": "/laɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lig/light/light.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BRIGHTNESS",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "the brightness that comes from the sun, fire, etc. and from electrical devices, and that allows things to be seen",
+                "cn": "光，光亮，光线"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a bright light",
+                  "cn": "明亮的光线"
+                },
+                {
+                  "gram": "",
+                  "en": "fluorescent/ultraviolet light",
+                  "cn": "荧光／紫外光"
+                },
+                {
+                  "gram": "",
+                  "en": "a beam/ray of light",
+                  "cn": "一道／束光线"
+                },
+                {
+                  "gram": "",
+                  "en": "Light was streaming in through the open door.",
+                  "cn": "光线从敞开的门口倾泻进来。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's a north-facing room so it doesn't get much light (= brightness from the sun).",
+                  "cn": "房间朝北，所以光线有些不足。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a piece of equipment that produces light, such as a lamp or a bulb",
+                "cn": "发光体；灯，电灯"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you switch/turn the light on/off, please?",
+                  "cn": "请把灯打开／关上好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She could see the city lights in the distance.",
+                  "cn": "她能够看到远处城市的灯光。"
+                },
+                {
+                  "gram": "",
+                  "en": "As the lights went down, the audience grew quiet.",
+                  "cn": "灯熄灭后，观众们开始安静下来。"
+                },
+                {
+                  "gram": "",
+                  "en": "My front bike light isn't working.",
+                  "cn": "我的自行车前灯不亮了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FLAME",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "something that will produce a flame and cause burning, such as a match or a cigarette lighter",
+                "cn": "打火机，点火器"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Have you got a light, please?",
+                  "cn": "请问你有打火机吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cause something to start burning:",
+                "cn": "灯起火了，烧着了窗帘。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The lamp caught fire and set light to the curtains.",
+                  "cn": "灯起火了，烧着了窗帘。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/laɪt/",
+        "us": "/laɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/laɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklif/uklifes006.mp3"
+        },
+        "us": {
+          "ipa": "/laɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lig/light/light.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "NOT HEAVY",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "not weighing a lot",
+                "cn": "轻的；轻便的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Here, take this bag - it's quite light.",
+                  "cn": "给你，拿着这个袋子——很轻的。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's a few pounds lighter than he used to be.",
+                  "cn": "他的体重比以前轻了几磅。"
+                },
+                {
+                  "gram": "",
+                  "en": "How do you get your cakes so wonderfully light, Amy?",
+                  "cn": "艾米，你是怎样把蛋糕做得这么松软的？"
+                },
+                {
+                  "gram": "",
+                  "en": "He has a very light (= gentle) touch, which is what is required in massage.",
+                  "cn": "正如按摩所要求的那样，他的手法很轻。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's very light on her feet (= she moves gracefully).",
+                  "cn": "她走起路来步态轻盈。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "Light clothes are made of thin material that allows you to be cool.",
+                "cn": "（服装面料）凉爽的，轻薄的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a light summer dress",
+                  "cn": "凉爽的夏季长裙"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BRIGHT",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "lit by the natural light of the day",
+                "cn": "亮的，光亮的，明亮的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The big windows make the room feel wonderfully light and airy.",
+                  "cn": "大窗户使房间显得特别明亮、通透。"
+                },
+                {
+                  "gram": "",
+                  "en": "It gets light very early these summer mornings.",
+                  "cn": "在这样的夏日里天亮得很早。"
+                },
+                {
+                  "gram": "",
+                  "en": "Summer is coming and the evenings are getting lighter (= getting dark later).",
+                  "cn": "夏天快到了，天黑得越来越晚了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PALE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "(of colours) pale",
+                "cn": "（颜色）淡的，浅的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "light blue/green",
+                  "cn": "浅蓝色／绿色"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT SERIOUS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "entertaining and easily understood, but not serious and not intended to make you think",
+                "cn": "轻松的，愉快的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I want some light reading for the summer holidays - a romance or something.",
+                  "cn": "暑假里我想读点轻松的东西——比如言情小说之类的。"
+                },
+                {
+                  "gram": "",
+                  "en": "A lively argument between the two main speakers provided some light relief (= something enjoyable or amusing) in an otherwise dull conference.",
+                  "cn": "两位主要发言者间活跃的争论是一种愉悦轻松的调剂。否则， 会议实在枯燥乏味。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to behave as if a situation, especially a problem, is not serious or important:",
+                "cn": "忽视他人的问题很容易。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It is easy to make light of other people's problems.",
+                  "cn": "忽视他人的问题很容易。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT MUCH",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "not great in strength or amount",
+                "cn": "弱小的；少量的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "A light wind was blowing.",
+                  "cn": "外面有微风。"
+                },
+                {
+                  "gram": "",
+                  "en": "The traffic was quite light so we got through London quickly.",
+                  "cn": "路上车不多，所以我们很快就穿过了伦敦。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's only light rain - you don't need an umbrella.",
+                  "cn": "只是下了点儿小雨——你不必拿雨伞。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who eats/drinks/smokes only a little:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The recipe will feed eight light eaters or six hungry people.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who is easily woken up by noise, etc.:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm a very light sleeper.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MEAL/DRINK",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "A light meal is small and easy to digest.",
+                "cn": "（食物）少量的，简便的，清淡的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I don't eat much for lunch - just a light snack.",
+                  "cn": "我午饭吃得不多——只吃一点儿小吃。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to describe alcoholic drinks that are not strong in flavour",
+                "cn": "酒精饮料度数低的，低度的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's described on the label as \"light, fruity wine\".",
+                  "cn": "标签上写着“浓郁醇香的低度葡萄酒”。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "NOT SEVERE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "needing only a very small amount of effort",
+                "cn": "轻微的，轻松的，容易的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "light exercise, such as walking",
+                  "cn": "散步之类轻微的运动"
+                },
+                {
+                  "gram": "",
+                  "en": "a little light housework",
+                  "cn": "一点儿家务活儿"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "A light sentence in prison is a short one.",
+                "cn": "（量刑）轻的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He got off with a fairly light sentence because it was his first conviction.",
+                  "cn": "因为是初犯，他得以轻判。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to do something quickly and easily:",
+                "cn": "希瑟轻而易举地刷完了墙。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Heather made light work of painting the walls.",
+                  "cn": "希瑟轻而易举地刷完了墙。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/laɪt/",
+        "us": "/laɪt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/laɪt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklif/uklifes006.mp3"
+        },
+        "us": {
+          "ipa": "/laɪt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/lig/light/light.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "START FLAMES",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to start to burn or to make something start to burn",
+                "cn": "点燃，点火"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "to light a fire",
+                  "cn": "点火"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't get the cooker to light.",
+                  "cn": "我无法点燃煤气灶。"
+                },
+                {
+                  "gram": "",
+                  "en": "He lit his fifth cigarette in half an hour.",
+                  "cn": "不到半个小时，他已经开始点第5支烟了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MAKE BRIGHT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to produce light that makes an object or area bright or easy to see",
+                "cn": "照亮，点亮;为…照明"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The stage had been lit with candles.",
+                  "cn": "蜡烛照亮了舞台。"
+                },
+                {
+                  "gram": "",
+                  "en": "Fireworks lit up the sky (= made the sky bright).",
+                  "cn": "焰火点亮了天空。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

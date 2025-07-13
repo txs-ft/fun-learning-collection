@@ -1,0 +1,113 @@
+{
+  "time": 1752139597738,
+  "title": "across",
+  "generalBitmask": 24,
+  "allDefinitions": [
+    {
+      "pos": "adverb, preposition",
+      "defBitmask": 24,
+      "pron": {
+        "uk": "/əˈkrɒs/",
+        "us": "/əˈkrɑːs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈkrɒs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukacq/ukacqua024.mp3"
+        },
+        "us": {
+          "ipa": "/əˈkrɑːs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/acr/acros/across.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "from one side to the other of something with clear limits, such as an area of land, a road, or a river",
+                "cn": "从一边到另一边;穿过;横过"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She walked across the field/road.",
+                  "cn": "她穿过田野／横过马路。"
+                },
+                {
+                  "gram": "",
+                  "en": "They're building a new bridge across the river.",
+                  "cn": "他们正在河上修建新桥。"
+                },
+                {
+                  "gram": "",
+                  "en": "When I reached the river, I simply swam across.",
+                  "cn": "到河边后，我直接游了过去。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/əˈkrɒs/",
+        "us": "/əˈkrɑːs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈkrɒs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukacq/ukacqua024.mp3"
+        },
+        "us": {
+          "ipa": "/əˈkrɑːs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/acr/acros/across.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "on the opposite side of",
+                "cn": "在…的另一边;在…的对面"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The library is just across the road.",
+                  "cn": "图书馆就在马路对面。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in every part of a particular place or country",
+                "cn": "在…各处;在整个…;遍及"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Voting took place peacefully across most of the country.",
+                  "cn": "在这个国家大部分地区，选举进行得井然有序。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

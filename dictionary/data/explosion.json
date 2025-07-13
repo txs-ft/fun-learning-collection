@@ -1,0 +1,110 @@
+{
+  "time": 1752140285598,
+  "title": "explosion",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ɪkˈspləʊ.ʒən/",
+        "us": "/ɪkˈsploʊ.ʒən/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ɪkˈspləʊ.ʒən/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uke/ukexp/ukexplo009.mp3"
+        },
+        "us": {
+          "ipa": "/ɪkˈsploʊ.ʒən/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/exp/explo/explosion.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BURST",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the fact of something such as a bomb exploding",
+                "cn": "爆炸；爆破；爆裂"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The fire was thought to have been caused by a gas explosion.",
+                  "cn": "有人认为火灾是由于煤气爆炸引起的。"
+                },
+                {
+                  "gram": "",
+                  "en": "The explosion (= the intentional exploding) of nuclear devices in the Bikini Atoll was stopped in 1958.",
+                  "cn": "在比基尼岛进行的核爆炸试验于1958年终止。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EMOTION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a sudden strong expression of emotion",
+                "cn": "（情感的）突然迸发，爆发，突然发作"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There was an explosion of applause from the audience at the end of the performance.",
+                  "cn": "演出结束时观众席上爆发出一阵热烈的掌声。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INCREASE",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "a large increase in the number of something that happens very quickly",
+                "cn": "急剧扩大；激增，突增"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The government has had to take measures to halt the population explosion.",
+                  "cn": "政府不得不采取措施抑制人口激增。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FALSE IDEA",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the act of proving that something is wrong",
+                "cn": "推翻，…被证明是错误的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "the explosion of the conspiracy theories surrounding the death of the star",
+                  "cn": "明星被人施用阴谋杀害的说法被推翻了"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 1
+    }
+  ]
+}

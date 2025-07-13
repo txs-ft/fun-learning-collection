@@ -1,0 +1,269 @@
+{
+  "time": 1752139849136,
+  "title": "away",
+  "generalBitmask": 12,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "/əˈweɪ/",
+        "us": "/əˈweɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈweɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukavi/ukaviat028.mp3"
+        },
+        "us": {
+          "ipa": "/əˈweɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/awa/away_/away.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SOMEWHERE ELSE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "somewhere else, or to or in a different place, position, or situation",
+                "cn": "去（或在）别处；向另一方向；向一边"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Ms Watson is away on holiday until the end of the week.",
+                  "cn": "沃森女士度假去了，要到周末才能回来。"
+                },
+                {
+                  "gram": "",
+                  "en": "Keep/Stay away from him.",
+                  "cn": "离他远点。"
+                },
+                {
+                  "gram": "",
+                  "en": "Just go away and leave me alone!",
+                  "cn": "走开，别管我！"
+                },
+                {
+                  "gram": "",
+                  "en": "The sight was so horrible that I had to look/turn away.",
+                  "cn": "这场面太可怕了，我不得不移开视线。"
+                },
+                {
+                  "gram": "",
+                  "en": "The recent flood has swept away the footbridge.",
+                  "cn": "最近爆发的洪水把人行桥冲垮了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I've given away all my old clothes to charity.",
+                  "cn": "我已把所有的旧衣服都捐给了慈善机构。"
+                },
+                {
+                  "gram": "",
+                  "en": "Would you like your burger to eat in or take away?",
+                  "cn": "你的汉堡是在店里吃还是带走？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DISTANT",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "at a distance (of or from here)",
+                "cn": "（距此）…远"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "How far away is the station?",
+                  "cn": "车站离这儿有多远？"
+                },
+                {
+                  "gram": "",
+                  "en": "The office is a half-hour drive away.",
+                  "cn": "从这儿到办公室开车去要半小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "We live five kilometres away from each other.",
+                  "cn": "我们两人的住处相隔5公里。"
+                },
+                {
+                  "gram": "",
+                  "en": "Life's so much quieter away from the city.",
+                  "cn": "离开城市，生活清静多了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Oh, it's miles away (= a long distance from here).",
+                  "cn": "哦，远着呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "INTO PLACE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in or into the usual or a suitable place, especially one that can be closed",
+                "cn": "在老地方；在适当的地方；放到，放进（尤指封闭的空间）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would you put the ice cream away in the freezer?",
+                  "cn": "你把冰激凌放到冰箱里好吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "My grandparents had £800 hidden away in an old shoe box.",
+                  "cn": "我爷爷奶奶在一个旧鞋盒子里藏了800英镑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GONE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "gradually until mostly or completely gone",
+                "cn": "逐渐消失;逐渐不存在"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All the snow had melted away.",
+                  "cn": "雪已完全融化了。"
+                },
+                {
+                  "gram": "",
+                  "en": "The music faded away as the procession moved slowly up the street.",
+                  "cn": "随着街上的游行队伍渐渐远去，音乐声也渐渐听不见了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We used to while away (= spend) the weekends at my aunt's house in the country.",
+                  "cn": "我们过去常常在我姑母的乡间农舍中度周末。"
+                },
+                {
+                  "gram": "",
+                  "en": "We danced the night away (= until the night was over).",
+                  "cn": "我们跳舞跳了个通宵。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "IN THE FUTURE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in the future",
+                "cn": "将来;（离现在）…长的时间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My English exam's only a week away and I haven't even started to prepare.",
+                  "cn": "再有一周就要考英语了，可我还没有开始复习呢。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CONTINUOUSLY",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "continuously or repeatedly, or in a busy way",
+                "cn": "连续不断地;一直;劲头十足地"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was still writing away when the exam finished.",
+                  "cn": "考试结束时我还在拼命写个不停。"
+                },
+                {
+                  "gram": "",
+                  "en": "Chris has been working away in the garden all day.",
+                  "cn": "克里斯在花园里一刻不停地干了一整天。"
+                },
+                {
+                  "gram": "",
+                  "en": "We were chatting away at the back and didn't hear what he said.",
+                  "cn": "我们一直坐在后面聊天，没有听到他说什么。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/əˈweɪ/",
+        "us": "/əˈweɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈweɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukavi/ukaviat028.mp3"
+        },
+        "us": {
+          "ipa": "/əˈweɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/awa/away_/away.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "An away match or game is played at an opposing team's sports ground.",
+                "cn": "（比赛）客场的，在对方场地举行的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We lost the away game but won both home games.",
+                  "cn": "我们输了客场的那场比赛，但是在主场的两场比赛都赢了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Everton unveiled their new yellow-and-blue away strip (= clothing worn by a team at away games).",
+                  "cn": "埃弗顿队公布了新款黄蓝相间条纹客场比赛服。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

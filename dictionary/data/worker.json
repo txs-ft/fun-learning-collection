@@ -1,0 +1,91 @@
+{
+  "time": 1752141301005,
+  "title": "worker",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈwɜː.kər/",
+        "us": "/ˈwɝː.kɚ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈwɜː.kər/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukw/ukwor/ukwordp016.mp3"
+        },
+        "us": {
+          "ipa": "/ˈwɝː.kɚ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/w/wor/worke/worker.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "someone who works in a particular job or in a particular way",
+                "cn": "工人；劳动者；工作者"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "factory/social/construction workers",
+                  "cn": "工厂工人／社会工作者／建筑工人"
+                },
+                {
+                  "gram": "",
+                  "en": "a good/tireless/skilled worker",
+                  "cn": "优秀的／不知疲倦的／技术熟练的工人"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone who works for a company or organization but does not have a powerful position",
+                "cn": "（某公司或组织的）工人，员工"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Many companies still treat their management staff better than their workers.",
+                  "cn": "很多公司给管理人员的待遇仍然比给工人的要好。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in bees and some other types of insects, a female that cannot produce young but collects food for the other insects",
+                "cn": "职虫（如工蜂）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Some workers gather pollen and nectar. Others make honey and guard the hive.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Worker bees gather both pollen and nectar from flowers to feed to the larvae and other members of the colony.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "In late July all the female worker wasps - the only ones that sting - are out feeding on nectar and other insects.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "time": 1752140970476,
+  "title": "several",
+  "generalBitmask": 324,
+  "allDefinitions": [
+    {
+      "pos": "determiner, pronoun",
+      "defBitmask": 320,
+      "pron": {
+        "uk": "/ˈsev.ər.əl/",
+        "us": "/ˈsev.ɚ.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsev.ər.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksev/ukseven004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsev.ɚ.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sev/sever/several.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "some; an amount that is not exact but is fewer than many",
+                "cn": "一些；几个"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've seen \"Gone with the Wind\" several times.",
+                  "cn": "我已经看过好几遍《乱世佳人》了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Several people have complained about the plans.",
+                  "cn": "已经有好几个人抱怨过这项计划了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Several of my friends are learning English.",
+                  "cn": "我有几个朋友在学英语。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈsev.ər.əl/",
+        "us": "/ˈsev.ɚ.əl/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈsev.ər.əl/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksev/ukseven004.mp3"
+        },
+        "us": {
+          "ipa": "/ˈsev.ɚ.əl/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/sev/sever/several.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "separate or different",
+                "cn": "各自的，分别的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We are striving to reach an agreement which will satisfy the several interests of the parties concerned.",
+                  "cn": "我们正在努力达成一个能满足有关各方各自利益的协议。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 3,
+      "stressIndex": 0
+    }
+  ]
+}

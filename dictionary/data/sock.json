@@ -1,0 +1,141 @@
+{
+  "time": 1752141010781,
+  "title": "sock",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/sɒk/",
+        "us": "/sɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksob/uksober023.mp3"
+        },
+        "us": {
+          "ipa": "/sɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/soc/sock_/sock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CLOTHES",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a piece of clothing made from soft material that covers your foot and the lower part of your leg",
+                "cn": "短袜，袜子"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a pair of socks",
+                  "cn": "一双短袜"
+                },
+                {
+                  "gram": "",
+                  "en": "nylon/woollen/cotton socks",
+                  "cn": "尼龙／羊毛／纯棉短袜"
+                },
+                {
+                  "gram": "",
+                  "en": "thermal socks",
+                  "cn": "保暖袜"
+                },
+                {
+                  "gram": "",
+                  "en": "ankle/knee socks",
+                  "cn": "及脚踝／膝的袜子"
+                },
+                {
+                  "gram": "",
+                  "en": "Put on your shoes and socks.",
+                  "cn": "穿上你的鞋袜。"
+                },
+                {
+                  "gram": "",
+                  "en": "The little boy was wearing odd socks (= socks of different colours).",
+                  "cn": "小男孩穿着两只不配对的袜子。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HIT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a powerful hit",
+                "cn": "重重的一击"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a sock on the jaw",
+                  "cn": "下巴上挨的重重一拳"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/sɒk/",
+        "us": "/sɑːk/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/sɒk/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uks/uksob/uksober023.mp3"
+        },
+        "us": {
+          "ipa": "/sɑːk/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/s/soc/sock_/sock.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to hit someone with your fist (= closed hand)",
+                "cn": "（用拳头）打，击"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He socked the policeman on the jaw/in the eye.",
+                  "cn": "他冲着警察的下巴／眼睛就是一拳。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "in baseball, to hit a ball very powerfully",
+                "cn": "（棒球运动中）猛击，狠打（球）"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

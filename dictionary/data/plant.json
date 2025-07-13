@@ -1,0 +1,270 @@
+{
+  "time": 1752140839625,
+  "title": "plant",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/plɑːnt/",
+        "us": "/plænt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/plɑːnt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplain017.mp3"
+        },
+        "us": {
+          "ipa": "/plænt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pla/plant/plant.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LIVING THING",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "a living thing that grows in earth, in water, or on other plants, usually has a stem, leaves, roots, and flowers, and produces seeds",
+                "cn": "植物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "native plants and animals",
+                  "cn": "原产于当地的动植物"
+                },
+                {
+                  "gram": "",
+                  "en": "garden/greenhouse/indoor plants",
+                  "cn": "花园／温室／室内植物"
+                },
+                {
+                  "gram": "",
+                  "en": "a tomato plant",
+                  "cn": "一株西红柿"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BUILDING/MACHINES",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "machines used in industry",
+                "cn": "机器，设备"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The industry was accused of having invested little in workers, plant, or infrastructure.",
+                  "cn": "工业界被指责在工人、工厂和基础设施方面投入太少。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a factory in which a particular product is made or power is produced",
+                "cn": "工厂"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Two more car-assembly plants were closed by the strike.",
+                  "cn": "另有两家汽车装配厂因罢工而关闭。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a large, heavy machine or vehicle used in industry, for building roads, etc.",
+                "cn": "（用于修路等的重型）设备，装置，机械"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The sign by the roadworks said \"Slow - heavy plant crossing\".",
+                  "cn": "道路工程旁边的告示牌上写着“减速——前方有重型施工机械”。"
+                },
+                {
+                  "gram": "",
+                  "en": "The firm's main business was plant hire.",
+                  "cn": "这家公司的主要业务是设备租赁。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUT SECRETLY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "something illegal or stolen that has been put secretly in a person's clothing or among the things that belong to them to make them seem guilty of a crime",
+                "cn": "栽赃物品"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He insisted the money was a plant.",
+                  "cn": "他坚持说钱是被人栽赃嫁祸。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/plɑːnt/",
+        "us": "/plænt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/plɑːnt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpla/ukplain017.mp3"
+        },
+        "us": {
+          "ipa": "/plænt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/pla/plant/plant.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "LIVING THING",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to put a plant into the ground or into a container of soil so that it will grow",
+                "cn": "种植，栽种"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We planted trees and bushes in our new garden.",
+                  "cn": "我们在新花园里种了树和灌木。"
+                },
+                {
+                  "gram": "",
+                  "en": "Hyacinth bulbs planted in pots now will flower early in the spring.",
+                  "cn": "如果现在种在花盆里，风信子的球茎会在早春开花。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you plant a particular area, you put plants into the ground there.",
+                "cn": "在…处种上植物"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The plot was surrounded by a stone wall and planted with flowering trees.",
+                  "cn": "那个地方围着石墙，种着繁花盛开的树。"
+                },
+                {
+                  "gram": "",
+                  "en": "a densely planted garden (= one in which the plants are close together)",
+                  "cn": "花木茂密的花园"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to put something firmly and strongly in a particular place",
+                "cn": "放置，安放"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "My brother planted himself on the sofa in front of the television.",
+                  "cn": "我哥哥坐在电视机前的沙发上。"
+                },
+                {
+                  "gram": "",
+                  "en": "He planted a kiss on her forehead/a blow on his opponent's jaw.",
+                  "cn": "他在她的额头上吻了一下／一拳打在对手的下巴上。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to cause an idea or story to exist",
+                "cn": "注入，灌输"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "That incident planted doubts about him in my mind.",
+                  "cn": "这件事让我对他产生了怀疑。"
+                },
+                {
+                  "gram": "",
+                  "en": "Who planted these rumours?",
+                  "cn": "谁制造了这些谣言？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PUT SECRETLY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to put something or someone in a position secretly, especially in order to deceive someone",
+                "cn": "藏匿;栽赃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She insisted that the drugs had been planted on her without her knowledge.",
+                  "cn": "她坚持说毒品是在她毫不知晓的情况下有人栽赃给她的。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to put a bomb somewhere so that it will explode there",
+                "cn": "藏匿;栽赃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The bomb was planted in the station waiting room.",
+                  "cn": "炸弹被放置在车站的候车室内。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

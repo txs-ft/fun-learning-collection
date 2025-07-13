@@ -1,0 +1,72 @@
+{
+  "time": 1752140854835,
+  "title": "porch",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/pɔːtʃ/",
+        "us": "/pɔːrtʃ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/pɔːtʃ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukp/ukpop/ukpopsi015.mp3"
+        },
+        "us": {
+          "ipa": "/pɔːrtʃ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/p/por/porch/porch.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a covered structure in front of the entrance to a building",
+                "cn": "门廊"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "For details, see the poster in the church porch.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "The front porch held pots of flowers, all looking healthy and strong.",
+                  "cn": ""
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a raised, covered, sometimes partly closed area, often made of wood, on the front or side of a building",
+                "cn": "走廊（同 veranda）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We sat out on the porch to cool off.",
+                  "cn": "我们坐在外面的走廊上乘凉。"
+                },
+                {
+                  "gram": "",
+                  "en": "A cheer rose from those assembled on the porch of the neighbour's house.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

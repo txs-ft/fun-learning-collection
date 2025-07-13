@@ -1,0 +1,122 @@
+{
+  "time": 1752140674804,
+  "title": "moon",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/muːn/",
+        "us": "/muːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/muːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmon/ukmonot029.mp3"
+        },
+        "us": {
+          "ipa": "/muːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/moo/moon_/moon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "the round object that moves in the sky around the earth and can be seen at night",
+                "cn": "月球，月亮"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What time does the moon rise/set (= appear/disappear in the sky)?",
+                  "cn": "月亮何时升起／落下？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the shape made by the amount of the moon that you can see at a particular time",
+                "cn": "月相"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's no moon (= you cannot see the moon) tonight.",
+                  "cn": "今晚没有月亮。"
+                },
+                {
+                  "gram": "",
+                  "en": "a crescent/full/new moon",
+                  "cn": "弦／满／新月"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a similar round object that moves around another planet",
+                "cn": "卫星"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Jupiter has at least 16 moons.",
+                  "cn": "木星至少有16颗卫星。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/muːn/",
+        "us": "/muːn/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/muːn/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukm/ukmon/ukmonot029.mp3"
+        },
+        "us": {
+          "ipa": "/muːn/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/m/moo/moon_/moon.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to show your naked bottom in public, as a joke or as a protest",
+                "cn": "（为开玩笑或抗议，在公共场合）亮出光屁股"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Two male juveniles were arrested and charged with indecent exposure after they mooned a police officer.",
+                  "cn": "两个青少年男子因在公共场合向一名警察亮出光屁股而被捕，并被控不雅暴露。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

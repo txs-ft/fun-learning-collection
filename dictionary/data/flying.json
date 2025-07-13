@@ -1,0 +1,48 @@
+{
+  "time": 1752140358434,
+  "title": "flying",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈflaɪ.ɪŋ/",
+        "us": "/ˈflaɪ.ɪŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈflaɪ.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukf/ukflu/ukflush015.mp3"
+        },
+        "us": {
+          "ipa": "/ˈflaɪ.ɪŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usf/usflu/usflunk012.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "travel by air",
+                "cn": "乘坐飞机"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Annette's scared of flying.",
+                  "cn": "安妮特害怕乘飞机。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

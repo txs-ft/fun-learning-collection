@@ -1,0 +1,77 @@
+{
+  "time": 1752139635935,
+  "title": "alarmed",
+  "generalBitmask": 4,
+  "allDefinitions": [
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/əˈlɑːmd/",
+        "us": "/əˈlɑːrmd/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈlɑːmd/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukair/ukairwo019.mp3"
+        },
+        "us": {
+          "ipa": "/əˈlɑːrmd/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/u/usa/usala/usalaba003.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PERSON",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "worried or frightened by something",
+                "cn": "受某事物惊吓（或困扰）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was a bit alarmed at/by how much weight she'd lost.",
+                  "cn": "看到她瘦了那么多，我有点儿担心了。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I was alarmed to hear that she was coming.",
+                  "cn": "听到她要来，我慌了神。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "I'm rather alarmed that we haven't heard anything.",
+                  "cn": "我们什么消息也没有听到，我非常担忧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "VEHICLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "An alarmed vehicle or place has an alarm in it that, when active, will make a loud noise if anyone enters or touches it.",
+                "cn": "装有警报系统的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Warning: this building is alarmed.",
+                  "cn": "警告：本楼装有警报系统。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

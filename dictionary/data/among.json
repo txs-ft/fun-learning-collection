@@ -1,0 +1,101 @@
+{
+  "time": 1752139644504,
+  "title": "among",
+  "generalBitmask": 16,
+  "allDefinitions": [
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "/əˈmʌŋ/",
+        "us": "/əˈmʌŋ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/əˈmʌŋ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukami/ukamiab023.mp3"
+        },
+        "us": {
+          "ipa": "/əˈmʌŋ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/amo/among/among.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in the middle of or surrounded by other things",
+                "cn": "在…中;为…所环绕"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I saw a few familiar faces among the crowd.",
+                  "cn": "我在人群中看见了几张熟悉的面孔。"
+                },
+                {
+                  "gram": "",
+                  "en": "Rescue teams searched among the wreckage for survivors.",
+                  "cn": "救援队在残骸中搜寻幸存者。"
+                }
+              ]
+            },
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "happening or being included as part of a group of people or things",
+                "cn": "在…（群体）中;…之一"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a decision that has caused a lot of anger among women",
+                  "cn": "在妇女中引起极大愤怒的决议"
+                },
+                {
+                  "gram": "",
+                  "en": "Relax, you're amongst friends.",
+                  "cn": "你别紧张，大家都是朋友。"
+                },
+                {
+                  "gram": "",
+                  "en": "Talk about it among yourselves (= talk to each other about it without me) for a while.",
+                  "cn": "你们先讨论一会。"
+                },
+                {
+                  "gram": "",
+                  "en": "She has worked as an estate agent among other things (= as well as other things).",
+                  "cn": "她干过很多工作，其中之一就是做房地产经纪人。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to each one in a group of three or more people or things",
+                "cn": "在三者或以上数量的人或物之间"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He divided the country among his sons.",
+                  "cn": "他把王国分给了几个儿子。"
+                },
+                {
+                  "gram": "",
+                  "en": "The cost should be shared equally among the three of you.",
+                  "cn": "你们三人应该均摊成本支出。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

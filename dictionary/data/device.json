@@ -1,0 +1,101 @@
+{
+  "time": 1752140216802,
+  "title": "device",
+  "generalBitmask": 1,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/dɪˈvaɪs/",
+        "us": "/dɪˈvaɪs/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈvaɪs/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdet/ukdetou030.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈvaɪs/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71257.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "MACHINE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "an object or machine that has been invented for a particular purpose",
+                "cn": "装置，器械"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a contraceptive/electronic device",
+                  "cn": "避孕器具／电子装置"
+                },
+                {
+                  "gram": "",
+                  "en": "Rescuers used a special device for finding people trapped in collapsed buildings.",
+                  "cn": "救援者使用特殊器械来寻找被困在倒塌建筑物下面的人。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "METHOD",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a method that is used to produce a particular effect",
+                "cn": "（以期达到某种特定效果的）方法，手段"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a literary/rhetorical device",
+                  "cn": "文学／修辞手法"
+                },
+                {
+                  "gram": "",
+                  "en": "A trademark can be a powerful marketing device.",
+                  "cn": "商标可以是一种强有力的营销手段。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "Her cool manner is just a device to avoid having to talk to people.",
+                  "cn": "她冷漠的表现只是避免与人交谈的一种手段。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BOMB",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a bomb or other explosive",
+                "cn": "炸弹;爆炸装置"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "an explosive/incendiary/nuclear device",
+                  "cn": "爆炸装置／燃烧弹／核爆炸装置"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}

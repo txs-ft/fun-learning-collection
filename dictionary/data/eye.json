@@ -1,0 +1,130 @@
+{
+  "time": 1752140288168,
+  "title": "eye",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/aɪ/",
+        "us": "/aɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukawe/ukawein027.mp3"
+        },
+        "us": {
+          "ipa": "/aɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aye/aye__/aye.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BODY PART",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "one of the two organs in your face that are used for seeing",
+                "cn": "眼睛"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He has no sight in his left eye.",
+                  "cn": "他左眼失明。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's got beautiful green eyes.",
+                  "cn": "她有一双漂亮的绿色眼睛。"
+                },
+                {
+                  "gram": "",
+                  "en": "He closed his eyes and went to sleep.",
+                  "cn": "他合上眼睡着了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PLANT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a dark spot on a potato or similar plant part, from which a new stem and leaves will grow",
+                "cn": "（马铃薯或者类似植物的）芽眼"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "HOLE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the hole in a needle through which you put the thread",
+                "cn": "针眼，针鼻"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/aɪ/",
+        "us": "/aɪ/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/aɪ/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukawe/ukawein027.mp3"
+        },
+        "us": {
+          "ipa": "/aɪ/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/aye/aye__/aye.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to look at someone or something with interest",
+                "cn": "（饶有兴趣地）看，注视"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I could see her eyeing my lunch.",
+                  "cn": "我看到她饶有兴趣地看着我的午饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "She eyed me warily.",
+                  "cn": "她警惕地看着我。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

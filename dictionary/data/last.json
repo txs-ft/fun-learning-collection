@@ -1,0 +1,376 @@
+{
+  "time": 1752140574860,
+  "title": "last",
+  "generalBitmask": 271,
+  "allDefinitions": [
+    {
+      "pos": "adjective, adverb, pronoun, noun",
+      "defBitmask": 269,
+      "pron": {
+        "uk": "/lɑːst/",
+        "us": "/læst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/lɑːst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklar/uklargi028.mp3"
+        },
+        "us": {
+          "ipa": "/læst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/las/last_/last.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "(the person or thing) after everyone or everything else",
+                "cn": "最终的;最后的"
+              },
+              "examples": [
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "I hate being the last one to arrive at a meeting.",
+                  "cn": "我不愿意开会时最后一个到。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our house is the last one on the left before the traffic lights.",
+                  "cn": "我们家是交通信号灯前左侧的最后一家。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Mets will surely finish the season in last place (= at the lowest rank of their division).",
+                  "cn": "梅茨队本赛季肯定要垫底了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I know Johnson finished last in the race, but who was second to last (= the one before the one at the end)?",
+                  "cn": "我知道约翰逊在比赛中倒数第一，但谁是倒数第二呢？"
+                },
+                {
+                  "gram": "",
+                  "en": "I don't know why he bothers to bet - his horses always come in last.",
+                  "cn": "我不明白他为什么还要去下注——他选的马总是落在最后面。"
+                },
+                {
+                  "gram": "",
+                  "en": "At the last moment (= as late as possible) he changed his mind.",
+                  "cn": "在最后一刻他改了主意。"
+                },
+                {
+                  "gram": "",
+                  "en": "He always leaves important decisions to the last (possible) moment (= as late as possible).",
+                  "cn": "在重大问题上他总要拖到最后一刻才作决定。"
+                }
+              ]
+            },
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "finally:",
+                "cn": "我终于把论文写完了！"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I've finished my essay at last!",
+                  "cn": "我终于把论文写完了！"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "the least expected or wanted person or thing:",
+                "cn": "再多养活3口人——我可受不了！"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Three extra people to feed - that's the last thing I need!",
+                  "cn": "再多养活3口人——我可受不了！"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "at the latest time in the day:",
+                "cn": "晚上睡觉前我会开启洗衣机，这样等我早晨起床后衣服就洗好了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'll switch on the washing machine last thing so it'll be finished when I get up in the morning.",
+                  "cn": "晚上睡觉前我会开启洗衣机，这样等我早晨起床后衣服就洗好了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If you say that it is the last time you will do something, you mean that you will never do it again:",
+                "cn": "他甚至从未向我表示过感谢，所以那是我最后一次帮他。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He never even thanked me, so that's the last time I do him a favour.",
+                  "cn": "他甚至从未向我表示过感谢，所以那是我最后一次帮他。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective, pronoun, noun",
+      "defBitmask": 261,
+      "pron": {
+        "uk": "/lɑːst/",
+        "us": "/læst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/lɑːst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklar/uklargi028.mp3"
+        },
+        "us": {
+          "ipa": "/læst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/las/last_/last.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "(being) the only one or part that is left",
+                "cn": "最后的，最末的;最后的一个（或一部分）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Do you mind if I have the last chocolate?",
+                  "cn": "你介意我把最后一块巧克力吃了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm down to my last dollar - could I borrow some money for lunch?",
+                  "cn": "我只剩最后一美元了——我能借点钱吃午饭吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm afraid Martha's eaten the last of the ice cream.",
+                  "cn": "恐怕玛莎已经把最后一块冰激凌吃掉了。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was the last of the great educational reformers.",
+                  "cn": "她是唯一健在的伟大的教育改革家。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective, adverb, pronoun",
+      "defBitmask": 268,
+      "pron": {
+        "uk": "/lɑːst/",
+        "us": "/læst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/lɑːst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklar/uklargi028.mp3"
+        },
+        "us": {
+          "ipa": "/læst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/las/last_/last.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "(being) the most recent or the one before the present one",
+                "cn": "上一次的;最近的;最后的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Did you hear the storm last night (= during the previous night)?",
+                  "cn": "你听到昨晚的暴风雨声了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Did you see the news on TV last night (= yesterday evening)?",
+                  "cn": "昨晚那条电视新闻你看了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "They got married last November.",
+                  "cn": "去年11月他们结婚了。"
+                },
+                {
+                  "gram": "",
+                  "en": "When was the last time you had a cigarette?",
+                  "cn": "你上一次吸烟是在什么时候？"
+                },
+                {
+                  "gram": "",
+                  "en": "When did you last have a cigarette?",
+                  "cn": "你最后一次吸烟是在什么时候？"
+                },
+                {
+                  "gram": "",
+                  "en": "She's been working there for the last month (= for the four weeks until now).",
+                  "cn": "上个月起她一直在那里工作。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could you account for your whereabouts on Sunday last?",
+                  "cn": "你能说说上个星期天你都去什么地方了吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The/These last five years have been very difficult for him.",
+                  "cn": "过去的5年他过得非常艰难。"
+                },
+                {
+                  "gram": "",
+                  "en": "The last we heard of her, she was working as an English teacher in France.",
+                  "cn": "上一次我们听到她的消息，她是在法国当英语教师。"
+                },
+                {
+                  "gram": "",
+                  "en": "Each of her paintings has been better than the last.",
+                  "cn": "她的油画作品一幅比一幅有进步。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/lɑːst/",
+        "us": "/læst/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/lɑːst/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukl/uklar/uklargi028.mp3"
+        },
+        "us": {
+          "ipa": "/læst/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/l/las/last_/last.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to continue to exist",
+                "cn": "持续，延续，继续"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The meeting lasted two hours.",
+                  "cn": "会议持续了两个小时。"
+                },
+                {
+                  "gram": "",
+                  "en": "The drought lasted for several months.",
+                  "cn": "干旱持续了好几个月。"
+                },
+                {
+                  "gram": "",
+                  "en": "They say the snow will last until the end of next week.",
+                  "cn": "他们说这场雪要一直下到下周末。"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't see the ceasefire lasting.",
+                  "cn": "我认为停火不会持续下去。"
+                },
+                {
+                  "gram": "",
+                  "en": "They haven't had an argument for two weeks, but it's too good to last (= they'll have an argument soon).",
+                  "cn": "他们已经两周没吵架了，但这种状态恐怕持续不了多久。"
+                },
+                {
+                  "gram": "",
+                  "en": "I doubt their enthusiasm will last.",
+                  "cn": "我怀疑他们只是一时的心血来潮。"
+                },
+                {
+                  "gram": "",
+                  "en": "He's working very efficiently at the moment, but it won't last.",
+                  "cn": "目前他的工作效率很高，但不会持续很久。"
+                }
+              ]
+            },
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to continue being good or suitable",
+                "cn": "维持，保持"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "There's no point buying something that isn't going to last.",
+                  "cn": "买些不耐用的东西根本毫无意义。"
+                },
+                {
+                  "gram": "",
+                  "en": "The cheaper washing machines should last about five years.",
+                  "cn": "比较便宜的洗衣机大约可以使用5年。"
+                },
+                {
+                  "gram": "",
+                  "en": "This pen should last (you) a lifetime if you take care of it.",
+                  "cn": "如果注意爱护，这支钢笔可以用上一辈子。"
+                },
+                {
+                  "gram": "",
+                  "en": "Her previous secretary only lasted a month (= left after this period).",
+                  "cn": "她的前任秘书只干了1个月。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

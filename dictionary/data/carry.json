@@ -1,0 +1,554 @@
+{
+  "time": 1752140088831,
+  "title": "carry",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/ˈkær.i/",
+        "us": "/ˈker.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkær.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcar/ukcarpe010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈker.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/car/carry/carry.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "TRANSPORT",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to hold something or someone with your hands, arms, or on your back and transport it, him, or her from one place to another",
+                "cn": "背;扛;抱;抬;搬;载"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Would you like me to carry your bag for you?",
+                  "cn": "要我帮你背包吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "She carried her tired child upstairs to bed.",
+                  "cn": "她将疲惫的孩子抱上楼去睡觉。"
+                },
+                {
+                  "gram": "",
+                  "en": "These books are too heavy for me to carry.",
+                  "cn": "这些书太沉了，我搬不动。"
+                },
+                {
+                  "gram": "",
+                  "en": "We only had a small suitcase, so we were able to carry it onto the plane.",
+                  "cn": "我们只有一只小手提箱，所以能拎着它登机。"
+                },
+                {
+                  "gram": "",
+                  "en": "Robson injured his leg in the second half of the match and had to be carried off.",
+                  "cn": "罗布森在下半场比赛中腿部受伤，只好被抬到场外。"
+                },
+                {
+                  "gram": "",
+                  "en": "Thieves broke the shop window and carried off (= removed) jewellery worth thousands of pounds.",
+                  "cn": "小偷打碎了商店的橱窗，拿走了价值几千英镑的珠宝。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to move someone or something from one place to another",
+                "cn": "运送;输送，传输"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The bus that was involved in the accident was carrying children to school.",
+                  "cn": "出事的公共汽车当时正送孩子们去上学。"
+                },
+                {
+                  "gram": "",
+                  "en": "The Brooklyn Bridge carries traffic across the East River from Brooklyn to Manhattan.",
+                  "cn": "布鲁克林大桥横跨东河，连接布鲁克林与曼哈顿的交通运输。"
+                },
+                {
+                  "gram": "",
+                  "en": "Police think that the body was carried down the river (= was transported by the flow of the river).",
+                  "cn": "警方认为尸体是顺河漂下来的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Underground cables carry electricity to all parts of the city.",
+                  "cn": "地下电缆将电力输送到该市各个地区。"
+                },
+                {
+                  "gram": "",
+                  "en": "Rubbish left on the beach during the day is carried away (= removed) at night by the tide.",
+                  "cn": "白天扔在海滩上的垃圾晚上被潮汐卷走了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HAVE WITH YOU",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to have something with you all the time",
+                "cn": "携带，带有，带着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Police officers in Britain do not usually carry guns.",
+                  "cn": "英国警察通常不带枪。"
+                },
+                {
+                  "gram": "",
+                  "en": "He will carry the memory of the accident with him (= will remember the accident) for ever.",
+                  "cn": "他将永远铭记那次事故。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HAVE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to have something as a part, quality, or result",
+                "cn": "带有，具有；包含；导致"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All cigarette packets carry a government health warning.",
+                  "cn": "所有的香烟盒上都印有政府的健康警告。"
+                },
+                {
+                  "gram": "",
+                  "en": "Our cars carry a twelve-month guarantee.",
+                  "cn": "我们的汽车有12个月的保修期。"
+                },
+                {
+                  "gram": "",
+                  "en": "His speech carried so much conviction that I had to agree with him.",
+                  "cn": "他的发言很有说服力，我只好赞同。"
+                },
+                {
+                  "gram": "",
+                  "en": "In some countries, murder carries the death penalty.",
+                  "cn": "在有些国家，谋杀要被判死刑。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm afraid my opinion doesn't carry any weight with (= influence) my boss.",
+                  "cn": "恐怕我的意见不会对我的老板产生任何影响。"
+                },
+                {
+                  "gram": "",
+                  "en": "The salesclerk said they didn't carry (= have a supply of) sportswear.",
+                  "cn": "售货员说他们不经销运动服装。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SPREAD",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to take something from one person or thing and give it to another person or thing",
+                "cn": "传播"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Malaria is a disease carried by mosquitoes.",
+                  "cn": "疟疾是一种由蚊子传播的疾病。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "SUPPORT WEIGHT",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to support the weight of something without moving or breaking",
+                "cn": "支撑;承载"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The weight of the cathedral roof is carried by two rows of pillars.",
+                  "cn": "大教堂的屋顶重量由两排柱子支撑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "KEEP IN OPERATION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to support, keep in operation, or make a success",
+                "cn": "支持;支撑;使成功"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We can no longer afford to carry people who don't work as hard as they should.",
+                  "cn": "我们再也养不起不尽力工作的人了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Luckily they had a very strong actor in the main part and he managed to carry the whole play (= make a success of it through his own performance).",
+                  "cn": "幸运的是，他们有一位很具实力的男演员担纲，他撑起了整个剧。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WIN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to win the support, agreement, or sympathy of a group of people",
+                "cn": "获得（支持、同意或同情等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The bosses' plans to reorganize the company won't succeed unless they can carry the workforce with them.",
+                  "cn": "管理层重组公司的计划不会成功，除非他们能赢得全体员工的支持。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "APPROVE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to give approval, especially by voting",
+                "cn": "（尤指通过投票）通过"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The motion/proposal/resolution/bill was carried by 210 votes to 160.",
+                  "cn": "该动议／提议／决议／法案以210票对160票获得通过。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BROADCAST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "(of a newspaper or radio or television broadcast) to contain particular information",
+                "cn": "（报纸、广播或电视）刊登，播出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This morning's newspapers all carry the same story on their front page.",
+                  "cn": "今早的报纸都在头版刊登了相同的报道。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "REACH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be able to reach or travel a particular distance",
+                "cn": "达到;传到"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The sound of the explosion carried for miles.",
+                  "cn": "爆炸声传出数英里。"
+                },
+                {
+                  "gram": "",
+                  "en": "The ball carried high into the air and landed the other side of the fence.",
+                  "cn": "球高高飞上天，落在了栅栏的另一边。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "DEVELOP",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to develop or continue something",
+                "cn": "发展；继续"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Lenin carried Marx's ideas a stage further by putting them into practice.",
+                  "cn": "列宁通过付诸实践发展了马克思的思想。"
+                },
+                {
+                  "gram": "",
+                  "en": "If we carry this argument to its logical conclusion, we realize that further investment is not a good idea.",
+                  "cn": "如果我们继续讨论并得出合乎逻辑的结论，就会认识到进一步投资是不明智的。"
+                },
+                {
+                  "gram": "",
+                  "en": "She carries tidiness to extremes/to its limits (= she is too tidy).",
+                  "cn": "她整洁得过头了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We must end here, but we can carry today's discussion forward at our next meeting.",
+                  "cn": "我们必须到此结束了，但在下一次会议上，我们可继续今天的讨论。"
+                },
+                {
+                  "gram": "",
+                  "en": "He always carries his jokes too far (= he continues making jokes when he should have stopped).",
+                  "cn": "他总是把玩笑开得很过头。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE BODY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to move your body in a particular way",
+                "cn": "举止"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You can tell she's a dancer from the way that she carries herself.",
+                  "cn": "你从她的举手投足间可以看出她是个舞蹈演员。"
+                },
+                {
+                  "gram": "",
+                  "en": "She carries herself with the poise of a model.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She carried herself with grace and dignity.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Helena carried herself with a certain elegance that turned heads when she walked into a room.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "You can convey quiet confidence just by carrying yourself in a certain way.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MATHEMATICS",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to put a number into another column when doing addition",
+                "cn": "（加法运算）使进位"
+              },
+              "examples": []
+            }
+          ]
+        },
+        {
+          "simple": "AMERICAN FOOTBALL",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in American football, to carry the ball forward across the field, gaining an advantage for your team",
+                "cn": "持球冲锋;冲球"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Every running back wants to carry the ball.",
+                  "cn": "每个跑卫都想持球冲锋。"
+                },
+                {
+                  "gram": "",
+                  "en": "Johnson carried 26 times for 202 yards.",
+                  "cn": "约翰逊冲球26次，总码数为202码。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BE PREGNANT WITH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to be pregnant with a child",
+                "cn": "怀孕;怀胎"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It was quite a shock to learn that she was carrying twins.",
+                  "cn": "得知她怀了双胞胎，大家很吃惊。"
+                },
+                {
+                  "gram": "",
+                  "en": "I was enormous when I was carrying Josh.",
+                  "cn": "我怀乔希的时候体形很笨重。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈkær.i/",
+        "us": "/ˈker.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkær.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcar/ukcarpe010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈker.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318uscarr0792.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SPORT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "in American football, an occasion when a player carries the ball forward across the field, gaining an advantage for his or her team",
+                "cn": "持球前进;冲球"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The yards gained on a carry are referred to as \"rushing yards\".",
+                  "cn": "持球进攻时获得的码数为“冲球码数”。"
+                },
+                {
+                  "gram": "",
+                  "en": "He currently holds the record for the most career carries.",
+                  "cn": "他目前为职业生涯中拥有最多冲球次数的记录保持人。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/ˈkær.i/",
+        "us": "/ˈker.i/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈkær.i/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukc/ukcar/ukcarpe010.mp3"
+        },
+        "us": {
+          "ipa": "/ˈker.i/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/c/cdo/cdo03/cdo0318uscarr0792.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "relating to the carrying of a gun",
+                "cn": "携枪的，持枪的"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "Basically, it's impossible to get a carry permit in New York.",
+                  "cn": "在纽约，基本上不可能拿到携枪证。"
+                },
+                {
+                  "gram": "",
+                  "en": "Illinois one of only two states without a carry law.",
+                  "cn": "伊利诺伊州曾是美国唯二两个没有就携枪许可立法的州的一个。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    }
+  ]
+}

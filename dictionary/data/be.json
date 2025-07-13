@@ -1,0 +1,356 @@
+{
+  "time": 1752397552252,
+  "title": "be",
+  "generalBitmask": 16386,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "strong /biː/",
+        "us": "strong /biː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /biː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukazt/ukazt__003.mp3"
+        },
+        "us": {
+          "ipa": "strong /biː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/b__/b____/b.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "DESCRIPTION",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to say something about a person, thing, or state, to show a permanent or temporary quality, state, job, etc.",
+                "cn": "（用来说明人、事物或状态，表示性质、状态、工作等）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He is rich.",
+                  "cn": "他很富有。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's cold today.",
+                  "cn": "今天天冷。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'm Andy.",
+                  "cn": "我叫安迪。"
+                },
+                {
+                  "gram": "",
+                  "en": "That's all for now.",
+                  "cn": "现在到此结束。"
+                },
+                {
+                  "gram": "",
+                  "en": "What do you want to be (= what job do you want to do) when you grow up?",
+                  "cn": "你长大后想做什么？"
+                },
+                {
+                  "gram": "",
+                  "en": "These books are (= cost) $3 each.",
+                  "cn": "这些书每本3美元。"
+                },
+                {
+                  "gram": "",
+                  "en": "Being afraid of the dark, she always slept with the light on.",
+                  "cn": "她怕黑，总是开着灯睡觉。"
+                },
+                {
+                  "gram": "",
+                  "en": "Never having been ill himself, he wasn't a sympathetic listener.",
+                  "cn": "他自己从未生过病，所以听到别人的病情时并不怎么同情。"
+                },
+                {
+                  "gram": "",
+                  "en": "Be quiet!",
+                  "cn": "安静！"
+                },
+                {
+                  "gram": "[ + -ing verb ]",
+                  "en": "The problem is deciding what to do.",
+                  "cn": "问题在于要决定干什么。"
+                },
+                {
+                  "gram": "[ + to infinitive ]",
+                  "en": "The hardest part will be to find a replacement.",
+                  "cn": "最困难的就是找代替者。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "The general feeling is that she should be asked to leave.",
+                  "cn": "大家普遍认为她应该被辞退。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's not that I don't like her - it's just that we rarely agree on anything!",
+                  "cn": "并不是我不喜欢她，只是我们看法很少相同！"
+                }
+              ]
+            },
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to show the position of a person or thing in space or time",
+                "cn": "（表示时间或方位）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The food was already on the table.",
+                  "cn": "食品已经摆在桌上了。"
+                },
+                {
+                  "gram": "",
+                  "en": "Is anyone there?",
+                  "cn": "那儿有人吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "The meeting is now (= will happen) next Tuesday.",
+                  "cn": "会议将于下周二召开。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's a hair in my soup.",
+                  "cn": "我的汤里有根头发。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show what something is made of",
+                "cn": "由…组成（或制成）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Is this plate pure gold?",
+                  "cn": "这个盘子是纯金的吗？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALLOW",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say that someone should or must do something",
+                "cn": "应该，必须"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You're to sit in the corner and keep quiet.",
+                  "cn": "你要坐在角落里，保持安静。"
+                },
+                {
+                  "gram": "",
+                  "en": "Their mother said they were not to (= not allowed to) play near the river.",
+                  "cn": "妈妈告诉他们不准在河边玩。"
+                },
+                {
+                  "gram": "",
+                  "en": "There's no money left - what are we to do?",
+                  "cn": "没有钱了——我们该怎么办？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "FUTURE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to show that something will happen in the future",
+                "cn": "将，将要"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We are to (= we are going to) visit Australia in the spring.",
+                  "cn": "我们春天将去澳大利亚。"
+                },
+                {
+                  "gram": "",
+                  "en": "She was never to see (= she never saw) her brother again.",
+                  "cn": "她此后再也没有见过她的弟弟。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used in conditional sentences to say what might happen",
+                "cn": "（用于条件句中，表示可能）万一，假如"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "If I were to refuse they'd be very annoyed.",
+                  "cn": "如果我拒绝，他们会很气恼的。"
+                },
+                {
+                  "gram": "",
+                  "en": "Were I to refuse they'd be very annoyed.",
+                  "cn": "倘若我拒绝，他们会很气恼的。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAN",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to say what can happen",
+                "cn": "能够"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The exhibition of modern prints is currently to be seen at the City Gallery.",
+                  "cn": "现在去市美术馆可以看到现代版画展。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EXIST",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to exist or live",
+                "cn": "存在，生存"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Such terrible suffering should never be.",
+                  "cn": "这种苦难绝不应该存在。"
+                },
+                {
+                  "gram": "",
+                  "en": "By the time the letter reached them their sister had ceased to be (= had died).",
+                  "cn": "当信件到他们手上时，他们的姐姐已经去世了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "auxiliary verb",
+      "defBitmask": 16384,
+      "pron": {
+        "uk": "strong /biː/",
+        "us": "strong /biː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /biː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukazt/ukazt__003.mp3"
+        },
+        "us": {
+          "ipa": "strong /biː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/b/b__/b____/b.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "CONTINUE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used with the present participle of other verbs to describe actions that are or were still continuing",
+                "cn": "（与动词的现在分词连用，表示动作正在进行）正在，在"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'm still eating.",
+                  "cn": "我还在吃饭。"
+                },
+                {
+                  "gram": "",
+                  "en": "She's studying to be a lawyer.",
+                  "cn": "她在学习，将来想当律师。"
+                },
+                {
+                  "gram": "",
+                  "en": "The audience clearly wasn't enjoying the show.",
+                  "cn": "观众显然不喜欢这个节目。"
+                },
+                {
+                  "gram": "",
+                  "en": "You're always complaining.",
+                  "cn": "你总是在抱怨。"
+                },
+                {
+                  "gram": "",
+                  "en": "I'll be coming back (= I plan to come back) on Tuesday.",
+                  "cn": "我将于周二回来。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PASSIVE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used with the past participle of other verbs to form the passive",
+                "cn": "（与动词的过去分词连用，表示被动）被"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd like to go but I haven't been asked.",
+                  "cn": "我倒是想去，但没有受到邀请。"
+                },
+                {
+                  "gram": "",
+                  "en": "Troublemakers are encouraged to leave.",
+                  "cn": "闹事者被力劝赶快离开。"
+                },
+                {
+                  "gram": "",
+                  "en": "A body has been discovered by the police.",
+                  "cn": "警察发现了一具尸体。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

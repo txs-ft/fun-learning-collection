@@ -1,5 +1,5 @@
 {
-  "time": 1751350153783,
+  "time": 1752140889624,
   "title": "rainforest",
   "generalBitmask": 1,
   "allDefinitions": [
@@ -22,7 +22,7 @@
       },
       "defGroups": [
         {
-          "simple": null,
+          "simple": "",
           "defs": [
             {
               "level": "B1",
@@ -32,7 +32,7 @@
               },
               "examples": [
                 {
-                  "gram": null,
+                  "gram": "",
                   "en": "a tropical rainforest",
                   "cn": "一片热带雨林"
                 }

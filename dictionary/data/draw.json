@@ -1,0 +1,468 @@
+{
+  "time": 1752140235035,
+  "title": "draw",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/drɔː/",
+        "us": "/drɑː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/drɔː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdra/ukdram_020.mp3"
+        },
+        "us": {
+          "ipa": "/drɑː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71388.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "PICTURE",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "to make a picture of something or someone with a pencil or pen",
+                "cn": "画，绘画"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Jonathan can draw very well.",
+                  "cn": "乔纳森的画画得相当棒。"
+                },
+                {
+                  "gram": "",
+                  "en": "The children drew pictures of their families.",
+                  "cn": "孩子们画了自己的家人。"
+                },
+                {
+                  "gram": "",
+                  "en": "Draw a line at the bottom of the page.",
+                  "cn": "在本页的底部画一条线。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ATTRACT",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to attract attention or interest",
+                "cn": "吸引，引起（兴趣、注意）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's an excellent speaker who always draws a crowd.",
+                  "cn": "他很擅长演讲，总能吸引大批的听众。"
+                },
+                {
+                  "gram": "",
+                  "en": "Could I draw your attention to item number three on the agenda?",
+                  "cn": "我可以请你看一看议程的第3项内容吗？"
+                },
+                {
+                  "gram": "",
+                  "en": "Does he wear those ridiculous clothes to draw attention to himself?",
+                  "cn": "他穿那些滑稽的衣服就是想吸引人们的注意吗？"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to attract someone's attention:",
+                "cn": "她的注意力立即被吧台旁站着的一位高个头的金发男子吸引住了。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her eyes were immediately drawn to the tall blond man standing at the bar.",
+                  "cn": "她的注意力立即被吧台旁站着的一位高个头的金发男子吸引住了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MAKE",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to make or show a comparison between things",
+                "cn": "作（比较），进行（对比）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "You can't really draw a comparison between the two cases - they're completely different.",
+                  "cn": "你不能拿这两个案子相比较——因为它们完全不同。"
+                },
+                {
+                  "gram": "",
+                  "en": "It's sometimes very difficult to draw a clear distinction between the meanings of different words.",
+                  "cn": "有时很难明确区分不同单词的含义。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to consider the facts of a situation and make a decision about what is true, correct, likely to happen, etc.:",
+                "cn": "我常看见他们在一起，所以认为他们是夫妻。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I'd seen them together so often, I drew the logical conclusion that they were husband and wife.",
+                  "cn": "我常看见他们在一起，所以认为他们是夫妻。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MOVE",
+          "defs": [
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to move in a particular direction, especially in a vehicle",
+                "cn": "（尤指乘车辆）移动，行进"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The train slowly drew into the station/drew in.",
+                  "cn": "火车慢慢开进车站。"
+                },
+                {
+                  "gram": "",
+                  "en": "As we drew alongside (= reached) the black car, I suddenly recognized my ex-boyfriend at the wheel.",
+                  "cn": "当我们来到那辆黑色汽车跟前的时候，我突然发现开车的是我以前的男朋友。"
+                },
+                {
+                  "gram": "",
+                  "en": "Montgomery drew level with Greene in the 100 metres final, but never passed him.",
+                  "cn": "在100米决赛中蒙哥马利和格林并驾齐驱，但却一直未能超过他。"
+                }
+              ]
+            },
+            {
+              "level": "B2",
+              "longDef": {
+                "en": "to become nearer in space or time:",
+                "cn": "随着圣诞节的临近，商店开始变得拥挤不堪。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As Christmas draws nearer, the big stores start to get unbearably crowded.",
+                  "cn": "随着圣诞节的临近，商店开始变得拥挤不堪。"
+                }
+              ]
+            },
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to gradually finish:",
+                "cn": "晚会即将结束的时候人们开始去拿自己的外套。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As the evening drew to a close, people started reaching for their coats.",
+                  "cn": "晚会即将结束的时候人们开始去拿自己的外套。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CAUSE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "If something draws a reaction, people react in the stated way.",
+                "cn": "引起，激起（反应）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Her speech last night in the Senate drew an angry response.",
+                  "cn": "昨晚她在参议院的讲话引起了人们的愤怒。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "PULL",
+          "defs": [
+            {
+              "level": "C2",
+              "longDef": {
+                "en": "to pull or direct something in a particular direction",
+                "cn": "拉，拽，牵引"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She drew her coat tightly around her shoulders.",
+                  "cn": "她在肩膀处把外衣拉紧。"
+                },
+                {
+                  "gram": "",
+                  "en": "The crowd watched as the referee drew the player aside/to one side and spoke to him.",
+                  "cn": "人们看到裁判把那名运动员带到一边和他说了些什么。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to pull curtains so that they are either together or apart:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Could you draw the curtains, please?",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "CHOOSE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to choose a number, card, etc. from several numbers, cards, etc. without first seeing it, in a competition or a game",
+                "cn": "抽（签、牌），抽取"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I was dealt two aces, and I drew a third.",
+                  "cn": "发牌时我得到两张 A 牌，后来我又抽到了一张。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "TAKE OUT",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to take something out of a container or your pocket, especially a weapon",
+                "cn": "拿出，拔出，抽出（尤指武器）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Suddenly he drew a gun/knife and held it to my throat.",
+                  "cn": "突然他拿出一把枪／刀抵住我的喉咙。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to cause a substance, especially blood, to come out of a body",
+                "cn": "使（尤指血液）流出，使渗出"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He bit me so hard that it drew blood.",
+                  "cn": "他把我咬得都出血了。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "GET",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to get a feeling, idea, etc. from something or someone",
+                "cn": "获得，得到"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She drew comfort from the fact that he died peacefully.",
+                  "cn": "他去世时很安详，为此她感到欣慰。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "BREATHE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to take air or smoke into your lungs",
+                "cn": "吸入（空气或烟雾）;吸气"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She drew a deep breath and plunged into the water.",
+                  "cn": "她深吸一口气然后猛地跳入水中。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EQUAL",
+          "defs": [
+            {
+              "level": "C1",
+              "longDef": {
+                "en": "to finish a game with the same number of points as the other person or team",
+                "cn": "以平局告终;战平"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Coventry drew 1–1 with United in the semifinal.",
+                  "cn": "考文垂队在半决赛中以1:1与曼联队战平。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "MONEY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to get money from a bank, account, etc. so that you can use it",
+                "cn": "取（款），取（钱），支取"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I drew some money out of my account to pay for our trip.",
+                  "cn": "我从账户中取了些钱给我们作旅费。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to receive money regularly, especially as an employee or from the government",
+                "cn": "（尤指从雇主或政府那里）定期领取（一定数额的钱）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He's been drawing a pension for ten years.",
+                  "cn": "他领取养老金已经10年了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/drɔː/",
+        "us": "/drɑː/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/drɔː/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdra/ukdram_020.mp3"
+        },
+        "us": {
+          "ipa": "/drɑː/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/e/eus/eus71/eus71388.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "ATTRACTION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "someone or something that a lot of people are interested in",
+                "cn": "有吸引力的人（或事物）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "We need someone at the event who'll be a big draw and attract the paying public.",
+                  "cn": "我们需要一个深受大家喜欢的人到场，以吸引人们花钱买票。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "EQUAL SCORE",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a situation in which each team in a game has equal points and neither side wins",
+                "cn": "平局"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The result was a draw.",
+                  "cn": "结果是平局。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "COMPETITION",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "a competition that is decided by choosing a particular ticket or number by chance",
+                "cn": "抽签;抽奖"
+              },
+              "examples": []
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

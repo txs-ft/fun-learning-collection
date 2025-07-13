@@ -1,0 +1,250 @@
+{
+  "time": 1752140240304,
+  "title": "dream",
+  "generalBitmask": 7,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/driːm/",
+        "us": "/driːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/driːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdre/ukdread006.mp3"
+        },
+        "us": {
+          "ipa": "/driːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dre/dream/dream.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SLEEP",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "a series of events or images that happen in your mind when you are sleeping",
+                "cn": "梦，睡梦，梦境"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "a good/bad dream",
+                  "cn": "好／噩梦"
+                },
+                {
+                  "gram": "",
+                  "en": "a recurring dream",
+                  "cn": "反复出现的梦境"
+                },
+                {
+                  "gram": "",
+                  "en": "I had a very strange dream about you last night.",
+                  "cn": "昨晚我梦见了你，那个梦非常奇怪。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "Paul had a dream that he won the lottery.",
+                  "cn": "保罗梦见自己彩票中了奖。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HOPE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "something that you want to happen very much but that is not very likely",
+                "cn": "梦想，幻想，愿望"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It's always been my dream to have flying lessons.",
+                  "cn": "学习飞行一直是我的梦想。"
+                },
+                {
+                  "gram": "",
+                  "en": "Winning all that money was a dream come true.",
+                  "cn": "赢得了那些钱，终于美梦成真了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "the best that you can imagine:",
+                "cn": "参加我们超级棒的竞赛，赢得您梦想中的房子！"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Win the house of your dreams in our fantastic competition!",
+                  "cn": "参加我们超级棒的竞赛，赢得您梦想中的房子！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "adjective",
+      "defBitmask": 4,
+      "pron": {
+        "uk": "/driːm/",
+        "us": "/driːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/driːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdre/ukdread006.mp3"
+        },
+        "us": {
+          "ipa": "/driːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dre/dream/dream.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "the perfect house, job, etc., that you want more than any other:",
+                "cn": ""
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "It had always been their intention to build their dream house.",
+                  "cn": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/driːm/",
+        "us": "/driːm/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/driːm/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdre/ukdread006.mp3"
+        },
+        "us": {
+          "ipa": "/driːm/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/dre/dream/dream.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "SLEEP",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "to experience events and images in your mind while you are sleeping",
+                "cn": "做梦;梦见"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "What did you dream about last night?",
+                  "cn": "昨晚你梦见什么了？"
+                },
+                {
+                  "gram": "",
+                  "en": "I often dream about/of flying.",
+                  "cn": "我常梦见自己在飞。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "I dreamed that I was having a baby.",
+                  "cn": "我梦见自己要生小孩了。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "to imagine that you have heard, done, or seen something when you have not",
+                "cn": "梦想，想象"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Did you say that you were going tonight or did I dream it?",
+                  "cn": "你说了今晚要去吗，还是只是我的想象？"
+                },
+                {
+                  "gram": "",
+                  "en": "I thought I'd bought some polish and it seems I haven't - I must have been dreaming.",
+                  "cn": "我以为自己买了一些上光剂而现在似乎并没有——这一定是我自己的想象。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "HOPE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "to imagine something that you would like to happen",
+                "cn": "幻想;梦想，想望"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I dream of living on a tropical island.",
+                  "cn": "我梦想着生活在热带岛屿上。"
+                },
+                {
+                  "gram": "[ + that ]",
+                  "en": "He never dreamed that one day he would become president.",
+                  "cn": "他做梦也没有想过有一天他会成为总统。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "used to tell someone that what they are hoping for is not likely to happen or to be true:",
+                "cn": "“你瞧着，我只要冲她眨眨眼，她就会过来。”“做梦去吧，戴夫。”"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "\"Watch. All I have to do is wink at her, and she'll come over here.\" \"Dream on, Dave!\"",
+                  "cn": "“你瞧着，我只要冲她眨眨眼，她就会过来。”“做梦去吧，戴夫。”"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

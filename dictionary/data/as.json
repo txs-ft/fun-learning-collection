@@ -1,0 +1,252 @@
+{
+  "time": 1752139772576,
+  "title": "as",
+  "generalBitmask": 56,
+  "allDefinitions": [
+    {
+      "pos": "adverb",
+      "defBitmask": 8,
+      "pron": {
+        "uk": "strong /æz/",
+        "us": "strong /æz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /æz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukart/ukartic029.mp3"
+        },
+        "us": {
+          "ipa": "strong /æz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/as_/as___/as.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "used in comparisons to refer to the degree of something",
+                "cn": "（用于比较）像…（一样），和…（一样）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "She'll soon be as tall as her mother.",
+                  "cn": "她很快就会和她母亲一样高了。"
+                },
+                {
+                  "gram": "",
+                  "en": "I can't run as fast as you.",
+                  "cn": "我跑得没你快。"
+                },
+                {
+                  "gram": "",
+                  "en": "skin as soft as a baby's",
+                  "cn": "像婴儿一样娇嫩的肌肤"
+                },
+                {
+                  "gram": "",
+                  "en": "It's not as good as it used to be.",
+                  "cn": "这个不如以前好了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "preposition",
+      "defBitmask": 16,
+      "pron": {
+        "uk": "strong /æz/",
+        "us": "strong /æz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /æz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukart/ukartic029.mp3"
+        },
+        "us": {
+          "ipa": "strong /æz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/as_/as___/as.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A1",
+              "longDef": {
+                "en": "used to describe the purpose or quality of someone or something",
+                "cn": "以…的身份；作为"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "The people in the crowd rolled up their programs and used them as bullhorns.",
+                  "cn": ""
+                },
+                {
+                  "gram": "",
+                  "en": "She works as a waitress.",
+                  "cn": "她是名服务员。"
+                },
+                {
+                  "gram": "",
+                  "en": "It could be used as evidence against him.",
+                  "cn": "这可以用作对他不利的证据。"
+                },
+                {
+                  "gram": "",
+                  "en": "The news came as quite a shock to us.",
+                  "cn": "这个消息让我们都很震惊。"
+                },
+                {
+                  "gram": "",
+                  "en": "I meant it as a joke.",
+                  "cn": "这话我只是当玩笑讲的。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    },
+    {
+      "pos": "conjunction",
+      "defBitmask": 32,
+      "pron": {
+        "uk": "strong /æz/",
+        "us": "strong /æz/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "strong /æz/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/uka/ukart/ukartic029.mp3"
+        },
+        "us": {
+          "ipa": "strong /æz/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/a/as_/as___/as.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "BECAUSE",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "because",
+                "cn": "因为，由于"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As it was getting late, I decided to book into a hotel.",
+                  "cn": "因为天色已晚，我决定找家旅馆投宿。"
+                },
+                {
+                  "gram": "",
+                  "en": "You can go first as you're the oldest.",
+                  "cn": "你可以第一个去，因为你年纪最大。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "WHILE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "during the time that",
+                "cn": "当…时;在…的同时;随着"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "I saw him as I was coming into the building.",
+                  "cn": "我进楼时看到了他。"
+                },
+                {
+                  "gram": "",
+                  "en": "He gets more attractive as he gets older.",
+                  "cn": "随着年龄的增长，他变得愈发有魅力。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LIKE",
+          "defs": [
+            {
+              "level": "B1",
+              "longDef": {
+                "en": "in the same way",
+                "cn": "以…的方式；如同…那样；像"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "As I was just saying, I think the proposal needs further consideration.",
+                  "cn": "正如我刚才所说的，我认为这个提议需要进一步考虑。"
+                },
+                {
+                  "gram": "",
+                  "en": "As is often the case with children, Amy was completely better by the time the doctor arrived.",
+                  "cn": "就像经常发生在儿童身上的情况一样，医生赶到时，埃米的病情彻底好转了。"
+                },
+                {
+                  "gram": "",
+                  "en": "He got divorced, just as his parents had done years before.",
+                  "cn": "他离婚了，（完全）重蹈了多年前他父母婚姻破裂的覆辙。"
+                },
+                {
+                  "gram": "",
+                  "en": "This year, as in previous years, tickets sold very quickly.",
+                  "cn": "像往年一样，今年的票卖得很快。"
+                },
+                {
+                  "gram": "",
+                  "en": "Knowing him as I do, I can't believe he would do such a thing.",
+                  "cn": "以我对他的了解，我无法相信他会做这样的事。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "ALTHOUGH",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "although",
+                "cn": "虽然，尽管"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Angry as he was, he couldn't help smiling.",
+                  "cn": "尽管他很生气，可还是忍不住笑了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 1,
+      "stressIndex": 0
+    }
+  ]
+}

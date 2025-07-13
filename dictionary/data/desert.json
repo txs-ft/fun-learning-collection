@@ -1,0 +1,151 @@
+{
+  "time": 1752140211789,
+  "title": "desert",
+  "generalBitmask": 3,
+  "allDefinitions": [
+    {
+      "pos": "noun",
+      "defBitmask": 1,
+      "pron": {
+        "uk": "/ˈdez.ət/",
+        "us": "/ˈdez.ɚt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/ˈdez.ət/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdes/ukdescr011.mp3"
+        },
+        "us": {
+          "ipa": "/ˈdez.ɚt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/des/deser/desert_03_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "",
+          "defs": [
+            {
+              "level": "A2",
+              "longDef": {
+                "en": "an area, often covered with sand or rocks, where there is very little rain and not many plants",
+                "cn": "沙漠，荒漠"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "They were lost in the desert for nine days.",
+                  "cn": "他们在沙漠里迷路已经有9天了。"
+                },
+                {
+                  "gram": "",
+                  "en": "We had to cross a large area of arid, featureless desert.",
+                  "cn": "我们必须穿越一大片干燥荒芜的沙漠。"
+                },
+                {
+                  "gram": "",
+                  "en": "the desert sun",
+                  "cn": "沙漠里的太阳"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "a place that is considered to have no cultural, intellectual, etc. quality or interest:",
+                "cn": "这个城镇是一片文化沙漠。"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "This town is a cultural desert.",
+                  "cn": "这个城镇是一片文化沙漠。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 0
+    },
+    {
+      "pos": "verb",
+      "defBitmask": 2,
+      "pron": {
+        "uk": "/dɪˈzɜːt/",
+        "us": "/dɪˈzɝːt/"
+      },
+      "audio": {
+        "uk": {
+          "ipa": "/dɪˈzɜːt/",
+          "audioPath": "/media/english-chinese-simplified/uk_pron/u/ukd/ukdes/ukdescr010.mp3"
+        },
+        "us": {
+          "ipa": "/dɪˈzɝːt/",
+          "audioPath": "/media/english-chinese-simplified/us_pron/d/des/deser/desert_02_00.mp3"
+        }
+      },
+      "defGroups": [
+        {
+          "simple": "RUN AWAY",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to leave the armed forces without permission and with no intention of returning",
+                "cn": "开小差，当逃兵;擅离（部队）"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "Soldiers who deserted and were caught were shot.",
+                  "cn": "抓回来的逃兵被枪毙了。"
+                },
+                {
+                  "gram": "",
+                  "en": "How many people desert from the army each year?",
+                  "cn": "每年军队有多少逃兵？"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "simple": "LEAVE BEHIND",
+          "defs": [
+            {
+              "level": "",
+              "longDef": {
+                "en": "to leave someone without help or in a difficult situation and not come back",
+                "cn": "抛弃，丢弃"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "He deserted his wife and family for another woman.",
+                  "cn": "他为了另一个女人抛家弃子。"
+                }
+              ]
+            },
+            {
+              "level": "",
+              "longDef": {
+                "en": "If a quality deserts you, you suddenly and temporarily lose it.",
+                "cn": "失去，丧失"
+              },
+              "examples": [
+                {
+                  "gram": "",
+                  "en": "All my confidence/courage deserted me when I walked into the exam.",
+                  "cn": "进入考场后，我的全部信心／勇气都丧失了。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "syllableCount": 2,
+      "stressIndex": 1
+    }
+  ]
+}
