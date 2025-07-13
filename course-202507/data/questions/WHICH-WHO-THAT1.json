@@ -1,0 +1,107 @@
+{
+  "group": "WHICH-WHO-THAT",
+  "name": "Usage: \"which\", \"who\", \"that\"",
+  "set": 1,
+  "data": [
+    {
+      "sentences": [
+        {
+          "text": "The astronaut who planted a glowing flag is standing on the purple planet with three moons.",
+          "prompt": "A lone astronaut in a reflective silver suit standing on violet crystalline terrain, planting a neon-blue flag. Three crescent moons glow in a star-filled indigo sky, alien plants emitting soft light nearby. Digital painting with vivid colors and volumetric lighting.",
+          "pic": "WHICH-WHO-THAT1.0.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGFzdHJvbmF1dHx3aG98cGxhbnRlZHxhfGdsb3dpbmd8ZmxhZ3xpc3xzdGFuZGluZ3xvbnx0aGV8cHVycGxlfHBsYW5ldHx3aXRofHRocmVlfG1vb25zfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The robot that serves rainbow ice cream has giant bubblegum-pink eyes and antennae.",
+          "prompt": "A friendly chrome-plated robot with oversized bubblegum-pink eyes and springy antennae, serving swirled rainbow ice cream from a floating cart. Pastel-colored cupcakes hover around it in a futuristic candy land, hyperrealistic 3D style with glossy textures.",
+          "pic": "WHICH-WHO-THAT1.1.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHJvYm90fHRoYXR8c2VydmVzfHJhaW5ib3d8aWNlfGNyZWFtfGhhc3xnaWFudHxidWJibGVndW18LXxwaW5rfGV5ZXN8YW5kfGFudGVubmFlfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The dragon which guards the chocolate volcano wears a golden crown with ruby jewels.",
+          "prompt": "An emerald-green dragon with shimmering scales perched atop a molten chocolate volcano, wearing an intricate golden crown embedded with glowing rubies. Marshmallow clouds float above caramel lava flows, fantasy illustration style with dramatic lighting.",
+          "pic": "WHICH-WHO-THAT1.2.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGRyYWdvbnx3aGljaHxndWFyZHN8dGhlfGNob2NvbGF0ZXx2b2xjYW5vfHdlYXJzfGF8Z29sZGVufGNyb3dufHdpdGh8cnVieXxqZXdlbHN8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The girl who rides a flying skateboard is chasing a comet through neon city lights.",
+          "prompt": "A teenage girl with rainbow-streaked hair soaring on a holographic skateboard through a cyberpunk city at night, reaching toward a sparkling comet trail. Neon signs reflect on wet streets below, anime-inspired art with dynamic motion lines.",
+          "pic": "WHICH-WHO-THAT1.3.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGdpcmx8d2hvfHJpZGVzfGF8Zmx5aW5nfHNrYXRlYm9hcmR8aXN8Y2hhc2luZ3xhfGNvbWV0fHRocm91Z2h8bmVvbnxjaXR5fGxpZ2h0c3wu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The treehouse that floats among clouds has giant spinning daisy propellers.",
+          "prompt": "A whimsical wooden treehouse suspended in fluffy clouds, powered by three giant rotating daisy-flower propellers. Rope bridges connect to smaller floating islands with candy-striped slides, Studio Ghibli-style watercolor illustration.",
+          "pic": "WHICH-WHO-THAT1.4.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHRyZWVob3VzZXx0aGF0fGZsb2F0c3xhbW9uZ3xjbG91ZHN8aGFzfGdpYW50fHNwaW5uaW5nfGRhaXN5fHByb3BlbGxlcnN8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The detective cat that solves mysteries wears a tiny deerstalker hat and magnifying glass.",
+          "prompt": "A ginger tabby cat standing upright in a tweed coat, peering through a giant magnifying glass at glowing footprints. Wearing a miniature deerstalker hat, Victorian London foggy alley background, steampunk illustration with dramatic chiaroscuro lighting.",
+          "pic": "WHICH-WHO-THAT1.5.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGRldGVjdGl2ZXxjYXR8dGhhdHxzb2x2ZXN8bXlzdGVyaWVzfHdlYXJzfGF8dGlueXxkZWVyc3RhbGtlcnxoYXR8YW5kfG1hZ25pZnlpbmd8Z2xhc3N8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The submarine that explores coral castles has jellyfish headlights and seashell turbines.",
+          "prompt": "A retro-futuristic submarine with glowing jellyfish headlights and spinning seashell turbines navigating through bioluminescent coral castles. Schools of iridescent fish form swirling patterns outside portholes, deep-sea fantasy with cinematic lighting.",
+          "pic": "WHICH-WHO-THAT1.6.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHN1Ym1hcmluZXx0aGF0fGV4cGxvcmVzfGNvcmFsfGNhc3RsZXN8aGFzfGplbGx5ZmlzaHxoZWFkbGlnaHRzfGFuZHxzZWFzaGVsbHx0dXJiaW5lc3wu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The baker who makes gravity-defying cakes is stacking floating cupcakes with candy rockets.",
+          "prompt": "A cheerful baker in a flour-dusted apron arranging levitating cupcakes topped with miniature candy rockets. Vanilla-frosting clouds drift near the ceiling of a magical patisserie, tilt-shift photography style with warm bakery lighting.",
+          "pic": "WHICH-WHO-THAT1.7.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGJha2VyfHdob3xtYWtlc3xncmF2aXR5fC18ZGVmeWluZ3xjYWtlc3xpc3xzdGFja2luZ3xmbG9hdGluZ3xjdXBjYWtlc3x3aXRofGNhbmR5fHJvY2tldHN8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The waterfall that flows upside down has tropical fish swimming upward through rainbow mist.",
+          "prompt": "A surreal waterfall cascading upward into the sky, with colorful tropical fish swimming against the flow through prismatic mist. Giant lotus flowers bloom horizontally from cliff faces, Salvador Dali-inspired surrealism with hyperrealistic water textures.",
+          "pic": "WHICH-WHO-THAT1.8.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHdhdGVyZmFsbHx0aGF0fGZsb3dzfHVwc2lkZXxkb3dufGhhc3x0cm9waWNhbHxmaXNofHN3aW1taW5nfHVwd2FyZHx0aHJvdWdofHJhaW5ib3d8bWlzdHwu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The pocket watch that opens portals shows miniature galaxies instead of numbers.",
+          "prompt": "An ornate antique pocket watch open on velvet cloth, revealing swirling galaxies and nebulae where clock numbers should be. Celestial light spills onto gears made of stardust, macro photography with cosmic bokeh effects and metallic reflections.",
+          "pic": "WHICH-WHO-THAT1.9.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHBvY2tldHx3YXRjaHx0aGF0fG9wZW5zfHBvcnRhbHN8c2hvd3N8bWluaWF0dXJlfGdhbGF4aWVzfGluc3RlYWR8b2Z8bnVtYmVyc3wu"
+    }
+  ]
+}

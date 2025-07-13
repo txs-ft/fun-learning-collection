@@ -1,0 +1,107 @@
+{
+  "group": "OF",
+  "name": "Usage: \"of\"",
+  "set": 1,
+  "data": [
+    {
+      "sentences": [
+        {
+          "text": "A flock of colorful parrots is flying over the tropical rainforest.",
+          "prompt": "Overhead view of seven vibrant macaws with rainbow feathers soaring above a lush green Amazon canopy, morning mist rising between giant ferns, ultra-detailed plumage, photorealistic style, 4K resolution.",
+          "pic": "OF1.0.0.jpg"
+        }
+      ],
+      "url": "?q=QXxmbG9ja3xvZnxjb2xvcmZ1bHxwYXJyb3RzfGlzfGZseWluZ3xvdmVyfHRoZXx0cm9waWNhbHxyYWluZm9yZXN0fC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The captain of the pirate ship is searching for treasure with an old map.",
+          "prompt": "Grizzled pirate captain in tricorn hat examining a weathered parchment map on a wooden ship deck, brass telescope in hand, stormy ocean backdrop with seagulls, golden sunset lighting, cinematic composition.",
+          "pic": "OF1.1.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGNhcHRhaW58b2Z8dGhlfHBpcmF0ZXxzaGlwfGlzfHNlYXJjaGluZ3xmb3J8dHJlYXN1cmV8d2l0aHxhbnxvbGR8bWFwfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "A cluster of glowing fireflies is dancing in the moonlit garden.",
+          "prompt": "Magical night scene in an English cottage garden, hundreds of bioluminescent fireflies forming swirling patterns above rose bushes, full moon casting silver light on dewy grass, bokeh effect, dreamy atmosphere.",
+          "pic": "OF1.2.0.jpg"
+        }
+      ],
+      "url": "?q=QXxjbHVzdGVyfG9mfGdsb3dpbmd8ZmlyZWZsaWVzfGlzfGRhbmNpbmd8aW58dGhlfG1vb25saXR8Z2FyZGVufC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The aroma of freshly baked cookies is spreading through the cozy kitchen.",
+          "prompt": "Steam rising from a dozen chocolate chip cookies on a checkered baking sheet, vintage oven with open door casting warm light, flour-dusted wooden countertop, cinnamon sticks in jar, soft focus background.",
+          "pic": "OF1.3.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGFyb21hfG9mfGZyZXNobHl8YmFrZWR8Y29va2llc3xpc3xzcHJlYWRpbmd8dGhyb3VnaHx0aGV8Y296eXxraXRjaGVufC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "A school of shimmering fish is swimming around the coral reef castle.",
+          "prompt": "Underwater scene with hundreds of neon-blue damselfish circling a pink coral castle formation, sunlight filtering through turquoise water, sea anemones waving on ocean floor, ultra HD marine photography.",
+          "pic": "OF1.4.0.jpg"
+        }
+      ],
+      "url": "?q=QXxzY2hvb2x8b2Z8c2hpbW1lcmluZ3xmaXNofGlzfHN3aW1taW5nfGFyb3VuZHx0aGV8Y29yYWx8cmVlZnxjYXN0bGV8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The champion of the robot boxing tournament is holding a golden trophy.",
+          "prompt": "Giant battle-damaged robot with glowing red eyes triumphantly raising a futuristic gold cup in a neon-lit arena, sparks flying from its joints, cheering holographic crowd in background, cyberpunk aesthetic.",
+          "pic": "OF1.5.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGNoYW1waW9ufG9mfHRoZXxyb2JvdHxib3hpbmd8dG91cm5hbWVudHxpc3xob2xkaW5nfGF8Z29sZGVufHRyb3BoeXwu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "A mountain of fluffy cotton candy is being carried at the carnival.",
+          "prompt": "Child's hands holding an impossibly tall pink cotton candy cone twice their height against a bustling night carnival backdrop, ferris wheel lights blurred in background, sticky sugar strands glistening.",
+          "pic": "OF1.6.0.jpg"
+        }
+      ],
+      "url": "?q=QXxtb3VudGFpbnxvZnxmbHVmZnl8Y290dG9ufGNhbmR5fGlzfGJlaW5nfGNhcnJpZWR8YXR8dGhlfGNhcm5pdmFsfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The queen of the honeybees is surrounded by worker bees in the golden hive.",
+          "prompt": "Macro photography inside a hexagonal honeycomb hive, larger queen bee with distinctive long abdomen encircled by attentive worker bees, golden honey droplets glowing in amber light, intricate details.",
+          "pic": "OF1.7.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHF1ZWVufG9mfHRoZXxob25leWJlZXN8aXN8c3Vycm91bmRlZHxieXx3b3JrZXJ8YmVlc3xpbnx0aGV8Z29sZGVufGhpdmV8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "A shower of sparkling meteors is streaking across the desert night sky.",
+          "prompt": "Long exposure photograph of meteor shower over Sahara desert, dozens of green and blue shooting stars above sand dunes, Milky Way galaxy visible, lone camel silhouette in foreground.",
+          "pic": "OF1.8.0.jpg"
+        }
+      ],
+      "url": "?q=QXxzaG93ZXJ8b2Z8c3BhcmtsaW5nfG1ldGVvcnN8aXN8c3RyZWFraW5nfGFjcm9zc3x0aGV8ZGVzZXJ0fG5pZ2h0fHNreXwu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The spirit of the ancient tree is watching over the enchanted forest.",
+          "prompt": "Massive oak tree with wise face formed in bark patterns, glowing eyes peering from trunk, protective stance over moss-covered woodland, fairy lights in branches, misty dawn atmosphere, fantasy art style.",
+          "pic": "OF1.9.0.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHNwaXJpdHxvZnx0aGV8YW5jaWVudHx0cmVlfGlzfHdhdGNoaW5nfG92ZXJ8dGhlfGVuY2hhbnRlZHxmb3Jlc3R8Lg%3D%3D"
+    }
+  ]
+}

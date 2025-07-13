@@ -1,0 +1,157 @@
+{
+  "group": "OF",
+  "name": "Usage: \"of\"",
+  "set": 2,
+  "data": [
+    {
+      "sentences": [
+        {
+          "text": "The leader of the hiking club suggested exploring the northern trail.",
+          "prompt": "Teenage scout leader pointing towards misty mountain path with compass, diverse group of hikers in colorful jackets looking at map, pine forest backdrop, early morning light filtering through trees.",
+          "pic": "OF2.0.0.jpg"
+        },
+        {
+          "text": "As a result, the discovery of hidden cave paintings amazed everyone.",
+          "prompt": "Interior of limestone cave illuminated by headlamps, ancient red ochre paintings of deer and hunters on rough walls, diverse teenagers expressing awe with hands over mouths, archaeological tools visible in foreground",
+          "pic": "OF2.0.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGxlYWRlcnxvZnx0aGV8aGlraW5nfGNsdWJ8c3VnZ2VzdGVkfGV4cGxvcmluZ3x0aGV8bm9ydGhlcm58dHJhaWx8LnxBc3xhfHJlc3VsdHwsfHRoZXxkaXNjb3Zlcnl8b2Z8aGlkZGVufGNhdmV8cGFpbnRpbmdzfGFtYXplZHxldmVyeW9uZXwu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The invention of a solar-powered drone solved their delivery problem.",
+          "prompt": "Glossy silver drone with solar panels on wings hovering above suburban rooftops, releasing a package with parachute, digital tracking display visible on teenager's tablet, clear blue sky background",
+          "pic": "OF2.1.0.jpg"
+        },
+        {
+          "text": "Consequently, the reduction of carbon emissions pleased the environmental committee.",
+          "prompt": "Digital infographic showing plunging CO2 graph over city skyline, diverse students cheering in school science lab with plant decorations, miniature wind turbines on desks, sunlight streaming through windows",
+          "pic": "OF2.1.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGludmVudGlvbnxvZnxhfHNvbGFyfC18cG93ZXJlZHxkcm9uZXxzb2x2ZWR8dGhlaXJ8ZGVsaXZlcnl8cHJvYmxlbXwufENvbnNlcXVlbnRseXwsfHRoZXxyZWR1Y3Rpb258b2Z8Y2FyYm9ufGVtaXNzaW9uc3xwbGVhc2VkfHRoZXxlbnZpcm9ubWVudGFsfGNvbW1pdHRlZXwu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "During the festival of lights, the explosion of fireworks startled the neighborhood cats.",
+          "prompt": "Nighttime cultural festival with multicolored paper lanterns, orange fireworks bursting above traditional rooftops, silhouettes of cats darting away with arched backs, blurred crowds in background",
+          "pic": "OF2.2.0.jpg"
+        },
+        {
+          "text": "Therefore, the appearance of hidden kittens under the porch surprised the children.",
+          "prompt": "Three curious children crouching before wooden porch, ginger kittens with wide eyes peeking from shadows, fallen autumn leaves around them, warm glow from nearby festival decorations",
+          "pic": "OF2.2.1.jpg"
+        }
+      ],
+      "url": "?q=RHVyaW5nfHRoZXxmZXN0aXZhbHxvZnxsaWdodHN8LHx0aGV8ZXhwbG9zaW9ufG9mfGZpcmV3b3Jrc3xzdGFydGxlZHx0aGV8bmVpZ2hib3Job29kfGNhdHN8LnxUaGVyZWZvcmV8LHx0aGV8YXBwZWFyYW5jZXxvZnxoaWRkZW58a2l0dGVuc3x1bmRlcnx0aGV8cG9yY2h8c3VycHJpc2VkfHRoZXxjaGlsZHJlbnwu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The absence of rain caused the drying of the community garden.",
+          "prompt": "Cracked brown earth in urban garden plot, wilted tomato plants in afternoon heat, empty rain gauge, concerned diverse teenagers holding withered vegetables, city buildings in hazy distance",
+          "pic": "OF2.3.0.jpg"
+        },
+        {
+          "text": "So the construction of an irrigation system became the volunteers' priority.",
+          "prompt": "Multiracial student team assembling blue PVC pipes around garden beds, installing drip irrigation emitters, wheelbarrow with tools nearby, newly green seedlings sprouting in revitalized soil",
+          "pic": "OF2.3.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGFic2VuY2V8b2Z8cmFpbnxjYXVzZWR8dGhlfGRyeWluZ3xvZnx0aGV8Y29tbXVuaXR5fGdhcmRlbnwufFNvfHRoZXxjb25zdHJ1Y3Rpb258b2Z8YW58aXJyaWdhdGlvbnxzeXN0ZW18YmVjYW1lfHRoZXx2b2x1bnRlZXJzfCd8cHJpb3JpdHl8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "At the edge of the coral reef, the shadow of a great white shark alarmed divers.",
+          "prompt": "Underwater scene with scuba divers frozen mid-swim, enormous shark silhouette gliding near vibrant coral formations, sunlight rays piercing turquoise water, bubbles rising in panic",
+          "pic": "OF2.4.0.jpg"
+        },
+        {
+          "text": "Immediately, the activation of emergency sonar devices scared it away.",
+          "prompt": "Yellow sonar device emitting visible sound waves underwater, shark turning swiftly away, relieved divers giving thumbs-up near shipwreck, schools of colorful fish returning",
+          "pic": "OF2.4.1.jpg"
+        }
+      ],
+      "url": "?q=QXR8dGhlfGVkZ2V8b2Z8dGhlfGNvcmFsfHJlZWZ8LHx0aGV8c2hhZG93fG9mfGF8Z3JlYXR8d2hpdGV8c2hhcmt8YWxhcm1lZHxkaXZlcnN8LnxJbW1lZGlhdGVseXwsfHRoZXxhY3RpdmF0aW9ufG9mfGVtZXJnZW5jeXxzb25hcnxkZXZpY2VzfHNjYXJlZHxpdHxhd2F5fC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The popularity of the mystery novel inspired the creation of a live escape room.",
+          "prompt": "Library display featuring best-selling book 'The Clockwork Curse' next to vintage keys and maps, excited teenagers signing up on clipboard, steampunk-themed entrance with gears and smoke effects",
+          "pic": "OF2.5.0.jpg"
+        },
+        {
+          "text": "However, the complexity of the puzzles frustrated several participants.",
+          "prompt": "Perplexed students in Victorian costumes staring at wall covered in cryptic symbols, one banging fist on puzzle box while teammate examines magnifying glass, dramatic mood lighting",
+          "pic": "OF2.5.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHBvcHVsYXJpdHl8b2Z8dGhlfG15c3Rlcnl8bm92ZWx8aW5zcGlyZWR8dGhlfGNyZWF0aW9ufG9mfGF8bGl2ZXxlc2NhcGV8cm9vbXwufEhvd2V2ZXJ8LHx0aGV8Y29tcGxleGl0eXxvZnx0aGV8cHV6emxlc3xmcnVzdHJhdGVkfHNldmVyYWx8cGFydGljaXBhbnRzfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The arrival of migratory birds signaled the start of spring.",
+          "prompt": "Flocks of Canada geese forming V-shape over thawing lake, pink cherry blossoms on foreground branches, melting snow patches in grassy field, golden sunrise horizon",
+          "pic": "OF2.6.0.jpg"
+        },
+        {
+          "text": "Thus the biology club began their annual recording of species.",
+          "prompt": "Teenagers in binoculars and field jackets quietly observing through spotting scopes, one sketching warblers in notebook, another adjusting camera with long lens, bird identification charts visible",
+          "pic": "OF2.6.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGFycml2YWx8b2Z8bWlncmF0b3J5fGJpcmRzfHNpZ25hbGVkfHRoZXxzdGFydHxvZnxzcHJpbmd8LnxUaHVzfHRoZXxiaW9sb2d5fGNsdWJ8YmVnYW58dGhlaXJ8YW5udWFsfHJlY29yZGluZ3xvZnxzcGVjaWVzfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The lack of funding threatened the continuation of the robotics competition.",
+          "prompt": "Dejected students sitting beside inactive robot prototypes, empty 'Sponsors Needed' sign on school gym wall, unplugged charging stations, dim fluorescent lighting",
+          "pic": "OF2.7.0.jpg"
+        },
+        {
+          "text": "Thankfully, the generosity of local businesses saved the event.",
+          "prompt": "Cheering crowd at competition arena, corporate logos on banners above battling robots, business owners shaking hands with beaming students, confetti falling under spotlights",
+          "pic": "OF2.7.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGxhY2t8b2Z8ZnVuZGluZ3x0aHJlYXRlbmVkfHRoZXxjb250aW51YXRpb258b2Z8dGhlfHJvYm90aWNzfGNvbXBldGl0aW9ufC58VGhhbmtmdWxseXwsfHRoZXxnZW5lcm9zaXR5fG9mfGxvY2FsfGJ1c2luZXNzZXN8c2F2ZWR8dGhlfGV2ZW50fC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The melting of Arctic ice revealed traces of ancient settlements.",
+          "prompt": "Aerial view of glacial retreat showing dark stone structures emerging from ice, research vessel near icebergs, polar bear on distant floe, midnight sun glow",
+          "pic": "OF2.8.0.jpg"
+        },
+        {
+          "text": "Consequently, the analysis of Viking artifacts revolutionized history class.",
+          "prompt": "High school classroom display case with excavated iron tools and woven textiles, students examining 3D artifact scans on tablets, Viking ship diagram projected on smartboard",
+          "pic": "OF2.8.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfG1lbHRpbmd8b2Z8QXJjdGljfGljZXxyZXZlYWxlZHx0cmFjZXN8b2Z8YW5jaWVudHxzZXR0bGVtZW50c3wufENvbnNlcXVlbnRseXwsfHRoZXxhbmFseXNpc3xvZnxWaWtpbmd8YXJ0aWZhY3RzfHJldm9sdXRpb25pemVkfGhpc3Rvcnl8Y2xhc3N8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The outbreak of the software virus corrupted the school's network.",
+          "prompt": "Computer lab with multiple screens showing 'ACCESS DENIED' in red, frustrated students head-in-hands, IT teacher frowning at scrolling error codes, digital glitch effects overlaying monitors",
+          "pic": "OF2.9.0.jpg"
+        },
+        {
+          "text": "After hours, the restoration of the system required expert assistance.",
+          "prompt": "Female cybersecurity specialist typing rapidly on illuminated keyboard, lines of code reflecting on glasses, students watching relief as green 'SYSTEM SECURED' message appears, server racks blinking",
+          "pic": "OF2.9.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfG91dGJyZWFrfG9mfHRoZXxzb2Z0d2FyZXx2aXJ1c3xjb3JydXB0ZWR8dGhlfHNjaG9vbHwnfHN8bmV0d29ya3wufEFmdGVyfGhvdXJzfCx8dGhlfHJlc3RvcmF0aW9ufG9mfHRoZXxzeXN0ZW18cmVxdWlyZWR8ZXhwZXJ0fGFzc2lzdGFuY2V8Lg%3D%3D"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "group": "WHICH-WHO-THAT",
+  "name": "Usage: \"which\", \"who\", \"that\"",
+  "set": 2,
+  "data": [
+    {
+      "sentences": [
+        {
+          "text": "The scientist who discovered talking plants wears rainbow glasses.",
+          "prompt": "A female scientist in lab coat with vibrant rainbow-tinted glasses, amazed as potted plants form smiling faces. Botanical laboratory background with holographic screens, soft focus, Pixar animation style.",
+          "pic": "WHICH-WHO-THAT2.0.0.jpg"
+        },
+        {
+          "text": "She shows us the leaf that glows in seven colours at night.",
+          "prompt": "Close-up of a bioluminescent leaf emitting rainbow beams in darkness, held by gloved hands. Starry night sky visible through window, neon sap droplets, hyperrealistic macro photography with light trails.",
+          "pic": "WHICH-WHO-THAT2.0.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfHNjaWVudGlzdHx3aG98ZGlzY292ZXJlZHx0YWxraW5nfHBsYW50c3x3ZWFyc3xyYWluYm93fGdsYXNzZXN8LnxTaGV8c2hvd3N8dXN8dGhlfGxlYWZ8dGhhdHxnbG93c3xpbnxzZXZlbnxjb2xvdXJzfGF0fG5pZ2h0fC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "We adopted the puppy that barks musical notes yesterday.",
+          "prompt": "Golden retriever puppy sitting on porch, musical notes ♫ floating from its bark like cartoon bubbles. Adoption papers on table, sunset lighting, watercolor illustration.",
+          "pic": "WHICH-WHO-THAT2.1.0.jpg"
+        },
+        {
+          "text": "Now it's chewing the shoes which play jazz when touched!",
+          "prompt": "Comical scene: puppy gleefully chewing sneakers that emit glowing blue jazz notes ♬. Saxophone shapes form in air, splattered paint effects, 3D cartoon render.",
+          "pic": "WHICH-WHO-THAT2.1.1.jpg"
+        }
+      ],
+      "url": "?q=V2V8YWRvcHRlZHx0aGV8cHVwcHl8dGhhdHxiYXJrc3xtdXNpY2FsfG5vdGVzfHllc3RlcmRheXwufE5vd3xpdHwnfHN8Y2hld2luZ3x0aGV8c2hvZXN8d2hpY2h8cGxheXxqYXp6fHdoZW58dG91Y2hlZHwh"
+    },
+    {
+      "sentences": [
+        {
+          "text": "Grandpa repaired the clock that stops time for five minutes.",
+          "prompt": "Elderly man fixing antique clock with frozen cogs, entire room suspended in mid-air: floating teacup, paused butterfly. Steampunk workshop, cinematic golden hour lighting.",
+          "pic": "WHICH-WHO-THAT2.2.0.jpg"
+        },
+        {
+          "text": "He uses it when the cat who steals socks makes mischief.",
+          "prompt": "Mischievous calico cat frozen mid-jump with stolen polka-dot sock, dust motes hanging motionless. Grandpa winking at viewer, surreal photograph with tilt-shift effect.",
+          "pic": "WHICH-WHO-THAT2.2.1.jpg"
+        }
+      ],
+      "url": "?q=R3JhbmRwYXxyZXBhaXJlZHx0aGV8Y2xvY2t8dGhhdHxzdG9wc3x0aW1lfGZvcnxmaXZlfG1pbnV0ZXN8LnxIZXx1c2VzfGl0fHdoZW58dGhlfGNhdHx3aG98c3RlYWxzfHNvY2tzfG1ha2VzfG1pc2NoaWVmfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "My robot forgot the password that unlocks cloud storage.",
+          "prompt": "Distressed vintage robot scratching head beside computer showing 'ACCESS DENIED', cloud icon flashing red. Metallic kitchen background, retro-futuristic design, cel-shaded animation.",
+          "pic": "WHICH-WHO-THAT2.3.0.jpg"
+        },
+        {
+          "text": "So it's baking cookies which float to the moon instead!",
+          "prompt": "Chocolate chip cookies floating upward from baking tray towards crescent moon, leaving caramel trails. Robot waving goodbye, starry night backdrop, whimsical gouache painting style.",
+          "pic": "WHICH-WHO-THAT2.3.1.jpg"
+        }
+      ],
+      "url": "?q=TXl8cm9ib3R8Zm9yZ290fHRoZXxwYXNzd29yZHx0aGF0fHVubG9ja3N8Y2xvdWR8c3RvcmFnZXwufFNvfGl0fCd8c3xiYWtpbmd8Y29va2llc3x3aGljaHxmbG9hdHx0b3x0aGV8bW9vbnxpbnN0ZWFkfCE%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "We found the cave where fireflies that draw constellations live.",
+          "prompt": "Magical cavern interior: fireflies arranging themselves into Orion shape on mossy walls. Glowing mushrooms, limestone formations, fantasy illustration with luminous effects.",
+          "pic": "WHICH-WHO-THAT2.4.0.jpg"
+        },
+        {
+          "text": "It's hidden behind the waterfall that sings lullabies at dusk.",
+          "prompt": "Twilight scene: majestic waterfall with musical notes ♪ swirling in mist, forming a natural curtain. Hidden cave entrance subtly visible, ethereal digital painting with cool blue tones.",
+          "pic": "WHICH-WHO-THAT2.4.1.jpg"
+        }
+      ],
+      "url": "?q=V2V8Zm91bmR8dGhlfGNhdmV8d2hlcmV8ZmlyZWZsaWVzfHRoYXR8ZHJhd3xjb25zdGVsbGF0aW9uc3xsaXZlfC58SXR8J3xzfGhpZGRlbnxiZWhpbmR8dGhlfHdhdGVyZmFsbHx0aGF0fHNpbmdzfGx1bGxhYmllc3xhdHxkdXNrfC4%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The librarian lends books which change their endings magically.",
+          "prompt": "Kind librarian pushing book cart, novels floating with shimmering rewritten text clouds. Ancient library setting, dust particles in sunbeams, magical realism oil painting.",
+          "pic": "WHICH-WHO-THAT2.5.0.jpg"
+        },
+        {
+          "text": "She recommends the novel that makes readers glow while reading.",
+          "prompt": "Teenager reading under oak tree, skin emitting soft golden light as letters rise from pages. Butterflies attracted to glow, bokeh background, anime-inspired composition.",
+          "pic": "WHICH-WHO-THAT2.5.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGxpYnJhcmlhbnxsZW5kc3xib29rc3x3aGljaHxjaGFuZ2V8dGhlaXJ8ZW5kaW5nc3xtYWdpY2FsbHl8LnxTaGV8cmVjb21tZW5kc3x0aGV8bm92ZWx8dGhhdHxtYWtlc3xyZWFkZXJzfGdsb3d8d2hpbGV8cmVhZGluZ3wu"
+    },
+    {
+      "sentences": [
+        {
+          "text": "Our soccer team needs the shoes that create speed trails.",
+          "prompt": "Football boots emitting electric blue motion blur lines on locker room bench. Team jerseys hanging, chalkboard tactics diagram, dynamic sports photography.",
+          "pic": "WHICH-WHO-THAT2.6.0.jpg"
+        },
+        {
+          "text": "Because we're playing against robots who calculate moves instantly!",
+          "prompt": "Futuristic match: human striker with speed trails vs chrome goalkeeper robot projecting laser prediction grid. Neon stadium at night, sci-fi holographic effects, Unreal Engine render.",
+          "pic": "WHICH-WHO-THAT2.6.1.jpg"
+        }
+      ],
+      "url": "?q=T3VyfHNvY2Nlcnx0ZWFtfG5lZWRzfHRoZXxzaG9lc3x0aGF0fGNyZWF0ZXxzcGVlZHx0cmFpbHN8LnxCZWNhdXNlfHdlfCd8cmV8cGxheWluZ3xhZ2FpbnN0fHJvYm90c3x3aG98Y2FsY3VsYXRlfG1vdmVzfGluc3RhbnRseXwh"
+    },
+    {
+      "sentences": [
+        {
+          "text": "Mom hates the alarm clock which sprays water to wake people.",
+          "prompt": "Comical bedroom scene: angry woman dodging water jet from cartoonish alarm clock with hose nozzle. Rumpled sheets, floating Zzz symbols, Pixar-style 3D animation.",
+          "pic": "WHICH-WHO-THAT2.7.0.jpg"
+        },
+        {
+          "text": "She prefers sunrise lamps that mimic tropical beaches perfectly.",
+          "prompt": "Serene morning: woman relaxing under lamp projecting palm tree shadows and ocean wave patterns. Floating coffee steam, sandy rug texture, warm photorealistic rendering.",
+          "pic": "WHICH-WHO-THAT2.7.1.jpg"
+        }
+      ],
+      "url": "?q=TW9tfGhhdGVzfHRoZXxhbGFybXxjbG9ja3x3aGljaHxzcHJheXN8d2F0ZXJ8dG98d2FrZXxwZW9wbGV8LnxTaGV8cHJlZmVyc3xzdW5yaXNlfGxhbXBzfHRoYXR8bWltaWN8dHJvcGljYWx8YmVhY2hlc3xwZXJmZWN0bHl8Lg%3D%3D"
+    },
+    {
+      "sentences": [
+        {
+          "text": "The artist paints murals that come alive when rained on.",
+          "prompt": "Street artist on scaffold finishing rainbow mural of dormant dolphins. Grey cloudy sky foreshadowing rain, urban alley setting, impressionist brushstrokes.",
+          "pic": "WHICH-WHO-THAT2.8.0.jpg"
+        },
+        {
+          "text": "Today she's drawing dolphins who jump between buildings!",
+          "prompt": "Rainy city scene: painted dolphins leaping across wet skyscrapers leaving water splashes. Umbrellas below reflecting animation, magical realism photograph with motion blur.",
+          "pic": "WHICH-WHO-THAT2.8.1.jpg"
+        }
+      ],
+      "url": "?q=VGhlfGFydGlzdHxwYWludHN8bXVyYWxzfHRoYXR8Y29tZXxhbGl2ZXx3aGVufHJhaW5lZHxvbnwufFRvZGF5fHNoZXwnfHN8ZHJhd2luZ3xkb2xwaGluc3x3aG98anVtcHxiZXR3ZWVufGJ1aWxkaW5nc3wh"
+    },
+    {
+      "sentences": [
+        {
+          "text": "We ride the train that travels through dreams every Friday.",
+          "prompt": "Vintage train floating through surreal landscape: pillow clouds, giant sleeping faces. Starry pajama-patterned sky, Dali-esque perspective, dreamy digital painting.",
+          "pic": "WHICH-WHO-THAT2.9.0.jpg"
+        },
+        {
+          "text": "Last week we met the conductor who collects snores as souvenirs!",
+          "prompt": "Jolly conductor in uniform catching floating Zzz symbols in butterfly net. Display case with labeled snore jars ('Grandpa's Bassoon Snores'), whimsical steampunk illustration.",
+          "pic": "WHICH-WHO-THAT2.9.1.jpg"
+        }
+      ],
+      "url": "?q=V2V8cmlkZXx0aGV8dHJhaW58dGhhdHx0cmF2ZWxzfHRocm91Z2h8ZHJlYW1zfGV2ZXJ5fEZyaWRheXwufExhc3R8d2Vla3x3ZXxtZXR8dGhlfGNvbmR1Y3Rvcnx3aG98Y29sbGVjdHN8c25vcmVzfGFzfHNvdXZlbmlyc3wh"
+    }
+  ]
+}

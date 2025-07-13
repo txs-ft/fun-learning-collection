@@ -1,0 +1,30 @@
+[
+  {
+    "group": "OF",
+    "name": "Usage: \"of\"",
+    "set": 1,
+    "size": 10,
+    "description": "重点使用“of”进行重组句子练习"
+  },
+  {
+    "group": "OF",
+    "name": "Usage: \"of\"",
+    "set": 2,
+    "size": 10,
+    "description": "重点使用“of”进行重组句子练习"
+  },
+  {
+    "group": "WHICH-WHO-THAT",
+    "name": "Usage: \"which\", \"who\", \"that\"",
+    "set": 1,
+    "size": 10,
+    "description": "重点使用“which”、“who”、“that”进行重组句子练习"
+  },
+  {
+    "group": "WHICH-WHO-THAT",
+    "name": "Usage: \"which\", \"who\", \"that\"",
+    "set": 2,
+    "size": 10,
+    "description": "重点使用“which”、“who”、“that”进行重组句子练习"
+  }
+]
